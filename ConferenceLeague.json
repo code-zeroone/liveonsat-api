@@ -1,1363 +1,944 @@
-[
-  {
-    "last_updated": "17:53 30-09-2025"
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Dynamo Kyiv v Crystal Palace",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759423500,
-    "time": "16:45",
-    "date": "2025-10-02",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+{
+    "footonsat": [
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Dynamo Kyiv v Crystal Palace",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Dynamo Kyiv v Crystal Palace",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 1 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Dynamo Kyiv v Crystal Palace",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "RTL+ Deutschland (geo/R) 📺",
-        "link": "https://plus.rtl.de/video-tv/live",
-        "streams": [
-          {
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Dynamo Kyiv v Crystal Palace",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "TNT Sports 3 HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Dynamo Kyiv v Crystal Palace",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Astra 2G",
-            "freq": "11.612 H 22000 - 5/6",
-            "encry": "VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Jagiellonia v Hamrun Spartans",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759423500,
-    "time": "16:45",
-    "date": "2025-10-02",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Jagiellonia v Hamrun Spartans",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Jagiellonia v Hamrun Spartans",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "KuPS Kuopio v Drita",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759423500,
-    "time": "16:45",
-    "date": "2025-10-02",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "KuPS Kuopio v Drita",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "KuPS Kuopio v Drita",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Lausanne Sport v Breidablik",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759423500,
-    "time": "16:45",
-    "date": "2025-10-02",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Lausanne Sport v Breidablik",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Lausanne Sport v Breidablik",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Lech Poznan v Rapid Vienna",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759423500,
-    "time": "16:45",
-    "date": "2025-10-02",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Lech Poznan v Rapid Vienna",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Lech Poznan v Rapid Vienna",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Noah v Rijeka",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759423500,
-    "time": "16:45",
-    "date": "2025-10-02",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Noah v Rijeka",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Noah v Rijeka",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Omonia Nicosia v Mainz 05",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759423500,
-    "time": "16:45",
-    "date": "2025-10-02",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Omonia Nicosia v Mainz 05",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Omonia Nicosia v Mainz 05",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "RTL+ Deutschland (geo/R) 📺",
-        "link": "https://plus.rtl.de/video-tv/live",
-        "streams": [
-          {
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Omonia Nicosia v Mainz 05",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Rayo Vallecano v Shkëndija",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759423500,
-    "time": "16:45",
-    "date": "2025-10-02",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Rayo Vallecano v Shkëndija",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Rayo Vallecano v Shkëndija",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Zrinjski v Lincoln Red Imps",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759423500,
-    "time": "16:45",
-    "date": "2025-10-02",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Zrinjski v Lincoln Red Imps",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Zrinjski v Lincoln Red Imps",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Aberdeen v Shakhtar Donetsk",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759431600,
-    "time": "19:00",
-    "date": "2025-10-02",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Aberdeen v Shakhtar Donetsk",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Aberdeen v Shakhtar Donetsk",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "TNT Sports 4 HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Aberdeen v Shakhtar Donetsk",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Celje v AEK Athens",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759431600,
-    "time": "19:00",
-    "date": "2025-10-02",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Celje v AEK Athens",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Celje v AEK Athens",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Fiorentina v Sigma Olomouc",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759431600,
-    "time": "19:00",
-    "date": "2025-10-02",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Fiorentina v Sigma Olomouc",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Fiorentina v Sigma Olomouc",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Legia Warsaw v Samsunspor",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759431600,
-    "time": "19:00",
-    "date": "2025-10-02",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Legia Warsaw v Samsunspor",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Legia Warsaw v Samsunspor",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "TRT 1 Türkiye HD 📺",
-        "link": "https://www.trtizle.com/canli/tv/trt-1",
-        "streams": [
-          {
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "Legia Warsaw v Samsunspor",
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
-          },
-          {
-            "sat": "Turksat 3A",
-            "freq": "11.096 H 30000 - 5/6",
-            "encry": "Free To Air"
-          },
-          {
-            "sat": "Turksat 4A",
-            "freq": "11.958 V 27500 - 5/6",
-            "encry": "Free To Air"
-          },
-          {
-            "sat": "Turksat 4A",
-            "freq": "11.794 V 30000 - 3/4",
-            "encry": "Free To Air HD"
-          },
-          {
-            "sat": "Turksat 5B",
-            "freq": "11.305 V 30000 - 3/4",
-            "encry": "HD Irdeto"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Raków Czestochowa v Universitatea Craiova",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759431600,
-    "time": "19:00",
-    "date": "2025-10-02",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Raków Czestochowa v Universitatea Craiova",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Raków Czestochowa v Universitatea Craiova",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Shelbourne v BK Häcken",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759431600,
-    "time": "19:00",
-    "date": "2025-10-02",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Shelbourne v BK Häcken",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shelbourne v BK Häcken",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 1 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Shelbourne v BK Häcken",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "TNT Sports 6",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Shelbourne v BK Häcken",
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Slovan Bratislava v Strasbourg",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759431600,
-    "time": "19:00",
-    "date": "2025-10-02",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Slovan Bratislava v Strasbourg",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Slovan Bratislava v Strasbourg",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "Sparta Prague v Shamrock Rovers",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759431600,
-    "time": "19:00",
-    "date": "2025-10-02",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "Sparta Prague v Shamrock Rovers",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Sparta Prague v Shamrock Rovers",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 2 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Sparta Prague v Shamrock Rovers",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 3/4",
             "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "TNT Sports 5 HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Sparta Prague v Shamrock Rovers",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 1",
-    "match": "AEK Larnaca v AZ Alkmaar",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1759431600,
-    "time": "19:00",
-    "date": "2025-10-02",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 1",
+            "match": "AEK Larnaca v AZ Alkmaar",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "AEK Larnaca v AZ Alkmaar",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "AEK Athens v Aberdeen",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761237900,
-    "time": "16:45",
-    "date": "2025-10-23",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "AEK Athens v Aberdeen",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "AEK Athens v Aberdeen",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "TNT Sports 3 HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "AEK Athens v Aberdeen",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Astra 2G",
-            "freq": "11.612 H 22000 - 5/6",
-            "encry": "VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "BK Häcken v Rayo Vallecano",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761237900,
-    "time": "16:45",
-    "date": "2025-10-23",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "BK Häcken v Rayo Vallecano",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "BK Häcken v Rayo Vallecano",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Breidablik v KuPS Kuopio",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761237900,
-    "time": "16:45",
-    "date": "2025-10-23",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Breidablik v KuPS Kuopio",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Breidablik v KuPS Kuopio",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Drita v Omonia Nicosia",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761237900,
-    "time": "16:45",
-    "date": "2025-10-23",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Drita v Omonia Nicosia",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Drita v Omonia Nicosia",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Rapid Vienna v Fiorentina",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761237900,
-    "time": "16:45",
-    "date": "2025-10-23",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Rapid Vienna v Fiorentina",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Rapid Vienna v Fiorentina",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "TNT Sports 10",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "TNT Sports 10",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
             "sat": "Astra 2G",
             "freq": "11.597 V 23000 - 2/3",
             "encry": "VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Rijeka v Sparta Prague",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761237900,
-    "time": "16:45",
-    "date": "2025-10-23",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Rijeka v Sparta Prague",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Rijeka v Sparta Prague",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Shakhtar Donetsk v Legia Warsaw",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761237900,
-    "time": "16:45",
-    "date": "2025-10-23",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Shakhtar Donetsk v Legia Warsaw",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shakhtar Donetsk v Legia Warsaw",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Shkëndija v Shelbourne",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761237900,
-    "time": "16:45",
-    "date": "2025-10-23",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Shkëndija v Shelbourne",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shkëndija v Shelbourne",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 1 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Shkëndija v Shelbourne",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "TNT Sports 5 HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Shkëndija v Shelbourne",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Strasbourg v Jagiellonia",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761237900,
-    "time": "16:45",
-    "date": "2025-10-23",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Strasbourg v Jagiellonia",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Strasbourg v Jagiellonia",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Crystal Palace v AEK Larnaca",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761246000,
-    "time": "19:00",
-    "date": "2025-10-23",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Crystal Palace v AEK Larnaca",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Crystal Palace v AEK Larnaca",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "TNT Sports 3 HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Astra 2G",
-            "freq": "11.612 H 22000 - 5/6",
-            "encry": "VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "AZ Alkmaar v Slovan Bratislava",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761246000,
-    "time": "19:00",
-    "date": "2025-10-23",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "AZ Alkmaar v Slovan Bratislava",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "AZ Alkmaar v Slovan Bratislava",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Hamrun Spartans v Lausanne Sport",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761246000,
-    "time": "19:00",
-    "date": "2025-10-23",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Hamrun Spartans v Lausanne Sport",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Hamrun Spartans v Lausanne Sport",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Lincoln Red Imps v Lech Poznan",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761246000,
-    "time": "19:00",
-    "date": "2025-10-23",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Lincoln Red Imps v Lech Poznan",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Lincoln Red Imps v Lech Poznan",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Mainz 05 v Zrinjski",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761246000,
-    "time": "19:00",
-    "date": "2025-10-23",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Mainz 05 v Zrinjski",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Mainz 05 v Zrinjski",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Samsunspor v Dynamo Kyiv",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761246000,
-    "time": "19:00",
-    "date": "2025-10-23",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Samsunspor v Dynamo Kyiv",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Samsunspor v Dynamo Kyiv",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Shamrock Rovers v Celje",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761246000,
-    "time": "19:00",
-    "date": "2025-10-23",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Shamrock Rovers v Celje",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shamrock Rovers v Celje",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 1 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Shamrock Rovers v Celje",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "TNT Sports 5 HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Shamrock Rovers v Celje",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Sigma Olomouc v Raków Czestochowa",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761246000,
-    "time": "19:00",
-    "date": "2025-10-23",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Sigma Olomouc v Raków Czestochowa",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Sigma Olomouc v Raków Czestochowa",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 2",
-    "match": "Universitatea Craiova v Noah",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1761246000,
-    "time": "19:00",
-    "date": "2025-10-23",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "match": "Universitatea Craiova v Noah",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Universitatea Craiova v Noah",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 3",
-    "match": "AEK Athens v Shamrock Rovers",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1762451100,
-    "time": "17:45",
-    "date": "2025-11-06",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 3",
+            "match": "AEK Athens v Shamrock Rovers",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "17:45",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "AEK Athens v Shamrock Rovers",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 1 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "AEK Athens v Shamrock Rovers",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 3",
-    "match": "Shelbourne v Drita",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1762459200,
-    "time": "20:00",
-    "date": "2025-11-06",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 3",
+            "match": "Shelbourne v Drita",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "20:00",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shelbourne v Drita",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 1 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Shelbourne v Drita",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 4",
-    "match": "AZ Alkmaar v Shelbourne",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1764265500,
-    "time": "17:45",
-    "date": "2025-11-27",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "match": "AZ Alkmaar v Shelbourne",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "17:45",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "AZ Alkmaar v Shelbourne",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 1 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "AZ Alkmaar v Shelbourne",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 4",
-    "match": "Shamrock Rovers v Shakhtar Donetsk",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1764273600,
-    "time": "20:00",
-    "date": "2025-11-27",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "match": "Shamrock Rovers v Shakhtar Donetsk",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "20:00",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shamrock Rovers v Shakhtar Donetsk",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 1 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Shamrock Rovers v Shakhtar Donetsk",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 5",
-    "match": "Breidablik v Shamrock Rovers",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1765475100,
-    "time": "17:45",
-    "date": "2025-12-11",
-    "time_display": "09:45",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "match": "Breidablik v Shamrock Rovers",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Breidablik v Shamrock Rovers",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 1 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Breidablik v Shamrock Rovers",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "UEFA Conference League - Matchday 5",
-    "match": "Shelbourne v Crystal Palace",
-    "flags": {
-      "team1": "england",
-      "team2": "england"
-    },
-    "timestamp": 1765483200,
-    "time": "20:00",
-    "date": "2025-12-11",
-    "time_display": "12:00",
-    "channels": [
-      {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
-        "link": "https://www.discoveryplus.co.uk/olympics/home",
-        "streams": [
-          {
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "match": "Shelbourne v Crystal Palace",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shelbourne v Crystal Palace",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
             "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Premier Sports 1 Ireland HD",
-        "link": "#",
-        "streams": [
-          {
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Shelbourne v Crystal Palace",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
-          }
-        ]
-      }
+        }
     ]
-  }
-]
+}
