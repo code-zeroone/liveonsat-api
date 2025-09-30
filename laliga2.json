@@ -1,40 +1,55 @@
-{
-    "footonsat": [
-        {
-            "compet": "Spanish La Liga 2 - Week 8",
-            "match": "     Ceuta  vs  Eibar     ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "18:30",
-            "date": "2025-10-03"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "match": "     Granada  vs  Las Palmas     ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "18:30",
-            "date": "2025-10-10"
-        },
-        {
-            "channel": "Premier Sports GB Player HD",
+[
+  {
+    "last_updated": "17:36 30-09-2025"
+  },
+  {
+    "competition": "Spanish La Liga 2 - Week 8",
+    "match": "Ceuta v Eibar",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "timestamp": 1759516200,
+    "time": "18:30",
+    "date": "2025-10-03",
+    "time_display": "11:30",
+    "channels": [
+      {
+        "channel": "Premier Sports GB Player HD 📺",
+        "link": "https://www.premiersports.com/fr/live-now-on-demand",
+        "streams": [
+          {
             "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "     Ceuta  vs  Eibar     "
-        },
-        {
-            "channel": "Premier Sports GB Player HD",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "     Granada  vs  Las Palmas     "
-        }
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      }
     ]
-}
+  },
+  {
+    "competition": "Spanish La Liga 2 - Week 9",
+    "match": "Granada v Las Palmas",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "timestamp": 1760121000,
+    "time": "18:30",
+    "date": "2025-10-10",
+    "time_display": "11:30",
+    "channels": [
+      {
+        "channel": "Premier Sports GB Player HD 📺",
+        "link": "https://www.premiersports.com/fr/live-now-on-demand",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  }
+]
