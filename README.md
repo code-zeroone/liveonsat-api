@@ -1,1 +1,2 @@
-# liveonsat-api
+# footonsat-api
+FOOTONSAT-API
