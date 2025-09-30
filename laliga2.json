@@ -1,12 +1,11 @@
 {
     "footonsat": [
         {
-            "compet": "Spanish La Liga 2 - Week 8",
-            "match": "Ceuta v Eibar",
             "flags": {
-                "team1": "england",
-                "team2": "england"
+                "team1": "spain",
+                "team2": "spain"
             },
+            "match": "Ceuta v Eibar",
             "time": "18:30",
             "date": "2025-10-03"
         },
@@ -19,12 +18,11 @@
             "encry": ""
         },
         {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "match": "Granada v Las Palmas",
             "flags": {
-                "team1": "england",
-                "team2": "england"
+                "team1": "spain",
+                "team2": "spain"
             },
+            "match": "Granada v Las Palmas",
             "time": "18:30",
             "date": "2025-10-10"
         },
@@ -36,5 +34,7 @@
             "freq": "0.000 0",
             "encry": ""
         }
-    ]
+    ],
+    "last_updated": "2025-09-30 20:16:15",
+    "total_items": 4
 }
