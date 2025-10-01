@@ -678,6 +678,32 @@
                 "team1": "italy",
                 "team2": "italy"
             },
+            "match": "Lecce v Napoli",
+            "time": "17:30",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Lecce v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Lecce v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie A - Week 9",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
             "match": "Atalanta v AC Milan",
             "time": "19:45",
             "date": "2025-10-28"
@@ -1139,8 +1165,86 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "compet": "Italian Serie A - Week 11",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Pisa v Cremonese",
+            "time": "19:45",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Pisa v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Pisa v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie A - Week 11",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Juventus v Torino",
+            "time": "17:00",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Juventus v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Juventus v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie A - Week 11",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Parma v AC Milan",
+            "time": "19:45",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Parma v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Parma v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         }
     ],
-    "last_updated": "2025-10-01 04:21:25",
-    "total_items": 132
+    "last_updated": "2025-10-01 15:19:19",
+    "total_items": 144
 }

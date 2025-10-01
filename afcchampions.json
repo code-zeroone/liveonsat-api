@@ -1,6 +1,104 @@
 {
     "footonsat": [
         {
+            "compet": "AFC Champions League 2 - Round 2",
+            "flags": {
+                "team1": "singapore",
+                "team2": "malaysia"
+            },
+            "match": "Lion City Sailors v Selangor",
+            "time": "10:00",
+            "date": "2025-10-01"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "link": "#",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "Astra 3C",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Spor Smart 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "Turksat 4A",
+            "freq": "12.245 H 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "link": "#",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "link": "#",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Lion City Sailors v Selangor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "AFC Champions League Elite - Round 2",
             "flags": {
                 "team1": "japan",
@@ -9,6 +107,70 @@
             "match": "Vissel Kobe v Melbourne City",
             "time": "10:00",
             "date": "2025-10-01"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Vissel Kobe v Melbourne City",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Vissel Kobe v Melbourne City",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Vissel Kobe v Melbourne City",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Vissel Kobe v Melbourne City",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Vissel Kobe v Melbourne City",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Vissel Kobe v Melbourne City",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Vissel Kobe v Melbourne City",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "link": "#",
+            "related_to": "Vissel Kobe v Melbourne City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -35,12 +197,28 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SportKlub 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Vissel Kobe v Melbourne City",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Sporty TV Africa",
             "link": "#",
             "related_to": "Vissel Kobe v Melbourne City",
             "sat": "Astra 2F",
             "freq": "12.605 V 30000 - 5/6",
             "encry": "Free To Air"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "link": "#",
+            "related_to": "Vissel Kobe v Melbourne City",
+            "sat": "ABS 2A",
+            "freq": "11.605 V 43200 - 7/8",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -53,17 +231,41 @@
         {
             "compet": "AFC Champions League 2 - Round 2",
             "flags": {
-                "team1": "singapore",
-                "team2": "malaysia"
+                "team1": "thailand",
+                "team2": "indonesia"
             },
-            "match": "Lion City Sailors v Selangor",
-            "time": "10:00",
+            "match": "Bangkok United v Persib Bandung",
+            "time": "12:15",
             "date": "2025-10-01"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Bangkok United v Persib Bandung",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Bangkok United v Persib Bandung",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Bangkok United v Persib Bandung",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "ESPN 1 Nederland HD",
             "link": "#",
-            "related_to": "Lion City Sailors v Selangor",
+            "related_to": "Bangkok United v Persib Bandung",
             "sat": "Astra 3C",
             "freq": "11.739 V 29900 - 3/4",
             "encry": "HD Viaccess"
@@ -71,7 +273,7 @@
         {
             "channel": "Spor Smart 2 Türkiye HD",
             "link": "#",
-            "related_to": "Lion City Sailors v Selangor",
+            "related_to": "Bangkok United v Persib Bandung",
             "sat": "Turksat 4A",
             "freq": "12.245 H 27500 - 5/6",
             "encry": "HD VideoGuard"
@@ -79,15 +281,23 @@
         {
             "channel": "SportKlub 4 Hrvatska",
             "link": "#",
-            "related_to": "Lion City Sailors v Selangor",
+            "related_to": "Bangkok United v Persib Bandung",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
         },
         {
+            "channel": "SportKlub 5 Slovenija",
+            "link": "#",
+            "related_to": "Bangkok United v Persib Bandung",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Lion City Sailors v Selangor",
+            "related_to": "Bangkok United v Persib Bandung",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -101,6 +311,70 @@
             "match": "Shanghai Shenhua v Ulsan Horang-i",
             "time": "12:15",
             "date": "2025-10-01"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Ulsan Horang-i",
+            "sat": "Measat 3b",
+            "freq": "10.892 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Ulsan Horang-i",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Shanghai Shenhua v Ulsan Horang-i",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Ulsan Horang-i",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Ulsan Horang-i",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Ulsan Horang-i",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Shanghai Shenhua v Ulsan Horang-i",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Ulsan Horang-i",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -119,51 +393,25 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Ulsan Horang-i",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Ulsan Horang-i",
+            "sat": "ABS 2A",
+            "freq": "11.605 V 43200 - 7/8",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Shanghai Shenhua v Ulsan Horang-i",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 2",
-            "flags": {
-                "team1": "thailand",
-                "team2": "indonesia"
-            },
-            "match": "Bangkok United v Persib Bandung",
-            "time": "12:15",
-            "date": "2025-10-01"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "link": "#",
-            "related_to": "Bangkok United v Persib Bandung",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "link": "#",
-            "related_to": "Bangkok United v Persib Bandung",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H 27500 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "link": "#",
-            "related_to": "Bangkok United v Persib Bandung",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Bangkok United v Persib Bandung",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -179,6 +427,38 @@
             "date": "2025-10-01"
         },
         {
+            "channel": "Al Kass 5 HD 📺",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "Andijan v Al Ahli",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "link": "#",
+            "related_to": "Andijan v Al Ahli",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Andijan v Al Ahli",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Andijan v Al Ahli",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "ESPN 2 Nederland HD",
             "link": "#",
             "related_to": "Andijan v Al Ahli",
@@ -187,12 +467,36 @@
             "encry": "HD Viaccess"
         },
         {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Andijan v Al Ahli",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "SportKlub 5 Hrvatska",
             "link": "#",
             "related_to": "Andijan v Al Ahli",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "link": "#",
+            "related_to": "Andijan v Al Ahli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "link": "#",
+            "related_to": "Andijan v Al Ahli",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -213,12 +517,68 @@
             "date": "2025-10-01"
         },
         {
+            "channel": "Al Kass 6 HD",
+            "link": "#",
+            "related_to": "Istiqlol v FC Goa",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD Free To Air"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Istiqlol v FC Goa",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Istiqlol v FC Goa",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Futbol TV Tajikistan",
             "link": "#",
             "related_to": "Istiqlol v FC Goa",
             "sat": "ABS 2A",
             "freq": "12.252 H 10000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Istiqlol v FC Goa",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Istiqlol v FC Goa",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "link": "#",
+            "related_to": "Istiqlol v FC Goa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Istiqlol v FC Goa",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -237,6 +597,46 @@
             "match": "Al Wehdat v Al Wasl",
             "time": "16:00",
             "date": "2025-10-01"
+        },
+        {
+            "channel": "Al Kass 5 HD 📺",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "Al Wehdat v Al Wasl",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Al Wehdat v Al Wasl",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Al Wehdat v Al Wasl",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Al Wehdat v Al Wasl",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Al Wehdat v Al Wasl",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -273,6 +673,62 @@
             "date": "2025-10-01"
         },
         {
+            "channel": "Al Kass 6 HD",
+            "link": "#",
+            "related_to": "Esteghlal Tehran v Muharraq",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD Free To Air"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Esteghlal Tehran v Muharraq",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Esteghlal Tehran v Muharraq",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Esteghlal Tehran v Muharraq",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Esteghlal Tehran v Muharraq",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Esteghlal Tehran v Muharraq",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Esteghlal Tehran v Muharraq",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Spor Smart 2 Türkiye HD",
             "link": "#",
             "related_to": "Esteghlal Tehran v Muharraq",
@@ -284,40 +740,6 @@
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Esteghlal Tehran v Muharraq",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 2",
-            "flags": {
-                "team1": "bahrain",
-                "team2": "turkmenistan"
-            },
-            "match": "Al Khalidiya v Arkadag",
-            "time": "18:15",
-            "date": "2025-10-01"
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "link": "#",
-            "related_to": "Al Khalidiya v Arkadag",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H 27500 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "SportKlub HD",
-            "link": "#",
-            "related_to": "Al Khalidiya v Arkadag",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V 30000 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Al Khalidiya v Arkadag",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -333,6 +755,14 @@
             "date": "2025-10-01"
         },
         {
+            "channel": "Al Kass 5 HD 📺",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Arezo TV HD",
             "link": "#",
             "related_to": "Al Zawra'a v Al Nassr",
@@ -341,12 +771,68 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "Astro Arena Bola 2 HD",
+            "link": "#",
+            "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "Measat 3b",
+            "freq": "10.892 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "ESPN 1 Nederland HD",
             "link": "#",
             "related_to": "Al Zawra'a v Al Nassr",
             "sat": "Astra 3C",
             "freq": "11.739 V 29900 - 3/4",
             "encry": "HD Viaccess"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "link": "#",
+            "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "SES 6",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -373,6 +859,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SportKlub 6 Slovenija",
+            "link": "#",
+            "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sporty TV Africa",
             "link": "#",
             "related_to": "Al Zawra'a v Al Nassr",
@@ -381,9 +875,83 @@
             "encry": "Free To Air"
         },
         {
+            "channel": "TV Start Triumph HD",
+            "link": "#",
+            "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Al Zawra'a v Al Nassr",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 2",
+            "flags": {
+                "team1": "bahrain",
+                "team2": "turkmenistan"
+            },
+            "match": "Al Khalidiya v Arkadag",
+            "time": "18:15",
+            "date": "2025-10-01"
+        },
+        {
+            "channel": "Al Kass 6 HD",
+            "link": "#",
+            "related_to": "Al Khalidiya v Arkadag",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD Free To Air"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Al Khalidiya v Arkadag",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "link": "#",
+            "related_to": "Al Khalidiya v Arkadag",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Spor Smart 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Al Khalidiya v Arkadag",
+            "sat": "Turksat 4A",
+            "freq": "12.245 H 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Al Khalidiya v Arkadag",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Al Khalidiya v Arkadag",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Al Khalidiya v Arkadag",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -553,6 +1121,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-01 04:22:47",
-    "total_items": 65
+    "last_updated": "2025-10-01 15:20:41",
+    "total_items": 136
 }
