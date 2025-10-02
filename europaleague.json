@@ -11,6 +11,14 @@
             "date": "2025-10-02"
         },
         {
+            "channel": "Canal+ Live 4 France HD",
+            "link": "#",
+            "related_to": "Celtic v Sporting Braga",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Celtic TV ($/geo/R) 📺",
             "link": "https://www.celticfc.tv/",
             "related_to": "Celtic v Sporting Braga",
@@ -35,11 +43,35 @@
             "encry": ""
         },
         {
+            "channel": "Play Sports 3 Belgium",
+            "link": "#",
+            "related_to": "Celtic v Sporting Braga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Polsat Sport Extra 2 HD",
+            "link": "#",
+            "related_to": "Celtic v Sporting Braga",
+            "sat": "Hotbird 13G",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "link": "#",
             "related_to": "Celtic v Sporting Braga",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport 255 Italia HD",
+            "link": "#",
+            "related_to": "Celtic v Sporting Braga",
+            "sat": "Hotbird 13F",
+            "freq": "12.418 V 29900 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -61,12 +93,52 @@
             "date": "2025-10-02"
         },
         {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cytavision Sports 5 HD",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "Thor 6",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Roma v Lille",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Fast Sports 1 Armenia ($/geo/R) 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": "Roma v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -77,12 +149,92 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "Play Sports 4 Belgium",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Polsat Sport Extra 1 HD",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "Hotbird 13G",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Roma v Lille",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "QazSport HD",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "KazSat 2",
+            "freq": "11.660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "RTBF Tipik Belgique",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "Hotbird 13G",
+            "freq": "11.411 H 27500 - 5/6",
+            "encry": "MPEG-4 Viaccess"
+        },
+        {
             "channel": "RTL+ Deutschland (geo/R) 📺",
             "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "Roma v Lille",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "RTL+ Hungary [online] 📺",
+            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": "Roma v Lille",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 252 Italia HD",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "TNT Sports 4 HD",
@@ -101,6 +253,80 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
+            "channel": "Ziggo Sport 5",
+            "link": "#",
+            "related_to": "Roma v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 2",
+            "flags": {
+                "team1": "romania",
+                "team2": "switzerland"
+            },
+            "match": "FCSB v Young Boys",
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "link": "#",
+            "related_to": "FCSB v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "link": "#",
+            "related_to": "FCSB v Young Boys",
+            "sat": "Thor 5",
+            "freq": "11.862 H 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "FCSB v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "FCSB v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "link": "#",
+            "related_to": "FCSB v Young Boys",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "FCSB v Young Boys",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 2",
             "flags": {
                 "team1": "turkey",
@@ -111,12 +337,60 @@
             "date": "2025-10-02"
         },
         {
+            "channel": "4 Sports HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Arena Sport 3 Srbija HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect Hong Kong 📺",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect Indonesia 📺",
+            "link": "https://connect-id.beinsports.com/id",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Fenerbahçe v Nice",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Philippines 📺",
+            "link": "https://connect-ph.beinsports.com/en",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect Thailand 📺",
+            "link": "https://connect-th.beinsports.com/en",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "beIN Sports MENA 2 HD",
@@ -141,6 +415,22 @@
             "sat": "Eutelsat 36C",
             "freq": "11.785 H 27500 - 3/4",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "DAZN Canada ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN Portugal ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -207,6 +497,70 @@
             "encry": ""
         },
         {
+            "channel": "Disney+ Sverige ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN Mexico",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Ictimai TV HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "M+ Liga de Campeones 5",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Astra 1L",
+            "freq": "10.979 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Okko Sport Russia ($/geo/R)",
             "link": "#",
             "related_to": "Fenerbahçe v Nice",
@@ -223,12 +577,76 @@
             "encry": ""
         },
         {
+            "channel": "Polsat Sport Extra 3 HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Hotbird 13G",
+            "freq": "10.911 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Q Sport League HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "RTL+ Deutschland (geo/R) 📺",
             "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "Fenerbahçe v Nice",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "RTL+ Hungary [online] 📺",
+            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 254 Italia HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Hotbird 13F",
+            "freq": "12.341 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
@@ -271,6 +689,30 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViX TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Nice",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "VOOsport World 2 HD",
             "link": "#",
             "related_to": "Fenerbahçe v Nice",
@@ -279,106 +721,12 @@
             "encry": ""
         },
         {
-            "compet": "UEFA Europa League - Matchday 2",
-            "flags": {
-                "team1": "italy",
-                "team2": "germany"
-            },
-            "match": "Bologna v Freiburg",
-            "time": "16:45",
-            "date": "2025-10-02"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Bologna v Freiburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
+            "channel": "Ziggo Sport 6",
             "link": "#",
-            "related_to": "Bologna v Freiburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R) 📺",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "Bologna v Freiburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 6",
-            "link": "#",
-            "related_to": "Bologna v Freiburg",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "flags": {
-                "team1": "norway",
-                "team2": "holland"
-            },
-            "match": "Brann v Utrecht",
-            "time": "16:45",
-            "date": "2025-10-02"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Brann v Utrecht",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Brann v Utrecht",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Ziggo Sport HD",
-            "link": "#",
-            "related_to": "Brann v Utrecht",
+            "related_to": "Fenerbahçe v Nice",
             "sat": "Astra 3C",
             "freq": "12.129 V 29900 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "flags": {
-                "team1": "romania",
-                "team2": "switzerland"
-            },
-            "match": "FCSB v Young Boys",
-            "time": "16:45",
-            "date": "2025-10-02"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "FCSB v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "FCSB v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "encry": "MPEG-4 Seca"
         },
         {
             "compet": "UEFA Europa League - Matchday 2",
@@ -389,6 +737,30 @@
             "match": "Ludogorets v Real Betis",
             "time": "16:45",
             "date": "2025-10-02"
+        },
+        {
+            "channel": "bTV Action HD",
+            "link": "#",
+            "related_to": "Ludogorets v Real Betis",
+            "sat": "AzerSpace 2",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 5 France HD",
+            "link": "#",
+            "related_to": "Ludogorets v Real Betis",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cytavision Sports 7 HD",
+            "link": "#",
+            "related_to": "Ludogorets v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -417,12 +789,200 @@
         {
             "compet": "UEFA Europa League - Matchday 2",
             "flags": {
+                "team1": "italy",
+                "team2": "germany"
+            },
+            "match": "Bologna v Freiburg",
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Canal+ Live 6 France HD",
+            "link": "#",
+            "related_to": "Bologna v Freiburg",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cytavision Sports 6 HD",
+            "link": "#",
+            "related_to": "Bologna v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Bologna v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Fast Sports 2 Armenia ($/geo/R) 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "Bologna v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Bologna v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Q Sport Arena HD",
+            "link": "#",
+            "related_to": "Bologna v Freiburg",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Bologna v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTL+ Hungary [online] 📺",
+            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": "Bologna v Freiburg",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "link": "#",
+            "related_to": "Bologna v Freiburg",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Arena Italia HD",
+            "link": "#",
+            "related_to": "Bologna v Freiburg",
+            "sat": "Hotbird 13F",
+            "freq": "11.996 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 2 Czechia HD",
+            "link": "#",
+            "related_to": "Bologna v Freiburg",
+            "sat": "Astra 3B",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD CryptoWorks"
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Bologna v Freiburg",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 2",
+            "flags": {
+                "team1": "norway",
+                "team2": "holland"
+            },
+            "match": "Brann v Utrecht",
+            "time": "16:45",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "Canal+ Live 9 France HD",
+            "link": "#",
+            "related_to": "Brann v Utrecht",
+            "sat": "Astra 1N",
+            "freq": "12.207 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Brann v Utrecht",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Brann v Utrecht",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "link": "#",
+            "related_to": "Brann v Utrecht",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Brann v Utrecht",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 2",
+            "flags": {
                 "team1": "greece",
                 "team2": "holland"
             },
             "match": "Panathinaikos v Go Ahead Eagles",
             "time": "16:45",
             "date": "2025-10-02"
+        },
+        {
+            "channel": "Canal+ Live 7 France HD",
+            "link": "#",
+            "related_to": "Panathinaikos v Go Ahead Eagles",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29900 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "link": "#",
+            "related_to": "Panathinaikos v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports 4K UHD",
+            "link": "#",
+            "related_to": "Panathinaikos v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "link": "#",
+            "related_to": "Panathinaikos v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -449,6 +1009,14 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Panathinaikos v Go Ahead Eagles",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 2",
             "flags": {
                 "team1": "czechia",
@@ -457,6 +1025,14 @@
             "match": "Viktoria Plzen v Malmö",
             "time": "16:45",
             "date": "2025-10-02"
+        },
+        {
+            "channel": "Canal+ Live 8 France HD",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Malmö",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -473,6 +1049,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Malmö",
+            "sat": "Astra 3B",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks"
         },
         {
             "compet": "UEFA Europa League - Matchday 2",
@@ -485,6 +1069,30 @@
             "date": "2025-10-02"
         },
         {
+            "channel": "Canal+ Live 5 France HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Midtjylland",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cytavision Sports 7 HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Midtjylland",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "link": "#",
+            "related_to": "Nottingham Forest v Midtjylland",
+            "sat": "Intelsat 10-02",
+            "freq": "12.687 H 27500 - 3/4",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Nottingham Forest v Midtjylland",
@@ -499,6 +1107,54 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Polsat Sport Extra 3 HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Midtjylland",
+            "sat": "Hotbird 13G",
+            "freq": "10.911 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Prima Sport RO 5 HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Midtjylland",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Q Sport Arena HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Midtjylland",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Midtjylland",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport 254 Italia HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Midtjylland",
+            "sat": "Hotbird 13F",
+            "freq": "12.341 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport MIX Italia HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Midtjylland",
+            "sat": "Hotbird 13F",
+            "freq": "11.862 H 29900 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TNT Sports 1 HD",
@@ -517,6 +1173,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Ziggo Sport 6",
+            "link": "#",
+            "related_to": "Nottingham Forest v Midtjylland",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Seca"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 2",
             "flags": {
                 "team1": "austria",
@@ -525,6 +1189,14 @@
             "match": "Sturm Graz v Rangers",
             "time": "19:00",
             "date": "2025-10-02"
+        },
+        {
+            "channel": "Canal+ Live 8 France HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Rangers",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -569,12 +1241,60 @@
             "date": "2025-10-02"
         },
         {
+            "channel": "Cytavision Sports 6 HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "Thor 6",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Feyenoord v Aston Villa",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Fast Sports 2 Armenia ($/geo/R) 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "Jurnal TV Moldova",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -585,12 +1305,84 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "Polsat Sport Extra 1 HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "Hotbird 13G",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Prima Sport RO 4 HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Qazaqstan TV HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "KazSat 2",
+            "freq": "11.495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "RTL+ Deutschland (geo/R) 📺",
             "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "Feyenoord v Aston Villa",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "RTL+ Hungary [online] 📺",
+            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 2 Czechia HD",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "Astra 3B",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD CryptoWorks"
         },
         {
             "channel": "TNT Sports 3 HD",
@@ -609,6 +1401,14 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Feyenoord v Aston Villa",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
             "channel": "Ziggo Sport HD",
             "link": "#",
             "related_to": "Feyenoord v Aston Villa",
@@ -619,12 +1419,134 @@
         {
             "compet": "UEFA Europa League - Matchday 2",
             "flags": {
+                "team1": "spain",
+                "team2": "greece"
+            },
+            "match": "Celta Vigo v PAOK Thessaloniki",
+            "time": "19:00",
+            "date": "2025-10-02"
+        },
+        {
+            "channel": "bTV Action HD",
+            "link": "#",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "AzerSpace 2",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 7 France HD",
+            "link": "#",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29900 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
+            "link": "#",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports 4K UHD",
+            "link": "#",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports PPV 2 HD",
+            "link": "#",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Digi Sport 3 Romania",
+            "link": "#",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "Thor 6",
+            "freq": "11.900 H 28000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "link": "#",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 5",
+            "link": "#",
+            "related_to": "Celta Vigo v PAOK Thessaloniki",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 2",
+            "flags": {
                 "team1": "switzerland",
                 "team2": "germany"
             },
             "match": "Basel v Stuttgart",
             "time": "19:00",
             "date": "2025-10-02"
+        },
+        {
+            "channel": "Canal+ Live 6 France HD",
+            "link": "#",
+            "related_to": "Basel v Stuttgart",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "link": "#",
+            "related_to": "Basel v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -717,40 +1639,6 @@
         {
             "compet": "UEFA Europa League - Matchday 2",
             "flags": {
-                "team1": "spain",
-                "team2": "greece"
-            },
-            "match": "Celta Vigo v PAOK Thessaloniki",
-            "time": "19:00",
-            "date": "2025-10-02"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Celta Vigo v PAOK Thessaloniki",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Celta Vigo v PAOK Thessaloniki",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R) 📺",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "Celta Vigo v PAOK Thessaloniki",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "flags": {
                 "team1": "portugal",
                 "team2": "serbia"
             },
@@ -759,12 +1647,44 @@
             "date": "2025-10-02"
         },
         {
+            "channel": "Canal+ Live 4 France HD",
+            "link": "#",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "FC Porto v Red Star Belgrade",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Fast Sports TV Armenia 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "Eutelsat 70B",
+            "freq": "11.050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "link": "#",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "AzerSpace 2",
+            "freq": "11.475 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -775,12 +1695,60 @@
             "encry": ""
         },
         {
+            "channel": "Polsat Sport Extra 2 HD",
+            "link": "#",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "Hotbird 13G",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "QazSport HD",
+            "link": "#",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "KazSat 2",
+            "freq": "11.660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "RTL+ Deutschland (geo/R) 📺",
             "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "FC Porto v Red Star Belgrade",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "RTL+ Hungary [online] 📺",
+            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "RTS 1 Srbija HD",
+            "link": "#",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "Astra 3B",
+            "freq": "11.914 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Sky Sport 256 Italia HD",
+            "link": "#",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sport TV5 Portugal HD",
@@ -791,12 +1759,28 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SportKlub 1 Slovenija HD",
+            "link": "#",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "TNT Sports 8",
             "link": "#",
             "related_to": "FC Porto v Red Star Belgrade",
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "link": "#",
+            "related_to": "FC Porto v Red Star Belgrade",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Europa League - Matchday 2",
@@ -809,6 +1793,22 @@
             "date": "2025-10-02"
         },
         {
+            "channel": "4 Sports HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Lyon v Salzburg",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Canal+ France HD",
+            "link": "#",
+            "related_to": "Lyon v Salzburg",
+            "sat": "Astra 1N",
+            "freq": "12.728 V 23500 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Lyon v Salzburg",
@@ -825,12 +1825,36 @@
             "encry": ""
         },
         {
+            "channel": "Polsat Sport Extra 4 HD",
+            "link": "#",
+            "related_to": "Lyon v Salzburg",
+            "sat": "Hotbird 13G",
+            "freq": "10.911 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Q Sport League HD",
+            "link": "#",
+            "related_to": "Lyon v Salzburg",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "RTL+ Deutschland (geo/R) 📺",
             "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "Lyon v Salzburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport 255 Italia HD",
+            "link": "#",
+            "related_to": "Lyon v Salzburg",
+            "sat": "Hotbird 13F",
+            "freq": "12.418 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TNT Sports 9",
@@ -851,6 +1875,14 @@
             "date": "2025-10-02"
         },
         {
+            "channel": "Canal+ Live 9 France HD",
+            "link": "#",
+            "related_to": "Maccabi Tel Aviv v Dinamo Zagreb",
+            "sat": "Astra 1N",
+            "freq": "12.207 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Maccabi Tel Aviv v Dinamo Zagreb",
@@ -867,6 +1899,22 @@
             "encry": ""
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Maccabi Tel Aviv v Dinamo Zagreb",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Maccabi Tel Aviv v Dinamo Zagreb",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 2",
             "flags": {
                 "team1": "belgium",
@@ -875,6 +1923,14 @@
             "match": "Racing Genk v Ferencváros",
             "time": "19:00",
             "date": "2025-10-02"
+        },
+        {
+            "channel": "Canal+ Live 10 France HD",
+            "link": "#",
+            "related_to": "Racing Genk v Ferencváros",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -901,38 +1957,28 @@
             "encry": ""
         },
         {
-            "compet": "UEFA Europa League - Matchday 3",
-            "flags": {
-                "team1": "holland",
-                "team2": "england3"
-            },
-            "match": "Go Ahead Eagles v Aston Villa",
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Go Ahead Eagles v Aston Villa",
+            "channel": "Play Sports 4 Belgium",
+            "link": "#",
+            "related_to": "Racing Genk v Ferencváros",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "Paramount+ USA ($/geo/R)",
+            "channel": "RTBF Tipik Belgique",
             "link": "#",
-            "related_to": "Go Ahead Eagles v Aston Villa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "related_to": "Racing Genk v Ferencváros",
+            "sat": "Hotbird 13G",
+            "freq": "11.411 H 27500 - 5/6",
+            "encry": "MPEG-4 Viaccess"
         },
         {
-            "channel": "TNT Sports 1 HD",
+            "channel": "Sport 4 Israel HD",
             "link": "#",
-            "related_to": "Go Ahead Eagles v Aston Villa",
-            "sat": "NSS 12",
-            "freq": "3.798 R 19167 - 3/5",
-            "encry": "Irdeto [c]"
+            "related_to": "Racing Genk v Ferencváros",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 3",
@@ -1077,6 +2123,40 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 3",
+            "flags": {
+                "team1": "holland",
+                "team2": "england3"
+            },
+            "match": "Go Ahead Eagles v Aston Villa",
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Go Ahead Eagles v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Go Ahead Eagles v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Go Ahead Eagles v Aston Villa",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
         },
         {
             "compet": "UEFA Europa League - Matchday 3",
@@ -2465,6 +3545,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-01 15:18:38",
-    "total_items": 290
+    "last_updated": "2025-10-02 04:20:47",
+    "total_items": 425
 }
