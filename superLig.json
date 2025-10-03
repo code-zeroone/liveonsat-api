@@ -115,12 +115,28 @@
             "date": "2025-10-04"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Galatasaray v Besiktas",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Galatasaray v Besiktas",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports France 6 HD max",
+            "link": "#",
+            "related_to": "Galatasaray v Besiktas",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -201,12 +217,28 @@
             "date": "2025-10-05"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Samsunspor v Fenerbahçe",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Samsunspor v Fenerbahçe",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports France 8 HD max",
+            "link": "#",
+            "related_to": "Samsunspor v Fenerbahçe",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -619,6 +651,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-02 15:22:22",
-    "total_items": 70
+    "last_updated": "2025-10-03 04:24:23",
+    "total_items": 74
 }
