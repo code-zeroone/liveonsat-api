@@ -181,6 +181,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Braunschweig v Paderborn",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "German 2. Bundesliga - Week 8",
             "flags": {
                 "team1": "germany",
@@ -205,6 +213,14 @@
             "sat": "Astra 1M",
             "freq": "11.758 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Fortuna Düsseldorf v Nuremberg",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "German Frauen Bundesliga - Week 5",
@@ -299,6 +315,74 @@
             "sat": "Turksat 3A",
             "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "compet": "Türkiye 1. Lig - Week 9",
+            "flags": {
+                "team1": "turkey8",
+                "team2": "turkey"
+            },
+            "match": "Boluspor v Esenler Erokspor",
+            "time": "17:00",
+            "date": "2025-10-03"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Boluspor v Esenler Erokspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye Max 2 HD",
+            "link": "#",
+            "related_to": "Boluspor v Esenler Erokspor",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tabii Spor 6 ($/geo/R)",
+            "link": "#",
+            "related_to": "Boluspor v Esenler Erokspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Türkiye 1. Lig - Week 9",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "match": "Corum FK v Manisa FK",
+            "time": "17:00",
+            "date": "2025-10-03"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Corum FK v Manisa FK",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye Max 1 HD",
+            "link": "#",
+            "related_to": "Corum FK v Manisa FK",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "Corum FK v Manisa FK",
+            "sat": "Turksat 3A",
+            "freq": "11.096 H 30000 - 5/6",
+            "encry": "FTA (BISS)"
         },
         {
             "compet": "Danish A-Liga Women - Week 8",
@@ -521,58 +605,6 @@
             "encry": "LiveOnSat.com"
         },
         {
-            "compet": "Türkiye 1. Lig - Week 9",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "match": "Corum FK v Manisa FK",
-            "time": "17:00",
-            "date": "2025-10-03"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Corum FK v Manisa FK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TRT Spor Türkiye HD 📺",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "Corum FK v Manisa FK",
-            "sat": "Turksat 3A",
-            "freq": "11.096 H 30000 - 5/6",
-            "encry": "FTA (BISS)"
-        },
-        {
-            "compet": "Türkiye 1. Lig - Week 9",
-            "flags": {
-                "team1": "turkey8",
-                "team2": "turkey"
-            },
-            "match": "Boluspor v Esenler Erokspor",
-            "time": "17:00",
-            "date": "2025-10-03"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Boluspor v Esenler Erokspor",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Tabii Spor 6 ($/geo/R)",
-            "link": "#",
-            "related_to": "Boluspor v Esenler Erokspor",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
             "compet": "Dutch Eredivisie - Week 8",
             "flags": {
                 "team1": "holland",
@@ -701,6 +733,14 @@
             "encry": ""
         },
         {
+            "channel": "MBC Action HD",
+            "link": "#",
+            "related_to": "Hoffenheim v FC Cologne",
+            "sat": "Badr 8",
+            "freq": "12.399 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Hoffenheim v FC Cologne",
@@ -739,6 +779,14 @@
             "sat": "Astra 1N",
             "freq": "11.914 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Hoffenheim v FC Cologne",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "YouTube: German Football (geo/R) 📺",
@@ -799,6 +847,48 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "compet": "French Ligue 1 - Week 7",
+            "flags": {
+                "team1": "france50",
+                "team2": "france"
+            },
+            "match": "Paris FC v Lorient",
+            "time": "18:45",
+            "date": "2025-10-03"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Paris FC v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Paris FC v Lorient",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Ligue 1+ ($/geo/R) 📺",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "Paris FC v Lorient",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Paris FC v Lorient",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         },
         {
             "compet": "Irish Premier Division - Week 33",
@@ -969,32 +1059,6 @@
             "encry": ""
         },
         {
-            "compet": "French Ligue 1 - Week 7",
-            "flags": {
-                "team1": "france50",
-                "team2": "france"
-            },
-            "match": "Paris FC v Lorient",
-            "time": "18:45",
-            "date": "2025-10-03"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Paris FC v Lorient",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SuperSport 3 Albania HD",
-            "link": "#",
-            "related_to": "Paris FC v Lorient",
-            "sat": "Eutelsat 16A",
-            "freq": "10.845 H 30000 - 3/5",
-            "encry": "HD Conax"
-        },
-        {
             "compet": "Belgian Pro League - Week 10",
             "flags": {
                 "team1": "belgium",
@@ -1055,6 +1119,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport 1 Czechia HD",
+            "link": "#",
+            "related_to": "Hellas Verona v Sassuolo",
+            "sat": "Astra 3B",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks"
+        },
+        {
             "compet": "English Premier League - Week 7",
             "flags": {
                 "team1": "england",
@@ -1113,6 +1185,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Bournemouth v Fulham",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "link": "#",
             "related_to": "Bournemouth v Fulham",
@@ -1153,6 +1233,30 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Bournemouth v Fulham",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "link": "#",
+            "related_to": "Bournemouth v Fulham",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "link": "#",
+            "related_to": "Bournemouth v Fulham",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
             "link": "https://www.stan.com.au/sport",
             "related_to": "Bournemouth v Fulham",
@@ -1167,6 +1271,22 @@
             "sat": "Eutelsat 16A",
             "freq": "10.845 H 30000 - 3/5",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Bournemouth v Fulham",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Turkmenistan Sport HD 📺",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "Bournemouth v Fulham",
+            "sat": "MonacoSat",
+            "freq": "12.303 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "USA Network HD",
@@ -1225,6 +1345,14 @@
             "sat": "Astra 2F",
             "freq": "12.246 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Wrexham v Birmingham City",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "SuperSport 4 Albania HD",
@@ -1313,6 +1441,24 @@
             "encry": "-"
         },
         {
+            "compet": "Argentinean Primera División - 2nd Phase, Week 11",
+            "flags": {
+                "team1": "argentina2",
+                "team2": "argentina"
+            },
+            "match": "Tigre v Defensa y Justicia",
+            "time": "22:00",
+            "date": "2025-10-03"
+        },
+        {
+            "channel": "Dubai Sports 1 HD 📺",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
+            "related_to": "Tigre v Defensa y Justicia",
+            "sat": "Badr 8",
+            "freq": "12.130 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "FIFA U-20 World Cup - Group A, Round 3",
             "flags": {
                 "team1": "egypt",
@@ -1329,6 +1475,14 @@
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Egypt U-20 v Chile U-20",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "TVP Sport Polska HD",
@@ -1355,8 +1509,16 @@
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "New Zealand U-20 v Japan U-20",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-10-03 04:19:37",
-    "total_items": 159
+    "last_updated": "2025-10-03 15:16:47",
+    "total_items": 179
 }

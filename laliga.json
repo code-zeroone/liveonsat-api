@@ -195,6 +195,14 @@
             "encry": ""
         },
         {
+            "channel": "Tolo TV",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Al Yah 1",
+            "freq": "11.938 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Ziggo Sport HD",
             "link": "#",
             "related_to": "Real Madrid v Villarreal",
@@ -1176,16 +1184,16 @@
             "compet": "Spanish La Liga (Primera) - Week 11",
             "flags": {
                 "team1": "spain",
-                "team2": "spain"
+                "team2": "spain17"
             },
-            "match": "Alavés v Espanyol",
-            "time": "17:00",
-            "date": "2025-11-02"
+            "match": "Getafe v Girona",
+            "time": "20:00",
+            "date": "2025-10-31"
         },
         {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
-            "related_to": "Alavés v Espanyol",
+            "related_to": "Getafe v Girona",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
@@ -1193,7 +1201,33 @@
         {
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Alavés v Espanyol",
+            "related_to": "Getafe v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 11",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Villarreal v Rayo Vallecano",
+            "time": "13:00",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Villarreal v Rayo Vallecano",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Villarreal v Rayo Vallecano",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -1205,8 +1239,8 @@
                 "team2": "spain"
             },
             "match": "Atlético Madrid v Sevilla",
-            "time": "17:00",
-            "date": "2025-11-02"
+            "time": "15:15",
+            "date": "2025-11-01"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -1230,8 +1264,112 @@
                 "team1": "spain",
                 "team2": "spain"
             },
+            "match": "Real Sociedad v Athletic Bilbao",
+            "time": "17:30",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Athletic Bilbao",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Real Sociedad v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 11",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Real Madrid v Valencia",
+            "time": "20:00",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Real Madrid v Valencia",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Real Madrid v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 11",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Levante v Celta Vigo",
+            "time": "13:00",
+            "date": "2025-11-02"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Levante v Celta Vigo",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Levante v Celta Vigo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 11",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Alavés v Espanyol",
+            "time": "15:15",
+            "date": "2025-11-02"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Alavés v Espanyol",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Alavés v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 11",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
             "match": "Barcelona v Elche",
-            "time": "17:00",
+            "time": "17:30",
             "date": "2025-11-02"
         },
         {
@@ -1257,7 +1395,7 @@
                 "team2": "spain"
             },
             "match": "Real Betis v Mallorca",
-            "time": "17:00",
+            "time": "20:00",
             "date": "2025-11-02"
         },
         {
@@ -1272,110 +1410,6 @@
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "Real Betis v Mallorca",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 11",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain17"
-            },
-            "match": "Getafe v Girona",
-            "time": "17:00",
-            "date": "2025-11-02"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Getafe v Girona",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Getafe v Girona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 11",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Levante v Celta Vigo",
-            "time": "17:00",
-            "date": "2025-11-02"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Levante v Celta Vigo",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Levante v Celta Vigo",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 11",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Real Madrid v Valencia",
-            "time": "17:00",
-            "date": "2025-11-02"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Real Madrid v Valencia",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Real Madrid v Valencia",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 11",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Real Sociedad v Athletic Bilbao",
-            "time": "17:00",
-            "date": "2025-11-02"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Real Sociedad v Athletic Bilbao",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Real Sociedad v Athletic Bilbao",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -1387,8 +1421,8 @@
                 "team2": "spain"
             },
             "match": "Real Oviedo v Osasuna",
-            "time": "17:00",
-            "date": "2025-11-02"
+            "time": "20:00",
+            "date": "2025-11-03"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -1402,32 +1436,6 @@
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "Real Oviedo v Osasuna",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 11",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Villarreal v Rayo Vallecano",
-            "time": "17:00",
-            "date": "2025-11-02"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Villarreal v Rayo Vallecano",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Villarreal v Rayo Vallecano",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -1537,6 +1545,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-03 04:22:01",
-    "total_items": 181
+    "last_updated": "2025-10-03 15:19:10",
+    "total_items": 182
 }

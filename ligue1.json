@@ -11,6 +11,22 @@
             "date": "2025-10-03"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Paris FC v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Paris FC v Lorient",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Paris FC v Lorient",
@@ -63,6 +79,14 @@
             "date": "2025-10-04"
         },
         {
+            "channel": "5 PLUS Israel HD",
+            "link": "#",
+            "related_to": "Brest v Nantes",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Brest v Nantes",
@@ -79,6 +103,14 @@
             "match": "Auxerre v Lens",
             "time": "19:05",
             "date": "2025-10-04"
+        },
+        {
+            "channel": "5 PLUS Israel HD",
+            "link": "#",
+            "related_to": "Auxerre v Lens",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -927,6 +959,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-03 04:21:41",
-    "total_items": 105
+    "last_updated": "2025-10-03 15:18:50",
+    "total_items": 109
 }

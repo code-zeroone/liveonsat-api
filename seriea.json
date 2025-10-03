@@ -27,6 +27,40 @@
             "encry": ""
         },
         {
+            "channel": "Sport 1 Czechia HD",
+            "link": "#",
+            "related_to": "Hellas Verona v Sassuolo",
+            "sat": "Astra 3B",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks"
+        },
+        {
+            "compet": "Italian Serie A - Week 6",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Lazio v Torino",
+            "time": "13:00",
+            "date": "2025-10-04"
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "link": "#",
+            "related_to": "Lazio v Torino",
+            "sat": "Astra 3B",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Lazio v Torino",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "Italian Serie A - Week 6",
             "flags": {
                 "team1": "italy",
@@ -51,6 +85,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 1 Germany HD 📺",
+            "link": "https://tv.sport1.de/sport1/",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "Astra 1KR",
+            "freq": "10.803 H 22000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "Italian Serie A - Week 6",
@@ -85,6 +127,14 @@
             "sat": "Hotbird 13F",
             "freq": "12.073 V 29900 - 3/4",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "link": "#",
+            "related_to": "Atalanta v Como",
+            "sat": "Astra 3B",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks"
         },
         {
             "compet": "Italian Serie A - Week 6",
@@ -139,6 +189,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Fiorentina v Roma",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Sporty TV Africa",
             "link": "#",
             "related_to": "Fiorentina v Roma",
@@ -181,6 +239,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Bologna v Pisa",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "Italian Serie A - Week 6",
             "flags": {
                 "team1": "italy",
@@ -205,6 +271,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Napoli v Genoa",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "Italian Serie A - Week 6",
@@ -1375,6 +1449,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-03 04:21:20",
-    "total_items": 159
+    "last_updated": "2025-10-03 15:18:29",
+    "total_items": 168
 }

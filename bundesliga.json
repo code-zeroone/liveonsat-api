@@ -35,6 +35,14 @@
             "encry": ""
         },
         {
+            "channel": "MBC Action HD",
+            "link": "#",
+            "related_to": "Hoffenheim v FC Cologne",
+            "sat": "Badr 8",
+            "freq": "12.399 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Hoffenheim v FC Cologne",
@@ -73,6 +81,14 @@
             "sat": "Astra 1N",
             "freq": "11.914 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Hoffenheim v FC Cologne",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "YouTube: German Football (geo/R) 📺",
@@ -127,6 +143,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Union Berlin",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 6",
             "flags": {
                 "team1": "germany",
@@ -167,6 +191,14 @@
             "sat": "Astra 1N",
             "freq": "11.914 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v RB Leipzig",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -303,6 +335,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Stuttgart v Heidenheim",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 6",
             "flags": {
                 "team1": "germany",
@@ -345,6 +385,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Hamburg v Mainz 05",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 6",
             "flags": {
                 "team1": "germany",
@@ -385,6 +433,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v Freiburg",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "German 1. Bundesliga - Week 7",
@@ -901,6 +957,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-03 04:22:22",
-    "total_items": 106
+    "last_updated": "2025-10-03 15:19:31",
+    "total_items": 113
 }
