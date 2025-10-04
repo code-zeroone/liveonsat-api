@@ -6,43 +6,57 @@
                 "team1": "italy",
                 "team2": "italy"
             },
-            "match": "Hellas Verona v Sassuolo",
-            "time": "18:45",
-            "date": "2025-10-03"
+            "match": "Lazio v Torino",
+            "time": "13:00",
+            "date": "2025-10-04"
         },
         {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Hellas Verona v Sassuolo",
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Lazio v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Lazio v Torino",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
         },
         {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Hellas Verona v Sassuolo",
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Lazio v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Lazio v Torino",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "Sport 1 Czechia HD",
+            "channel": "S Sport 2 Türkiye HD",
             "link": "#",
-            "related_to": "Hellas Verona v Sassuolo",
-            "sat": "Astra 3B",
-            "freq": "12.070 H 27500 - 3/4",
-            "encry": "HD CryptoWorks"
+            "related_to": "Lazio v Torino",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
-            "compet": "Italian Serie A - Week 6",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "match": "Lazio v Torino",
-            "time": "13:00",
-            "date": "2025-10-04"
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Lazio v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Sport 1 Czechia HD",
@@ -59,6 +73,128 @@
             "sat": "Amos 7",
             "freq": "11.030 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "link": "#",
+            "related_to": "Lazio v Torino",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Lazio v Torino",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Lazio v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Lazio v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Lazio v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie A - Week 6",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Parma v Lecce",
+            "time": "13:00",
+            "date": "2025-10-04"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Parma v Lecce",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Parma v Lecce",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Parma v Lecce",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Parma v Lecce",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Parma v Lecce",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "link": "#",
+            "related_to": "Parma v Lecce",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Parma v Lecce",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Parma v Lecce",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Parma v Lecce",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Italian Serie A - Week 6",
@@ -87,12 +223,100 @@
             "encry": ""
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sport 1 Germany HD 📺",
             "link": "https://tv.sport1.de/sport1/",
             "related_to": "Inter Milan v Cremonese",
             "sat": "Astra 1KR",
             "freq": "10.803 H 22000 - 3/4",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "link": "#",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Inter Milan v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Italian Serie A - Week 6",
@@ -121,6 +345,54 @@
             "encry": ""
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Atalanta v Como",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Atalanta v Como",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Atalanta v Como",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Atalanta v Como",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Atalanta v Como",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Atalanta v Como",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sky Sport Calcio HD",
             "link": "#",
             "related_to": "Atalanta v Como",
@@ -135,6 +407,46 @@
             "sat": "Astra 3B",
             "freq": "12.070 H 27500 - 3/4",
             "encry": "HD CryptoWorks"
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "link": "#",
+            "related_to": "Atalanta v Como",
+            "sat": "Turksat 4A",
+            "freq": "11.853 H 25000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Atalanta v Como",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Atalanta v Como",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Atalanta v Como",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Atalanta v Como",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Italian Serie A - Week 6",
@@ -157,6 +469,94 @@
         {
             "channel": "DAZN Ireland ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Udinese v Cagliari",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Udinese v Cagliari",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Udinese v Cagliari",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Udinese v Cagliari",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Udinese v Cagliari",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Udinese v Cagliari",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Udinese v Cagliari",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "link": "#",
+            "related_to": "Udinese v Cagliari",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Udinese v Cagliari",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Udinese v Cagliari",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Udinese v Cagliari",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
             "related_to": "Udinese v Cagliari",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -189,6 +589,54 @@
             "encry": ""
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Fiorentina v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Fiorentina v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Fiorentina v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Fiorentina v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Fiorentina v Roma",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Fiorentina v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sport 3 Israel HD",
             "link": "#",
             "related_to": "Fiorentina v Roma",
@@ -205,12 +653,52 @@
             "encry": "Free To Air"
         },
         {
+            "channel": "Tivibu Spor 1 HD",
+            "link": "#",
+            "related_to": "Fiorentina v Roma",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "TNT Sports 3 HD",
             "link": "#",
             "related_to": "Fiorentina v Roma",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Fiorentina v Roma",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Fiorentina v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Fiorentina v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Fiorentina v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Italian Serie A - Week 6",
@@ -239,12 +727,92 @@
             "encry": ""
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Bologna v Pisa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Bologna v Pisa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Bologna v Pisa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Bologna v Pisa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Bologna v Pisa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sport 3 Israel HD",
             "link": "#",
             "related_to": "Bologna v Pisa",
             "sat": "Amos 3",
             "freq": "10.806 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Tivibu Spor 3 HD",
+            "link": "#",
+            "related_to": "Bologna v Pisa",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "link": "#",
+            "related_to": "Bologna v Pisa",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Bologna v Pisa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Bologna v Pisa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Bologna v Pisa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Italian Serie A - Week 6",
@@ -273,12 +841,100 @@
             "encry": ""
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Napoli v Genoa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Napoli v Genoa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Napoli v Genoa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Napoli v Genoa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Napoli v Genoa",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Napoli v Genoa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sport 3 Israel HD",
             "link": "#",
             "related_to": "Napoli v Genoa",
             "sat": "Amos 3",
             "freq": "10.806 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "link": "#",
+            "related_to": "Napoli v Genoa",
+            "sat": "Turksat 4A",
+            "freq": "11.853 H 25000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Napoli v Genoa",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Napoli v Genoa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Napoli v Genoa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Napoli v Genoa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Italian Serie A - Week 6",
@@ -307,12 +963,264 @@
             "encry": ""
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Juventus v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Juventus v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Juventus v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Juventus v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Juventus v AC Milan",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Juventus v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "link": "#",
+            "related_to": "Juventus v AC Milan",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Juventus v AC Milan",
             "sat": "NSS 12",
             "freq": "3.798 R 19167 - 3/5",
             "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Juventus v AC Milan",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Juventus v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Juventus v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Juventus v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie A - Week 7",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Lecce v Sassuolo",
+            "time": "13:00",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Lecce v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Lecce v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Lecce v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Lecce v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Lecce v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Lecce v Sassuolo",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Lecce v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Lecce v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Lecce v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie A - Week 7",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Pisa v Hellas Verona",
+            "time": "13:00",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Pisa v Hellas Verona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Pisa v Hellas Verona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Pisa v Hellas Verona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Pisa v Hellas Verona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Pisa v Hellas Verona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "link": "#",
+            "related_to": "Pisa v Hellas Verona",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Pisa v Hellas Verona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Pisa v Hellas Verona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Pisa v Hellas Verona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Italian Serie A - Week 7",
@@ -335,6 +1243,78 @@
         {
             "channel": "DAZN Ireland ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Torino v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Torino v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Torino v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Torino v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Torino v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Torino v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Torino v Napoli",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Torino v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Torino v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
             "related_to": "Torino v Napoli",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -367,12 +1347,84 @@
             "encry": ""
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Roma v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Roma v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Roma v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Roma v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Roma v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Roma v Inter Milan",
             "sat": "NSS 12",
             "freq": "3.798 R 19167 - 3/5",
             "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Roma v Inter Milan",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Roma v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Roma v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Roma v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Italian Serie A - Week 7",
@@ -395,6 +1447,78 @@
         {
             "channel": "DAZN Ireland ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Como v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Como v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Como v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Como v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Como v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Como v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Como v Juventus",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Como v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Como v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
             "related_to": "Como v Juventus",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -427,6 +1551,78 @@
             "encry": ""
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Cagliari v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Cagliari v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Cagliari v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Cagliari v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Cagliari v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Cagliari v Bologna",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Cagliari v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Cagliari v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Cagliari v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Italian Serie A - Week 7",
             "flags": {
                 "team1": "italy",
@@ -447,6 +1643,78 @@
         {
             "channel": "DAZN Ireland ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Genoa v Parma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Genoa v Parma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Genoa v Parma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Genoa v Parma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Genoa v Parma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Genoa v Parma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "link": "#",
+            "related_to": "Genoa v Parma",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Genoa v Parma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Genoa v Parma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
             "related_to": "Genoa v Parma",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -479,6 +1747,78 @@
             "encry": ""
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Atalanta v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Atalanta v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Atalanta v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Atalanta v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Atalanta v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Atalanta v Lazio",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Atalanta v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Atalanta v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Atalanta v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Italian Serie A - Week 7",
             "flags": {
                 "team1": "italy",
@@ -505,12 +1845,84 @@
             "encry": ""
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "AC Milan v Fiorentina",
             "sat": "NSS 12",
             "freq": "3.798 R 19167 - 3/5",
             "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Italian Serie A - Week 7",
@@ -533,6 +1945,78 @@
         {
             "channel": "DAZN Ireland ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Cremonese v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Cremonese v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Cremonese v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Cremonese v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Cremonese v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Cremonese v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Cremonese v Udinese",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Cremonese v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Cremonese v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
             "related_to": "Cremonese v Udinese",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -1449,6 +2933,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-03 15:18:29",
-    "total_items": 168
+    "last_updated": "2025-10-04 04:20:46",
+    "total_items": 353
 }

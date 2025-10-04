@@ -6,107 +6,17 @@
                 "team1": "germany",
                 "team2": "germany"
             },
-            "match": "Hoffenheim v FC Cologne",
-            "time": "18:30",
-            "date": "2025-10-03"
-        },
-        {
-            "channel": "BBC iPlayer (geo/R) 📺",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "BBC iPlayer 4K (geo/R) 📺",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "BBC Sport Website (geo/R) 📺",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MBC Action HD",
-            "link": "#",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "Badr 8",
-            "freq": "12.399 V 27500 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "link": "#",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "Astra 1N",
-            "freq": "11.914 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "link": "#",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "Astra 1N",
-            "freq": "12.304 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "link": "#",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "Astra 1M",
-            "freq": "11.798 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "link": "#",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "Astra 1N",
-            "freq": "11.914 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sport 1 Israel HD",
-            "link": "#",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "Amos 7",
-            "freq": "11.474 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "YouTube: German Football (geo/R) 📺",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": "Hoffenheim v FC Cologne",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 6",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
             "match": "Augsburg v Wolfsburg",
             "time": "13:30",
             "date": "2025-10-04"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Augsburg v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Sky Sport Bundesliga 4 HD",
@@ -117,6 +27,46 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Augsburg v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Augsburg v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Augsburg v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Augsburg v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Augsburg v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 6",
             "flags": {
                 "team1": "germany",
@@ -125,6 +75,14 @@
             "match": "Bayer Leverkusen v Union Berlin",
             "time": "13:30",
             "date": "2025-10-04"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Union Berlin",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
@@ -151,6 +109,46 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Union Berlin",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Union Berlin",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Union Berlin",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Union Berlin",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Union Berlin",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 6",
             "flags": {
                 "team1": "germany",
@@ -159,6 +157,14 @@
             "match": "Borussia Dortmund v RB Leipzig",
             "time": "13:30",
             "date": "2025-10-04"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Borussia Dortmund v RB Leipzig",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Sky Sport Bundesliga 1 HD",
@@ -201,6 +207,46 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v RB Leipzig",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v RB Leipzig",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v RB Leipzig",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v RB Leipzig",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v RB Leipzig",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 6",
             "flags": {
                 "team1": "germany",
@@ -209,6 +255,14 @@
             "match": "Werder Bremen v St Pauli",
             "time": "13:30",
             "date": "2025-10-04"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Werder Bremen v St Pauli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
@@ -227,6 +281,46 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Werder Bremen v St Pauli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Werder Bremen v St Pauli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Werder Bremen v St Pauli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Werder Bremen v St Pauli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Werder Bremen v St Pauli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 6",
             "flags": {
                 "team1": "germany",
@@ -243,6 +337,14 @@
             "sat": "AzerSpace 2",
             "freq": "12.610 H 12500 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
@@ -293,6 +395,46 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 6",
             "flags": {
                 "team1": "germany",
@@ -304,6 +446,14 @@
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Stuttgart v Heidenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Stuttgart v Heidenheim",
             "sat": "* IPTV/Stream",
@@ -341,6 +491,46 @@
             "sat": "Amos 7",
             "freq": "11.030 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Stuttgart v Heidenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Stuttgart v Heidenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Stuttgart v Heidenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Stuttgart v Heidenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Stuttgart v Heidenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -361,6 +551,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Hamburg v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Hamburg v Mainz 05",
@@ -393,6 +591,46 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Hamburg v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Hamburg v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Hamburg v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Hamburg v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Hamburg v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 6",
             "flags": {
                 "team1": "germany",
@@ -404,6 +642,14 @@
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Mönchengladbach v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Mönchengladbach v Freiburg",
             "sat": "* IPTV/Stream",
@@ -441,6 +687,46 @@
             "sat": "Amos 7",
             "freq": "11.474 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "German 1. Bundesliga - Week 7",
@@ -477,6 +763,14 @@
             "encry": ""
         },
         {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Union Berlin v Mönchengladbach",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Union Berlin v Mönchengladbach",
@@ -517,12 +811,342 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Union Berlin v Mönchengladbach",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Union Berlin v Mönchengladbach",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Union Berlin v Mönchengladbach",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Union Berlin v Mönchengladbach",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Union Berlin v Mönchengladbach",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "YouTube: German Football (geo/R) 📺",
             "link": "https://www.youtube.com/@GermanFootball/streams",
             "related_to": "Union Berlin v Mönchengladbach",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 7",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "match": "FC Cologne v Augsburg",
+            "time": "13:30",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "FC Cologne v Augsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "FC Cologne v Augsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "FC Cologne v Augsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "FC Cologne v Augsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "FC Cologne v Augsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "FC Cologne v Augsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 7",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "match": "Heidenheim v Werder Bremen",
+            "time": "13:30",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Heidenheim v Werder Bremen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Heidenheim v Werder Bremen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Heidenheim v Werder Bremen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Heidenheim v Werder Bremen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Heidenheim v Werder Bremen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Heidenheim v Werder Bremen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 7",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "match": "Mainz 05 v Bayer Leverkusen",
+            "time": "13:30",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Mainz 05 v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 7",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "match": "RB Leipzig v Hamburg",
+            "time": "13:30",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "RB Leipzig v Hamburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "RB Leipzig v Hamburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "RB Leipzig v Hamburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "RB Leipzig v Hamburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "RB Leipzig v Hamburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "RB Leipzig v Hamburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 7",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "match": "Wolfsburg v Stuttgart",
+            "time": "13:30",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Wolfsburg v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "German 1. Bundesliga - Week 7",
@@ -537,6 +1161,38 @@
         {
             "channel": "DAZN Ireland ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN Deportes",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ESPN USA",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R) 📺",
+            "link": "https://www.fubosportsnetwork.com/",
             "related_to": "Bayern Munich v Borussia Dortmund",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -567,6 +1223,46 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 7",
             "flags": {
                 "team1": "germany",
@@ -575,6 +1271,14 @@
             "match": "Freiburg v Eintracht Frankfurt",
             "time": "13:30",
             "date": "2025-10-19"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Freiburg v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
@@ -591,6 +1295,46 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Freiburg v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Freiburg v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Freiburg v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Freiburg v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Freiburg v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "German 1. Bundesliga - Week 7",
@@ -603,6 +1347,14 @@
             "date": "2025-10-19"
         },
         {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "St Pauli v Hoffenheim",
@@ -617,6 +1369,46 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -957,6 +1749,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-03 15:19:31",
-    "total_items": 113
+    "last_updated": "2025-10-04 04:21:48",
+    "total_items": 211
 }

@@ -3,48 +3,6 @@
         {
             "compet": "French Ligue 1 - Week 7",
             "flags": {
-                "team1": "france50",
-                "team2": "france"
-            },
-            "match": "Paris FC v Lorient",
-            "time": "18:45",
-            "date": "2025-10-03"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Paris FC v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 4 HD",
-            "link": "#",
-            "related_to": "Paris FC v Lorient",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Paris FC v Lorient",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SuperSport 3 Albania HD",
-            "link": "#",
-            "related_to": "Paris FC v Lorient",
-            "sat": "Eutelsat 16A",
-            "freq": "10.845 H 30000 - 3/5",
-            "encry": "HD Conax"
-        },
-        {
-            "compet": "French Ligue 1 - Week 7",
-            "flags": {
                 "team1": "france",
                 "team2": "france"
             },
@@ -61,12 +19,44 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Metz v Marseille",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Metz v Marseille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "link": "#",
             "related_to": "Metz v Marseille",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Metz v Marseille",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Metz v Marseille",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "French Ligue 1 - Week 7",
@@ -85,6 +75,46 @@
             "sat": "Amos 3",
             "freq": "10.806 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "link": "https://connect.bein.com/",
+            "related_to": "Brest v Nantes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Brest v Nantes",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Brest v Nantes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Brest v Nantes",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Brest v Nantes",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -111,6 +141,38 @@
             "sat": "Amos 3",
             "freq": "10.806 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Auxerre v Lens",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Auxerre v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Auxerre v Lens",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Auxerre v Lens",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -171,6 +233,14 @@
             "date": "2025-10-05"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Lyon v Toulouse",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Lyon v Toulouse",
@@ -197,6 +267,14 @@
             "date": "2025-10-05"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Le Havre v Rennes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Ligue 1+ 5 ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Le Havre v Rennes",
@@ -213,6 +291,14 @@
             "match": "Monaco v Nice",
             "time": "15:15",
             "date": "2025-10-05"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Monaco v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Ligue 1+ 4 ($/geo/R) 📺",
@@ -241,6 +327,14 @@
             "date": "2025-10-05"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Strasbourg v Angers",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Ligue 1+ 6 ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Strasbourg v Angers",
@@ -257,6 +351,22 @@
             "match": "Lille v Paris St Germain",
             "time": "18:45",
             "date": "2025-10-05"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Lille v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Lille v Paris St Germain",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -959,6 +1069,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-03 15:18:50",
-    "total_items": 109
+    "last_updated": "2025-10-04 04:21:07",
+    "total_items": 123
 }
