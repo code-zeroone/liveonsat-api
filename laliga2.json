@@ -11,12 +11,28 @@
             "date": "2025-10-04"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Deportivo La Coruña v Almería",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Deportivo La Coruña v Almería",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 10 HD max",
+            "link": "#",
+            "related_to": "Deportivo La Coruña v Almería",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports MENA 5 HD",
@@ -616,24 +632,6 @@
                 "team1": "spain",
                 "team2": "spain"
             },
-            "match": "Real Sociedad II v Andorra",
-            "time": "15:00",
-            "date": "2025-10-12"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Real Sociedad II v Andorra",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
             "match": "Cádiz v Huesca",
             "time": "16:30",
             "date": "2025-10-12"
@@ -743,6 +741,14 @@
             "encry": ""
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "link": "#",
+            "related_to": "Andorra v Granada",
+            "sat": "Astra 1M",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 10",
             "flags": {
                 "team1": "spain",
@@ -759,6 +765,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "link": "#",
+            "related_to": "Ceuta v Mirandés",
+            "sat": "Astra 1M",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "NagraVision"
         },
         {
             "compet": "Spanish La Liga 2 - Week 10",
@@ -811,6 +825,14 @@
             "encry": ""
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "link": "#",
+            "related_to": "Real Zaragoza v Cultural Leonesa",
+            "sat": "Astra 1M",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "TEN TV España HD",
             "link": "#",
             "related_to": "Real Zaragoza v Cultural Leonesa",
@@ -837,6 +859,14 @@
             "encry": ""
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "link": "#",
+            "related_to": "Real Sociedad II v Huesca",
+            "sat": "Astra 1M",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 10",
             "flags": {
                 "team1": "spain",
@@ -853,6 +883,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "link": "#",
+            "related_to": "Leganés v Málaga",
+            "sat": "Astra 1M",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "NagraVision"
         },
         {
             "channel": "Orange Fútbol 2 HD",
@@ -969,6 +1007,14 @@
             "encry": ""
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "link": "#",
+            "related_to": "Las Palmas v Eibar",
+            "sat": "Astra 1M",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 10",
             "flags": {
                 "team1": "spain",
@@ -985,8 +1031,16 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "link": "#",
+            "related_to": "Cádiz v Burgos",
+            "sat": "Astra 1M",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-10-04 04:24:51",
-    "total_items": 115
+    "last_updated": "2025-10-04 15:19:55",
+    "total_items": 122
 }

@@ -27,6 +27,38 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Oviedo v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Oviedo v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Oviedo v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Real Oviedo v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Real Oviedo v Levante",
@@ -37,6 +69,14 @@
         {
             "channel": "LaLiga TV UK [stream] ($/geo/R)",
             "link": "#",
+            "related_to": "Real Oviedo v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
             "related_to": "Real Oviedo v Levante",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -59,6 +99,38 @@
             "encry": ""
         },
         {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Real Oviedo v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Real Oviedo v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Real Oviedo v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Real Oviedo v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 8",
             "flags": {
                 "team1": "spain17",
@@ -69,6 +141,22 @@
             "date": "2025-10-04"
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Girona v Valencia",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Girona v Valencia",
@@ -77,12 +165,76 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports France 4 HD max",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Sports MENA 3 HD",
             "link": "#",
             "related_to": "Girona v Valencia",
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/0",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "Astra 1KR",
+            "freq": "11.127 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -99,6 +251,94 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "AzerSpace 2",
+            "freq": "11.475 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "Thor 6",
+            "freq": "11.385 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "Thor 6",
+            "freq": "10.934 H 25000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Girona v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Ziggo Sport HD",
@@ -119,6 +359,22 @@
             "date": "2025-10-04"
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Athletic Bilbao v Mallorca",
@@ -127,12 +383,60 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports France 4 HD max",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Sports MENA 3 HD",
             "link": "#",
             "related_to": "Athletic Bilbao v Mallorca",
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/0",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -151,12 +455,116 @@
             "encry": ""
         },
         {
+            "channel": "M+ LaLiga HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "Astra 1M",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "AzerSpace 2",
+            "freq": "11.475 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "Thor 7",
+            "freq": "12.476 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "Athletic Bilbao v Mallorca",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Sport Dansk HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "Thor 6",
+            "freq": "11.305 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "Thor 6",
+            "freq": "11.385 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "Thor 6",
+            "freq": "10.934 H 25000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Ziggo Sport HD",
@@ -177,12 +585,44 @@
             "date": "2025-10-04"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Astra 3C",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Real Madrid v Villarreal",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD Viaccess"
         },
         {
             "channel": "beIN Sports MENA 1 HD",
@@ -201,12 +641,100 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "DAZN 1 Italia HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/0",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Astra 1KR",
+            "freq": "11.127 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Disney+ UK ($/geo/R)",
             "link": "#",
             "related_to": "Real Madrid v Villarreal",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Fast Sports TV Armenia 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Eutelsat 70B",
+            "freq": "11.050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -217,12 +745,84 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "AzerSpace 2",
+            "freq": "11.475 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Thor 7",
+            "freq": "12.476 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "Real Madrid v Villarreal",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Intelsat 20",
+            "freq": "11.594 V 27500 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "channel": "Tolo TV",
@@ -233,12 +833,92 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "Turkmenistan Sport HD 📺",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "MonacoSat",
+            "freq": "12.303 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Thor 6",
+            "freq": "11.385 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Thor 6",
+            "freq": "10.716 H 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "Thor 6",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Ziggo Sport HD",
             "link": "#",
             "related_to": "Real Madrid v Villarreal",
             "sat": "Astra 3C",
             "freq": "12.129 V 29900 - 3/4",
             "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Real Madrid v Villarreal",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 8",
@@ -251,6 +931,78 @@
             "date": "2025-10-05"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "Astra 3C",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "Astra 1KR",
+            "freq": "11.127 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Alavés v Elche",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Alavés v Elche",
@@ -261,6 +1013,14 @@
         {
             "channel": "LaLiga TV UK [stream] ($/geo/R)",
             "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
             "related_to": "Alavés v Elche",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -275,6 +1035,14 @@
             "encry": "MPEG-4 Conax"
         },
         {
+            "channel": "Nova Sports 1 Hellas HD",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Premier Sports 2 Ireland HD",
             "link": "#",
             "related_to": "Alavés v Elche",
@@ -297,6 +1065,46 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Alavés v Elche",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Alavés v Elche",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Alavés v Elche",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Alavés v Elche",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 8",
@@ -309,6 +1117,70 @@
             "date": "2025-10-05"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "Astra 3C",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Sevilla v Barcelona",
@@ -319,6 +1191,22 @@
         {
             "channel": "LaLiga TV UK [stream] ($/geo/R)",
             "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "Astra 1M",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
             "related_to": "Sevilla v Barcelona",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -347,6 +1235,54 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "Intelsat 20",
+            "freq": "11.594 V 27500 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Sevilla v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 8",
@@ -359,6 +1295,62 @@
             "date": "2025-10-05"
         },
         {
+            "channel": "DAZN 1 Portugal HD",
+            "link": "#",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "link": "#",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "Astra 1KR",
+            "freq": "11.127 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Espanyol v Real Betis",
@@ -369,6 +1361,14 @@
         {
             "channel": "LaLiga TV UK [stream] ($/geo/R)",
             "link": "#",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
             "related_to": "Espanyol v Real Betis",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -397,6 +1397,54 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "link": "#",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "Intelsat 20",
+            "freq": "11.594 V 27500 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Espanyol v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 8",
@@ -409,12 +1457,92 @@
             "date": "2025-10-05"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "Astra 3C",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Real Sociedad v Rayo Vallecano",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "Astra 1M",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Premier Sports GB Player HD 📺",
@@ -425,6 +1553,38 @@
             "encry": ""
         },
         {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 8",
             "flags": {
                 "team1": "spain",
@@ -433,6 +1593,62 @@
             "match": "Celta Vigo v Atlético Madrid",
             "time": "19:00",
             "date": "2025-10-05"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -449,6 +1665,38 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "Astra 1M",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Premier Sports 2 Ireland HD",
@@ -475,6 +1723,46 @@
             "encry": ""
         },
         {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 9",
             "flags": {
                 "team1": "spain",
@@ -485,6 +1773,14 @@
             "date": "2025-10-17"
         },
         {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN España HD FTA (geo)",
             "link": "#",
             "related_to": "Real Oviedo v Espanyol",
@@ -493,12 +1789,68 @@
             "encry": "Free To Air"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Real Oviedo v Espanyol",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "link": "#",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "Astra 1M",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -523,6 +1875,38 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Real Oviedo v Espanyol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 9",
@@ -535,12 +1919,68 @@
             "date": "2025-10-18"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Sevilla v Mallorca",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "link": "#",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "Astra 1M",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Premier Sports 1 UK HD",
@@ -557,6 +1997,38 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Sevilla v Mallorca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 9",
@@ -569,12 +2041,100 @@
             "date": "2025-10-18"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Barcelona v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "link": "#",
+            "related_to": "Barcelona v Girona",
+            "sat": "Astra 1KR",
+            "freq": "11.127 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Barcelona v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Barcelona v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Barcelona v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Barcelona v Girona",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Barcelona v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Barcelona v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Barcelona v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Barcelona v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Barcelona v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Barcelona v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 9",
@@ -587,6 +2147,38 @@
             "date": "2025-10-18"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Villarreal v Real Betis",
@@ -595,12 +2187,68 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "link": "#",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "Astra 1M",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "Villarreal v Real Betis",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Villarreal v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 9",
@@ -613,8 +2261,48 @@
             "date": "2025-10-18"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "link": "#",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "Astra 1KR",
+            "freq": "11.127 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Disney+ UK ($/geo/R)",
             "link": "#",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
             "related_to": "Atlético Madrid v Osasuna",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -629,12 +2317,60 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "Atlético Madrid v Osasuna",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 9",
@@ -647,12 +2383,60 @@
             "date": "2025-10-19"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Elche v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Elche v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Elche v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Elche v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Elche v Athletic Bilbao",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Elche v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Elche v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -677,6 +2461,38 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Elche v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Elche v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Elche v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Elche v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 9",
@@ -689,12 +2505,68 @@
             "date": "2025-10-19"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Celta Vigo v Real Sociedad",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "Astra 1M",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -719,6 +2591,46 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 9",
@@ -731,12 +2643,68 @@
             "date": "2025-10-19"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "link": "#",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "Astra 1KR",
+            "freq": "11.127 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Levante v Rayo Vallecano",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -761,6 +2729,38 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Levante v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 9",
@@ -773,12 +2773,76 @@
             "date": "2025-10-19"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Getafe v Real Madrid",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "link": "#",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "Astra 1M",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "link": "#",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -803,6 +2867,38 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 9",
@@ -815,12 +2911,68 @@
             "date": "2025-10-20"
         },
         {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Alavés v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "link": "#",
+            "related_to": "Alavés v Valencia",
+            "sat": "Astra 1KR",
+            "freq": "11.127 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN USA en Español ($/geo/R)",
+            "link": "#",
+            "related_to": "Alavés v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Alavés v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Alavés v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Alavés v Valencia",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV UK [stream] ($/geo/R)",
+            "link": "#",
+            "related_to": "Alavés v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Alavés v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -847,6 +2999,38 @@
             "encry": ""
         },
         {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Alavés v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Alavés v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Alavés v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Alavés v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 10",
             "flags": {
                 "team1": "spain",
@@ -855,6 +3039,14 @@
             "match": "Real Sociedad v Sevilla",
             "time": "19:00",
             "date": "2025-10-24"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Sevilla",
+            "sat": "Astra 1KR",
+            "freq": "11.127 V 22000 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -897,6 +3089,14 @@
             "match": "Girona v Real Oviedo",
             "time": "12:00",
             "date": "2025-10-25"
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "link": "#",
+            "related_to": "Girona v Real Oviedo",
+            "sat": "Astra 1KR",
+            "freq": "11.127 V 22000 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -999,6 +3199,14 @@
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "link": "#",
+            "related_to": "Valencia v Villarreal",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "Seca"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 10",
@@ -1307,6 +3515,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Movistar Plus+ HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Athletic Bilbao",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "Real Sociedad v Athletic Bilbao",
@@ -1575,6 +3791,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-04 04:21:27",
-    "total_items": 186
+    "last_updated": "2025-10-04 15:16:33",
+    "total_items": 463
 }
