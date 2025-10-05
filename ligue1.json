@@ -11,6 +11,14 @@
             "date": "2025-10-05"
         },
         {
+            "channel": "5 SPORT Israel HD",
+            "link": "#",
+            "related_to": "Lyon v Toulouse",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Arena Sport 4 BiH HD",
             "link": "#",
             "related_to": "Lyon v Toulouse",
@@ -19,12 +27,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Lyon v Toulouse",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Lyon v Toulouse",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "link": "#",
+            "related_to": "Lyon v Toulouse",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Cablenet Sports 2 HD",
@@ -120,6 +144,72 @@
                 "team1": "france",
                 "team2": "france"
             },
+            "match": "Le Havre v Rennes",
+            "time": "15:15",
+            "date": "2025-10-05"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Le Havre v Rennes",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Le Havre v Rennes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "link": "#",
+            "related_to": "Le Havre v Rennes",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Ligue 1+ 5 ($/geo/R) 📺",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "Le Havre v Rennes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 6 ($/geo/R)",
+            "link": "#",
+            "related_to": "Le Havre v Rennes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Okko Sport HD Russia ($/geo/R)",
+            "link": "#",
+            "related_to": "Le Havre v Rennes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "link": "#",
+            "related_to": "Le Havre v Rennes",
+            "sat": "Thor 6",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "compet": "French Ligue 1 - Week 7",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
             "match": "Monaco v Nice",
             "time": "15:15",
             "date": "2025-10-05"
@@ -133,12 +223,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Monaco v Nice",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Monaco v Nice",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Monaco v Nice",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Cablenet Sports 2 HD",
@@ -237,6 +343,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Monaco v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "link": "#",
             "related_to": "Monaco v Nice",
@@ -280,56 +394,6 @@
             "compet": "French Ligue 1 - Week 7",
             "flags": {
                 "team1": "france",
-                "team2": "france"
-            },
-            "match": "Le Havre v Rennes",
-            "time": "15:15",
-            "date": "2025-10-05"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Le Havre v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Ligue 1+ 5 ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Le Havre v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Megogo Futbol 6 ($/geo/R)",
-            "link": "#",
-            "related_to": "Le Havre v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Okko Sport HD Russia ($/geo/R)",
-            "link": "#",
-            "related_to": "Le Havre v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "V Sport Extra Sverige HD",
-            "link": "#",
-            "related_to": "Le Havre v Rennes",
-            "sat": "Thor 6",
-            "freq": "10.903 V 25000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "compet": "French Ligue 1 - Week 7",
-            "flags": {
-                "team1": "france",
                 "team2": "france26"
             },
             "match": "Strasbourg v Angers",
@@ -345,12 +409,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Strasbourg v Angers",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Strasbourg v Angers",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "link": "#",
+            "related_to": "Strasbourg v Angers",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Cablenet Sports 1 HD",
@@ -395,6 +475,14 @@
             "date": "2025-10-05"
         },
         {
+            "channel": "5 PLUS Israel HD",
+            "link": "#",
+            "related_to": "Lille v Paris St Germain",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Arena Premium 3 Srbija HD",
             "link": "#",
             "related_to": "Lille v Paris St Germain",
@@ -435,12 +523,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Lille v Paris St Germain",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Lille v Paris St Germain",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Lille v Paris St Germain",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Lille v Paris St Germain",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "beIN Sports Türkiye 4 HD",
@@ -499,6 +611,14 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Lille v Paris St Germain",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Lille v Paris St Germain",
@@ -547,6 +667,14 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Lille v Paris St Germain",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
             "channel": "Setanta Sports 2 Baltic",
             "link": "#",
             "related_to": "Lille v Paris St Germain",
@@ -571,12 +699,28 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Lille v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "link": "#",
             "related_to": "Lille v Paris St Germain",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Lille v Paris St Germain",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         },
         {
             "channel": "TV3 Sport Dansk HD",
@@ -1311,6 +1455,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-05 04:21:15",
-    "total_items": 154
+    "last_updated": "2025-10-05 15:16:33",
+    "total_items": 172
 }

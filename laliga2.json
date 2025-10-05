@@ -103,12 +103,28 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Racing Santander v Málaga",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports France 10 HD max",
             "link": "#",
             "related_to": "Racing Santander v Málaga",
             "sat": "Astra 1M",
             "freq": "11.895 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Racing Santander v Málaga",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -353,6 +369,22 @@
             "match": "Almería v Real Zaragoza",
             "time": "16:30",
             "date": "2025-10-11"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Almería v Real Zaragoza",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Almería v Real Zaragoza",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -889,6 +921,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-10-05 04:24:59",
-    "total_items": 104
+    "last_updated": "2025-10-05 15:20:18",
+    "total_items": 108
 }

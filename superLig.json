@@ -295,6 +295,14 @@
             "encry": ""
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Samsunspor v Fenerbahçe",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "SuperSport ESPN 2 HD",
             "link": "#",
             "related_to": "Samsunspor v Fenerbahçe",
@@ -327,6 +335,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "link": "#",
+            "related_to": "Göztepe v Istanbul Basaksehir",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "beIN Sports Türkiye 2 HD",
@@ -739,6 +755,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-10-05 04:23:58",
-    "total_items": 86
+    "last_updated": "2025-10-05 15:19:16",
+    "total_items": 88
 }
