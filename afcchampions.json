@@ -1,5 +1,42 @@
 {
-    "footonsat": [],
-    "last_updated": "2025-10-05 15:17:35",
-    "total_items": 0
+    "footonsat": [
+        {
+            "compet": "AFC Champions League Elite - Round 3",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "qatar1"
+            },
+            "match": "Al Hilal v Al Sadd",
+            "time": "18:15",
+            "date": "2025-10-21"
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Sadd",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 3",
+            "flags": {
+                "team1": "india1",
+                "team2": "saudiarabia"
+            },
+            "match": "FC Goa v Al Nassr",
+            "time": "13:45",
+            "date": "2025-10-22"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "FC Goa v Al Nassr",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        }
+    ],
+    "last_updated": "2025-10-06 04:23:08",
+    "total_items": 4
 }

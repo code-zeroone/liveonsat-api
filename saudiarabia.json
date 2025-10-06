@@ -1,5 +1,42 @@
 {
-    "footonsat": [],
-    "last_updated": "2025-10-05 15:20:38",
-    "total_items": 0
+    "footonsat": [
+        {
+            "compet": "Saudi Professional League - Week 5",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Ettifaq v Al Hilal",
+            "time": "14:45",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "Al Ettifaq v Al Hilal",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Saudi Professional League - Week 6",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Ittihad v Al Hilal",
+            "time": "18:00",
+            "date": "2025-10-24"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Hilal",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        }
+    ],
+    "last_updated": "2025-10-06 04:26:11",
+    "total_items": 4
 }
