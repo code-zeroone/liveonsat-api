@@ -195,6 +195,48 @@
             "encry": "N/A"
         },
         {
+            "compet": "Bulgarian Second League - Week 11",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "match": "Lokomotiv G.O. v Fratria",
+            "time": "16:00",
+            "date": "2025-10-06"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "link": "#",
+            "related_to": "Lokomotiv G.O. v Fratria",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Lokomotiv G.O. v Fratria",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "link": "#",
+            "related_to": "Lokomotiv G.O. v Fratria",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Lokomotiv G.O. v Fratria",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "compet": "German Frauen Bundesliga - Week 5",
             "flags": {
                 "team1": "germany",
@@ -443,6 +485,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Arena Sport 2 Slovenija HD",
+            "link": "#",
+            "related_to": "Cultural Leonesa v Albacete",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Arena Sport 3 Hrvatska HD",
             "link": "#",
             "related_to": "Cultural Leonesa v Albacete",
@@ -567,6 +617,6 @@
             "encry": "Irdeto"
         }
     ],
-    "last_updated": "2025-10-06 04:20:03",
-    "total_items": 67
+    "last_updated": "2025-10-06 15:17:41",
+    "total_items": 73
 }
