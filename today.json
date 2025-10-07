@@ -639,6 +639,30 @@
             "encry": "MPEG-4 GoSTcrypt"
         },
         {
+            "channel": "RTVE Play ($/geoR) 📺",
+            "link": "https://www.rtve.es/play/deportes/",
+            "related_to": "Ukraine U-20 v Spain U-20",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Ukraine U-20 v Spain U-20",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "Ukraine U-20 v Spain U-20",
+            "sat": "*DTT",
+            "freq": "0.000 - -",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "YouTube: FIFA TV (geo/R) 📺",
             "link": "https://www.youtube.com/fifatv",
             "related_to": "Ukraine U-20 v Spain U-20",
@@ -681,6 +705,14 @@
             "encry": "MPEG-4 GoSTcrypt"
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Chile U-20 v Mexico U-20",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "YouTube: FIFA TV (geo/R) 📺",
             "link": "https://www.youtube.com/fifatv",
             "related_to": "Chile U-20 v Mexico U-20",
@@ -689,6 +721,6 @@
             "encry": "Free To Air"
         }
     ],
-    "last_updated": "2025-10-07 04:20:39",
-    "total_items": 80
+    "last_updated": "2025-10-07 15:19:13",
+    "total_items": 84
 }
