@@ -1814,6 +1814,64 @@
                 "team1": "england",
                 "team2": "england"
             },
+            "match": "Arsenal v Crystal Palace",
+            "time": "14:00",
+            "date": "2025-10-26"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Arsenal v Crystal Palace",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "Arsenal v Crystal Palace",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Arsenal v Crystal Palace",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "link": "#",
+            "related_to": "Arsenal v Crystal Palace",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R) 📺",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "Arsenal v Crystal Palace",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$] 📺",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "Arsenal v Crystal Palace",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English Premier League - Week 9",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
             "match": "Bournemouth v Nottingham Forest",
             "time": "14:00",
             "date": "2025-10-26"
@@ -1856,6 +1914,22 @@
             "related_to": "Bournemouth v Nottingham Forest",
             "sat": "Astra 2E",
             "freq": "12.012 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Bournemouth v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "link": "#",
+            "related_to": "Bournemouth v Nottingham Forest",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -1909,6 +1983,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sky Sports MIX UK HD",
+            "link": "#",
+            "related_to": "Wolves v Burnley",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Sky Sports UK HD",
             "link": "#",
             "related_to": "Wolves v Burnley",
@@ -1944,56 +2026,6 @@
             "channel": "VOYO Pro TV Romania [$] 📺",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "Wolves v Burnley",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English Premier League - Week 9",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Arsenal v Crystal Palace",
-            "time": "14:00",
-            "date": "2025-10-26"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Arsenal v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "Arsenal v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Arsenal v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R) 📺",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "Arsenal v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$] 📺",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "Arsenal v Crystal Palace",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -3501,6 +3533,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-07 15:19:34",
-    "total_items": 425
+    "last_updated": "2025-10-08 04:20:47",
+    "total_items": 429
 }
