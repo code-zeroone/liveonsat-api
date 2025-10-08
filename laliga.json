@@ -1939,8 +1939,8 @@
                 "team2": "spain"
             },
             "match": "Atlético Madrid v Levante",
-            "time": "17:00",
-            "date": "2025-11-09"
+            "time": "17:30",
+            "date": "2025-11-08"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -1954,32 +1954,6 @@
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "Atlético Madrid v Levante",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 12",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Celta Vigo v Barcelona",
-            "time": "17:00",
-            "date": "2025-11-09"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Celta Vigo v Barcelona",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Celta Vigo v Barcelona",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -1991,7 +1965,7 @@
                 "team2": "spain"
             },
             "match": "Rayo Vallecano v Real Madrid",
-            "time": "17:00",
+            "time": "15:15",
             "date": "2025-11-09"
         },
         {
@@ -2006,6 +1980,32 @@
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "Rayo Vallecano v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Celta Vigo v Barcelona",
+            "time": "20:00",
+            "date": "2025-11-09"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Barcelona",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Celta Vigo v Barcelona",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -2037,6 +2037,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-08 04:22:51",
+    "last_updated": "2025-10-08 15:20:47",
     "total_items": 246
 }
