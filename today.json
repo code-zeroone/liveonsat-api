@@ -1,1275 +1,19 @@
 {
     "footonsat": [
         {
-            "compet": "Japanese J League Cup - Semi Final (1st Leg)",
+            "compet": "Brazilian Série A - Week 13",
             "flags": {
-                "team1": "japan",
-                "team2": "japan"
+                "team1": "brazil41",
+                "team2": "brazil"
             },
-            "match": "Yokohama FC v Sanfrecce Hiroshima",
-            "time": "10:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "link": "#",
-            "related_to": "Yokohama FC v Sanfrecce Hiroshima",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "YouTube: J.League International 📺",
-            "link": "https://www.youtube.com/c/jleagueinternational",
-            "related_to": "Yokohama FC v Sanfrecce Hiroshima",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "Japanese J League Cup - Semi Final (1st Leg)",
-            "flags": {
-                "team1": "japan",
-                "team2": "japan"
-            },
-            "match": "Kawasaki Frontale v Kashiwa Reysol",
-            "time": "10:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "link": "#",
-            "related_to": "Kawasaki Frontale v Kashiwa Reysol",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "YouTube: J.League International 📺",
-            "link": "https://www.youtube.com/c/jleagueinternational",
-            "related_to": "Kawasaki Frontale v Kashiwa Reysol",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group D, Round 9",
-            "flags": {
-                "team1": "mauritius",
-                "team2": "cameroon"
-            },
-            "match": "Mauritius v Cameroon",
-            "time": "13:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "link": "#",
-            "related_to": "Mauritius v Cameroon",
-            "sat": "Astra 3C",
-            "freq": "12.480 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "CRTV Sports Cameroon",
-            "link": "#",
-            "related_to": "Mauritius v Cameroon",
-            "sat": "AzerSpace 2",
-            "freq": "12.610 H 12500 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Mauritius v Cameroon",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "L´Équipe Live Foot (geo/R) 📺",
-            "link": "https://lequipe.fr/",
-            "related_to": "Mauritius v Cameroon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "New World Sport 1 Mauritius",
-            "link": "#",
-            "related_to": "Mauritius v Cameroon",
-            "sat": "Eutelsat 16A",
-            "freq": "12.562 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "link": "#",
-            "related_to": "Mauritius v Cameroon",
-            "sat": "Astra 1L",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "SportKlub 2 Hrvatska",
-            "link": "#",
-            "related_to": "Mauritius v Cameroon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SportKlub 4 Slovenija",
-            "link": "#",
-            "related_to": "Mauritius v Cameroon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group D, Round 9",
-            "flags": {
-                "team1": "libya1",
-                "team2": "capeverde"
-            },
-            "match": "Libya v Cape Verde",
-            "time": "13:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Libya v Cape Verde",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "L´Équipe Live Foot (geo/R) 📺",
-            "link": "https://lequipe.fr/",
-            "related_to": "Libya v Cape Verde",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "New World Sport 2 Mauritius",
-            "link": "#",
-            "related_to": "Libya v Cape Verde",
-            "sat": "Eutelsat 16A",
-            "freq": "12.562 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "link": "#",
-            "related_to": "Libya v Cape Verde",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "link": "#",
-            "related_to": "Libya v Cape Verde",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "SportKlub HD",
-            "link": "#",
-            "related_to": "Libya v Cape Verde",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V 30000 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group D, Round 9",
-            "flags": {
-                "team1": "swaziland",
-                "team2": "angola1"
-            },
-            "match": "Eswatini v Angola",
-            "time": "13:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Eswatini v Angola",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "link": "#",
-            "related_to": "Eswatini v Angola",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "link": "#",
-            "related_to": "Eswatini v Angola",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SportKlub 5 Slovenija",
-            "link": "#",
-            "related_to": "Eswatini v Angola",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "link": "#",
-            "related_to": "Eswatini v Angola",
-            "sat": "Intelsat 20",
-            "freq": "11.594 V 27500 - 5/6",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport MáXimo 360",
-            "link": "#",
-            "related_to": "Eswatini v Angola",
-            "sat": "Express AMU1",
-            "freq": "12.130 H 27500 - 2/3",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "link": "#",
-            "related_to": "Eswatini v Angola",
-            "sat": "Intelsat 20",
-            "freq": "11.170 H 30000 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "TPA 2 Angola",
-            "link": "#",
-            "related_to": "Eswatini v Angola",
-            "sat": "Yamal 402",
-            "freq": "10.962 V 05926 - 3/4",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group A, Round 9",
-            "flags": {
-                "team1": "ethiopia",
-                "team2": "guinea"
-            },
-            "match": "Ethiopia v Guinea-Bissau",
-            "time": "13:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "ETV Ethiopia HD",
-            "link": "#",
-            "related_to": "Ethiopia v Guinea-Bissau",
-            "sat": "Belintersat 1",
-            "freq": "3.694 R 03640 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Ethiopia v Guinea-Bissau",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "SportKlub 6 Hrvatska",
-            "link": "#",
-            "related_to": "Ethiopia v Guinea-Bissau",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SportKlub 6 Slovenija",
-            "link": "#",
-            "related_to": "Ethiopia v Guinea-Bissau",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "SuperSport LaLiga HD",
-            "link": "#",
-            "related_to": "Ethiopia v Guinea-Bissau",
-            "sat": "Intelsat 20",
-            "freq": "11.554 V 30000 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "compet": "FIFA/AFC WC 2026 Qualifiers - 4th Stage Qualifiers: Round 1",
-            "flags": {
-                "team1": "oman",
-                "team2": "qatar"
-            },
-            "match": "Oman v Qatar",
-            "time": "15:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "Al Kass 5 HD 📺",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
-            "related_to": "Oman v Qatar",
-            "sat": "Eshail 2",
-            "freq": "10.770 H 27500 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "Azam Sports 2 HD",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "Eutelsat 7C",
-            "freq": "10.981 V 45000 - 5/6",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "link": "https://connect.bein.com/",
-            "related_to": "Oman v Qatar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Oman v Qatar",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "AzerSpace 2",
-            "freq": "12.560 V 30000 - 5/6",
-            "encry": "MPEG-4 Irdeto"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Oman v Qatar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 1 Baltic",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 1 Ukraine",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 24 At Sea HD",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "NSS 12",
-            "freq": "4.095 R 30000 - 3/4",
-            "encry": "HD PowerVu"
-        },
-        {
-            "channel": "Sport 24 In Flight HD",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "NSS 12",
-            "freq": "4.095 R 30000 - 3/4",
-            "encry": "HD PowerVu"
-        },
-        {
-            "channel": "Sport 3 Ukraine",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "Astra 1L",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "SportKlub 4 Slovenija",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "SportKlub 5 Hrvatska",
-            "link": "#",
-            "related_to": "Oman v Qatar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group I, Round 9",
-            "flags": {
-                "team1": "car",
-                "team2": "ghana2"
-            },
-            "match": "Central African Republic v Ghana",
-            "time": "16:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Central African Republic v Ghana",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "GTV Ghana",
-            "link": "#",
-            "related_to": "Central African Republic v Ghana",
-            "sat": "Express AMU1",
-            "freq": "12.418 H 31420 - 3/4",
-            "encry": "FTA (MultiStream)"
-        },
-        {
-            "channel": "GTV Sports + HD",
-            "link": "#",
-            "related_to": "Central African Republic v Ghana",
-            "sat": "Astra 2F",
-            "freq": "12.645 V 32700 - 5/6",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "New World Sport 1 Mauritius",
-            "link": "#",
-            "related_to": "Central African Republic v Ghana",
-            "sat": "Eutelsat 16A",
-            "freq": "12.562 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "link": "#",
-            "related_to": "Central African Republic v Ghana",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "link": "#",
-            "related_to": "Central African Republic v Ghana",
-            "sat": "Eutelsat 16A",
-            "freq": "11.231 V 42000 - 5/6",
-            "encry": "MPEG-4 NDS"
-        },
-        {
-            "channel": "SportKlub 7 Hrvatska",
-            "link": "#",
-            "related_to": "Central African Republic v Ghana",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "link": "#",
-            "related_to": "Central African Republic v Ghana",
-            "sat": "Intelsat 20",
-            "freq": "11.594 V 27500 - 5/6",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport MáXimo 360",
-            "link": "#",
-            "related_to": "Central African Republic v Ghana",
-            "sat": "Express AMU1",
-            "freq": "12.130 H 27500 - 2/3",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "link": "#",
-            "related_to": "Central African Republic v Ghana",
-            "sat": "Intelsat 20",
-            "freq": "11.170 H 30000 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group I, Round 9",
-            "flags": {
-                "team1": "chad",
-                "team2": "mali"
-            },
-            "match": "Chad v Mali",
-            "time": "16:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Chad v Mali",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "New World Sport 3 Togo",
-            "link": "#",
-            "related_to": "Chad v Mali",
-            "sat": "Eutelsat 16A",
-            "freq": "12.604 H 30000 - 3/4",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "ORTM 1 Mali",
-            "link": "#",
-            "related_to": "Chad v Mali",
-            "sat": "Eutelsat 16A",
-            "freq": "12.604 H 30000 - 2/3",
-            "encry": "FTA (MPEG-4)"
-        },
-        {
-            "channel": "ORTM 2 Mali",
-            "link": "#",
-            "related_to": "Chad v Mali",
-            "sat": "Intelsat 37e",
-            "freq": "4.129 L 02060 - 3/4",
-            "encry": "FTA (MPEG-4)"
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "link": "#",
-            "related_to": "Chad v Mali",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Télé Tchad",
-            "link": "#",
-            "related_to": "Chad v Mali",
-            "sat": "Eutelsat 16A",
-            "freq": "12.687 H 30000 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group I, Round 9",
-            "flags": {
-                "team1": "comoros",
-                "team2": "madagascar"
-            },
-            "match": "Comoros v Madagascar",
-            "time": "16:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "link": "#",
-            "related_to": "Comoros v Madagascar",
-            "sat": "Astra 3C",
-            "freq": "12.480 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Comoros v Madagascar",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "L´Équipe Live Foot (geo/R) 📺",
-            "link": "https://lequipe.fr/",
-            "related_to": "Comoros v Madagascar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "New World Sport 2 Mauritius",
-            "link": "#",
-            "related_to": "Comoros v Madagascar",
-            "sat": "Eutelsat 16A",
-            "freq": "12.562 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "ORTC Comoros",
-            "link": "#",
-            "related_to": "Comoros v Madagascar",
-            "sat": "Eutelsat 16A",
-            "freq": "10.845 H 30000 - 2/3",
-            "encry": "MPEG-4 NDS"
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group A, Round 9",
-            "flags": {
-                "team1": "djibouti",
-                "team2": "egypt1"
-            },
-            "match": "Djibouti v Egypt",
-            "time": "16:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Djibouti v Egypt",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "L´Équipe Live Foot (geo/R) 📺",
-            "link": "https://lequipe.fr/",
-            "related_to": "Djibouti v Egypt",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "MBC Masr 2 HD",
-            "link": "#",
-            "related_to": "Djibouti v Egypt",
-            "sat": "Badr 7",
-            "freq": "11.270 V 27500 - 5/6",
-            "encry": "BISS"
-        },
-        {
-            "channel": "ON Sport 1 HD",
-            "link": "#",
-            "related_to": "Djibouti v Egypt",
-            "sat": "Eutelsat 7 West A",
-            "freq": "11.862 V 27500 - 5/6",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "SportKlub HD",
-            "link": "#",
-            "related_to": "Djibouti v Egypt",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V 30000 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group A, Round 9",
-            "flags": {
-                "team1": "sierraleone",
-                "team2": "burkinafaso"
-            },
-            "match": "Sierra Leone v Burkina Faso",
-            "time": "16:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "AYV Sierra Leone 📺",
-            "link": "https://ayvnews.com/AYV2021/",
-            "related_to": "Sierra Leone v Burkina Faso",
-            "sat": "Eutelsat 36C",
-            "freq": "11.977 H 27500 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Sierra Leone v Burkina Faso",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "New World Sport 4 Togo",
-            "link": "#",
-            "related_to": "Sierra Leone v Burkina Faso",
-            "sat": "Eutelsat 16A",
-            "freq": "12.604 H 30000 - 3/4",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "RTB Burkina Faso",
-            "link": "#",
-            "related_to": "Sierra Leone v Burkina Faso",
-            "sat": "MonacoSat",
-            "freq": "12.437 H 30000 - 3/4",
-            "encry": "FTA (MPEG-4)"
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "link": "#",
-            "related_to": "Sierra Leone v Burkina Faso",
-            "sat": "Eutelsat 16A",
-            "freq": "11.387 H 32000 - 3/4",
-            "encry": "MPEG-4 NDS"
-        },
-        {
-            "compet": "UEFA Womens Champions League - Round 1",
-            "flags": {
-                "team1": "spain",
-                "team2": "italy"
-            },
-            "match": "Real Madrid v Roma",
-            "time": "16:45",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "Disney+ UK ($/geo/R)",
-            "link": "#",
-            "related_to": "Real Madrid v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Womens Champions League - Round 1",
-            "flags": {
-                "team1": "holland",
-                "team2": "england7"
-            },
-            "match": "Twente v Chelsea",
-            "time": "16:45",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "Disney+ UK ($/geo/R)",
-            "link": "#",
-            "related_to": "Twente v Chelsea",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Friendly International",
-            "flags": {
-                "team1": "gibraltar",
-                "team2": "newcal"
-            },
-            "match": "Gibraltar v New Caledonia",
-            "time": "17:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Gibraltar v New Caledonia",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "link": "#",
-            "related_to": "Gibraltar v New Caledonia",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Megogo Futbol 2 ($/geo/R)",
-            "link": "#",
-            "related_to": "Gibraltar v New Caledonia",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": "Gibraltar v New Caledonia",
-            "sat": "Astra 3C",
-            "freq": "12.285 V 30000 - 2/3",
-            "encry": "Free To Air HD"
-        },
-        {
-            "compet": "FIFA/AFC WC 2026 Qualifiers - 4th Stage Qualifiers: Round 1",
-            "flags": {
-                "team1": "indonesia",
-                "team2": "saudiarabia"
-            },
-            "match": "Indonesia v Saudi Arabia",
-            "time": "17:15",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "Al Kass 6 HD",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "Eshail 2",
-            "freq": "10.770 H 27500 - 3/4",
-            "encry": "HD Free To Air"
-        },
-        {
-            "channel": "Azam Sports 2 HD",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "Eutelsat 7C",
-            "freq": "10.981 V 45000 - 5/6",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "link": "https://connect.bein.com/",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "AzerSpace 2",
-            "freq": "12.560 V 30000 - 5/6",
-            "encry": "MPEG-4 Irdeto"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 1 Baltic",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 24 At Sea HD",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "NSS 12",
-            "freq": "4.095 R 30000 - 3/4",
-            "encry": "HD PowerVu"
-        },
-        {
-            "channel": "Sport 24 In Flight HD",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "NSS 12",
-            "freq": "4.095 R 30000 - 3/4",
-            "encry": "HD PowerVu"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "Astra 1L",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "SportKlub 4 Slovenija",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "SportKlub 9 Hrvatska",
-            "link": "#",
-            "related_to": "Indonesia v Saudi Arabia",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group E, Round 9",
-            "flags": {
-                "team1": "niger",
-                "team2": "congobr"
-            },
-            "match": "Niger v Congo BR",
-            "time": "19:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Niger v Congo BR",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "New World Sport 1 Mauritius",
-            "link": "#",
-            "related_to": "Niger v Congo BR",
-            "sat": "Eutelsat 16A",
-            "freq": "12.562 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "SportKlub HD",
-            "link": "#",
-            "related_to": "Niger v Congo BR",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V 30000 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Tele Congo",
-            "link": "#",
-            "related_to": "Niger v Congo BR",
-            "sat": "Hotbird 13F",
-            "freq": "11.623 V 27500 - 3/4",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "Télé Sahel Niger",
-            "link": "#",
-            "related_to": "Niger v Congo BR",
-            "sat": "Badr 8",
-            "freq": "4.085 L 3330 - 3/4",
-            "encry": "Free To Air [c]"
-        },
-        {
-            "compet": "FIFA/CAF WC 2026 Qualifiers - Group E, Round 9",
-            "flags": {
-                "team1": "tanzania",
-                "team2": "zambia"
-            },
-            "match": "Tanzania v Zambia",
-            "time": "19:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "Arena Sport 5 Srbija HD",
-            "link": "#",
-            "related_to": "Tanzania v Zambia",
-            "sat": "Astra 3B",
-            "freq": "11.798 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Tanzania v Zambia",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "MBC 5",
-            "link": "#",
-            "related_to": "Tanzania v Zambia",
-            "sat": "NigComSat 1R",
-            "freq": "12.589 H 26250 - 3/4",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "New World Sport 2 Mauritius",
-            "link": "#",
-            "related_to": "Tanzania v Zambia",
-            "sat": "Eutelsat 16A",
-            "freq": "12.562 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "link": "#",
-            "related_to": "Tanzania v Zambia",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "link": "#",
-            "related_to": "Tanzania v Zambia",
-            "sat": "Eutelsat 16A",
-            "freq": "11.387 H 32000 - 3/4",
-            "encry": "MPEG-4 NDS"
-        },
-        {
-            "channel": "SuperSport Grandstand HD",
-            "link": "#",
-            "related_to": "Tanzania v Zambia",
-            "sat": "Intelsat 20",
-            "freq": "11.130 H 30000 - 5/6",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "link": "#",
-            "related_to": "Tanzania v Zambia",
-            "sat": "Intelsat 20",
-            "freq": "11.594 V 27500 - 5/6",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport MáXimo 360",
-            "link": "#",
-            "related_to": "Tanzania v Zambia",
-            "sat": "Express AMU1",
-            "freq": "12.130 H 27500 - 2/3",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "link": "#",
-            "related_to": "Tanzania v Zambia",
-            "sat": "Intelsat 20",
-            "freq": "11.170 H 30000 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "ZBC Channel 2",
-            "link": "#",
-            "related_to": "Tanzania v Zambia",
-            "sat": "Eutelsat 7C",
-            "freq": "11.043 V 45000 - 5/6",
-            "encry": "MPEG-4 Nagra"
-        },
-        {
-            "compet": "UEFA Womens Champions League - Round 1",
-            "flags": {
-                "team1": "england",
-                "team2": "norway"
-            },
-            "match": "Manchester United v Vålerenga",
-            "time": "19:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "Disney+ UK ($/geo/R)",
-            "link": "#",
-            "related_to": "Manchester United v Vålerenga",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Womens Champions League - Round 1",
-            "flags": {
-                "team1": "austria",
-                "team2": "spain"
-            },
-            "match": "St Pölten v Atlético Madrid",
-            "time": "19:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "Disney+ UK ($/geo/R)",
-            "link": "#",
-            "related_to": "St Pölten v Atlético Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Womens Champions League - Round 1",
-            "flags": {
-                "team1": "germany",
-                "team2": "france"
-            },
-            "match": "Wolfsburg U-19 v Paris St Germain",
-            "time": "19:00",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "Disney+ UK ($/geo/R)",
-            "link": "#",
-            "related_to": "Wolfsburg U-19 v Paris St Germain",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "FIFA U-20 World Cup - Round of 16",
-            "flags": {
-                "team1": "argentina",
-                "team2": "nigeria2"
-            },
-            "match": "Argentina U-20 v Nigeria U-20",
-            "time": "19:30",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Argentina U-20 v Nigeria U-20",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "RTVE Play ($/geoR) 📺",
-            "link": "https://www.rtve.es/play/deportes/",
-            "related_to": "Argentina U-20 v Nigeria U-20",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "link": "#",
-            "related_to": "Argentina U-20 v Nigeria U-20",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Teledeporte España 📺",
-            "link": "http://www.rtve.es/directo/teledeporte/",
-            "related_to": "Argentina U-20 v Nigeria U-20",
-            "sat": "*DTT",
-            "freq": "0.000 - -",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "YouTube: FIFA TV (geo/R) 📺",
-            "link": "https://www.youtube.com/fifatv",
-            "related_to": "Argentina U-20 v Nigeria U-20",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "FIFA U-20 World Cup - Round of 16",
-            "flags": {
-                "team1": "colombia",
-                "team2": "southafrica"
-            },
-            "match": "Colombia U-20 v South Africa U-20",
-            "time": "19:30",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Colombia U-20 v South Africa U-20",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "YouTube: FIFA TV (geo/R) 📺",
-            "link": "https://www.youtube.com/fifatv",
-            "related_to": "Colombia U-20 v South Africa U-20",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "Colombian Primera A - Clausura - 11",
-            "flags": {
-                "team1": "colombia",
-                "team2": "colombia"
-            },
-            "match": "Rionegro Águilas v Independiente Medellín",
-            "time": "20:30",
-            "date": "2025-10-08"
-        },
-        {
-            "channel": "RCN Nuestra Tele",
-            "link": "#",
-            "related_to": "Rionegro Águilas v Independiente Medellín",
-            "sat": "SES 6",
-            "freq": "4.028 R 08000 - 3/4",
-            "encry": "MPEG-4 Irdeto"
-        },
-        {
-            "compet": "Brazilian Série A - Week 14",
-            "flags": {
-                "team1": "brazil1",
-                "team2": "brazil3"
-            },
-            "match": "Atlético Mineiro v Sport Recife",
-            "time": "22:00",
-            "date": "2025-10-08"
+            "match": "Mirassol v Fluminense",
+            "time": "00:00",
+            "date": "2025-10-09"
         },
         {
             "channel": "Arena Premium 1 BiH HD",
             "link": "#",
-            "related_to": "Atlético Mineiro v Sport Recife",
+            "related_to": "Mirassol v Fluminense",
             "sat": "Astra 3B",
             "freq": "0.000 0",
             "encry": "HD Conax"
@@ -1277,41 +21,1575 @@
         {
             "channel": "Arena Sport 1 Hrvatska HD",
             "link": "#",
-            "related_to": "Atlético Mineiro v Sport Recife",
+            "related_to": "Mirassol v Fluminense",
             "sat": "Eutelsat 16A",
             "freq": "11.678 H 30000 - 3/4",
             "encry": "HD Conax"
         },
         {
-            "compet": "FIFA U-20 World Cup - Round of 16",
+            "channel": "MATCH! Futbol 3 HD",
+            "link": "#",
+            "related_to": "Mirassol v Fluminense",
+            "sat": "Horizons 2",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "compet": "Major League Soccer (MLS) - Week 26",
             "flags": {
-                "team1": "japan3",
-                "team2": "france23"
+                "team1": "usa",
+                "team2": "canada2"
             },
-            "match": "Japan U-20 v France U-20",
-            "time": "23:00",
-            "date": "2025-10-08"
+            "match": "Los Angeles FC v Toronto FC",
+            "time": "02:30",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "MLS Season Pass [$]",
+            "link": "#",
+            "related_to": "Los Angeles FC v Toronto FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "FIFA/CAF WC 2026 Qualifiers - Group F, Round 9",
+            "flags": {
+                "team1": "burundi",
+                "team2": "kenya"
+            },
+            "match": "Burundi v Kenya",
+            "time": "13:00",
+            "date": "2025-10-09"
         },
         {
             "channel": "FIFA+ [app] (geo/R) 📺",
             "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Japan U-20 v France U-20",
+            "related_to": "Burundi v Kenya",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
         },
         {
+            "channel": "ITV 1 England HD 📺",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "Burundi v Kenya",
+            "sat": "Astra 2E",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "ITV X (geo/R) 📺",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "Burundi v Kenya",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "STV Player (geo/R) 📺",
+            "link": "https://player.stv.tv/live",
+            "related_to": "Burundi v Kenya",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "link": "#",
+            "related_to": "Burundi v Kenya",
+            "sat": "Astra 2E",
+            "freq": "10.891 H 22000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "link": "#",
+            "related_to": "Burundi v Kenya",
+            "sat": "Astra 2E",
+            "freq": "10.906 V 22000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "compet": "FIFA/UEFA WC 2026 Qualifiers - Group G, Round 7",
+            "flags": {
+                "team1": "finland",
+                "team2": "lithuania"
+            },
+            "match": "Finland v Lithuania",
+            "time": "16:00",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "Astra 3C",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "LRT Plius HD 📺",
+            "link": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-plius",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R) 📺",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Optima Sports",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "Amos 5",
+            "freq": "4.148 R 05000 - 3/4",
+            "encry": "Free To Air [c]"
+        },
+        {
+            "channel": "Optus Sport ($/geo/R) 📺",
+            "link": "https://sport.optus.com.au/",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "Amos 3",
+            "freq": "10.842 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R) 📺",
+            "link": "https://www.uefa.tv/",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "YLE TV2 Suomi HD",
+            "link": "#",
+            "related_to": "Finland v Lithuania",
+            "sat": "Thor 6",
+            "freq": "10.872 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "YouTube: Viaplay Int'l (geo/R) 📺",
+            "link": "https://www.youtube.com/@ViaplayInternational/streams",
+            "related_to": "Finland v Lithuania",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "FIFA/CAF WC 2026 Qualifiers - Group G, Round 9",
+            "flags": {
+                "team1": "botswana",
+                "team2": "uganda"
+            },
+            "match": "Botswana v Uganda",
+            "time": "16:00",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Botswana v Uganda",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "compet": "FIFA/CAF WC 2026 Qualifiers - Group H, Round 9",
+            "flags": {
+                "team1": "liberia",
+                "team2": "namibia1"
+            },
+            "match": "Liberia v Namibia",
+            "time": "16:00",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Liberia v Namibia",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "compet": "FIFA/CAF WC 2026 Qualifiers - Group H, Round 9",
+            "flags": {
+                "team1": "malawi",
+                "team2": "eqguinea"
+            },
+            "match": "Malawi v Equatorial Guinea",
+            "time": "16:00",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Malawi v Equatorial Guinea",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "compet": "FIFA/CAF WC 2026 Qualifiers - Group G, Round 9",
+            "flags": {
+                "team1": "mozambique",
+                "team2": "guinea"
+            },
+            "match": "Mozambique v Guinea",
+            "time": "16:00",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "link": "#",
+            "related_to": "Mozambique v Guinea",
+            "sat": "Astra 3C",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Mozambique v Guinea",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "compet": "FIFA/CAF WC 2026 Qualifiers - Group G, Round 9",
+            "flags": {
+                "team1": "somalia",
+                "team2": "algeria"
+            },
+            "match": "Somalia v Algeria",
+            "time": "16:00",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Somalia v Algeria",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "Somalia v Algeria",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "flags": {
+                "team1": "scotland",
+                "team2": "gibraltar"
+            },
+            "match": "Scotland U-21 v Gibraltar U-21",
+            "time": "16:30",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "YouTube: Scotland NT 📺",
+            "link": "https://www.youtube.com/c/ScotlandNationalTeam",
+            "related_to": "Scotland U-21 v Gibraltar U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Friendly International",
+            "flags": {
+                "team1": "romania",
+                "team2": "moldova"
+            },
+            "match": "Romania v Moldova",
+            "time": "18:00",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Megogo Futbol 9 ($/geo/R)",
+            "link": "#",
+            "related_to": "Romania v Moldova",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "FIFA/UEFA WC 2026 Qualifiers - Group C, Round 7",
+            "flags": {
+                "team1": "scotland",
+                "team2": "greece"
+            },
+            "match": "Scotland v Greece",
+            "time": "18:45",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Alpha TV Hellas HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "Hotbird 13F",
+            "freq": "11.823 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "Astra 3C",
+            "freq": "12.304 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R) 📺",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "BBC iPlayer 4K (geo/R) 📺",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "BBC One Scotland HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "Astra 2E",
+            "freq": "10.803 H 22000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "BBC Scotland HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "Astra 2E",
+            "freq": "10.803 H 22000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "BBC Sport Scotland Online 📺",
+            "link": "https://www.bbc.com/sport/scotland",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "BBC Two HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "Astra 2E",
+            "freq": "10.803 H 23000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Optus Sport ($/geo/R) 📺",
+            "link": "https://sport.optus.com.au/",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport 24 Extra HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "PowerVu"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R) 📺",
+            "link": "https://www.uefa.tv/",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "YouTube: Viaplay Int'l (geo/R) 📺",
+            "link": "https://www.youtube.com/@ViaplayInternational/streams",
+            "related_to": "Scotland v Greece",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "FIFA/UEFA WC 2026 Qualifiers - Group G, Round 7",
+            "flags": {
+                "team1": "malta",
+                "team2": "holland"
+            },
+            "match": "Malta v Netherlands",
+            "time": "18:45",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "link": "#",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "NPO 3 Nederland HD",
+            "link": "#",
+            "related_to": "Malta v Netherlands",
+            "sat": "Astra 3B",
+            "freq": "12.188 H 29900 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Optus Sport ($/geo/R) 📺",
+            "link": "https://sport.optus.com.au/",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Malta v Netherlands",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Malta v Netherlands",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "link": "#",
+            "related_to": "Malta v Netherlands",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "link": "#",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R) 📺",
+            "link": "https://www.uefa.tv/",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "YouTube: Viaplay Int'l (geo/R) 📺",
+            "link": "https://www.youtube.com/@ViaplayInternational/streams",
+            "related_to": "Malta v Netherlands",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "FIFA/UEFA WC 2026 Qualifiers - Group L, Round 7",
+            "flags": {
+                "team1": "faroeislands",
+                "team2": "montenegro1"
+            },
+            "match": "Faroe Islands v Montenegro",
+            "time": "18:45",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "link": "#",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "Astra 3B",
+            "freq": "11.895 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 6 Srbija HD",
+            "link": "#",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "Astra 3B",
+            "freq": "11.817 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 8 ($/geo/R)",
+            "link": "#",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Optus Sport ($/geo/R) 📺",
+            "link": "https://sport.optus.com.au/",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TVCG 2 HD",
+            "link": "#",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "Astra 3B",
+            "freq": "11.817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R) 📺",
+            "link": "https://www.uefa.tv/",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "YouTube: Viaplay Int'l (geo/R) 📺",
+            "link": "https://www.youtube.com/@ViaplayInternational/streams",
+            "related_to": "Faroe Islands v Montenegro",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "FIFA/UEFA WC 2026 Qualifiers - Group L, Round 7",
+            "flags": {
+                "team1": "czechia",
+                "team2": "croatia"
+            },
+            "match": "Czechia v Croatia",
+            "time": "18:45",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "link": "#",
+            "related_to": "Czechia v Croatia",
+            "sat": "Astra 3B",
+            "freq": "11.720 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 7 Srbija HD",
+            "link": "#",
+            "related_to": "Czechia v Croatia",
+            "sat": "Astra 3B",
+            "freq": "11.817 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Cielo Italia HD",
+            "link": "#",
+            "related_to": "Czechia v Croatia",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "CT Sport Czech HD",
+            "link": "#",
+            "related_to": "Czechia v Croatia",
+            "sat": "Astra 3B",
+            "freq": "12.344 H 29900 - 2/3",
+            "encry": "HD CryptoWorks"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R) 📺",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Optus Sport ($/geo/R) 📺",
+            "link": "https://sport.optus.com.au/",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "link": "#",
+            "related_to": "Czechia v Croatia",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "link": "#",
+            "related_to": "Czechia v Croatia",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "Sport 3 Israel HD",
             "link": "#",
-            "related_to": "Japan U-20 v France U-20",
+            "related_to": "Czechia v Croatia",
             "sat": "Amos 3",
             "freq": "10.806 V 27500 - 3/4",
             "encry": "VideoGuard"
         },
         {
+            "channel": "Sport TV3 Portugal HD",
+            "link": "#",
+            "related_to": "Czechia v Croatia",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R) 📺",
+            "link": "https://www.uefa.tv/",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "YouTube: Viaplay Int'l (geo/R) 📺",
+            "link": "https://www.youtube.com/@ViaplayInternational/streams",
+            "related_to": "Czechia v Croatia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "FIFA/UEFA WC 2026 Qualifiers - Group H, Round 7",
+            "flags": {
+                "team1": "cyprus",
+                "team2": "bosnia"
+            },
+            "match": "Cyprus v Bosnia-Herzegovina",
+            "time": "18:45",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "link": "#",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "BHT 1 BiH",
+            "link": "#",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 6 ($/geo/R)",
+            "link": "#",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "Astra 3C",
+            "freq": "12.285 V 30000 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Optus Sport ($/geo/R) 📺",
+            "link": "https://sport.optus.com.au/",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RIK 1 Cyprus HD",
+            "link": "#",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R) 📺",
+            "link": "https://www.uefa.tv/",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "YouTube: Viaplay Int'l (geo/R) 📺",
+            "link": "https://www.youtube.com/@ViaplayInternational/streams",
+            "related_to": "Cyprus v Bosnia-Herzegovina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "FIFA/UEFA WC 2026 Qualifiers - Group C, Round 7",
+            "flags": {
+                "team1": "belarus",
+                "team2": "denmark"
+            },
+            "match": "Belarus v Denmark",
+            "time": "18:45",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Arena Sport 4 BiH HD",
+            "link": "#",
+            "related_to": "Belarus v Denmark",
+            "sat": "Astra 3B",
+            "freq": "11.895 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 5 Srbija HD",
+            "link": "#",
+            "related_to": "Belarus v Denmark",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Belarus v Denmark",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Belarus v Denmark",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Belarus v Denmark",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Optus Sport ($/geo/R) 📺",
+            "link": "https://sport.optus.com.au/",
+            "related_to": "Belarus v Denmark",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Belarus v Denmark",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Danmark HD",
+            "link": "#",
+            "related_to": "Belarus v Denmark",
+            "sat": "Thor 6",
+            "freq": "10.716 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Belarus v Denmark",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R) 📺",
+            "link": "https://www.uefa.tv/",
+            "related_to": "Belarus v Denmark",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Belarus v Denmark",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Belarus v Denmark",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "YouTube: Viaplay Int'l (geo/R) 📺",
+            "link": "https://www.youtube.com/@ViaplayInternational/streams",
+            "related_to": "Belarus v Denmark",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "FIFA/UEFA WC 2026 Qualifiers - Group H, Round 7",
+            "flags": {
+                "team1": "austria",
+                "team2": "sanmarino"
+            },
+            "match": "Austria v San Marino",
+            "time": "18:45",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "link": "#",
+            "related_to": "Austria v San Marino",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "link": "#",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Optus Sport ($/geo/R) 📺",
+            "link": "https://sport.optus.com.au/",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "link": "https://tvthek.orf.at/live",
+            "related_to": "Austria v San Marino",
+            "sat": "Astra 1L",
+            "freq": "11.303 H 22000 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Rtv Sport San Marino 📺",
+            "link": "https://www.sanmarinortv.sm/programmi/web-tv-sport",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R) 📺",
+            "link": "https://www.uefa.tv/",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "YouTube: Viaplay Int'l (geo/R) 📺",
+            "link": "https://www.youtube.com/@ViaplayInternational/streams",
+            "related_to": "Austria v San Marino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Friendly International",
+            "flags": {
+                "team1": "england",
+                "team2": "wales"
+            },
+            "match": "England v Wales",
+            "time": "18:45",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "link": "#",
+            "related_to": "England v Wales",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "link": "#",
+            "related_to": "England v Wales",
+            "sat": "Astra 3C",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "BBC iPlayer (geo/R) 📺",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": "England v Wales",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ITV 1 England HD 📺",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "England v Wales",
+            "sat": "Astra 2E",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "ITV X (geo/R) 📺",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "England v Wales",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "link": "#",
+            "related_to": "England v Wales",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S4C Clic ($/geo/R) 📺",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": "England v Wales",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "S4C Digital HD",
+            "link": "#",
+            "related_to": "England v Wales",
+            "sat": "Astra 2F",
+            "freq": "11.344 V 27500 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "S4C Sgorio Cymru [online] 📺",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": "England v Wales",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "England v Wales",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "STV Player (geo/R) 📺",
+            "link": "https://player.stv.tv/live",
+            "related_to": "England v Wales",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "STV Scotland HD",
+            "link": "#",
+            "related_to": "England v Wales",
+            "sat": "Astra 2E",
+            "freq": "10.891 H 22000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "link": "#",
+            "related_to": "England v Wales",
+            "sat": "Astra 2E",
+            "freq": "10.906 V 22000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "England v Wales",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "England v Wales",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "link": "#",
+            "related_to": "England v Wales",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Friendly International",
+            "flags": {
+                "team1": "poland",
+                "team2": "newzealand16"
+            },
+            "match": "Poland v New Zealand",
+            "time": "18:45",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "Megogo Futbol 7 ($/geo/R)",
+            "link": "#",
+            "related_to": "Poland v New Zealand",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "FIFA U-20 World Cup - Round of 16",
+            "flags": {
+                "team1": "usa20",
+                "team2": "italy9"
+            },
+            "match": "United States U-20 v Italy U-20",
+            "time": "19:30",
+            "date": "2025-10-09"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "United States U-20 v Italy U-20",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "link": "#",
+            "related_to": "United States U-20 v Italy U-20",
+            "sat": "Horizons 2",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "link": "#",
+            "related_to": "United States U-20 v Italy U-20",
+            "sat": "Yamal 401",
+            "freq": "3.786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+        },
+        {
+            "channel": "RTVE Play ($/geoR) 📺",
+            "link": "https://www.rtve.es/play/deportes/",
+            "related_to": "United States U-20 v Italy U-20",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": "United States U-20 v Italy U-20",
+            "sat": "*DTT",
+            "freq": "0.000 - -",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "YouTube: FIFA TV (geo/R) 📺",
             "link": "https://www.youtube.com/fifatv",
-            "related_to": "Japan U-20 v France U-20",
+            "related_to": "United States U-20 v Italy U-20",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "Free To Air"
@@ -1319,30 +1597,46 @@
         {
             "compet": "FIFA U-20 World Cup - Round of 16",
             "flags": {
-                "team1": "paraguay",
-                "team2": "norway"
+                "team1": "morocco",
+                "team2": "koreasouth8"
             },
-            "match": "Paraguay U-20 v Norway U-20",
+            "match": "Morocco U-20 v South Korea U-20",
             "time": "23:00",
-            "date": "2025-10-08"
+            "date": "2025-10-09"
         },
         {
             "channel": "FIFA+ [app] (geo/R) 📺",
             "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Paraguay U-20 v Norway U-20",
+            "related_to": "Morocco U-20 v South Korea U-20",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
         },
         {
+            "channel": "MATCH! Futbol 1 HD",
+            "link": "#",
+            "related_to": "Morocco U-20 v South Korea U-20",
+            "sat": "Horizons 2",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "link": "#",
+            "related_to": "Morocco U-20 v South Korea U-20",
+            "sat": "Yamal 401",
+            "freq": "3.786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+        },
+        {
             "channel": "YouTube: FIFA TV (geo/R) 📺",
             "link": "https://www.youtube.com/fifatv",
-            "related_to": "Paraguay U-20 v Norway U-20",
+            "related_to": "Morocco U-20 v South Korea U-20",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "Free To Air"
         }
     ],
-    "last_updated": "2025-10-08 15:18:23",
-    "total_items": 161
+    "last_updated": "2025-10-09 04:20:35",
+    "total_items": 199
 }
