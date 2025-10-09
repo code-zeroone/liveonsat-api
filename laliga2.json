@@ -215,6 +215,14 @@
             "encry": ""
         },
         {
+            "channel": "Nova Sports 1 Hellas HD",
+            "link": "#",
+            "related_to": "Almería v Real Zaragoza",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Orange Fútbol 2 HD",
             "link": "#",
             "related_to": "Almería v Real Zaragoza",
@@ -323,6 +331,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "link": "#",
+            "related_to": "Sporting Gijón v Racing Santander",
+            "sat": "Intelsat 10-02",
+            "freq": "12.687 H 27500 - 3/4",
+            "encry": "NagraVision"
         },
         {
             "channel": "MATCH! Futbol 2 HD",
@@ -781,6 +797,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-10-09 04:26:21",
-    "total_items": 92
+    "last_updated": "2025-10-09 15:35:06",
+    "total_items": 94
 }
