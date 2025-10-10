@@ -99,6 +99,14 @@
             "encry": ""
         },
         {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Granada v Las Palmas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TEN TV España HD",
             "link": "#",
             "related_to": "Granada v Las Palmas",
@@ -113,6 +121,22 @@
             "sat": "*DTT",
             "freq": "0.000 - -",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Sport Premium 2 HD",
+            "link": "#",
+            "related_to": "Granada v Las Palmas",
+            "sat": "Thor 6",
+            "freq": "11.385 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "link": "#",
+            "related_to": "Granada v Las Palmas",
+            "sat": "Thor 6",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "compet": "Spanish La Liga 2 - Week 9",
@@ -797,6 +821,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-10-09 15:35:06",
-    "total_items": 94
+    "last_updated": "2025-10-10 04:26:05",
+    "total_items": 97
 }
