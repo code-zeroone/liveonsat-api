@@ -1,13 +1,47 @@
 {
     "footonsat": [
         {
+            "compet": "Friendly International",
+            "flags": {
+                "team1": "koreasouth1",
+                "team2": "brazil"
+            },
+            "match": "South Korea v Brazil",
+            "time": "11:00",
+            "date": "2025-10-10"
+        },
+        {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "South Korea v Brazil",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "South Korea v Brazil",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "South Korea v Brazil",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "FIFA/CAF WC 2026 Qualifiers - Group B, Round 9",
             "flags": {
                 "team1": "sthsudan",
                 "team2": "senegal1"
             },
             "match": "South Sudan v Senegal",
-            "time": "12:00",
+            "time": "13:00",
             "date": "2025-10-10"
         },
         {
@@ -33,6 +67,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "link": "#",
+            "related_to": "South Sudan v Senegal",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": "South Sudan v Senegal",
+            "sat": "AsiaSat 5",
+            "freq": "4.080 H 30000 - 5/6",
+            "encry": "Free To Air [c]"
+        },
+        {
+            "channel": "RTS 2 Senegal HD 📺",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": "South Sudan v Senegal",
+            "sat": "Amos 17",
+            "freq": "11.968 V 34030 - 5/6",
+            "encry": "Free To Air"
         },
         {
             "channel": "Sportdigital FUSSBALL HD",
@@ -77,12 +135,28 @@
             "encry": "-"
         },
         {
+            "channel": "Gabon 1ère 📺",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": "Gambia v Gabon",
+            "sat": "SES 5",
+            "freq": "11.766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "L´Équipe Live Foot (geo/R) 📺",
             "link": "https://lequipe.fr/",
             "related_to": "Gambia v Gabon",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "New World Sport 4 Togo",
+            "link": "#",
+            "related_to": "Gambia v Gabon",
+            "sat": "Eutelsat 16A",
+            "freq": "12.604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
         },
         {
             "channel": "SportKlub 1 Slovenija HD",
@@ -111,6 +185,14 @@
             "date": "2025-10-10"
         },
         {
+            "channel": "ESPN 1 Nederland HD",
+            "link": "#",
+            "related_to": "Seychelles v Ivory Coast",
+            "sat": "Astra 3C",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
             "channel": "FIFA+ [app] (geo/R) 📺",
             "link": "https://www.fifa.com/fifaplus/en/live",
             "related_to": "Seychelles v Ivory Coast",
@@ -119,12 +201,28 @@
             "encry": "-"
         },
         {
+            "channel": "La Nouvelle Chaîne Ivorienne 📺",
+            "link": "https://www.nci.ci/",
+            "related_to": "Seychelles v Ivory Coast",
+            "sat": "SES 5",
+            "freq": "12.303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "L´Équipe Live Foot (geo/R) 📺",
             "link": "https://lequipe.fr/",
             "related_to": "Seychelles v Ivory Coast",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "link": "#",
+            "related_to": "Seychelles v Ivory Coast",
+            "sat": "Eutelsat 16A",
+            "freq": "12.604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
         },
         {
             "channel": "SportKlub 6 Hrvatska",
@@ -195,12 +293,36 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "link": "#",
+            "related_to": "Togo v Congo DR",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "link": "#",
+            "related_to": "Togo v Congo DR",
+            "sat": "Eutelsat 36C",
+            "freq": "11.387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra"
+        },
+        {
             "channel": "SportKlub HD",
             "link": "#",
             "related_to": "Togo v Congo DR",
             "sat": "Eutelsat 16A",
             "freq": "11.595 V 30000 - 3/5",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TVT Togo",
+            "link": "#",
+            "related_to": "Togo v Congo DR",
+            "sat": "Astra 2F",
+            "freq": "12.525 V 30000 - 5/6",
+            "encry": "Free To Air"
         },
         {
             "compet": "FIFA/UEFA WC 2026 Qualifiers - Group J, Round 7",
@@ -211,6 +333,38 @@
             "match": "Kazakhstan v Liechtenstein",
             "time": "14:00",
             "date": "2025-10-10"
+        },
+        {
+            "channel": "ART Motion Sport 1 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Kazakhstan v Liechtenstein",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Kazakhstan v Liechtenstein",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Kazakhstan v Liechtenstein",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Kazakhstan v Liechtenstein",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Cytavision Sports 4 HD",
@@ -285,6 +439,14 @@
             "encry": "MPEG-4 Biss"
         },
         {
+            "channel": "Fox Sports 2 USA HD",
+            "link": "#",
+            "related_to": "Kazakhstan v Liechtenstein",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
             "link": "https://go3.tv/extra_sports",
             "related_to": "Kazakhstan v Liechtenstein",
@@ -315,6 +477,14 @@
             "sat": "Thor 5",
             "freq": "11.247 V 24500 - 7/8",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "New World Sport 5 Togo",
+            "link": "#",
+            "related_to": "Kazakhstan v Liechtenstein",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
         },
         {
             "channel": "Nova Sports Start Hellas HD",
@@ -402,6 +572,14 @@
             "related_to": "Kazakhstan v Liechtenstein",
             "sat": "Hotbird 13F",
             "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sony Sports TEN 5 India HD",
+            "link": "#",
+            "related_to": "Kazakhstan v Liechtenstein",
+            "sat": "G-Sat 10",
+            "freq": "11.840 V 32720 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -496,9 +674,9 @@
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
             "link": "https://play.tv2.dk/sport",
             "related_to": "Kazakhstan v Liechtenstein",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "TV2 Play Norge ($/geo/R) 📺",
@@ -531,6 +709,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Kazakhstan v Liechtenstein",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -663,6 +849,14 @@
             "encry": "-"
         },
         {
+            "channel": "NTA Sports 24",
+            "link": "#",
+            "related_to": "Lesotho v Nigeria",
+            "sat": "NigComSat 1R",
+            "freq": "12.589 H 30000 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "link": "#",
             "related_to": "Lesotho v Nigeria",
@@ -685,6 +879,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "link": "#",
+            "related_to": "Lesotho v Nigeria",
+            "sat": "Astra 2F",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
         },
         {
             "channel": "SuperSport LaLiga HD",
@@ -721,6 +923,22 @@
             "encry": "-"
         },
         {
+            "channel": "ORTB Benin",
+            "link": "#",
+            "related_to": "Rwanda v Benin",
+            "sat": "Eutelsat 16A",
+            "freq": "10.804 H 30000 - 2/3",
+            "encry": "FTA (MPEG-S2)"
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "link": "#",
+            "related_to": "Rwanda v Benin",
+            "sat": "Express AMU1",
+            "freq": "12.207 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "SportKlub 4 Hrvatska",
             "link": "#",
             "related_to": "Rwanda v Benin",
@@ -755,12 +973,36 @@
             "encry": "-"
         },
         {
+            "channel": "MBC 5",
+            "link": "#",
+            "related_to": "São Tomé & Príncipe v Tunisia",
+            "sat": "NigComSat 1R",
+            "freq": "12.589 H 26250 - 3/4",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "link": "#",
+            "related_to": "São Tomé & Príncipe v Tunisia",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "SportKlub HD",
             "link": "#",
             "related_to": "São Tomé & Príncipe v Tunisia",
             "sat": "Eutelsat 16A",
             "freq": "11.595 V 30000 - 3/5",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Watania 1 HD",
+            "link": "#",
+            "related_to": "São Tomé & Príncipe v Tunisia",
+            "sat": "Badr 4",
+            "freq": "12.643 H 27500 - 5/6",
+            "encry": "Free To Air HD"
         },
         {
             "compet": "FIFA/CAF WC 2026 Qualifiers - Group C, Round 9",
@@ -771,6 +1013,14 @@
             "match": "Zimbabwe v South Africa",
             "time": "16:00",
             "date": "2025-10-10"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "link": "#",
+            "related_to": "Zimbabwe v South Africa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "FIFA+ [app] (geo/R) 📺",
@@ -787,6 +1037,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SABC 2 HD",
+            "link": "#",
+            "related_to": "Zimbabwe v South Africa",
+            "sat": "Intelsat 20",
+            "freq": "11.010 V 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "channel": "SportKlub 1 Hrvatska HD",
@@ -835,6 +1093,14 @@
             "sat": "Intelsat 20",
             "freq": "11.170 H 30000 - 5/6",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "ZBC Zimbabwe HD",
+            "link": "#",
+            "related_to": "Zimbabwe v South Africa",
+            "sat": "Intelsat 20",
+            "freq": "11.474 H 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "compet": "UEFA U-21 Championship 2027 Qualifiers",
@@ -889,6 +1155,14 @@
             "encry": ""
         },
         {
+            "channel": "YouTube: German Football (geo/R) 📺",
+            "link": "https://www.youtube.com/@GermanFootball/streams",
+            "related_to": "Germany U-21 v Greece U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA U-20 Elite League",
             "flags": {
                 "team1": "portugal10",
@@ -897,6 +1171,14 @@
             "match": "Portugal U-20 v Germany U-20",
             "time": "16:00",
             "date": "2025-10-10"
+        },
+        {
+            "channel": "DFB Play TV (geo/R) 📺",
+            "link": "https://www.dfbplay.tv/",
+            "related_to": "Portugal U-20 v Germany U-20",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "YouTube: German Football (geo/R) 📺",
@@ -927,6 +1209,66 @@
         {
             "compet": "UEFA U-21 Championship 2027 Qualifiers",
             "flags": {
+                "team1": "bosnia",
+                "team2": "holland1"
+            },
+            "match": "Bosnia U-21 v Netherlands U-21",
+            "time": "16:00",
+            "date": "2025-10-10"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "link": "#",
+            "related_to": "Bosnia U-21 v Netherlands U-21",
+            "sat": "Astra 3C",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "compet": "Friendly Club Match",
+            "flags": {
+                "team1": "italy",
+                "team2": "spain"
+            },
+            "match": "Inter Milan v Atlético Madrid",
+            "time": "16:00",
+            "date": "2025-10-10"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Inter Milan v Atlético Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA Global HD",
+            "link": "#",
+            "related_to": "Inter Milan v Atlético Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Inter Milan v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Libya Sport TV1 HD",
+            "link": "#",
+            "related_to": "Inter Milan v Atlético Madrid",
+            "sat": "Badr 8",
+            "freq": "12.360 V 27500 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "flags": {
                 "team1": "italy",
                 "team2": "sweden"
             },
@@ -949,6 +1291,14 @@
             "sat": "Thor 6",
             "freq": "10.809 V 25000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Italy U-21 v Sweden U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "German Frauen Bundesliga - Week 6",
@@ -1009,6 +1359,14 @@
             "encry": ""
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "RB Leipzig v SGS Essen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "Friendly Youth International",
             "flags": {
                 "team1": "belarus",
@@ -1035,6 +1393,14 @@
             "match": "Russia v Iran",
             "time": "17:00",
             "date": "2025-10-10"
+        },
+        {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Russia v Iran",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "IRIB TV3 HD",
@@ -1137,6 +1503,22 @@
             "match": "Portugal U-21 v Bulgaria U-21",
             "time": "18:30",
             "date": "2025-10-10"
+        },
+        {
+            "channel": "Canal 11 [online] (geo/R) 📺",
+            "link": "https://www.canal11.pt/",
+            "related_to": "Portugal U-21 v Bulgaria U-21",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "link": "#",
+            "related_to": "Portugal U-21 v Bulgaria U-21",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.437 H 27500 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Diema Sport HD",
@@ -1293,6 +1675,50 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Granada v Las Palmas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "Italian Serie C Girone B - Girone B - 9",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Arezzo v Gubbio",
+            "time": "18:30",
+            "date": "2025-10-10"
+        },
+        {
+            "channel": "Sky Go Italy [online]",
+            "link": "#",
+            "related_to": "Arezzo v Gubbio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "Italian Serie C Girone B - Girone B - 9",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "AC Bra v AC Carpi",
+            "time": "18:30",
+            "date": "2025-10-10"
+        },
+        {
+            "channel": "Sky Go Italy [online]",
+            "link": "#",
+            "related_to": "AC Bra v AC Carpi",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "FIFA/UEFA WC 2026 Qualifiers - Group B, Round 7",
             "flags": {
                 "team1": "sweden",
@@ -1309,6 +1735,30 @@
             "sat": "Astra 3B",
             "freq": "11.798 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ART Motion Sport 1 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Sweden v Switzerland",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Sweden v Switzerland",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Sweden v Switzerland",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -1578,9 +2028,9 @@
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
             "link": "https://play.tv2.dk/sport",
             "related_to": "Sweden v Switzerland",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "TV2 Play Norge ($/geo/R) 📺",
@@ -1613,6 +2063,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Sweden v Switzerland",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "ViaPlay Sport Sverige HD",
@@ -1705,6 +2163,22 @@
             "encry": "Free To Air"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Northern Ireland v Slovakia",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Northern Ireland v Slovakia",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Northern Ireland v Slovakia",
@@ -1785,6 +2259,14 @@
             "encry": ""
         },
         {
+            "channel": "Sony Sports TEN 3 India HD",
+            "link": "#",
+            "related_to": "Northern Ireland v Slovakia",
+            "sat": "G-Sat 10",
+            "freq": "11.090 V 32720 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "SportKlub 10 Hrvatska",
             "link": "#",
             "related_to": "Northern Ireland v Slovakia",
@@ -1801,6 +2283,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Northern Ireland v Slovakia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R) 📺",
             "link": "https://play.tv2.no/sport",
             "related_to": "Northern Ireland v Slovakia",
@@ -1815,6 +2305,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Northern Ireland v Slovakia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -1873,6 +2371,22 @@
             "match": "Kosovo v Slovenia",
             "time": "18:45",
             "date": "2025-10-10"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Kosovo v Slovenia",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "link": "#",
+            "related_to": "Kosovo v Slovenia",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -1963,6 +2477,14 @@
             "encry": ""
         },
         {
+            "channel": "RTK 1 Kosovo HD 📺",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": "Kosovo v Slovenia",
+            "sat": "Hellas Sat 4",
+            "freq": "10.938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Sport TV1 Slovenija",
             "link": "#",
             "related_to": "Kosovo v Slovenia",
@@ -1995,6 +2517,14 @@
             "encry": ""
         },
         {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Kosovo v Slovenia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R) 📺",
             "link": "https://play.tv2.no/sport",
             "related_to": "Kosovo v Slovenia",
@@ -2009,6 +2539,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Kosovo v Slovenia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -2051,6 +2589,22 @@
             "sat": "Astra 3B",
             "freq": "11.798 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Iceland v Ukraine",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Iceland v Ukraine",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -2189,6 +2743,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport TV5 Portugal HD",
+            "link": "#",
+            "related_to": "Iceland v Ukraine",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "SportKlub 6 Hrvatska",
             "link": "#",
             "related_to": "Iceland v Ukraine",
@@ -2199,6 +2761,14 @@
         {
             "channel": "SÝN Sport 1 Ísland HD",
             "link": "#",
+            "related_to": "Iceland v Ukraine",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
             "related_to": "Iceland v Ukraine",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -2219,6 +2789,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Iceland v Ukraine",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -2279,6 +2857,38 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "ART Motion Sport 3 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Germany v Luxembourg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Germany v Luxembourg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Germany v Luxembourg",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "Germany v Luxembourg",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Cytavision Sports 3 HD",
             "link": "#",
             "related_to": "Germany v Luxembourg",
@@ -2335,6 +2945,14 @@
             "encry": ""
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "link": "#",
+            "related_to": "Germany v Luxembourg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
             "link": "https://go3.tv/extra_sports",
             "related_to": "Germany v Luxembourg",
@@ -2365,6 +2983,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "link": "#",
+            "related_to": "Germany v Luxembourg",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
         },
         {
             "channel": "Nova Sports 2 Hellas HD",
@@ -2439,6 +3065,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "RTL Zwee Luxembourg 📺",
+            "link": "https://play.rtl.lu/live/rtl-zwee",
+            "related_to": "Germany v Luxembourg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "S Sport+ Streaming",
             "link": "#",
             "related_to": "Germany v Luxembourg",
@@ -2468,6 +3102,14 @@
             "related_to": "Germany v Luxembourg",
             "sat": "Hotbird 13F",
             "freq": "11.958 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sony Sports TEN 2 India HD",
+            "link": "#",
+            "related_to": "Germany v Luxembourg",
+            "sat": "G-Sat 10",
+            "freq": "11.090 V 32720 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -2559,6 +3201,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Germany v Luxembourg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R) 📺",
             "link": "https://play.tv2.no/sport",
             "related_to": "Germany v Luxembourg",
@@ -2589,6 +3239,14 @@
             "sat": "Thor 6",
             "freq": "10.903 V 25000 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Germany v Luxembourg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -2655,6 +3313,38 @@
             "sat": "Astra 3C",
             "freq": "12.246 V 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "France v Azerbaijan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "France v Azerbaijan",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "France v Azerbaijan",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "France v Azerbaijan",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "CBC Sport HD",
@@ -2729,6 +3419,14 @@
             "encry": ""
         },
         {
+            "channel": "Fox Sports 2 USA HD",
+            "link": "#",
+            "related_to": "France v Azerbaijan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
             "link": "https://go3.tv/extra_sports",
             "related_to": "France v Azerbaijan",
@@ -2767,6 +3465,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "link": "#",
+            "related_to": "France v Azerbaijan",
+            "sat": "Eutelsat 16A",
+            "freq": "12.604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
         },
         {
             "channel": "Nova Sports 1 Hellas HD",
@@ -2847,6 +3553,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "France v Azerbaijan",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
+            "channel": "Sony Sports TEN 1 India HD",
+            "link": "#",
+            "related_to": "France v Azerbaijan",
+            "sat": "Insat 4A",
+            "freq": "11.130 H 32720 - 2/3",
+            "encry": "MPEG-4 NDS"
         },
         {
             "channel": "Sport 2 Czechia HD",
@@ -2937,6 +3659,14 @@
             "encry": "HD Panaccess"
         },
         {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "France v Azerbaijan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R) 📺",
             "link": "https://play.tv2.no/sport",
             "related_to": "France v Azerbaijan",
@@ -2967,6 +3697,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "France v Azerbaijan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -3025,6 +3763,30 @@
             "sat": "Astra 3B",
             "freq": "11.798 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ART Motion Sport 4 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Belgium v North Macedonia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Belgium v North Macedonia",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Belgium v North Macedonia",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Cytavision Sports 6 HD",
@@ -3131,6 +3893,14 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "link": "#",
+            "related_to": "Belgium v North Macedonia",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Belgium v North Macedonia",
@@ -3195,12 +3965,28 @@
             "encry": "HD Mediaguard"
         },
         {
+            "channel": "Sony Sports TEN 5 India HD",
+            "link": "#",
+            "related_to": "Belgium v North Macedonia",
+            "sat": "G-Sat 10",
+            "freq": "11.840 V 32720 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "link": "#",
             "related_to": "Belgium v North Macedonia",
             "sat": "Amos 7",
             "freq": "11.474 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "link": "#",
+            "related_to": "Belgium v North Macedonia",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "SportKlub 1 Slovenija HD",
@@ -3235,6 +4021,14 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Belgium v North Macedonia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R) 📺",
             "link": "https://play.tv2.no/sport",
             "related_to": "Belgium v North Macedonia",
@@ -3249,6 +4043,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Belgium v North Macedonia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -3391,6 +4193,14 @@
             "date": "2025-10-10"
         },
         {
+            "channel": "Celtic TV ($/geo/R) 📺",
+            "link": "https://www.celticfc.tv/",
+            "related_to": "East Fife v Celtic B",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "East Fife TV [$] 📺",
             "link": "https://eftv.info/",
             "related_to": "East Fife v Celtic B",
@@ -3503,6 +4313,6 @@
             "encry": "Free To Air"
         }
     ],
-    "last_updated": "2025-10-10 04:20:17",
-    "total_items": 427
+    "last_updated": "2025-10-10 15:17:07",
+    "total_items": 527
 }

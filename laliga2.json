@@ -139,6 +139,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Granada v Las Palmas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 9",
             "flags": {
                 "team1": "spain",
@@ -213,6 +221,14 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "link": "#",
+            "related_to": "Almería v Real Zaragoza",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -346,6 +362,14 @@
             "related_to": "Sporting Gijón v Racing Santander",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "link": "#",
+            "related_to": "Sporting Gijón v Racing Santander",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
         },
         {
@@ -527,6 +551,14 @@
             "sat": "Astra 1M",
             "freq": "10.758 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Andorra v Granada",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga 2 - Week 10",
@@ -821,6 +853,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-10-10 04:26:05",
-    "total_items": 97
+    "last_updated": "2025-10-10 15:22:53",
+    "total_items": 101
 }
