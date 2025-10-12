@@ -37,6 +37,14 @@
             "date": "2025-10-12"
         },
         {
+            "channel": "Arena Sport 1x2 Srbija",
+            "link": "#",
+            "related_to": "Sporting Gijón v Racing Santander",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Arena Sport 2 Hrvatska HD",
             "link": "#",
             "related_to": "Sporting Gijón v Racing Santander",
@@ -67,14 +75,6 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports France 4 HD max",
-            "link": "#",
-            "related_to": "Sporting Gijón v Racing Santander",
-            "sat": "Astra 1M",
-            "freq": "11.856 V 29700 - 2/3",
-            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports France 5 HD max",
@@ -227,6 +227,22 @@
             "match": "Málaga v Deportivo La Coruña",
             "time": "19:00",
             "date": "2025-10-12"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Málaga v Deportivo La Coruña",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Málaga v Deportivo La Coruña",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -605,6 +621,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-10-12 04:25:35",
-    "total_items": 71
+    "last_updated": "2025-10-12 15:20:21",
+    "total_items": 73
 }
