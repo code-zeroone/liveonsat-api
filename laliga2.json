@@ -6,164 +6,6 @@
                 "team1": "spain",
                 "team2": "spain"
             },
-            "match": "Mirandés v Leganés",
-            "time": "14:15",
-            "date": "2025-10-11"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Mirandés v Leganés",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "link": "#",
-            "related_to": "Mirandés v Leganés",
-            "sat": "Astra 1M",
-            "freq": "10.758 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Almería v Real Zaragoza",
-            "time": "16:30",
-            "date": "2025-10-11"
-        },
-        {
-            "channel": "Arena Sport 1x2 Srbija",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "Astra 3C",
-            "freq": "12.402 V 30000 - 3/4",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "Arena Sport 3 Hrvatska HD",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "Eutelsat 16A",
-            "freq": "11.512 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 5 BiH HD",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "Astra 3B",
-            "freq": "0.000 0",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Cytavision Sports 8 HD",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN 3 Portugal HD",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MATCH! Futbol 2 HD",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "Horizons 2",
-            "freq": "11.840 H 28800 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "Megogo Futbol 4 ($/geo/R)",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Nova Sports 1 Hellas HD",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "Hotbird 13F",
-            "freq": "12.130 H 27500 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Orange Fútbol 2 HD",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "TV4 Sportkanalen HD",
-            "link": "#",
-            "related_to": "Almería v Real Zaragoza",
-            "sat": "Thor 6",
-            "freq": "10.778 H 25000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Real Sociedad II v Andorra",
-            "time": "16:30",
-            "date": "2025-10-11"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Real Sociedad II v Andorra",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
             "match": "Albacete v Ceuta",
             "time": "12:00",
             "date": "2025-10-12"
@@ -235,6 +77,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "beIN Sports France 5 HD max",
+            "link": "#",
+            "related_to": "Sporting Gijón v Racing Santander",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN 2 Portugal HD",
             "link": "#",
             "related_to": "Sporting Gijón v Racing Santander",
@@ -275,12 +125,44 @@
             "encry": ""
         },
         {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "Sporting Gijón v Racing Santander",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "link": "#",
+            "related_to": "Sporting Gijón v Racing Santander",
+            "sat": "Thor 5",
+            "freq": "11.247 V 24500 - 7/8",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Orange Fútbol 2 HD",
             "link": "#",
             "related_to": "Sporting Gijón v Racing Santander",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Sporting Gijón v Racing Santander",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "TV2 Sport Dansk HD",
+            "link": "#",
+            "related_to": "Sporting Gijón v Racing Santander",
+            "sat": "Thor 6",
+            "freq": "11.305 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "Spanish La Liga 2 - Week 9",
@@ -723,6 +605,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-10-11 15:19:45",
-    "total_items": 85
+    "last_updated": "2025-10-12 04:25:35",
+    "total_items": 71
 }
