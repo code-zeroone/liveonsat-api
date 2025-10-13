@@ -11,6 +11,22 @@
             "date": "2025-10-13"
         },
         {
+            "channel": "Arena Sport 2 Srbija HD",
+            "link": "#",
+            "related_to": "Córdoba v Cultural Leonesa",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 5 BiH HD",
+            "link": "#",
+            "related_to": "Córdoba v Cultural Leonesa",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Córdoba v Cultural Leonesa",
@@ -25,6 +41,22 @@
             "sat": "Astra 1M",
             "freq": "10.758 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "Megogo Futbol 9 ($/geo/R)",
+            "link": "#",
+            "related_to": "Córdoba v Cultural Leonesa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "link": "#",
+            "related_to": "Córdoba v Cultural Leonesa",
+            "sat": "Thor 6",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "compet": "Spanish La Liga 2 - Week 10",
@@ -353,6 +385,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-10-13 04:26:27",
-    "total_items": 41
+    "last_updated": "2025-10-13 15:23:25",
+    "total_items": 45
 }
