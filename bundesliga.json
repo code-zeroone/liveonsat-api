@@ -935,6 +935,14 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport Bundesliga 4 HD",
+            "link": "#",
+            "related_to": "Augsburg v RB Leipzig",
+            "sat": "Astra 1N",
+            "freq": "12.032 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 8",
             "flags": {
                 "team1": "germany",
@@ -1003,6 +1011,14 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport Bundesliga 2 HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v St Pauli",
+            "sat": "Astra 1M",
+            "freq": "11.758 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 8",
             "flags": {
                 "team1": "germany",
@@ -1021,6 +1037,14 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport Bundesliga 3 HD",
+            "link": "#",
+            "related_to": "Hamburg v Wolfsburg",
+            "sat": "Astra 1N",
+            "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 8",
             "flags": {
                 "team1": "germany",
@@ -1037,6 +1061,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport Bundesliga 5 HD",
+            "link": "#",
+            "related_to": "Hoffenheim v Heidenheim",
+            "sat": "Astra 1N",
+            "freq": "12.032 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -1215,6 +1247,38 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Astra 1N",
+            "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Bundesliga UHD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "YouTube: German Football (geo/R) 📺",
             "link": "https://www.youtube.com/@GermanFootball/streams",
             "related_to": "Augsburg v Borussia Dortmund",
@@ -1309,6 +1373,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-12 15:17:17",
-    "total_items": 158
+    "last_updated": "2025-10-13 04:23:24",
+    "total_items": 166
 }
