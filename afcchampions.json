@@ -3,6 +3,32 @@
         {
             "compet": "AFC Champions League Elite - Round 3",
             "flags": {
+                "team1": "uae2",
+                "team2": "qatar"
+            },
+            "match": "Al Wahda v Al Duhail",
+            "time": "13:45",
+            "date": "2025-10-20"
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "link": "#",
+            "related_to": "Al Wahda v Al Duhail",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "link": "#",
+            "related_to": "Al Wahda v Al Duhail",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "compet": "AFC Champions League Elite - Round 3",
+            "flags": {
                 "team1": "saudiarabia",
                 "team2": "qatar1"
             },
@@ -37,6 +63,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-14 04:23:51",
-    "total_items": 4
+    "last_updated": "2025-10-14 15:22:42",
+    "total_items": 7
 }

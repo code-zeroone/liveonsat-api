@@ -27,6 +27,14 @@
             "encry": ""
         },
         {
+            "channel": "SuperSport Premier League HD",
+            "link": "#",
+            "related_to": "Barcelona v Olympiacos",
+            "sat": "Intelsat 20",
+            "freq": "11.554 V 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Barcelona v Olympiacos",
@@ -93,6 +101,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Kairat Almaty v Pafos FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Champions League - Matchday 3",
             "flags": {
                 "team1": "spain",
@@ -125,6 +141,30 @@
             "sat": "NSS 12",
             "freq": "3.798 R 19167 - 3/5",
             "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "Villarreal v Manchester City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "Villarreal v Manchester City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "link": "#",
+            "related_to": "Villarreal v Manchester City",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
@@ -169,6 +209,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Newcastle United v Benfica",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Champions League - Matchday 3",
             "flags": {
                 "team1": "england",
@@ -201,6 +249,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "link": "#",
+            "related_to": "Arsenal v Atlético Madrid",
+            "sat": "Intelsat 20",
+            "freq": "11.554 V 30000 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
@@ -373,6 +429,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Qarabagh",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Champions League - Matchday 3",
             "flags": {
                 "team1": "turkey",
@@ -399,6 +463,14 @@
             "encry": ""
         },
         {
+            "channel": "SuperSport Premier League HD",
+            "link": "#",
+            "related_to": "Galatasaray v Bodø/Glimt",
+            "sat": "Intelsat 20",
+            "freq": "11.554 V 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "TNT Sports 10",
             "link": "#",
             "related_to": "Galatasaray v Bodø/Glimt",
@@ -413,6 +485,30 @@
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "Galatasaray v Bodø/Glimt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "Galatasaray v Bodø/Glimt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "link": "#",
+            "related_to": "Galatasaray v Bodø/Glimt",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
@@ -465,12 +561,36 @@
             "encry": "HD Panaccess"
         },
         {
+            "channel": "RTÉ 2 Ireland HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Liverpool",
+            "sat": "Astra 2E",
+            "freq": "11.914 H 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "RTÉ Player (geo/R) 📺",
+            "link": "https://www.rte.ie/player/onnow",
+            "related_to": "Eintracht Frankfurt v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "SRF Zwei Schweiz HD 📺",
             "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
             "related_to": "Eintracht Frankfurt v Liverpool",
             "sat": "Hotbird 13F",
             "freq": "10.971 H 29700 - 2/3",
             "encry": "HD Viaccess"
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Liverpool",
+            "sat": "Intelsat 20",
+            "freq": "11.554 V 30000 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "TNT Sports 1 HD",
@@ -521,6 +641,14 @@
             "sat": "Astra 2F",
             "freq": "12.207 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Chelsea v Ajax",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
@@ -659,6 +787,30 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "Real Madrid v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "Real Madrid v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "link": "#",
+            "related_to": "Real Madrid v Juventus",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 3",
             "flags": {
                 "team1": "portugal",
@@ -705,6 +857,14 @@
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Napoli v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
             "related_to": "Napoli v Eintracht Frankfurt",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -1631,6 +1791,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-14 04:21:28",
-    "total_items": 188
+    "last_updated": "2025-10-14 15:20:18",
+    "total_items": 208
 }
