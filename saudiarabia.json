@@ -6,6 +6,60 @@
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
+            "match": "Al Fayha v Al Ittihad",
+            "time": "15:05",
+            "date": "2025-10-17"
+        },
+        {
+            "channel": "Thamanya 1 KSA HD",
+            "link": "#",
+            "related_to": "Al Fayha v Al Ittihad",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 5",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Kholood v Al Najma",
+            "time": "15:10",
+            "date": "2025-10-17"
+        },
+        {
+            "channel": "Thamanya 2 KSA HD",
+            "link": "#",
+            "related_to": "Al Kholood v Al Najma",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 5",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Ahli v Al Shabab",
+            "time": "18:00",
+            "date": "2025-10-17"
+        },
+        {
+            "channel": "Thamanya 1 KSA HD",
+            "link": "#",
+            "related_to": "Al Ahli v Al Shabab",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 5",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
             "match": "Al Ettifaq v Al Hilal",
             "time": "14:45",
             "date": "2025-10-18"
@@ -17,6 +71,50 @@
             "sat": "Astra 1L",
             "freq": "11.186 V 22000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Thamanya 1 KSA HD",
+            "link": "#",
+            "related_to": "Al Ettifaq v Al Hilal",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 5",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Akhdoud v Al Hazem",
+            "time": "15:15",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "Thamanya 2 KSA HD",
+            "link": "#",
+            "related_to": "Al Akhdoud v Al Hazem",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 5",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Nassr v Al Fateh",
+            "time": "18:00",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "Thamanya 1 KSA HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "compet": "Saudi Professional League - Week 6",
@@ -37,6 +135,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-15 04:26:39",
-    "total_items": 4
+    "last_updated": "2025-10-15 15:23:27",
+    "total_items": 15
 }
