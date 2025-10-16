@@ -19,6 +19,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Go Ahead Eagles v Aston Villa",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "Go Ahead Eagles v Aston Villa",
@@ -69,12 +77,78 @@
         {
             "compet": "UEFA Europa League - Matchday 3",
             "flags": {
+                "team1": "romania",
+                "team2": "italy"
+            },
+            "match": "FCSB v Bologna",
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "FCSB v Bologna",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "FCSB v Bologna",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "FCSB v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "FCSB v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 9",
+            "link": "#",
+            "related_to": "FCSB v Bologna",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 3",
+            "flags": {
                 "team1": "norway",
                 "team2": "scotland"
             },
             "match": "Brann v Rangers",
             "time": "16:45",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Brann v Rangers",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "link": "#",
+            "related_to": "Brann v Rangers",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -107,6 +181,72 @@
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 3",
+            "flags": {
+                "team1": "turkey",
+                "team2": "germany"
+            },
+            "match": "Fenerbahçe v Stuttgart",
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Fenerbahçe v Stuttgart",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Stuttgart",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Fenerbahçe v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Fenerbahçe v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Fenerbahçe v Stuttgart",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "Fenerbahçe v Stuttgart",
+            "sat": "Turksat 3A",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "compet": "UEFA Europa League - Matchday 3",
@@ -169,6 +309,106 @@
         {
             "compet": "UEFA Europa League - Matchday 3",
             "flags": {
+                "team1": "holland",
+                "team2": "greece"
+            },
+            "match": "Feyenoord v Panathinaikos",
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Feyenoord v Panathinaikos",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Feyenoord v Panathinaikos",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Feyenoord v Panathinaikos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Feyenoord v Panathinaikos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Feyenoord v Panathinaikos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 3",
+            "flags": {
+                "team1": "belgium",
+                "team2": "spain"
+            },
+            "match": "Racing Genk v Real Betis",
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Racing Genk v Real Betis",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Racing Genk v Real Betis",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Racing Genk v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Racing Genk v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Racing Genk v Real Betis",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 3",
+            "flags": {
                 "team1": "austria",
                 "team2": "hungary"
             },
@@ -211,158 +451,6 @@
         {
             "compet": "UEFA Europa League - Matchday 3",
             "flags": {
-                "team1": "romania",
-                "team2": "italy"
-            },
-            "match": "FCSB v Bologna",
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "FCSB v Bologna",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "FCSB v Bologna",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 9",
-            "link": "#",
-            "related_to": "FCSB v Bologna",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 23000 - 2/3",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "flags": {
-                "team1": "turkey",
-                "team2": "germany"
-            },
-            "match": "Fenerbahçe v Stuttgart",
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Fenerbahçe v Stuttgart",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Fenerbahçe v Stuttgart",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R) 📺",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "Fenerbahçe v Stuttgart",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 7",
-            "link": "#",
-            "related_to": "Fenerbahçe v Stuttgart",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "TRT 1 Türkiye HD 📺",
-            "link": "https://www.trtizle.com/canli/tv/trt-1",
-            "related_to": "Fenerbahçe v Stuttgart",
-            "sat": "Turksat 3A",
-            "freq": "11.054 V 30000 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "flags": {
-                "team1": "holland",
-                "team2": "greece"
-            },
-            "match": "Feyenoord v Panathinaikos",
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Feyenoord v Panathinaikos",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Feyenoord v Panathinaikos",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R) 📺",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "Feyenoord v Panathinaikos",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "flags": {
-                "team1": "belgium",
-                "team2": "spain"
-            },
-            "match": "Racing Genk v Real Betis",
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Racing Genk v Real Betis",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Racing Genk v Real Betis",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 6",
-            "link": "#",
-            "related_to": "Racing Genk v Real Betis",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "flags": {
                 "team1": "portugal",
                 "team2": "serbia"
             },
@@ -395,6 +483,22 @@
             "match": "Nottingham Forest v FC Porto",
             "time": "19:00",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Nottingham Forest v FC Porto",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v FC Porto",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -439,12 +543,218 @@
         {
             "compet": "UEFA Europa League - Matchday 3",
             "flags": {
+                "team1": "germany",
+                "team2": "holland"
+            },
+            "match": "Freiburg v Utrecht",
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Freiburg v Utrecht",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "link": "#",
+            "related_to": "Freiburg v Utrecht",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Freiburg v Utrecht",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Freiburg v Utrecht",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTL Deutschland HD 📺",
+            "link": "https://plus.rtl.de/video-tv/live-tv/rtl-1",
+            "related_to": "Freiburg v Utrecht",
+            "sat": "Intelsat 20",
+            "freq": "12.522 V 30000 - 3/5",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "RTL Schweiz HD",
+            "link": "#",
+            "related_to": "Freiburg v Utrecht",
+            "sat": "Hotbird 13E",
+            "freq": "11.096 H 30000 - 3/4",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTL Österreich HD",
+            "link": "#",
+            "related_to": "Freiburg v Utrecht",
+            "sat": "Astra 1L",
+            "freq": "12.226 H 27500 - 3/4",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Freiburg v Utrecht",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 9",
+            "link": "#",
+            "related_to": "Freiburg v Utrecht",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 3",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "bulgaria"
+            },
+            "match": "Young Boys v Ludogorets",
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Young Boys v Ludogorets",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Young Boys v Ludogorets",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Young Boys v Ludogorets",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Young Boys v Ludogorets",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "Young Boys v Ludogorets",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": "Young Boys v Ludogorets",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "Young Boys v Ludogorets",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 3",
+            "flags": {
+                "team1": "sweden",
+                "team2": "croatia"
+            },
+            "match": "Malmö v Dinamo Zagreb",
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Malmö v Dinamo Zagreb",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "link": "#",
+            "related_to": "Malmö v Dinamo Zagreb",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Malmö v Dinamo Zagreb",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Malmö v Dinamo Zagreb",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 3",
+            "flags": {
                 "team1": "scotland",
                 "team2": "austria"
             },
             "match": "Celtic v Sturm Graz",
             "time": "19:00",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Celtic v Sturm Graz",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Celtic v Sturm Graz",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Celtic TV ($/geo/R) 📺",
@@ -505,6 +815,22 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Celta Vigo v Nice",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Nice",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Celta Vigo v Nice",
@@ -526,72 +852,6 @@
             "related_to": "Celta Vigo v Nice",
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "flags": {
-                "team1": "germany",
-                "team2": "holland"
-            },
-            "match": "Freiburg v Utrecht",
-            "time": "19:00",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Freiburg v Utrecht",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Freiburg v Utrecht",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "RTL Deutschland HD 📺",
-            "link": "https://plus.rtl.de/video-tv/live-tv/rtl-1",
-            "related_to": "Freiburg v Utrecht",
-            "sat": "Intelsat 20",
-            "freq": "12.522 V 30000 - 3/5",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "RTL Schweiz HD",
-            "link": "#",
-            "related_to": "Freiburg v Utrecht",
-            "sat": "Hotbird 13E",
-            "freq": "11.096 H 30000 - 3/4",
-            "encry": "HD Panaccess"
-        },
-        {
-            "channel": "RTL Österreich HD",
-            "link": "#",
-            "related_to": "Freiburg v Utrecht",
-            "sat": "Astra 1L",
-            "freq": "12.226 H 27500 - 3/4",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R) 📺",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "Freiburg v Utrecht",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 9",
-            "link": "#",
-            "related_to": "Freiburg v Utrecht",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 23000 - 2/3",
             "encry": "VideoGuard"
         },
         {
@@ -665,32 +925,6 @@
         {
             "compet": "UEFA Europa League - Matchday 3",
             "flags": {
-                "team1": "sweden",
-                "team2": "croatia"
-            },
-            "match": "Malmö v Dinamo Zagreb",
-            "time": "19:00",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Malmö v Dinamo Zagreb",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Malmö v Dinamo Zagreb",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "flags": {
                 "team1": "italy",
                 "team2": "czechia"
             },
@@ -721,56 +955,6 @@
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "flags": {
-                "team1": "switzerland",
-                "team2": "bulgaria"
-            },
-            "match": "Young Boys v Ludogorets",
-            "time": "19:00",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Young Boys v Ludogorets",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Young Boys v Ludogorets",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "RSI La 2 Svizzera HD 📺",
-            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
-            "related_to": "Young Boys v Ludogorets",
-            "sat": "Hotbird 13F",
-            "freq": "10.971 H 29700 - 2/3",
-            "encry": "HD Panaccess"
-        },
-        {
-            "channel": "RTS 2 Suisse HD 📺",
-            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
-            "related_to": "Young Boys v Ludogorets",
-            "sat": "Hotbird 13F",
-            "freq": "10.971 H 29700 - 2/3",
-            "encry": "HD Panaccess"
-        },
-        {
-            "channel": "SRF Zwei Schweiz HD 📺",
-            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
-            "related_to": "Young Boys v Ludogorets",
-            "sat": "Hotbird 13F",
-            "freq": "10.971 H 29700 - 2/3",
-            "encry": "HD Viaccess"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -1741,6 +1925,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-16 04:21:17",
-    "total_items": 204
+    "last_updated": "2025-10-16 15:19:45",
+    "total_items": 227
 }

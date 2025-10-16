@@ -65,6 +65,58 @@
         {
             "compet": "AFC Champions League 2 - Round 3",
             "flags": {
+                "team1": "singapore",
+                "team2": "koreas1"
+            },
+            "match": "Tampines Rovers v Pohang Steelers",
+            "time": "10:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Tampines Rovers v Pohang Steelers",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Tampines Rovers v Pohang Steelers",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 3",
+            "flags": {
+                "team1": "indonesia",
+                "team2": "malaysia"
+            },
+            "match": "Persib Bandung v Selangor",
+            "time": "12:15",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Persib Bandung v Selangor",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Persib Bandung v Selangor",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 3",
+            "flags": {
                 "team1": "thailand",
                 "team2": "singapore"
             },
@@ -89,6 +141,6 @@
             "encry": "HD Irdeto"
         }
     ],
-    "last_updated": "2025-10-16 04:23:20",
-    "total_items": 10
+    "last_updated": "2025-10-16 15:21:49",
+    "total_items": 16
 }

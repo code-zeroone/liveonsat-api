@@ -217,12 +217,28 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Marseille v Le Havre",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Marseille v Le Havre",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Marseille v Le Havre",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -1439,6 +1455,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-16 04:22:18",
-    "total_items": 167
+    "last_updated": "2025-10-16 15:20:47",
+    "total_items": 169
 }

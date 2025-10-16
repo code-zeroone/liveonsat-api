@@ -3,6 +3,40 @@
         {
             "compet": "UEFA Conference League - Matchday 2",
             "flags": {
+                "team1": "sweden",
+                "team2": "spain"
+            },
+            "match": "BK Häcken v Rayo Vallecano",
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "BK Häcken v Rayo Vallecano",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "link": "#",
+            "related_to": "BK Häcken v Rayo Vallecano",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "BK Häcken v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "flags": {
                 "team1": "greece",
                 "team2": "scotland"
             },
@@ -45,20 +79,36 @@
         {
             "compet": "UEFA Conference League - Matchday 2",
             "flags": {
-                "team1": "sweden",
-                "team2": "spain"
+                "team1": "austria",
+                "team2": "italy"
             },
-            "match": "BK Häcken v Rayo Vallecano",
+            "match": "Rapid Vienna v Fiorentina",
             "time": "16:45",
             "date": "2025-10-23"
         },
         {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "BK Häcken v Rayo Vallecano",
+            "related_to": "Rapid Vienna v Fiorentina",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 10",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -95,32 +145,6 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
-        },
-        {
-            "compet": "UEFA Conference League - Matchday 2",
-            "flags": {
-                "team1": "austria",
-                "team2": "italy"
-            },
-            "match": "Rapid Vienna v Fiorentina",
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Rapid Vienna v Fiorentina",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 10",
-            "link": "#",
-            "related_to": "Rapid Vienna v Fiorentina",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 23000 - 2/3",
-            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -229,6 +253,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "Crystal Palace v AEK Larnaca",
@@ -327,6 +359,32 @@
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "flags": {
+                "team1": "romania",
+                "team2": "armenia"
+            },
+            "match": "Universitatea Craiova v Noah",
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "link": "#",
+            "related_to": "Universitatea Craiova v Noah",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Universitatea Craiova v Noah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -430,24 +488,6 @@
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Sigma Olomouc v Raków Czestochowa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Conference League - Matchday 2",
-            "flags": {
-                "team1": "romania",
-                "team2": "armenia"
-            },
-            "match": "Universitatea Craiova v Noah",
-            "time": "19:00",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Universitatea Craiova v Noah",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -609,6 +649,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-16 04:21:37",
-    "total_items": 70
+    "last_updated": "2025-10-16 15:20:05",
+    "total_items": 75
 }

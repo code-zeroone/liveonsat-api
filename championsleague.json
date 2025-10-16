@@ -67,6 +67,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Cielo Italia HD",
+            "link": "#",
+            "related_to": "Barcelona v Olympiacos",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 3",
             "flags": {
                 "team1": "kazstan",
@@ -649,6 +657,14 @@
             "sat": "Astra 2F",
             "freq": "12.207 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV8 Italia HD 📺",
+            "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
+            "related_to": "Chelsea v Ajax",
+            "sat": "*DTT",
+            "freq": "0.000 - -",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Virgin Media MORE HD",
@@ -1799,6 +1815,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-16 04:20:56",
-    "total_items": 209
+    "last_updated": "2025-10-16 15:19:24",
+    "total_items": 211
 }
