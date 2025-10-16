@@ -11,6 +11,22 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "AEK Athens v Aberdeen",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "AEK Athens v Aberdeen",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "AEK Athens v Aberdeen",
@@ -205,6 +221,22 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Crystal Palace v AEK Larnaca",
@@ -219,6 +251,82 @@
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "flags": {
+                "team1": "germany",
+                "team2": "bosnia2"
+            },
+            "match": "Mainz 05 v Zrinjski",
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Mainz 05 v Zrinjski",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Zrinjski",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Mainz 05 v Zrinjski",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Mainz 05 v Zrinjski",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 2",
+            "flags": {
+                "team1": "turkey",
+                "team2": "ukraine"
+            },
+            "match": "Samsunspor v Dynamo Kyiv",
+            "time": "19:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "link": "#",
+            "related_to": "Samsunspor v Dynamo Kyiv",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Samsunspor v Dynamo Kyiv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "Samsunspor v Dynamo Kyiv",
+            "sat": "Turksat 3A",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -273,58 +381,6 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
-        },
-        {
-            "compet": "UEFA Conference League - Matchday 2",
-            "flags": {
-                "team1": "germany",
-                "team2": "bosnia2"
-            },
-            "match": "Mainz 05 v Zrinjski",
-            "time": "19:00",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Mainz 05 v Zrinjski",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R) 📺",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "Mainz 05 v Zrinjski",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Conference League - Matchday 2",
-            "flags": {
-                "team1": "turkey",
-                "team2": "ukraine"
-            },
-            "match": "Samsunspor v Dynamo Kyiv",
-            "time": "19:00",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Samsunspor v Dynamo Kyiv",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TRT 1 Türkiye HD 📺",
-            "link": "https://www.trtizle.com/canli/tv/trt-1",
-            "related_to": "Samsunspor v Dynamo Kyiv",
-            "sat": "Turksat 3A",
-            "freq": "11.054 V 30000 - 3/4",
-            "encry": "Free To Air HD"
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -553,6 +609,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-15 15:18:41",
-    "total_items": 63
+    "last_updated": "2025-10-16 04:21:37",
+    "total_items": 70
 }

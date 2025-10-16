@@ -11,6 +11,22 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Go Ahead Eagles v Aston Villa",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Go Ahead Eagles v Aston Villa",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Go Ahead Eagles v Aston Villa",
@@ -91,6 +107,106 @@
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 3",
+            "flags": {
+                "team1": "france",
+                "team2": "switzerland"
+            },
+            "match": "Lyon v Basel",
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Lyon v Basel",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Lyon v Basel",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Lyon v Basel",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Lyon v Basel",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Lyon v Basel",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Lyon v Basel",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 3",
+            "flags": {
+                "team1": "austria",
+                "team2": "hungary"
+            },
+            "match": "Salzburg v Ferencváros",
+            "time": "16:45",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "link": "#",
+            "related_to": "Salzburg v Ferencváros",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Salzburg v Ferencváros",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "Salzburg v Ferencváros",
+            "sat": "Astra 3B",
+            "freq": "11.778 V 29900 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Salzburg v Ferencváros",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Europa League - Matchday 3",
@@ -213,48 +329,6 @@
         {
             "compet": "UEFA Europa League - Matchday 3",
             "flags": {
-                "team1": "france",
-                "team2": "switzerland"
-            },
-            "match": "Lyon v Basel",
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Lyon v Basel",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Lyon v Basel",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "RTL+ Deutschland (geo/R) 📺",
-            "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": "Lyon v Basel",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 8",
-            "link": "#",
-            "related_to": "Lyon v Basel",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "flags": {
                 "team1": "belgium",
                 "team2": "spain"
             },
@@ -285,40 +359,6 @@
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "flags": {
-                "team1": "austria",
-                "team2": "hungary"
-            },
-            "match": "Salzburg v Ferencváros",
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Salzburg v Ferencváros",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "M4 Sport Hungary HD 📺",
-            "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": "Salzburg v Ferencváros",
-            "sat": "Astra 3B",
-            "freq": "11.778 V 29900 - 2/3",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Salzburg v Ferencváros",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
         },
         {
             "compet": "UEFA Europa League - Matchday 3",
@@ -1701,6 +1741,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-15 15:18:21",
-    "total_items": 199
+    "last_updated": "2025-10-16 04:21:17",
+    "total_items": 204
 }
