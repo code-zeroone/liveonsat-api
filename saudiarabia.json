@@ -11,6 +11,14 @@
             "date": "2025-10-17"
         },
         {
+            "channel": "Band Sports Brazil HD",
+            "link": "#",
+            "related_to": "Al Fayha v Al Ittihad",
+            "sat": "SES 6",
+            "freq": "11.680 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Thamanya 1 KSA HD",
             "link": "#",
             "related_to": "Al Fayha v Al Ittihad",
@@ -73,6 +81,30 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sportitalia HD 📺",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "Al Ettifaq v Al Hilal",
+            "sat": "Eutelsat 9B",
+            "freq": "12.341 V 31400 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "link": "#",
+            "related_to": "Al Ettifaq v Al Hilal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "link": "#",
+            "related_to": "Al Ettifaq v Al Hilal",
+            "sat": "Eutelsat 16A",
+            "freq": "11.387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "ST Sports Arena",
             "link": "#",
             "related_to": "Al Ettifaq v Al Hilal",
@@ -117,12 +149,60 @@
             "date": "2025-10-18"
         },
         {
+            "channel": "Band Sports Brazil HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "SES 6",
+            "freq": "11.680 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "MAX Sport 1 Bulgaria HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "AzerSpace 2",
+            "freq": "11.475 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD 📺",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "Hotbird 13F",
+            "freq": "11.179 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "ST Sports Focus",
             "link": "#",
             "related_to": "Al Nassr v Al Fateh",
             "sat": "Thor 6",
             "freq": "11.977 V 27500 - 3/4",
             "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "SuperSport 6 Albania HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "Eutelsat 16A",
+            "freq": "10.804 H 29950 - 2/3",
+            "encry": "HD Conax"
         },
         {
             "channel": "Thamanya 1 KSA HD",
@@ -151,6 +231,30 @@
             "date": "2025-10-19"
         },
         {
+            "channel": "Sportitalia SoloCalcio HD 📺",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": "NEOM SC v Al Qadisiyah",
+            "sat": "Hotbird 13F",
+            "freq": "11.179 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "link": "#",
+            "related_to": "NEOM SC v Al Qadisiyah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "link": "#",
+            "related_to": "NEOM SC v Al Qadisiyah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "ST World Football HD",
             "link": "#",
             "related_to": "NEOM SC v Al Qadisiyah",
@@ -177,6 +281,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-17 04:26:54",
-    "total_items": 20
+    "last_updated": "2025-10-17 15:23:40",
+    "total_items": 33
 }

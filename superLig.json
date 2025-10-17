@@ -77,12 +77,12 @@
             "encry": "HD NagraVision"
         },
         {
-            "channel": "beIN Sports Türkiye 1 HD",
+            "channel": "beIN Sports Türkiye 2 HD",
             "link": "#",
             "related_to": "Besiktas v Gençlerbirligi",
             "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "beIN Sports US 3",
@@ -181,6 +181,14 @@
             "encry": "MPEG-4 NDS"
         },
         {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Besiktas v Gençlerbirligi",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 9",
             "flags": {
                 "team1": "turkey",
@@ -215,12 +223,12 @@
             "encry": ""
         },
         {
-            "channel": "beIN Sports Türkiye 2 HD",
+            "channel": "beIN Sports Türkiye 1 HD",
             "link": "#",
             "related_to": "Caykur Rizespor v Trabzonspor",
             "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
         },
         {
             "channel": "beIN Sports US 4",
@@ -317,6 +325,14 @@
             "sat": "Horizons 2",
             "freq": "11.840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "link": "#",
+            "related_to": "Caykur Rizespor v Trabzonspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "Türkiye Süper Lig - Week 9",
@@ -505,6 +521,30 @@
             "encry": "MPEG-4 NDS"
         },
         {
+            "channel": "SportKlub 2 Hrvatska",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Galatasaray",
+            "sat": "Eutelsat 16A",
+            "freq": "10.804 H 29950 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 9",
             "flags": {
                 "team1": "turkey",
@@ -549,6 +589,30 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Türkiye 1 HD",
+            "link": "#",
+            "related_to": "Alanyaspor v Göztepe",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "link": "#",
+            "related_to": "Alanyaspor v Göztepe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "link": "#",
+            "related_to": "Alanyaspor v Göztepe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 9",
             "flags": {
                 "team1": "turkey",
@@ -565,6 +629,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "link": "#",
+            "related_to": "Gaziantep v Antalyaspor",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "Türkiye Süper Lig - Week 9",
@@ -617,12 +689,12 @@
             "encry": ""
         },
         {
-            "channel": "beIN Sports France 7 HD max",
+            "channel": "beIN Sports France 2 HD",
             "link": "#",
             "related_to": "Fenerbahçe v Fatih Karagümrük",
             "sat": "Astra 1M",
-            "freq": "11.895 V 29700 - 2/3",
-            "encry": "HD NagraVision"
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD Viaccess"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -713,11 +785,27 @@
             "encry": ""
         },
         {
+            "channel": "Fox Sports 2 Chile",
+            "link": "#",
+            "related_to": "Fenerbahçe v Fatih Karagümrük",
+            "sat": "Telstar 12",
+            "freq": "11.919 H 45000 - 3/4",
+            "encry": "MPEG-4 BetaC"
+        },
+        {
             "channel": "Fox Sports 3 Argentina HD",
             "link": "#",
             "related_to": "Fenerbahçe v Fatih Karagümrük",
             "sat": "SES 6",
             "freq": "4.135 L 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Fox Sports HD Colombia",
+            "link": "#",
+            "related_to": "Fenerbahçe v Fatih Karagümrük",
+            "sat": "SES 6",
+            "freq": "3.803 R 30000 - 5/6",
             "encry": "HD PowerVu"
         },
         {
@@ -769,6 +857,22 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Fatih Karagümrük",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Fatih Karagümrük",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "ZhiBo8 TV (China)",
             "link": "#",
             "related_to": "Fenerbahçe v Fatih Karagümrük",
@@ -813,12 +917,28 @@
             "date": "2025-10-22"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Konyaspor v Besiktas",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Konyaspor v Besiktas",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "link": "#",
+            "related_to": "Konyaspor v Besiktas",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -2115,6 +2235,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-17 04:25:33",
-    "total_items": 248
+    "last_updated": "2025-10-17 15:22:19",
+    "total_items": 263
 }

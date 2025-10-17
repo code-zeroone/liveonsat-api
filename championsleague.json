@@ -11,6 +11,22 @@
             "date": "2025-10-21"
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Barcelona v Olympiacos",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 9 Live HD",
+            "link": "#",
+            "related_to": "Barcelona v Olympiacos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Barcelona v Olympiacos",
@@ -85,6 +101,22 @@
             "date": "2025-10-21"
         },
         {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "link": "#",
+            "related_to": "Kairat Almaty v Pafos FC",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 10 Live HD",
+            "link": "#",
+            "related_to": "Kairat Almaty v Pafos FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Kairat Almaty v Pafos FC",
@@ -125,6 +157,22 @@
             "match": "Villarreal v Manchester City",
             "time": "19:00",
             "date": "2025-10-21"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Villarreal v Manchester City",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 3 Live HD",
+            "link": "#",
+            "related_to": "Villarreal v Manchester City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -178,11 +226,109 @@
             "compet": "UEFA Champions League - Matchday 3",
             "flags": {
                 "team1": "england",
+                "team2": "spain"
+            },
+            "match": "Arsenal v Atlético Madrid",
+            "time": "19:00",
+            "date": "2025-10-21"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Arsenal v Atlético Madrid",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Arsenal v Atlético Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Arsenal v Atlético Madrid",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 2 Live HD",
+            "link": "#",
+            "related_to": "Arsenal v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 3 Live HDR",
+            "link": "#",
+            "related_to": "Arsenal v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Arsenal v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Arsenal v Atlético Madrid",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Prime Video UK [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Arsenal v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "link": "#",
+            "related_to": "Arsenal v Atlético Madrid",
+            "sat": "Intelsat 20",
+            "freq": "11.554 V 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 3",
+            "flags": {
+                "team1": "england",
                 "team2": "portugal"
             },
             "match": "Newcastle United v Benfica",
             "time": "19:00",
             "date": "2025-10-21"
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "link": "#",
+            "related_to": "Newcastle United v Benfica",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 5 Live HD",
+            "link": "#",
+            "related_to": "Newcastle United v Benfica",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -227,54 +373,52 @@
         {
             "compet": "UEFA Champions League - Matchday 3",
             "flags": {
-                "team1": "england",
-                "team2": "spain"
-            },
-            "match": "Arsenal v Atlético Madrid",
-            "time": "19:00",
-            "date": "2025-10-21"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Arsenal v Atlético Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "link": "#",
-            "related_to": "Arsenal v Atlético Madrid",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Prime Video UK [$] 📺",
-            "link": "https://www.primevideo.com/",
-            "related_to": "Arsenal v Atlético Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SuperSport Premier League HD",
-            "link": "#",
-            "related_to": "Arsenal v Atlético Madrid",
-            "sat": "Intelsat 20",
-            "freq": "11.554 V 30000 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 3",
-            "flags": {
                 "team1": "germany",
                 "team2": "france"
             },
             "match": "Bayer Leverkusen v Paris St Germain",
             "time": "19:00",
             "date": "2025-10-21"
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Paris St Germain",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 1 Live HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 1 Live UHD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 2 Live HDR",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport D 2 HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -311,6 +455,30 @@
             "date": "2025-10-21"
         },
         {
+            "channel": "Arena Sport 9 Hrvatska HD",
+            "link": "#",
+            "related_to": "FC Copenhagen v Borussia Dortmund",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 4 Live HDR",
+            "link": "#",
+            "related_to": "FC Copenhagen v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 6 Live HD",
+            "link": "#",
+            "related_to": "FC Copenhagen v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "FC Copenhagen v Borussia Dortmund",
@@ -343,6 +511,22 @@
             "match": "PSV Eindhoven v Napoli",
             "time": "19:00",
             "date": "2025-10-21"
+        },
+        {
+            "channel": "Arena Sport 10 Hrvatska HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Napoli",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 7 Live HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -379,6 +563,22 @@
             "date": "2025-10-21"
         },
         {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "link": "#",
+            "related_to": "Union St Gilloise v Inter Milan",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 4 Live HD",
+            "link": "#",
+            "related_to": "Union St Gilloise v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Union St Gilloise v Inter Milan",
@@ -411,6 +611,22 @@
             "match": "Athletic Bilbao v Qarabagh",
             "time": "16:45",
             "date": "2025-10-22"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Qarabagh",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 9 Live HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Qarabagh",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "CBC Sport HD",
@@ -461,6 +677,22 @@
             "match": "Galatasaray v Bodø/Glimt",
             "time": "16:45",
             "date": "2025-10-22"
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "link": "#",
+            "related_to": "Galatasaray v Bodø/Glimt",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 10 Live HD",
+            "link": "#",
+            "related_to": "Galatasaray v Bodø/Glimt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -535,6 +767,30 @@
             "match": "Eintracht Frankfurt v Liverpool",
             "time": "19:00",
             "date": "2025-10-22"
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Liverpool",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 2 Live HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 3 Live HDR",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -619,172 +875,68 @@
         {
             "compet": "UEFA Champions League - Matchday 3",
             "flags": {
-                "team1": "england7",
-                "team2": "holland"
-            },
-            "match": "Chelsea v Ajax",
-            "time": "19:00",
-            "date": "2025-10-22"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Chelsea v Ajax",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Chelsea v Ajax",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "link": "#",
-            "related_to": "Chelsea v Ajax",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TNT Sports Ultimate UHD",
-            "link": "#",
-            "related_to": "Chelsea v Ajax",
-            "sat": "Astra 2F",
-            "freq": "12.207 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TV8 Italia HD 📺",
-            "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
-            "related_to": "Chelsea v Ajax",
-            "sat": "*DTT",
-            "freq": "0.000 - -",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "Virgin Media MORE HD",
-            "link": "#",
-            "related_to": "Chelsea v Ajax",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 3",
-            "flags": {
-                "team1": "france",
-                "team2": "england"
-            },
-            "match": "Monaco v Tottenham Hotspur",
-            "time": "19:00",
-            "date": "2025-10-22"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Monaco v Tottenham Hotspur",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Monaco v Tottenham Hotspur",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 3 HD",
-            "link": "#",
-            "related_to": "Monaco v Tottenham Hotspur",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 3",
-            "flags": {
-                "team1": "italy",
-                "team2": "czechia"
-            },
-            "match": "Atalanta v Slavia Prague",
-            "time": "19:00",
-            "date": "2025-10-22"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Atalanta v Slavia Prague",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Atalanta v Slavia Prague",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 8",
-            "link": "#",
-            "related_to": "Atalanta v Slavia Prague",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 3",
-            "flags": {
-                "team1": "germany",
-                "team2": "belgium"
-            },
-            "match": "Bayern Munich v Club Brugge",
-            "time": "19:00",
-            "date": "2025-10-22"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Bayern Munich v Club Brugge",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Bayern Munich v Club Brugge",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 6",
-            "link": "#",
-            "related_to": "Bayern Munich v Club Brugge",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 3",
-            "flags": {
                 "team1": "spain",
                 "team2": "italy"
             },
             "match": "Real Madrid v Juventus",
             "time": "19:00",
             "date": "2025-10-22"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Real Madrid v Juventus",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Real Madrid v Juventus",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Juventus",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 1 Live HD",
+            "link": "#",
+            "related_to": "Real Madrid v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 1 Live UHD",
+            "link": "#",
+            "related_to": "Real Madrid v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 2 Live HDR",
+            "link": "#",
+            "related_to": "Real Madrid v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport D 2 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -845,6 +997,38 @@
             "date": "2025-10-22"
         },
         {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Marseille",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Sporting Lisbon v Marseille",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Marseille",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 5 Live HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Marseille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Sporting Lisbon v Marseille",
@@ -864,6 +1048,238 @@
             "channel": "TNT Sports 7",
             "link": "#",
             "related_to": "Sporting Lisbon v Marseille",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 3",
+            "flags": {
+                "team1": "england7",
+                "team2": "holland"
+            },
+            "match": "Chelsea v Ajax",
+            "time": "19:00",
+            "date": "2025-10-22"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Chelsea v Ajax",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 3 Live HD",
+            "link": "#",
+            "related_to": "Chelsea v Ajax",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Chelsea v Ajax",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Chelsea v Ajax",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Chelsea v Ajax",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Chelsea v Ajax",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV8 Italia HD 📺",
+            "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
+            "related_to": "Chelsea v Ajax",
+            "sat": "*DTT",
+            "freq": "0.000 - -",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Chelsea v Ajax",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 3",
+            "flags": {
+                "team1": "france",
+                "team2": "england"
+            },
+            "match": "Monaco v Tottenham Hotspur",
+            "time": "19:00",
+            "date": "2025-10-22"
+        },
+        {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "link": "#",
+            "related_to": "Monaco v Tottenham Hotspur",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 6 Live HD",
+            "link": "#",
+            "related_to": "Monaco v Tottenham Hotspur",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Monaco v Tottenham Hotspur",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Monaco v Tottenham Hotspur",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Monaco v Tottenham Hotspur",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 3",
+            "flags": {
+                "team1": "italy",
+                "team2": "czechia"
+            },
+            "match": "Atalanta v Slavia Prague",
+            "time": "19:00",
+            "date": "2025-10-22"
+        },
+        {
+            "channel": "Arena Sport 10 Hrvatska HD",
+            "link": "#",
+            "related_to": "Atalanta v Slavia Prague",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 7 Live HD",
+            "link": "#",
+            "related_to": "Atalanta v Slavia Prague",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Atalanta v Slavia Prague",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Atalanta v Slavia Prague",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Atalanta v Slavia Prague",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 3",
+            "flags": {
+                "team1": "germany",
+                "team2": "belgium"
+            },
+            "match": "Bayern Munich v Club Brugge",
+            "time": "19:00",
+            "date": "2025-10-22"
+        },
+        {
+            "channel": "Arena Sport 9 Hrvatska HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Club Brugge",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Blue Sport 4 Live HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Club Brugge",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 4 Live HDR",
+            "link": "#",
+            "related_to": "Bayern Munich v Club Brugge",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Bayern Munich v Club Brugge",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Bayern Munich v Club Brugge",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Bayern Munich v Club Brugge",
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
@@ -1815,6 +2231,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-17 04:21:28",
-    "total_items": 211
+    "last_updated": "2025-10-17 15:18:13",
+    "total_items": 263
 }

@@ -45,6 +45,14 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "link": "#",
+            "related_to": "AEK Athens v Aberdeen",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "AEK Athens v Aberdeen",
@@ -59,6 +67,14 @@
             "sat": "Eshail 2",
             "freq": "11.390 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 14 Live HD",
+            "link": "#",
+            "related_to": "AEK Athens v Aberdeen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -87,12 +103,28 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "beIN Sports MENA Xtra 2 HD",
             "link": "#",
             "related_to": "Rapid Vienna v Fiorentina",
             "sat": "Eshail 2",
             "freq": "10.850 H 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Blue Sport 15 Live HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -155,6 +187,14 @@
             "match": "Rijeka v Sparta Prague",
             "time": "16:45",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "link": "#",
+            "related_to": "Rijeka v Sparta Prague",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -269,6 +309,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Blue Sport 21 Live HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Crystal Palace v AEK Larnaca",
@@ -295,6 +343,14 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Zrinjski",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Mainz 05 v Zrinjski",
@@ -309,6 +365,14 @@
             "sat": "Eshail 2",
             "freq": "11.390 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 22 Live HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Zrinjski",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -415,6 +479,22 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "Blue Sport 3 Live HD",
+            "link": "#",
+            "related_to": "Hamrun Spartans v Lausanne Sport",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 4 Live HDR",
+            "link": "#",
+            "related_to": "Hamrun Spartans v Lausanne Sport",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Hamrun Spartans v Lausanne Sport",
@@ -449,6 +529,14 @@
             "match": "Shamrock Rovers v Celje",
             "time": "19:00",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "link": "#",
+            "related_to": "Shamrock Rovers v Celje",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -649,6 +737,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-17 04:22:09",
-    "total_items": 75
+    "last_updated": "2025-10-17 15:18:54",
+    "total_items": 86
 }
