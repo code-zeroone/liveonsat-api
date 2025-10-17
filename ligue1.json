@@ -19,10 +19,58 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Strasbourg",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Strasbourg",
+            "sat": "Astra 1N",
+            "freq": "12.070 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Strasbourg",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Paris St Germain v Strasbourg",
             "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Strasbourg",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Paris St Germain v Strasbourg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Paris St Germain v Strasbourg",
+            "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
         },
@@ -90,6 +138,14 @@
             "related_to": "Nice v Lyon",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Nice v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -245,6 +301,14 @@
             "link": "https://plus.ligue1.com/home",
             "related_to": "Marseille v Le Havre",
             "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Marseille v Le Havre",
+            "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
         },
@@ -619,6 +683,14 @@
             "encry": ""
         },
         {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Nantes v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sky Sport Calcio HD",
             "link": "#",
             "related_to": "Nantes v Lille",
@@ -677,6 +749,30 @@
             "date": "2025-10-24"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Paris FC v Nantes",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Paris FC v Nantes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Paris FC v Nantes",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Paris FC v Nantes",
@@ -690,9 +786,35 @@
                 "team1": "france",
                 "team2": "france"
             },
+            "match": "Brest v Paris St Germain",
+            "time": "15:00",
+            "date": "2025-10-25"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Brest v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "French Ligue 1 - Week 9",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
             "match": "Monaco v Toulouse",
             "time": "17:00",
             "date": "2025-10-25"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Monaco v Toulouse",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -713,6 +835,14 @@
             "date": "2025-10-25"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Lens v Marseille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Lens v Marseille",
@@ -729,6 +859,14 @@
             "match": "Lille v Metz",
             "time": "14:00",
             "date": "2025-10-26"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Lille v Metz",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -749,6 +887,14 @@
             "date": "2025-10-26"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Angers v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Angers v Lorient",
@@ -765,6 +911,14 @@
             "match": "Auxerre v Le Havre",
             "time": "16:15",
             "date": "2025-10-26"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Auxerre v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -785,6 +939,14 @@
             "date": "2025-10-26"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Rennes v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Rennes v Nice",
@@ -801,6 +963,14 @@
             "match": "Lyon v Strasbourg",
             "time": "19:45",
             "date": "2025-10-26"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Lyon v Strasbourg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -1455,6 +1625,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-16 15:20:47",
-    "total_items": 169
+    "last_updated": "2025-10-17 04:22:50",
+    "total_items": 190
 }

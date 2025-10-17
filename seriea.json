@@ -83,6 +83,14 @@
             "encry": ""
         },
         {
+            "channel": "Z Sports 1 Angola",
+            "link": "#",
+            "related_to": "Lecce v Sassuolo",
+            "sat": "Eutelsat 36D",
+            "freq": "11.263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra"
+        },
+        {
             "channel": "Ziggo Sport 2",
             "link": "#",
             "related_to": "Lecce v Sassuolo",
@@ -297,6 +305,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Roma v Inter Milan",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/0",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "DAZN Great Britain (geo/R) 📺",
             "link": "https://www.dazn.com/en-GB/signin",
             "related_to": "Roma v Inter Milan",
@@ -319,6 +335,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Roma v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Fast Sports [online] ($/geo/R) 📺",
@@ -369,6 +393,14 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Roma v Inter Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Roma v Inter Milan",
@@ -409,6 +441,14 @@
             "encry": ""
         },
         {
+            "channel": "Z Sports 2 Angola",
+            "link": "#",
+            "related_to": "Roma v Inter Milan",
+            "sat": "Eutelsat 36D",
+            "freq": "11.388 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra"
+        },
+        {
             "channel": "Ziggo Sport HD",
             "link": "#",
             "related_to": "Roma v Inter Milan",
@@ -433,6 +473,14 @@
             "sat": "Astra 3C",
             "freq": "12.402 V 30000 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Como v Juventus",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/0",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "DAZN Great Britain (geo/R) 📺",
@@ -915,6 +963,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Fast Sports [online] ($/geo/R) 📺",
             "link": "https://fasttv.am/live-sports?sport_type=football",
             "related_to": "AC Milan v Fiorentina",
@@ -944,6 +1000,14 @@
             "related_to": "AC Milan v Fiorentina",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "AC Milan v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -1003,6 +1067,14 @@
             "match": "Cremonese v Udinese",
             "time": "18:45",
             "date": "2025-10-20"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Cremonese v Udinese",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/0",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "DAZN Great Britain (geo/R) 📺",
@@ -2219,6 +2291,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-16 15:20:26",
-    "total_items": 264
+    "last_updated": "2025-10-17 04:22:30",
+    "total_items": 273
 }
