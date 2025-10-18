@@ -461,6 +461,14 @@
             "date": "2025-10-18"
         },
         {
+            "channel": "4 Sports HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Barcelona v Girona",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Arena Premium 1 Slovenija",
             "link": "#",
             "related_to": "Barcelona v Girona",
@@ -749,6 +757,14 @@
             "encry": ""
         },
         {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Barcelona v Girona",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
             "link": "https://www.mtv.fi/urheilu",
             "related_to": "Barcelona v Girona",
@@ -843,6 +859,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Barcelona v Girona",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Spíler 2 TV Hungary HD",
@@ -1415,6 +1439,14 @@
             "match": "Atlético Madrid v Osasuna",
             "time": "19:00",
             "date": "2025-10-18"
+        },
+        {
+            "channel": "4 Sports HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -2857,12 +2889,28 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports 3 HD (Astro)",
             "link": "#",
             "related_to": "Getafe v Real Madrid",
             "sat": "Measat 3b",
             "freq": "10.732 V 30000 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Blue Sport D 1 HD",
@@ -3195,11 +3243,27 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Alavés v Valencia",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports 1 HD (Astro)",
             "link": "#",
             "related_to": "Alavés v Valencia",
             "sat": "Measat 3b",
             "freq": "11.142 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Alavés v Valencia",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -4435,6 +4499,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-18 04:21:47",
-    "total_items": 546
+    "last_updated": "2025-10-18 15:17:15",
+    "total_items": 554
 }

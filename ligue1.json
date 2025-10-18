@@ -883,12 +883,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Rennes v Auxerre",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Rennes v Auxerre",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Rennes v Auxerre",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "beIN Sports Türkiye 4 HD",
@@ -1087,12 +1103,28 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Lorient v Brest",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Lorient v Brest",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Lorient v Brest",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Eleven Sports 4 Polska HD",
@@ -2359,6 +2391,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-18 04:21:26",
-    "total_items": 282
+    "last_updated": "2025-10-18 15:16:54",
+    "total_items": 286
 }

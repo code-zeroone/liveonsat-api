@@ -295,7 +295,7 @@
             "encry": "LiveOnSat.com"
         },
         {
-            "compet": "Australian A League - Round 1",
+            "compet": "Australian A League - Week 1",
             "flags": {
                 "team1": "australia17",
                 "team2": "newzealand"
@@ -334,24 +334,6 @@
             "related_to": "Melbourne Victory v Auckland FC",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "Australian A League - Week 1",
-            "flags": {
-                "team1": "australia17",
-                "team2": "newzealand"
-            },
-            "match": "Melbourne Victory v Auckland FC",
-            "time": "08:35",
-            "date": "2025-10-18"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "link": "#",
-            "related_to": "Melbourne Victory v Auckland FC",
-            "sat": "Astra 1L",
-            "freq": "11.186 V 22000 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -491,7 +473,7 @@
             "encry": "FTA (BISS)"
         },
         {
-            "compet": "Australian A League - Round 1",
+            "compet": "Australian A League - Week 1",
             "flags": {
                 "team1": "australia1",
                 "team2": "newzealand"
@@ -521,26 +503,8 @@
             "link": "#",
             "related_to": "Perth Glory v Wellington Phoenix",
             "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "Australian A League - Week 1",
-            "flags": {
-                "team1": "australia1",
-                "team2": "newzealand"
-            },
-            "match": "Perth Glory v Wellington Phoenix",
-            "time": "10:45",
-            "date": "2025-10-18"
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "link": "#",
-            "related_to": "Perth Glory v Wellington Phoenix",
-            "sat": "Astra 1L",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD VideoGuard"
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "Swedish Damallsvenskan - Week 23",
@@ -1281,6 +1245,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Chelsea",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
@@ -2521,6 +2493,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "HR Fernsehen HD",
+            "link": "#",
+            "related_to": "Hansa Rostock v Wehen Wiesbaden",
+            "sat": "Astra 1P",
+            "freq": "10.891 H 22000 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Magenta Sport ($/geo/R) 📺",
@@ -7441,6 +7421,24 @@
             "encry": ""
         },
         {
+            "compet": "Scottish Championship - Week 11",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "match": "Queen's Park v Airdrieonians",
+            "time": "14:00",
+            "date": "2025-10-18"
+        },
+        {
+            "channel": "Diamonds TV [$] 📺",
+            "link": "https://dtvlive.airdriefc.com/",
+            "related_to": "Queen's Park v Airdrieonians",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 9",
             "flags": {
                 "team1": "spain",
@@ -7449,6 +7447,14 @@
             "match": "Barcelona v Girona",
             "time": "14:15",
             "date": "2025-10-18"
+        },
+        {
+            "channel": "4 Sports HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Barcelona v Girona",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Arena Premium 1 Slovenija",
@@ -7739,6 +7745,14 @@
             "encry": ""
         },
         {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Barcelona v Girona",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
             "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
             "related_to": "Barcelona v Girona",
@@ -7833,6 +7847,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Barcelona v Girona",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Spíler 2 TV Hungary HD",
@@ -8217,6 +8239,14 @@
             "sat": "Astra 1KR",
             "freq": "11.156 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "New World Sport 4 Togo",
+            "link": "#",
+            "related_to": "Al Ettifaq v Al Hilal",
+            "sat": "Eutelsat 16A",
+            "freq": "12.604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
         },
         {
             "channel": "Okko Sport HD Russia ($/geo/R)",
@@ -8993,6 +9023,14 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "link": "#",
+            "related_to": "Torino v Napoli",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "ONE2 Sport Israel HD",
             "link": "#",
             "related_to": "Torino v Napoli",
@@ -9375,6 +9413,14 @@
             "match": "Fulham v Arsenal",
             "time": "16:30",
             "date": "2025-10-18"
+        },
+        {
+            "channel": "4 Sports HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Fulham v Arsenal",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -10035,6 +10081,14 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Go3 Sport 1 Baltic HD 📺",
             "link": "https://go3.tv/en/live_tv",
             "related_to": "Bayern Munich v Borussia Dortmund",
@@ -10057,6 +10111,14 @@
             "sat": "Badr 8",
             "freq": "12.399 V 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Nova Sport 3 Czech HD",
@@ -11265,6 +11327,14 @@
             "encry": ""
         },
         {
+            "channel": "Como TV ($/geo/R) 📺",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "PSV Eindhoven v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Dubai Sports 2 HD 📺",
             "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
             "related_to": "PSV Eindhoven v Go Ahead Eagles",
@@ -11335,6 +11405,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Go Ahead Eagles",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Silk Sport 1 HD",
@@ -11919,6 +11997,14 @@
             "date": "2025-10-18"
         },
         {
+            "channel": "Como TV ($/geo/R) 📺",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "Celoricense v FC Porto",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "JOJ Šport 2 SVK HD",
             "link": "#",
             "related_to": "Celoricense v FC Porto",
@@ -12193,6 +12279,14 @@
             "encry": "Seca"
         },
         {
+            "channel": "New World Sport 5 Togo",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Okko Futbol HD ($/geo/R)",
             "link": "#",
             "related_to": "Al Nassr v Al Fateh",
@@ -12223,6 +12317,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Sport TV4 Portugal HD",
@@ -12931,6 +13033,14 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "link": "#",
+            "related_to": "Roma v Inter Milan",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Roma v Inter Milan",
@@ -13271,6 +13381,14 @@
             "match": "Atlético Madrid v Osasuna",
             "time": "19:00",
             "date": "2025-10-18"
+        },
+        {
+            "channel": "4 Sports HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Atlético Madrid v Osasuna",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -13829,6 +13947,14 @@
             "encry": ""
         },
         {
+            "channel": "Como TV ($/geo/R) 📺",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "Ajax v AZ Alkmaar",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 2 Portugal HD",
             "link": "#",
             "related_to": "Ajax v AZ Alkmaar",
@@ -13907,6 +14033,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "link": "#",
+            "related_to": "Ajax v AZ Alkmaar",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Silk Universal HD",
@@ -14405,6 +14539,14 @@
             "date": "2025-10-18"
         },
         {
+            "channel": "Como TV ($/geo/R) 📺",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": "Paços Ferreira v Sporting Lisbon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "JOJ Šport 2 SVK HD",
             "link": "#",
             "related_to": "Paços Ferreira v Sporting Lisbon",
@@ -14837,6 +14979,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-10-18 04:19:22",
-    "total_items": 1806
+    "last_updated": "2025-10-18 15:14:50",
+    "total_items": 1824
 }

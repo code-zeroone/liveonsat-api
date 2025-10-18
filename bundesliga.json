@@ -1013,6 +1013,14 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Go3 Sport 1 Baltic HD 📺",
             "link": "https://go3.tv/en/live_tv",
             "related_to": "Bayern Munich v Borussia Dortmund",
@@ -1035,6 +1043,14 @@
             "sat": "Badr 8",
             "freq": "12.399 V 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Bayern Munich v Borussia Dortmund",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Nova Sport 3 Czech HD",
@@ -1947,6 +1963,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Union Berlin",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "YouTube: German Football (geo/R) 📺",
             "link": "https://www.youtube.com/@GermanFootball/streams",
             "related_to": "Werder Bremen v Union Berlin",
@@ -2475,6 +2499,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-18 04:22:08",
-    "total_items": 304
+    "last_updated": "2025-10-18 15:17:35",
+    "total_items": 307
 }

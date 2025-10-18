@@ -51,6 +51,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "New World Sport 4 Togo",
+            "link": "#",
+            "related_to": "Al Ettifaq v Al Hilal",
+            "sat": "Eutelsat 16A",
+            "freq": "12.604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Okko Sport HD Russia ($/geo/R)",
             "link": "#",
             "related_to": "Al Ettifaq v Al Hilal",
@@ -215,6 +223,14 @@
             "encry": "Seca"
         },
         {
+            "channel": "New World Sport 5 Togo",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Okko Futbol HD ($/geo/R)",
             "link": "#",
             "related_to": "Al Nassr v Al Fateh",
@@ -245,6 +261,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fateh",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Sport TV4 Portugal HD",
@@ -435,6 +459,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-18 04:25:31",
-    "total_items": 53
+    "last_updated": "2025-10-18 15:20:59",
+    "total_items": 56
 }

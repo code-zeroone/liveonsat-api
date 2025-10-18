@@ -227,6 +227,14 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Chelsea",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
             "link": "https://go3.tv/extra_sports",
             "related_to": "Nottingham Forest v Chelsea",
@@ -2199,6 +2207,14 @@
             "date": "2025-10-18"
         },
         {
+            "channel": "4 Sports HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Fulham v Arsenal",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Arena Premium 2 Srbija HD",
             "link": "#",
             "related_to": "Fulham v Arsenal",
@@ -3227,6 +3243,14 @@
             "encry": ""
         },
         {
+            "channel": "Arezo TV HD",
+            "link": "#",
+            "related_to": "Liverpool v Manchester United",
+            "sat": "Al Yah 1",
+            "freq": "12.054 H 27500 - 3/5",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Astro Grandstand HD",
             "link": "#",
             "related_to": "Liverpool v Manchester United",
@@ -3243,12 +3267,28 @@
             "encry": "HD Mediaguard"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Liverpool v Manchester United",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Liverpool v Manchester United",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Liverpool v Manchester United",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "beIN Sports Türkiye 3 HD",
@@ -6757,6 +6797,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-18 04:19:43",
-    "total_items": 832
+    "last_updated": "2025-10-18 15:15:11",
+    "total_items": 837
 }
