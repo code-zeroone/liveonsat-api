@@ -189,6 +189,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SuperSport ESPN HD",
+            "link": "#",
+            "related_to": "Besiktas v Gençlerbirligi",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 9",
             "flags": {
                 "team1": "turkey",
@@ -1037,12 +1045,44 @@
             "date": "2025-10-25"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Trabzonspor v Eyüpspor",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Trabzonspor v Eyüpspor",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Trabzonspor v Eyüpspor",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "link": "#",
+            "related_to": "Trabzonspor v Eyüpspor",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Trabzonspor v Eyüpspor",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -2235,6 +2275,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-17 15:22:19",
-    "total_items": 263
+    "last_updated": "2025-10-18 04:24:09",
+    "total_items": 268
 }
