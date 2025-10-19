@@ -6,140 +6,6 @@
                 "team1": "spain",
                 "team2": "spain"
             },
-            "match": "Ceuta v Mirandés",
-            "time": "14:15",
-            "date": "2025-10-18"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Ceuta v Mirandés",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "link": "#",
-            "related_to": "Ceuta v Mirandés",
-            "sat": "Astra 1M",
-            "freq": "10.758 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Real Zaragoza v Cultural Leonesa",
-            "time": "16:30",
-            "date": "2025-10-18"
-        },
-        {
-            "channel": "Aragon Deporte Stream 📺",
-            "link": "https://www.cartv.es/aragondeporte/directo",
-            "related_to": "Real Zaragoza v Cultural Leonesa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Aragón TV HD",
-            "link": "#",
-            "related_to": "Real Zaragoza v Cultural Leonesa",
-            "sat": "*DTT",
-            "freq": "0.000 - 0",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Real Zaragoza v Cultural Leonesa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "GOL España HD 📺",
-            "link": "https://www.goltelevision.com/en-directo",
-            "related_to": "Real Zaragoza v Cultural Leonesa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 - -",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "GolStadium ($/geo/R) 📺",
-            "link": "https://app.golstadium.com/football",
-            "related_to": "Real Zaragoza v Cultural Leonesa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "link": "#",
-            "related_to": "Real Zaragoza v Cultural Leonesa",
-            "sat": "Astra 1M",
-            "freq": "10.758 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Megogo Futbol 4 ($/geo/R)",
-            "link": "#",
-            "related_to": "Real Zaragoza v Cultural Leonesa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": "Real Zaragoza v Cultural Leonesa",
-            "sat": "Astra 3C",
-            "freq": "12.285 V 30000 - 2/3",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "TEN TV España HD",
-            "link": "#",
-            "related_to": "Real Zaragoza v Cultural Leonesa",
-            "sat": "*DTT",
-            "freq": "0.000 - -",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Real Sociedad II v Huesca",
-            "time": "19:00",
-            "date": "2025-10-18"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Real Sociedad II v Huesca",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "link": "#",
-            "related_to": "Real Sociedad II v Huesca",
-            "sat": "Astra 1M",
-            "freq": "10.758 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
             "match": "Leganés v Málaga",
             "time": "12:00",
             "date": "2025-10-19"
@@ -239,6 +105,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "link": "#",
+            "related_to": "Racing Santander v Deportivo La Coruña",
+            "sat": "Eutelsat 16A",
+            "freq": "10.886 H 30000 - 8/9",
+            "encry": "HD Mediaguard"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Racing Santander v Deportivo La Coruña",
@@ -255,12 +129,28 @@
             "encry": ""
         },
         {
+            "channel": "MTV MAX Suomi HD",
+            "link": "#",
+            "related_to": "Racing Santander v Deportivo La Coruña",
+            "sat": "Thor 6",
+            "freq": "10.841 H 25000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Orange Fútbol 2 HD",
             "link": "#",
             "related_to": "Racing Santander v Deportivo La Coruña",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "link": "#",
+            "related_to": "Racing Santander v Deportivo La Coruña",
+            "sat": "Thor 6",
+            "freq": "10.778 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "Spanish La Liga 2 - Week 10",
@@ -391,8 +281,78 @@
             "sat": "Astra 3C",
             "freq": "12.402 V 30000 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 11",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Málaga v Andorra",
+            "time": "13:00",
+            "date": "2025-10-26"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 3 HD",
+            "link": "#",
+            "related_to": "Málaga v Andorra",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 11",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Almería v Castellón",
+            "time": "17:30",
+            "date": "2025-10-26"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 3 HD",
+            "link": "#",
+            "related_to": "Almería v Castellón",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 11",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Deportivo La Coruña v Real Valladolid",
+            "time": "20:00",
+            "date": "2025-10-26"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Deportivo La Coruña v Real Valladolid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "link": "#",
+            "related_to": "Deportivo La Coruña v Real Valladolid",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 3 HD",
+            "link": "#",
+            "related_to": "Deportivo La Coruña v Real Valladolid",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         }
     ],
-    "last_updated": "2025-10-18 15:20:39",
-    "total_items": 46
+    "last_updated": "2025-10-19 04:26:38",
+    "total_items": 41
 }

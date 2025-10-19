@@ -4,721 +4,27 @@
             "compet": "French Ligue 1 - Week 8",
             "flags": {
                 "team1": "france",
-                "team2": "france"
-            },
-            "match": "Nice v Lyon",
-            "time": "15:00",
-            "date": "2025-10-18"
-        },
-        {
-            "channel": "5 PLUS Israel HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Arena Sport 1 Srbija HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "Astra 3C",
-            "freq": "12.460 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "Eutelsat 16A",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 3 Slovenija HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Arena Sport 4 BiH HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "Astra 3B",
-            "freq": "11.895 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "ART Motion Sport 4 HD 📺",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect FRANCE 📺",
-            "link": "https://connect.beinsports.com/france/se-connecter",
-            "related_to": "Nice v Lyon",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "Astra 1M",
-            "freq": "11.856 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Cablenet Sports 2 HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Canal+ Sport 2 Afrique HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "Eutelsat 36C",
-            "freq": "11.785 H 27500 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "Megogo Futbol 3 ($/geo/R)",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Nova Sport 6 Czech HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "Astra 3C",
-            "freq": "12.090 V 29900 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Sport TV 2 Azerbaijan (geo/R)",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Voyo Player Slovakia [$] 📺",
-            "link": "https://voyo.markiza.sk/",
-            "related_to": "Nice v Lyon",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$] 📺",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "Nice v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "French Ligue 1 - Week 8",
-            "flags": {
-                "team1": "france26",
-                "team2": "france"
-            },
-            "match": "Angers v Monaco",
-            "time": "17:00",
-            "date": "2025-10-18"
-        },
-        {
-            "channel": "5 GOLD Israel",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "Amos 7",
-            "freq": "11.553 V 27500 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Arena Sport 1 Srbija HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "Astra 3C",
-            "freq": "12.460 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "Eutelsat 16A",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 4 BiH HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "Astra 3B",
-            "freq": "11.895 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Angers v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 2 HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Cablenet Sports 2 HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Canal+ Sport 2 Afrique HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "Eutelsat 36C",
-            "freq": "11.785 H 27500 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Angers v Monaco",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Megogo Futbol 3 ($/geo/R)",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Nova Sport 6 Czech HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "Astra 3C",
-            "freq": "12.090 V 29900 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "V Sport 1 Sverige HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "Thor 6",
-            "freq": "10.809 V 25000 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Angers v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Voyo Player Slovakia [$] 📺",
-            "link": "https://voyo.markiza.sk/",
-            "related_to": "Angers v Monaco",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$] 📺",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "Angers v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "French Ligue 1 - Week 8",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "match": "Marseille v Le Havre",
-            "time": "19:05",
-            "date": "2025-10-18"
-        },
-        {
-            "channel": "5 PLUS Israel HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Astra 3C",
-            "freq": "12.304 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Arena Sport 1 BiH HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Astra 3B",
-            "freq": "11.720 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Eutelsat 16A",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 3 Slovenija HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ART Motion Sport 4 HD 📺",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Marseille v Le Havre",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Eshail 2",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "beIN Sports Türkiye 3 HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Cablenet Sports 2 HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Canal+ Sport 2 Afrique HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Eutelsat 36C",
-            "freq": "11.785 H 27500 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Hellas Sat 3",
-            "freq": "12.137 V 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Eleven Sports 3 Polska HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Hotbird 13F",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Fast Sports 1 Armenia ($/geo/R) 📺",
-            "link": "https://fasttv.am/tv-channels/fastsports1",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Megogo Futbol 3 ($/geo/R)",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Astra 3B",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Okko Prime Sport HD ($/geo/R)",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Play Diema XTRA ($/geo/R) 📺",
-            "link": "https://gong.bg/streaming",
-            "related_to": "Marseille v Le Havre",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "Prime Video UK PPV [$] 📺",
-            "link": "https://www.primevideo.com/",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Setanta Sports 2 Georgia HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Eutelsat 36C",
-            "freq": "11.650 V 10000 - 3/4",
-            "encry": "HD TrophyAccess"
-        },
-        {
-            "channel": "Setanta Sports Qazaqstan HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "KazSat 3",
-            "freq": "12.657 V 45000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Sky Sport 252 Italia HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Hotbird 13F",
-            "freq": "12.054 H 29900 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Sky Sport MIX Italia HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Hotbird 13F",
-            "freq": "11.862 H 29900 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "SuperSport 3 Albania HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Eutelsat 16A",
-            "freq": "10.845 H 30000 - 3/5",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "SuperSport Variety 4 HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Intelsat 20",
-            "freq": "11.170 H 30000 - 5/6",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "TV5 Monde Afrique HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Eutelsat 36C",
-            "freq": "11.977 H 27500 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "TV5 Monde Amérique Latine",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Intelsat 21",
-            "freq": "3.840 V 27690 - 7/8",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "TV5 Monde Asie",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Telstar 18",
-            "freq": "12.598 H 45000 - 2/3",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "TV5 Monde Europe HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Hellas Sat 3",
-            "freq": "12.688 V 30000 - 7/8",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "TV5 Monde Maghreb-Orient HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Eutelsat 33E",
-            "freq": "10.758 V 27500 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "TVM Sport+ HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "V Sport Premium HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "Thor 6",
-            "freq": "10.903 V 25000 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Voyo Player Slovakia [$] 📺",
-            "link": "https://voyo.markiza.sk/",
-            "related_to": "Marseille v Le Havre",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$] 📺",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "Marseille v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "French Ligue 1 - Week 8",
-            "flags": {
-                "team1": "france",
                 "team2": "france50"
             },
             "match": "Lens v Paris FC",
             "time": "13:00",
             "date": "2025-10-19"
+        },
+        {
+            "channel": "5 PLUS Israel HD",
+            "link": "#",
+            "related_to": "Lens v Paris FC",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Arena Sport 5 BiH HD",
+            "link": "#",
+            "related_to": "Lens v Paris FC",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
         },
         {
             "channel": "Arena Sport 7 Hrvatska HD",
@@ -777,6 +83,14 @@
             "encry": ""
         },
         {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "link": "#",
+            "related_to": "Lens v Paris FC",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Lens v Paris FC",
@@ -807,6 +121,30 @@
             "sat": "AzerSpace 2",
             "freq": "12.560 V 30000 - 5/6",
             "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "link": "#",
+            "related_to": "Lens v Paris FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "link": "#",
+            "related_to": "Lens v Paris FC",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "V Sport 1 Sverige HD",
+            "link": "#",
+            "related_to": "Lens v Paris FC",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -883,6 +221,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 8 Srbija HD",
+            "link": "#",
+            "related_to": "Rennes v Auxerre",
+            "sat": "Astra 3B",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Rennes v Auxerre",
@@ -923,6 +269,14 @@
             "encry": ""
         },
         {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "link": "#",
+            "related_to": "Rennes v Auxerre",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Rennes v Auxerre",
@@ -945,6 +299,14 @@
             "sat": "Astra 3B",
             "freq": "11.954 H 29900 - 2/3",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "link": "#",
+            "related_to": "Rennes v Auxerre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1045,6 +407,22 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "Toulouse v Metz",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "link": "#",
+            "related_to": "Toulouse v Metz",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Toulouse v Metz",
@@ -1093,6 +471,14 @@
             "match": "Lorient v Brest",
             "time": "15:15",
             "date": "2025-10-19"
+        },
+        {
+            "channel": "Arena Sport 5 BiH HD",
+            "link": "#",
+            "related_to": "Lorient v Brest",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
         },
         {
             "channel": "Arena Sport 8 Hrvatska HD",
@@ -1151,6 +537,22 @@
             "encry": ""
         },
         {
+            "channel": "Okko Sport HD Russia ($/geo/R)",
+            "link": "#",
+            "related_to": "Lorient v Brest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "V Sport 1 Sverige HD",
+            "link": "#",
+            "related_to": "Lorient v Brest",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Lorient v Brest",
@@ -1199,6 +601,38 @@
             "match": "Nantes v Lille",
             "time": "18:45",
             "date": "2025-10-19"
+        },
+        {
+            "channel": "5 GOLD Israel",
+            "link": "#",
+            "related_to": "Nantes v Lille",
+            "sat": "Amos 7",
+            "freq": "11.553 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "5 PLUS Israel HD",
+            "link": "#",
+            "related_to": "Nantes v Lille",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "link": "#",
+            "related_to": "Nantes v Lille",
+            "sat": "Astra 3B",
+            "freq": "11.720 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "link": "#",
+            "related_to": "Nantes v Lille",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "Arena Sport 4 Hrvatska HD",
@@ -1265,6 +699,14 @@
             "encry": ""
         },
         {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "link": "#",
+            "related_to": "Nantes v Lille",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Diema Sport 2 HD",
             "link": "#",
             "related_to": "Nantes v Lille",
@@ -1287,6 +729,14 @@
             "sat": "Hotbird 13G",
             "freq": "11.278 V 27500 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Fast Sports 2 Armenia ($/geo/R) 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "Nantes v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -1321,6 +771,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "link": "#",
+            "related_to": "Nantes v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
             "link": "https://gong.bg/streaming",
             "related_to": "Nantes v Lille",
@@ -1345,12 +803,36 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport TV2 Portugal HD",
+            "link": "#",
+            "related_to": "Nantes v Lille",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "SuperSport 3 Albania HD",
             "link": "#",
             "related_to": "Nantes v Lille",
             "sat": "Eutelsat 16A",
             "freq": "10.845 H 30000 - 3/5",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport Variety 3 HD",
+            "link": "#",
+            "related_to": "Nantes v Lille",
+            "sat": "Intelsat 20",
+            "freq": "11.170 H 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "link": "#",
+            "related_to": "Nantes v Lille",
+            "sat": "Thor 6",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1595,12 +1077,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Lille v Metz",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Lille v Metz",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Lille v Metz",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -1629,6 +1127,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Angers v Lorient",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Angers v Lorient",
@@ -1637,43 +1143,17 @@
             "encry": ""
         },
         {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Angers v Lorient",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "French Ligue 1 - Week 9",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "match": "Auxerre v Le Havre",
-            "time": "16:15",
-            "date": "2025-10-26"
-        },
-        {
-            "channel": "Arena Sport 7 Hrvatska HD",
+            "channel": "beIN Sports MENA 6 HD",
             "link": "#",
-            "related_to": "Auxerre v Le Havre",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Auxerre v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "related_to": "Angers v Lorient",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
-            "related_to": "Auxerre v Le Havre",
+            "related_to": "Angers v Lorient",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": ""
@@ -1697,6 +1177,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Rennes v Nice",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Rennes v Nice",
@@ -1705,9 +1193,67 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Rennes v Nice",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Rennes v Nice",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "French Ligue 1 - Week 9",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "match": "Auxerre v Le Havre",
+            "time": "16:15",
+            "date": "2025-10-26"
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "link": "#",
+            "related_to": "Auxerre v Le Havre",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Auxerre v Le Havre",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Auxerre v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Auxerre v Le Havre",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Ligue 1+ ($/geo/R) 📺",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "Auxerre v Le Havre",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": ""
@@ -1731,12 +1277,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Lyon v Strasbourg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Lyon v Strasbourg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Lyon v Strasbourg",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -2391,6 +1953,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-18 15:16:54",
-    "total_items": 286
+    "last_updated": "2025-10-19 04:22:55",
+    "total_items": 232
 }
