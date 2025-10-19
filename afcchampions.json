@@ -61,6 +61,22 @@
             "date": "2025-10-20"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Al Shorta v Al Ittihad",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Al Shorta v Al Ittihad",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Spor Smart Türkiye HD",
             "link": "#",
             "related_to": "Al Shorta v Al Ittihad",
@@ -717,6 +733,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-19 04:23:56",
-    "total_items": 82
+    "last_updated": "2025-10-19 15:18:11",
+    "total_items": 84
 }

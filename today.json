@@ -7221,6 +7221,14 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Liverpool v Manchester United",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
             "link": "https://go3.tv/extra_sports",
             "related_to": "Liverpool v Manchester United",
@@ -7267,6 +7275,14 @@
             "sat": "Astra 1L",
             "freq": "11.097 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Liverpool v Manchester United",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Movistar Plus+ HD",
@@ -7419,6 +7435,14 @@
             "sat": "Astra 2F",
             "freq": "12.246 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Liverpool v Manchester United",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Sport 1 Israel HD",
@@ -7853,6 +7877,14 @@
             "sat": "Turksat 4A",
             "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "TV3 MAX Dansk HD",
@@ -10977,6 +11009,14 @@
             "encry": "MPEG-4 Verimatrix"
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Getafe v Real Madrid",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Go3 Sport 1 Baltic HD 📺",
             "link": "https://go3.tv/en/live_tv",
             "related_to": "Getafe v Real Madrid",
@@ -11535,6 +11575,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-19 04:20:52",
-    "total_items": 1402
+    "last_updated": "2025-10-19 15:15:05",
+    "total_items": 1407
 }
