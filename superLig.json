@@ -77,6 +77,14 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Konyaspor v Besiktas",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 3",
             "flags": {
                 "team1": "turkey",
@@ -1443,6 +1451,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-20 04:28:09",
-    "total_items": 166
+    "last_updated": "2025-10-20 15:22:50",
+    "total_items": 167
 }

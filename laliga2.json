@@ -11,6 +11,14 @@
             "date": "2025-10-20"
         },
         {
+            "channel": "Arena Sport 3 Srbija HD",
+            "link": "#",
+            "related_to": "Cádiz v Burgos",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Arena Sport 5 Hrvatska HD",
             "link": "#",
             "related_to": "Cádiz v Burgos",
@@ -49,6 +57,14 @@
             "sat": "Hotbird 13F",
             "freq": "11.804 V 29700 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Silk Sport 2 HD",
+            "link": "#",
+            "related_to": "Cádiz v Burgos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga 2 - Week 11",
@@ -157,6 +173,6 @@
             "encry": "HD Irdeto"
         }
     ],
-    "last_updated": "2025-10-20 04:29:10",
-    "total_items": 18
+    "last_updated": "2025-10-20 15:23:51",
+    "total_items": 20
 }
