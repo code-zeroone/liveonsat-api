@@ -327,6 +327,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "CRTV Sports Cameroon",
+            "link": "#",
+            "related_to": "Chelsea v Sunderland",
+            "sat": "AzerSpace 2",
+            "freq": "12.610 H 12500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Chelsea v Sunderland",
@@ -405,6 +413,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "YTV Botswana",
+            "link": "#",
+            "related_to": "Chelsea v Sunderland",
+            "sat": "Intelsat 20",
+            "freq": "12.634 V 16166 - 5/6",
+            "encry": "FTA (MPEG-S2)"
         },
         {
             "compet": "English Premier League - Week 9",
@@ -3899,6 +3915,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-21 04:21:15",
-    "total_items": 470
+    "last_updated": "2025-10-21 15:19:10",
+    "total_items": 472
 }

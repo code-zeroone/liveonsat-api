@@ -527,6 +527,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Italia 1 HD 📺",
+            "link": "https://www.mediasetplay.mediaset.it/diretta/italia1_cI1",
+            "related_to": "Real Madrid v Barcelona",
+            "sat": "Hotbird 13F",
+            "freq": "11.432 H 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Real Madrid v Barcelona",
@@ -557,6 +565,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Tolo TV",
+            "link": "#",
+            "related_to": "Real Madrid v Barcelona",
+            "sat": "Al Yah 1",
+            "freq": "11.938 H 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 10",
@@ -1549,6 +1565,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-21 04:23:18",
-    "total_items": 186
+    "last_updated": "2025-10-21 15:21:13",
+    "total_items": 188
 }
