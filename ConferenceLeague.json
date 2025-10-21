@@ -135,6 +135,14 @@
             "encry": ""
         },
         {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "TNT Sports 10",
             "link": "#",
             "related_to": "Rapid Vienna v Fiorentina",
@@ -323,6 +331,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "TNT Sports 3 HD",
@@ -737,6 +753,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-20 15:19:25",
-    "total_items": 86
+    "last_updated": "2025-10-21 04:22:17",
+    "total_items": 88
 }
