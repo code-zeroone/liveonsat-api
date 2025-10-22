@@ -11,12 +11,44 @@
             "date": "2025-10-24"
         },
         {
+            "channel": "Aragón TV HD",
+            "link": "#",
+            "related_to": "Huesca v Las Palmas",
+            "sat": "*DTT",
+            "freq": "0.000 - 0",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Arena Sport 9 Hrvatska HD",
             "link": "#",
             "related_to": "Huesca v Las Palmas",
             "sat": "Eutelsat 16A",
             "freq": "11.678 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "GOL España HD 📺",
+            "link": "https://www.goltelevision.com/en-directo",
+            "related_to": "Huesca v Las Palmas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 - -",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "TEN TV España HD",
+            "link": "#",
+            "related_to": "Huesca v Las Palmas",
+            "sat": "*DTT",
+            "freq": "0.000 - -",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "TV Canaria",
+            "link": "#",
+            "related_to": "Huesca v Las Palmas",
+            "sat": "*DTT",
+            "freq": "0.000 - -",
+            "encry": ""
         },
         {
             "compet": "Spanish La Liga 2 - Week 11",
@@ -107,6 +139,6 @@
             "encry": "HD Irdeto"
         }
     ],
-    "last_updated": "2025-10-21 15:24:36",
-    "total_items": 12
+    "last_updated": "2025-10-22 04:26:30",
+    "total_items": 16
 }

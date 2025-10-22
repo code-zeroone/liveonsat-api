@@ -1,5 +1,248 @@
 {
-    "footonsat": [],
-    "last_updated": "2025-10-21 15:22:35",
-    "total_items": 0
+    "footonsat": [
+        {
+            "compet": "NBA Regular Season - Opening Night",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "match": "Los Angeles Lakers v Golden State Warriors",
+            "time": "02:00",
+            "date": "2025-10-22"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ART Motion Sport 1 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cosmote Sport 5 HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Eutelsat 9B",
+            "freq": "12.418 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Cytavision Sports 7 HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Astra 3C",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "ESPN 2 Brazil HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Astra 3C",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Go3 Sport 2 Baltic HD 📺",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Astra 4A",
+            "freq": "11.958 H 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "NBC USA HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Nova Sport 2 Czech HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Astra 3B",
+            "freq": "11.973 V 29900 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Silk Sport 2 HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport Basket Italia HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Hotbird 13F",
+            "freq": "11.958 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Los Angeles Lakers v Golden State Warriors",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        }
+    ],
+    "last_updated": "2025-10-22 04:24:28",
+    "total_items": 30
 }

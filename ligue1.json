@@ -432,9 +432,43 @@
                 "team1": "france",
                 "team2": "france"
             },
+            "match": "Nice v Lille",
+            "time": "18:00",
+            "date": "2025-10-29"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "link": "#",
+            "related_to": "Nice v Lille",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Ligue 1+ ($/geo/R) 📺",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "Nice v Lille",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "French Ligue 1 - Week 10",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
             "match": "Le Havre v Brest",
             "time": "18:00",
             "date": "2025-10-29"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "link": "#",
+            "related_to": "Le Havre v Brest",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -486,14 +520,64 @@
                 "team1": "france",
                 "team2": "france"
             },
-            "match": "Nice v Lille",
-            "time": "18:00",
+            "match": "Nantes v Monaco",
+            "time": "20:05",
             "date": "2025-10-29"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Nantes v Monaco",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Nantes v Monaco",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "link": "#",
+            "related_to": "Nantes v Monaco",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
-            "related_to": "Nice v Lille",
+            "related_to": "Nantes v Monaco",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "French Ligue 1 - Week 10",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "match": "Strasbourg v Auxerre",
+            "time": "20:05",
+            "date": "2025-10-29"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 3 HD",
+            "link": "#",
+            "related_to": "Strasbourg v Auxerre",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Ligue 1+ ($/geo/R) 📺",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "Strasbourg v Auxerre",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": ""
@@ -519,24 +603,6 @@
         {
             "compet": "French Ligue 1 - Week 10",
             "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "match": "Nantes v Monaco",
-            "time": "20:05",
-            "date": "2025-10-29"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Nantes v Monaco",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "French Ligue 1 - Week 10",
-            "flags": {
                 "team1": "france50",
                 "team2": "france"
             },
@@ -548,24 +614,6 @@
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Paris FC v Lyon",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "French Ligue 1 - Week 10",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "match": "Strasbourg v Auxerre",
-            "time": "20:05",
-            "date": "2025-10-29"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Strasbourg v Auxerre",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": ""
@@ -1071,6 +1119,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-21 15:20:53",
-    "total_items": 123
+    "last_updated": "2025-10-22 04:22:46",
+    "total_items": 129
 }
