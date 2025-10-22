@@ -91,6 +91,14 @@
             "encry": ""
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Go Ahead Eagles v Aston Villa",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Go Ahead Eagles v Aston Villa",
@@ -329,6 +337,14 @@
             "encry": ""
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Stuttgart",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "TNT Sports 7",
             "link": "#",
             "related_to": "Fenerbahçe v Stuttgart",
@@ -403,6 +419,14 @@
             "encry": ""
         },
         {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Lyon v Basel",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Lyon v Basel",
@@ -425,6 +449,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "link": "#",
+            "related_to": "Lyon v Basel",
+            "sat": "Eutelsat 16A",
+            "freq": "10.804 H 29950 - 2/3",
+            "encry": "HD Conax"
         },
         {
             "channel": "TNT Sports 8",
@@ -773,6 +805,14 @@
             "encry": ""
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v FC Porto",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Nottingham Forest v FC Porto",
@@ -1059,6 +1099,14 @@
             "encry": ""
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Malmö v Dinamo Zagreb",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 3",
             "flags": {
                 "team1": "scotland",
@@ -1183,6 +1231,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Nice",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Celta Vigo v Nice",
@@ -1255,6 +1311,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Canal+ France HD",
+            "link": "#",
+            "related_to": "Lille v PAOK Thessaloniki",
+            "sat": "Astra 1N",
+            "freq": "12.728 V 23500 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ France UHD",
+            "link": "#",
+            "related_to": "Lille v PAOK Thessaloniki",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 23500 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -1395,6 +1467,14 @@
             "sat": "Hotbird 13E",
             "freq": "11.996 V 29900 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "link": "#",
+            "related_to": "Roma v Viktoria Plzen",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         },
         {
             "channel": "TNT Sports 6",
@@ -2373,6 +2453,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-22 04:21:45",
-    "total_items": 283
+    "last_updated": "2025-10-22 15:19:19",
+    "total_items": 293
 }

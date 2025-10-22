@@ -51,6 +51,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Leeds United v West Ham United",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Leeds United v West Ham United",
@@ -113,6 +121,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "SuperSport 1 Albania HD",
+            "link": "#",
+            "related_to": "Leeds United v West Ham United",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         },
         {
             "channel": "SuperSport Premier League HD",
@@ -203,6 +219,14 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Sport 360 HD",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -325,6 +349,14 @@
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Chelsea v Sunderland",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "CRTV Sports Cameroon",
@@ -3915,6 +3947,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-22 04:21:03",
-    "total_items": 472
+    "last_updated": "2025-10-22 15:18:38",
+    "total_items": 476
 }

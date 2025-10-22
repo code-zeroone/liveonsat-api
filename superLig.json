@@ -11,6 +11,14 @@
             "date": "2025-10-22"
         },
         {
+            "channel": "Arena Sport 3 Srbija HD",
+            "link": "#",
+            "related_to": "Konyaspor v Besiktas",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Konyaspor v Besiktas",
@@ -51,12 +59,36 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "link": "#",
+            "related_to": "Konyaspor v Besiktas",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Sport+ Qazaqstan",
             "link": "#",
             "related_to": "Konyaspor v Besiktas",
             "sat": "KazSat 3",
             "freq": "10.720 H 30000 - 3/4",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Konyaspor v Besiktas",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Konyaspor v Besiktas",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         },
         {
             "compet": "Türkiye Süper Lig - Week 3",
@@ -1425,6 +1457,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-22 04:25:29",
-    "total_items": 164
+    "last_updated": "2025-10-22 15:23:03",
+    "total_items": 168
 }

@@ -6,6 +6,24 @@
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
+            "match": "Al Najma v Al Ahli",
+            "time": "18:00",
+            "date": "2025-10-23"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "link": "#",
+            "related_to": "Al Najma v Al Ahli",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Saudi Professional League - Week 6",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
             "match": "Al Ittihad v Al Hilal",
             "time": "18:00",
             "date": "2025-10-24"
@@ -17,8 +35,16 @@
             "sat": "Astra 1L",
             "freq": "11.186 V 22000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Hilal",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         }
     ],
-    "last_updated": "2025-10-22 04:26:51",
-    "total_items": 2
+    "last_updated": "2025-10-22 15:24:24",
+    "total_items": 5
 }

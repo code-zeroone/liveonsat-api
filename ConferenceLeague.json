@@ -187,6 +187,14 @@
             "encry": ""
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "link": "#",
+            "related_to": "Drita v Omonia Nicosia",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 2",
             "flags": {
                 "team1": "croatia",
@@ -257,6 +265,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SuperSport 1 Albania HD",
+            "link": "#",
+            "related_to": "Shkëndija v Shelbourne",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "TNT Sports 5 HD",
             "link": "#",
             "related_to": "Shkëndija v Shelbourne",
@@ -273,6 +289,14 @@
             "match": "Strasbourg v Jagiellonia",
             "time": "16:45",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "Canal+ Sport France HD",
+            "link": "#",
+            "related_to": "Strasbourg v Jagiellonia",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -753,6 +777,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-22 04:22:05",
-    "total_items": 88
+    "last_updated": "2025-10-22 15:19:39",
+    "total_items": 91
 }
