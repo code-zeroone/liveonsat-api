@@ -11,12 +11,60 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "Band Sports Brazil HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Ahli",
+            "sat": "SES 6",
+            "freq": "11.680 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Movistar Plus+ 2 HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Ahli",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Ahli",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Sportdigital FUSSBALL 2",
             "link": "#",
             "related_to": "Al Najma v Al Ahli",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sportitalia HD 📺",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "Al Najma v Al Ahli",
+            "sat": "Eutelsat 9B",
+            "freq": "12.341 V 31400 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Ahli",
+            "sat": "Thor 6",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Conax"
+        },
+        {
+            "channel": "TV2 Play Premium (geo/R) 📺",
+            "link": "https://tv2play.hu/musorok?mufajok=sport&rendezes=nepszeruseg",
+            "related_to": "Al Najma v Al Ahli",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "compet": "Saudi Professional League - Week 6",
@@ -45,6 +93,6 @@
             "encry": "HD Conax"
         }
     ],
-    "last_updated": "2025-10-22 15:24:24",
-    "total_items": 5
+    "last_updated": "2025-10-23 04:27:02",
+    "total_items": 11
 }

@@ -35,6 +35,14 @@
             "encry": ""
         },
         {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "link": "#",
+            "related_to": "BK Häcken v Rayo Vallecano",
+            "sat": "Astra 1L",
+            "freq": "10.729 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 2",
             "flags": {
                 "team1": "greece",
@@ -43,6 +51,14 @@
             "match": "AEK Athens v Aberdeen",
             "time": "16:45",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "Arena Sport 7 Srbija HD",
+            "link": "#",
+            "related_to": "AEK Athens v Aberdeen",
+            "sat": "Astra 3B",
+            "freq": "11.817 V 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "Arena Sport 8 Hrvatska HD",
@@ -77,12 +93,44 @@
             "encry": ""
         },
         {
+            "channel": "Cosmote Sport 4 HD",
+            "link": "#",
+            "related_to": "AEK Athens v Aberdeen",
+            "sat": "Eutelsat 9B",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
+            "link": "#",
+            "related_to": "AEK Athens v Aberdeen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "AEK Athens v Aberdeen",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 13",
+            "link": "#",
+            "related_to": "AEK Athens v Aberdeen",
+            "sat": "Astra 1KR",
+            "freq": "11.686 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "link": "#",
+            "related_to": "AEK Athens v Aberdeen",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TNT Sports 3 HD",
@@ -103,11 +151,27 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "Arena Premium 3 BiH HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Arena Sport 5 Hrvatska HD",
             "link": "#",
             "related_to": "Rapid Vienna v Fiorentina",
             "sat": "Eutelsat 16A",
             "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 8 Srbija HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Astra 3B",
+            "freq": "12.402 V 30000 - 3/4",
             "encry": "HD Conax"
         },
         {
@@ -127,12 +191,52 @@
             "encry": ""
         },
         {
+            "channel": "Cosmote Sport 8 HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Eutelsat 9B",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN 4 Portugal HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Rapid Vienna v Fiorentina",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 12",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Astra 1KR",
+            "freq": "11.686 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "Polsat Sport Extra 3 HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Hotbird 13G",
+            "freq": "10.911 V 27500 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Premier Sports 5 Mongolia HD",
@@ -143,12 +247,60 @@
             "encry": "MPEG-4 Verimatrix"
         },
         {
+            "channel": "RTL+ Hungary [online] 📺",
+            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Silk Sport 3 HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 2 Austria HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Astra 1M",
+            "freq": "11.992 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "TNT Sports 10",
             "link": "#",
             "related_to": "Rapid Vienna v Fiorentina",
             "sat": "Astra 2G",
             "freq": "11.597 V 23000 - 2/3",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 8 HD",
+            "link": "#",
+            "related_to": "Rapid Vienna v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -169,6 +321,14 @@
             "encry": ""
         },
         {
+            "channel": "M+ Liga de Campeones 19",
+            "link": "#",
+            "related_to": "Breidablik v KuPS Kuopio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Conference League - Matchday 2",
             "flags": {
                 "team1": "kosova1",
@@ -179,8 +339,32 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "Cytavision Sports 3 HD",
+            "link": "#",
+            "related_to": "Drita v Omonia Nicosia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "link": "#",
+            "related_to": "Drita v Omonia Nicosia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Drita v Omonia Nicosia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 17",
+            "link": "#",
             "related_to": "Drita v Omonia Nicosia",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -205,6 +389,14 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "Arena Sport 1 BiH HD",
+            "link": "#",
+            "related_to": "Rijeka v Sparta Prague",
+            "sat": "Astra 3B",
+            "freq": "11.720 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Arena Sport 2 Hrvatska HD",
             "link": "#",
             "related_to": "Rijeka v Sparta Prague",
@@ -219,6 +411,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 15",
+            "link": "#",
+            "related_to": "Rijeka v Sparta Prague",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "link": "#",
+            "related_to": "Rijeka v Sparta Prague",
+            "sat": "Astra 3B",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "link": "#",
+            "related_to": "Rijeka v Sparta Prague",
+            "sat": "Eutelsat 16A",
+            "freq": "11.387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS"
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -239,6 +455,54 @@
             "encry": ""
         },
         {
+            "channel": "Fast Sports 1 Armenia ($/geo/R) 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": "Shakhtar Donetsk v Legia Warsaw",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 14",
+            "link": "#",
+            "related_to": "Shakhtar Donetsk v Legia Warsaw",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Polsat Sport 1 HD",
+            "link": "#",
+            "related_to": "Shakhtar Donetsk v Legia Warsaw",
+            "sat": "Hotbird 13G",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Polsat Sport Premium 1 HD",
+            "link": "#",
+            "related_to": "Shakhtar Donetsk v Legia Warsaw",
+            "sat": "Hotbird 13G",
+            "freq": "11.117 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "Shakhtar Donetsk v Legia Warsaw",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Shakhtar Donetsk v Legia Warsaw",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Conference League - Matchday 2",
             "flags": {
                 "team1": "northmacedonia",
@@ -254,6 +518,14 @@
             "related_to": "Shkëndija v Shelbourne",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 18",
+            "link": "#",
+            "related_to": "Shkëndija v Shelbourne",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -307,6 +579,30 @@
             "encry": ""
         },
         {
+            "channel": "M+ Liga de Campeones 16",
+            "link": "#",
+            "related_to": "Strasbourg v Jagiellonia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "link": "#",
+            "related_to": "Strasbourg v Jagiellonia",
+            "sat": "Hotbird 13G",
+            "freq": "12.265 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Polsat Sport Premium 2 HD",
+            "link": "#",
+            "related_to": "Strasbourg v Jagiellonia",
+            "sat": "Hotbird 13G",
+            "freq": "11.117 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 2",
             "flags": {
                 "team1": "england",
@@ -315,6 +611,22 @@
             "match": "Crystal Palace v AEK Larnaca",
             "time": "19:00",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 7 Srbija HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Astra 3B",
+            "freq": "11.817 V 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -349,12 +661,44 @@
             "encry": ""
         },
         {
+            "channel": "Cosmote Sport 8 HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Eutelsat 9B",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 4 Portugal HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Crystal Palace v AEK Larnaca",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 11",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Astra 1KR",
+            "freq": "11.686 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "Polsat Sport Extra 4 HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Hotbird 13G",
+            "freq": "10.911 V 27500 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Premier Sports 5 Mongolia HD",
@@ -365,12 +709,36 @@
             "encry": "MPEG-4 Verimatrix"
         },
         {
+            "channel": "Sky Sport 6 Austria HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "TNT Sports 3 HD",
             "link": "#",
             "related_to": "Crystal Palace v AEK Larnaca",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 6 HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AEK Larnaca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -381,6 +749,14 @@
             "match": "Mainz 05 v Zrinjski",
             "time": "19:00",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Zrinjski",
+            "sat": "Astra 3B",
+            "freq": "11.720 H 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "Arena Sport 3 Hrvatska HD",
@@ -423,12 +799,36 @@
             "encry": ""
         },
         {
+            "channel": "M+ Liga de Campeones 13",
+            "link": "#",
+            "related_to": "Mainz 05 v Zrinjski",
+            "sat": "Astra 1KR",
+            "freq": "11.686 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
             "channel": "RTL+ Deutschland (geo/R) 📺",
             "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "Mainz 05 v Zrinjski",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Mainz 05 v Zrinjski",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "We Sport Moldova ($/geo/R)",
+            "link": "#",
+            "related_to": "Mainz 05 v Zrinjski",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -454,6 +854,22 @@
             "related_to": "Samsunspor v Dynamo Kyiv",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 14",
+            "link": "#",
+            "related_to": "Samsunspor v Dynamo Kyiv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Samsunspor v Dynamo Kyiv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -491,6 +907,22 @@
             "encry": ""
         },
         {
+            "channel": "Fast Sports TV Armenia 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "Universitatea Craiova v Noah",
+            "sat": "Eutelsat 70B",
+            "freq": "11.050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss"
+        },
+        {
+            "channel": "M+ Liga de Campeones 17",
+            "link": "#",
+            "related_to": "Universitatea Craiova v Noah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Conference League - Matchday 2",
             "flags": {
                 "team1": "holland",
@@ -507,6 +939,54 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Fast Sports 1 Armenia ($/geo/R) 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": "AZ Alkmaar v Slovan Bratislava",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "JOJ Šport SVK HD",
+            "link": "#",
+            "related_to": "AZ Alkmaar v Slovan Bratislava",
+            "sat": "Astra 3C",
+            "freq": "12.266 H 29900 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "M+ Liga de Campeones 12",
+            "link": "#",
+            "related_to": "AZ Alkmaar v Slovan Bratislava",
+            "sat": "Astra 1KR",
+            "freq": "11.686 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "AZ Alkmaar v Slovan Bratislava",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "AZ Alkmaar v Slovan Bratislava",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "AZ Alkmaar v Slovan Bratislava",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -543,6 +1023,30 @@
             "encry": ""
         },
         {
+            "channel": "M+ Liga de Campeones 18",
+            "link": "#",
+            "related_to": "Hamrun Spartans v Lausanne Sport",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "link": "#",
+            "related_to": "Hamrun Spartans v Lausanne Sport",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "link": "#",
+            "related_to": "Hamrun Spartans v Lausanne Sport",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Conference League - Matchday 2",
             "flags": {
                 "team1": "gibraltar",
@@ -559,6 +1063,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 19",
+            "link": "#",
+            "related_to": "Lincoln Red Imps v Lech Poznan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Polsat Sport 1 HD",
+            "link": "#",
+            "related_to": "Lincoln Red Imps v Lech Poznan",
+            "sat": "Hotbird 13G",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Polsat Sport Premium 1 HD",
+            "link": "#",
+            "related_to": "Lincoln Red Imps v Lech Poznan",
+            "sat": "Hotbird 13G",
+            "freq": "11.117 V 27500 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "UEFA Conference League - Matchday 2",
@@ -587,12 +1115,28 @@
             "encry": ""
         },
         {
+            "channel": "M+ Liga de Campeones 16",
+            "link": "#",
+            "related_to": "Shamrock Rovers v Celje",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "link": "#",
             "related_to": "Shamrock Rovers v Celje",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "link": "#",
+            "related_to": "Shamrock Rovers v Celje",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS"
         },
         {
             "channel": "TNT Sports 5 HD",
@@ -619,6 +1163,38 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 15",
+            "link": "#",
+            "related_to": "Sigma Olomouc v Raków Czestochowa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "link": "#",
+            "related_to": "Sigma Olomouc v Raków Czestochowa",
+            "sat": "Hotbird 13G",
+            "freq": "12.265 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Polsat Sport Premium 2 HD",
+            "link": "#",
+            "related_to": "Sigma Olomouc v Raków Czestochowa",
+            "sat": "Hotbird 13G",
+            "freq": "11.117 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "link": "#",
+            "related_to": "Sigma Olomouc v Raków Czestochowa",
+            "sat": "Astra 3B",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks"
         },
         {
             "compet": "UEFA Conference League - Matchday 3",
@@ -777,6 +1353,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-22 15:19:39",
-    "total_items": 91
+    "last_updated": "2025-10-23 04:22:18",
+    "total_items": 163
 }
