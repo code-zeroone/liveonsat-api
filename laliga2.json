@@ -19,12 +19,36 @@
             "encry": "Free To Air"
         },
         {
+            "channel": "Arena Sport 6 Srbija HD",
+            "link": "#",
+            "related_to": "Huesca v Las Palmas",
+            "sat": "Astra 3B",
+            "freq": "11.817 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Arena Sport 9 Hrvatska HD",
             "link": "#",
             "related_to": "Huesca v Las Palmas",
             "sat": "Eutelsat 16A",
             "freq": "11.678 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "link": "#",
+            "related_to": "Huesca v Las Palmas",
+            "sat": "Eutelsat 16A",
+            "freq": "10.886 H 30000 - 8/9",
+            "encry": "HD Mediaguard"
+        },
+        {
+            "channel": "Cytavision Sports 7 HD",
+            "link": "#",
+            "related_to": "Huesca v Las Palmas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "GOL España HD 📺",
@@ -35,8 +59,32 @@
             "encry": "Free To Air"
         },
         {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
+            "link": "#",
+            "related_to": "Huesca v Las Palmas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Nova Sports 6 Hellas HD",
+            "link": "#",
+            "related_to": "Huesca v Las Palmas",
+            "sat": "Hotbird 13F",
+            "freq": "11.804 V 29700 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Huesca v Las Palmas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO PPV 3",
+            "link": "#",
             "related_to": "Huesca v Las Palmas",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -75,6 +123,14 @@
             "sat": "Astra 3C",
             "freq": "12.402 V 30000 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Megogo Futbol 6 ($/geo/R)",
+            "link": "#",
+            "related_to": "Granada v Cádiz",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Spanish La Liga 2 - Week 11",
@@ -118,6 +174,24 @@
                 "team1": "spain",
                 "team2": "spain"
             },
+            "match": "Sporting Gijón v Real Zaragoza",
+            "time": "17:30",
+            "date": "2025-10-26"
+        },
+        {
+            "channel": "Megogo Futbol 8 ($/geo/R)",
+            "link": "#",
+            "related_to": "Sporting Gijón v Real Zaragoza",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 11",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
             "match": "Deportivo La Coruña v Real Valladolid",
             "time": "20:00",
             "date": "2025-10-26"
@@ -131,11 +205,11 @@
             "encry": "N/A"
         },
         {
-            "channel": "beIN Sports France 5 HD max",
+            "channel": "beIN Sports France 7 HD max",
             "link": "#",
             "related_to": "Deportivo La Coruña v Real Valladolid",
             "sat": "Astra 1M",
-            "freq": "11.856 V 29700 - 2/3",
+            "freq": "11.895 V 29700 - 2/3",
             "encry": "HD NagraVision"
         },
         {
@@ -145,8 +219,42 @@
             "sat": "Eshail 2",
             "freq": "10.810 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "link": "#",
+            "related_to": "Deportivo La Coruña v Real Valladolid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 10",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Real Sociedad II v Huesca",
+            "time": "19:00",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Sociedad II v Huesca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "link": "#",
+            "related_to": "Real Sociedad II v Huesca",
+            "sat": "Astra 1M",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-10-24 04:26:40",
-    "total_items": 17
+    "last_updated": "2025-10-24 15:24:13",
+    "total_items": 30
 }

@@ -111,6 +111,14 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Trabzonspor v Eyüpspor",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 10",
             "flags": {
                 "team1": "turkey",
@@ -177,6 +185,14 @@
             "sat": "Turksat 3A",
             "freq": "11.180 H 30000 - 3/4",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Galatasaray v Göztepe",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
         },
         {
             "compet": "Türkiye Süper Lig - Week 10",
@@ -247,6 +263,14 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Kasimpasa v Besiktas",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 10",
             "flags": {
                 "team1": "turkey",
@@ -287,6 +311,14 @@
             "sat": "Turksat 3A",
             "freq": "11.180 H 30000 - 3/4",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Gaziantep v Fenerbahçe",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "Türkiye Süper Lig - Week 10",
@@ -1341,6 +1373,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-24 04:25:39",
-    "total_items": 154
+    "last_updated": "2025-10-24 15:23:12",
+    "total_items": 158
 }
