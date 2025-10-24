@@ -51,6 +51,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Leeds United v West Ham United",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Canal+ Foot HD",
             "link": "#",
             "related_to": "Leeds United v West Ham United",
@@ -181,128 +189,6 @@
         {
             "compet": "English Premier League - Week 9",
             "flags": {
-                "team1": "england",
-                "team2": "england9"
-            },
-            "match": "Newcastle United v Fulham",
-            "time": "14:00",
-            "date": "2025-10-25"
-        },
-        {
-            "channel": "Arena Sport 5 Hrvatska HD",
-            "link": "#",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "Eutelsat 16A",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "link": "#",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Canal+ Sport 360 HD",
-            "link": "#",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "Astra 1M",
-            "freq": "12.090 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R) 📺",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$] 📺",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "Newcastle United v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English Premier League - Week 9",
-            "flags": {
                 "team1": "england7",
                 "team2": "england"
             },
@@ -348,6 +234,14 @@
             "related_to": "Chelsea v Sunderland",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Chelsea v Sunderland",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
         },
         {
@@ -458,6 +352,136 @@
             "compet": "English Premier League - Week 9",
             "flags": {
                 "team1": "england",
+                "team2": "england9"
+            },
+            "match": "Newcastle United v Fulham",
+            "time": "14:00",
+            "date": "2025-10-25"
+        },
+        {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye Max 1 HD",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Sport 360 HD",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R) 📺",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$] 📺",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "Newcastle United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English Premier League - Week 9",
+            "flags": {
+                "team1": "england",
                 "team2": "england"
             },
             "match": "Manchester United v Brighton H.A.",
@@ -502,6 +526,14 @@
             "related_to": "Manchester United v Brighton H.A.",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Manchester United v Brighton H.A.",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
         },
         {
@@ -651,6 +683,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Brentford v Liverpool",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Brentford v Liverpool",
@@ -794,6 +834,14 @@
             "related_to": "Arsenal v Crystal Palace",
             "sat": "Eshail 2",
             "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Arsenal v Crystal Palace",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
         },
         {
@@ -948,6 +996,14 @@
             "related_to": "Aston Villa v Manchester City",
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Aston Villa v Manchester City",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
         },
         {
@@ -1426,6 +1482,14 @@
             "related_to": "Everton v Tottenham Hotspur",
             "sat": "Eshail 2",
             "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Everton v Tottenham Hotspur",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
         },
         {
@@ -3955,6 +4019,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-23 15:19:13",
-    "total_items": 477
+    "last_updated": "2025-10-24 04:21:13",
+    "total_items": 485
 }

@@ -991,6 +991,14 @@
             "date": "2025-10-30"
         },
         {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Cagliari v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "DAZN Great Britain (geo/R) 📺",
             "link": "https://www.dazn.com/en-GB/signin",
             "related_to": "Cagliari v Sassuolo",
@@ -1023,6 +1031,14 @@
             "match": "Pisa v Lazio",
             "time": "19:45",
             "date": "2025-10-30"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Pisa v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "DAZN Great Britain (geo/R) 📺",
@@ -1757,6 +1773,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-23 15:20:35",
-    "total_items": 208
+    "last_updated": "2025-10-24 04:22:35",
+    "total_items": 210
 }
