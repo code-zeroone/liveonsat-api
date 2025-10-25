@@ -3,32 +3,6 @@
         {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
-                "team1": "italy",
-                "team2": "germany"
-            },
-            "match": "Napoli v Eintracht Frankfurt",
-            "time": "17:45",
-            "date": "2025-11-04"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Napoli v Eintracht Frankfurt",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Virgin Media MORE HD",
-            "link": "#",
-            "related_to": "Napoli v Eintracht Frankfurt",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
                 "team1": "czechia",
                 "team2": "england"
             },
@@ -43,6 +17,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Slavia Prague v Arsenal",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
         },
         {
             "channel": "Virgin Media PLAY (geo/R)",
@@ -71,20 +53,96 @@
         {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
-                "team1": "spain",
-                "team2": "belgium"
+                "team1": "italy",
+                "team2": "germany"
             },
-            "match": "Atlético Madrid v Union St Gilloise",
+            "match": "Napoli v Eintracht Frankfurt",
+            "time": "17:45",
+            "date": "2025-11-04"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Napoli v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Napoli v Eintracht Frankfurt",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Napoli v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
+                "team1": "england",
+                "team2": "denmark"
+            },
+            "match": "Tottenham Hotspur v FC Copenhagen",
             "time": "20:00",
             "date": "2025-11-04"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Atlético Madrid v Union St Gilloise",
+            "related_to": "Tottenham Hotspur v FC Copenhagen",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v FC Copenhagen",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v FC Copenhagen",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
+                "team1": "france",
+                "team2": "germany"
+            },
+            "match": "Paris St Germain v Bayern Munich",
+            "time": "20:00",
+            "date": "2025-11-04"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Paris St Germain v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Bayern Munich",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
@@ -103,6 +161,40 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Juventus v Sporting Lisbon",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
+                "team1": "spain",
+                "team2": "belgium"
+            },
+            "match": "Atlético Madrid v Union St Gilloise",
+            "time": "20:00",
+            "date": "2025-11-04"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Atlético Madrid v Union St Gilloise",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Atlético Madrid v Union St Gilloise",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
@@ -149,22 +241,12 @@
             "encry": ""
         },
         {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
-                "team1": "france",
-                "team2": "germany"
-            },
-            "match": "Paris St Germain v Bayern Munich",
-            "time": "20:00",
-            "date": "2025-11-04"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Paris St Germain v Bayern Munich",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Olympiacos v PSV Eindhoven",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
@@ -185,40 +267,12 @@
             "encry": ""
         },
         {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
-                "team1": "england",
-                "team2": "denmark"
-            },
-            "match": "Tottenham Hotspur v FC Copenhagen",
-            "time": "20:00",
-            "date": "2025-11-04"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Tottenham Hotspur v FC Copenhagen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
-                "team1": "cyprus",
-                "team2": "spain"
-            },
-            "match": "Pafos FC v Villarreal",
-            "time": "17:45",
-            "date": "2025-11-05"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Pafos FC v Villarreal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Monaco",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
@@ -237,6 +291,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Qarabagh v Chelsea",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Virgin Media PLAY (geo/R)",
@@ -260,6 +322,32 @@
             "related_to": "Qarabagh v Chelsea",
             "sat": "Astra 2E",
             "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
+                "team1": "cyprus",
+                "team2": "spain"
+            },
+            "match": "Pafos FC v Villarreal",
+            "time": "17:45",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Pafos FC v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Pafos FC v Villarreal",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -947,6 +1035,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-24 15:19:06",
-    "total_items": 107
+    "last_updated": "2025-10-25 04:20:48",
+    "total_items": 118
 }
