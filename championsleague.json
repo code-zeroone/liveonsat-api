@@ -353,6 +353,100 @@
         {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
+                "team1": "england",
+                "team2": "germany"
+            },
+            "match": "Manchester City v Borussia Dortmund",
+            "time": "20:00",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Manchester City v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Manchester City v Borussia Dortmund",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Manchester City v Borussia Dortmund",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
+                "team1": "england",
+                "team2": "spain"
+            },
+            "match": "Newcastle United v Athletic Bilbao",
+            "time": "20:00",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Newcastle United v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Newcastle United v Athletic Bilbao",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R) 📺",
+            "link": "https://www.uefa.tv/",
+            "related_to": "Newcastle United v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
+                "team1": "belgium",
+                "team2": "spain"
+            },
+            "match": "Club Brugge v Barcelona",
+            "time": "20:00",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
                 "team1": "holland",
                 "team2": "turkey"
             },
@@ -367,6 +461,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Ajax v Galatasaray",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "channel": "TRT 1 Türkiye HD 📺",
@@ -395,22 +497,12 @@
             "encry": ""
         },
         {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
-                "team1": "belgium",
-                "team2": "spain"
-            },
-            "match": "Club Brugge v Barcelona",
-            "time": "20:00",
-            "date": "2025-11-05"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Club Brugge v Barcelona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Benfica v Bayer Leverkusen",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
@@ -431,22 +523,12 @@
             "encry": ""
         },
         {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
-                "team1": "england",
-                "team2": "germany"
-            },
-            "match": "Manchester City v Borussia Dortmund",
-            "time": "20:00",
-            "date": "2025-11-05"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Manchester City v Borussia Dortmund",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Inter Milan v Kairat Almaty",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
@@ -467,30 +549,12 @@
             "encry": ""
         },
         {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
-                "team1": "england",
-                "team2": "spain"
-            },
-            "match": "Newcastle United v Athletic Bilbao",
-            "time": "20:00",
-            "date": "2025-11-05"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Newcastle United v Athletic Bilbao",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "UEFA.TV [online] (geo/R) 📺",
-            "link": "https://www.uefa.tv/",
-            "related_to": "Newcastle United v Athletic Bilbao",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Marseille v Atalanta",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
@@ -1035,6 +1099,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-25 04:20:48",
-    "total_items": 118
+    "last_updated": "2025-10-25 15:16:23",
+    "total_items": 126
 }

@@ -3,6 +3,56 @@
         {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
+                "team1": "denmark",
+                "team2": "scotland"
+            },
+            "match": "Midtjylland v Celtic",
+            "time": "17:45",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "Celtic TV ($/geo/R) 📺",
+            "link": "https://www.celticfc.tv/",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 4",
+            "flags": {
                 "team1": "switzerland",
                 "team2": "romania"
             },
@@ -53,6 +103,14 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 9",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Celta Vigo",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "sweden",
@@ -79,38 +137,12 @@
             "encry": ""
         },
         {
-            "compet": "UEFA Europa League - Matchday 4",
-            "flags": {
-                "team1": "denmark",
-                "team2": "scotland"
-            },
-            "match": "Midtjylland v Celtic",
-            "time": "17:45",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Celtic TV ($/geo/R) 📺",
-            "link": "https://www.celticfc.tv/",
-            "related_to": "Midtjylland v Celtic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Midtjylland v Celtic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
+            "channel": "TNT Sports 10",
             "link": "#",
-            "related_to": "Midtjylland v Celtic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "related_to": "Malmö v Panathinaikos",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -139,6 +171,14 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "serbia",
@@ -163,6 +203,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -243,6 +291,14 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "england3",
@@ -269,6 +325,72 @@
             "encry": ""
         },
         {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 4",
+            "flags": {
+                "team1": "scotland",
+                "team2": "italy"
+            },
+            "match": "Rangers v Roma",
+            "time": "20:00",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Rangers TV ($/geo/R) 📺",
+            "link": "https://tv.rangers.co.uk/",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "italy",
@@ -293,6 +415,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Bologna v Brann",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -349,40 +479,6 @@
         {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
-                "team1": "scotland",
-                "team2": "italy"
-            },
-            "match": "Rangers v Roma",
-            "time": "20:00",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Rangers TV ($/geo/R) 📺",
-            "link": "https://tv.rangers.co.uk/",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 4",
-            "flags": {
                 "team1": "spain",
                 "team2": "france"
             },
@@ -405,6 +501,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -459,6 +563,14 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "czechia",
@@ -483,6 +595,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 5",
@@ -969,6 +1089,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-25 04:21:08",
-    "total_items": 112
+    "last_updated": "2025-10-25 15:16:43",
+    "total_items": 127
 }
