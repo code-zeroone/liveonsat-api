@@ -4,106 +4,6 @@
             "compet": "Türkiye Süper Lig - Week 10",
             "flags": {
                 "team1": "turkey",
-                "team2": "turkey14"
-            },
-            "match": "Kocaelispor v Alanyaspor",
-            "time": "14:00",
-            "date": "2025-10-25"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Kocaelispor v Alanyaspor",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "link": "#",
-            "related_to": "Kocaelispor v Alanyaspor",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 10",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "match": "Trabzonspor v Eyüpspor",
-            "time": "17:00",
-            "date": "2025-10-25"
-        },
-        {
-            "channel": "Arena Sport 5 Srbija HD",
-            "link": "#",
-            "related_to": "Trabzonspor v Eyüpspor",
-            "sat": "Astra 3B",
-            "freq": "11.798 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect FRANCE 📺",
-            "link": "https://connect.beinsports.com/france/se-connecter",
-            "related_to": "Trabzonspor v Eyüpspor",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Trabzonspor v Eyüpspor",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Trabzonspor v Eyüpspor",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "link": "#",
-            "related_to": "Trabzonspor v Eyüpspor",
-            "sat": "Astra 1M",
-            "freq": "11.856 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "link": "#",
-            "related_to": "Trabzonspor v Eyüpspor",
-            "sat": "Eshail 2",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "link": "#",
-            "related_to": "Trabzonspor v Eyüpspor",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "Sport+ Qazaqstan",
-            "link": "#",
-            "related_to": "Trabzonspor v Eyüpspor",
-            "sat": "KazSat 3",
-            "freq": "10.720 H 30000 - 3/4",
-            "encry": "MPEG-4 NDS"
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 10",
-            "flags": {
-                "team1": "turkey",
                 "team2": "turkey"
             },
             "match": "Antalyaspor v Istanbul Basaksehir",
@@ -169,12 +69,52 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "MATCH! Futbol 3 HD",
+            "link": "#",
+            "related_to": "Galatasaray v Göztepe",
+            "sat": "Horizons 2",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Sport+ Qazaqstan",
             "link": "#",
             "related_to": "Galatasaray v Göztepe",
             "sat": "KazSat 3",
             "freq": "10.720 H 30000 - 3/4",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Galatasaray v Göztepe",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Galatasaray v Göztepe",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport 6 Albania HD",
+            "link": "#",
+            "related_to": "Galatasaray v Göztepe",
+            "sat": "Eutelsat 16A",
+            "freq": "10.804 H 29950 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "link": "#",
+            "related_to": "Galatasaray v Göztepe",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "compet": "Türkiye Süper Lig - Week 10",
@@ -213,6 +153,14 @@
             "date": "2025-10-26"
         },
         {
+            "channel": "Arena Sport 8 Srbija HD",
+            "link": "#",
+            "related_to": "Kasimpasa v Besiktas",
+            "sat": "Astra 3B",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Kasimpasa v Besiktas",
@@ -245,6 +193,14 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "MATCH! Futbol 3 HD",
+            "link": "#",
+            "related_to": "Kasimpasa v Besiktas",
+            "sat": "Horizons 2",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Sport TV6 Portugal HD",
             "link": "#",
             "related_to": "Kasimpasa v Besiktas",
@@ -259,6 +215,30 @@
             "sat": "KazSat 3",
             "freq": "10.720 H 30000 - 3/4",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Kasimpasa v Besiktas",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "link": "#",
+            "related_to": "Kasimpasa v Besiktas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Kasimpasa v Besiktas",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         },
         {
             "compet": "Türkiye Süper Lig - Week 10",
@@ -1595,6 +1575,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-25 15:20:27",
-    "total_items": 186
+    "last_updated": "2025-10-26 04:24:12",
+    "total_items": 184
 }

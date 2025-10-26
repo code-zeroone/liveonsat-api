@@ -443,6 +443,14 @@
             "encry": ""
         },
         {
+            "channel": "M4 Sport Hungary HD 📺",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": "Ferencváros v Ludogorets",
+            "sat": "Astra 3B",
+            "freq": "11.778 V 29900 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Ferencváros v Ludogorets",
@@ -561,6 +569,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "RTL Deutschland HD 📺",
+            "link": "https://plus.rtl.de/video-tv/live-tv/rtl-1",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "Intelsat 20",
+            "freq": "12.522 V 30000 - 3/5",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "RTL Schweiz HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "Hotbird 13E",
+            "freq": "11.096 H 30000 - 3/4",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTL Österreich HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "Astra 1L",
+            "freq": "12.226 H 27500 - 3/4",
+            "encry": "Free To Air"
         },
         {
             "channel": "TNT Sports 6",
@@ -1089,6 +1121,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-25 15:16:43",
-    "total_items": 127
+    "last_updated": "2025-10-26 04:20:29",
+    "total_items": 131
 }

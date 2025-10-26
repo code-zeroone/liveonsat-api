@@ -51,6 +51,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Cielo Italia HD",
+            "link": "#",
+            "related_to": "Slavia Prague v Arsenal",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
                 "team1": "italy",
@@ -435,6 +443,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Viaccess"
         },
         {
             "channel": "TNT Sports 4 HD",
@@ -1099,6 +1131,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-25 15:16:23",
-    "total_items": 126
+    "last_updated": "2025-10-26 04:20:08",
+    "total_items": 130
 }
