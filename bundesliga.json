@@ -51,6 +51,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Freiburg",
+            "sat": "SES 4",
+            "freq": "11.171 V 45000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "link": "#",
             "related_to": "Bayer Leverkusen v Freiburg",
@@ -89,6 +97,14 @@
             "sat": "Astra 3C",
             "freq": "12.090 V 29900 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
@@ -177,6 +193,14 @@
             "sat": "Turksat 4A",
             "freq": "11.853 H 25000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 3 HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Freiburg",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "TSN Malta 5 HD",
@@ -309,6 +333,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Okko Prime Sport HD ($/geo/R)",
+            "link": "#",
+            "related_to": "Stuttgart v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Stuttgart v Mainz 05",
@@ -419,6 +451,14 @@
             "sat": "Turksat 4A",
             "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "link": "#",
+            "related_to": "Stuttgart v Mainz 05",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "TSN Malta 6 HD",
@@ -869,6 +909,22 @@
             "match": "Wolfsburg v Hoffenheim",
             "time": "16:30",
             "date": "2025-11-02"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Wolfsburg v Hoffenheim",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "link": "#",
+            "related_to": "Wolfsburg v Hoffenheim",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -1553,6 +1609,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-26 04:22:11",
-    "total_items": 185
+    "last_updated": "2025-10-26 15:18:37",
+    "total_items": 192
 }

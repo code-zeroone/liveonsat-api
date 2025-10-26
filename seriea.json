@@ -315,6 +315,14 @@
             "encry": ""
         },
         {
+            "channel": "Turkmenistan Sport HD 📺",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "Torino v Genoa",
+            "sat": "MonacoSat",
+            "freq": "12.303 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "TV4 Fotboll HD",
             "link": "#",
             "related_to": "Torino v Genoa",
@@ -605,6 +613,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Sassuolo v Roma",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "TSN Malta 3 HD",
             "link": "#",
             "related_to": "Sassuolo v Roma",
@@ -627,6 +643,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Sassuolo v Roma",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
         },
         {
             "compet": "Italian Serie A - Week 8",
@@ -757,6 +781,14 @@
             "sat": "Turksat 4A",
             "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "link": "#",
+            "related_to": "Hellas Verona v Cagliari",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "TV4 Sport Live 2 HD",
@@ -1065,6 +1097,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Fiorentina v Bologna",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "TSN Malta 3 HD",
             "link": "#",
             "related_to": "Fiorentina v Bologna",
@@ -1087,6 +1127,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Fiorentina v Bologna",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
         },
         {
             "compet": "Italian Serie A - Week 8",
@@ -1265,6 +1313,14 @@
             "sat": "Astra 4A",
             "freq": "11.938 V 27500 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Lazio v Juventus",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "MATCH! Futbol 1 HD",
@@ -1459,6 +1515,14 @@
             "encry": ""
         },
         {
+            "channel": "Turkmenistan Sport HD 📺",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "Lazio v Juventus",
+            "sat": "MonacoSat",
+            "freq": "12.303 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "TV12 Sverige HD",
             "link": "#",
             "related_to": "Lazio v Juventus",
@@ -1489,6 +1553,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Lazio v Juventus",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Lazio v Juventus",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "Italian Serie A - Week 9",
@@ -1948,6 +2028,24 @@
                 "team1": "italy",
                 "team2": "italy"
             },
+            "match": "Udinese v Atalanta",
+            "time": "14:00",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Udinese v Atalanta",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "Italian Serie A - Week 10",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
             "match": "Napoli v Como",
             "time": "17:00",
             "date": "2025-11-01"
@@ -1977,6 +2075,14 @@
             "match": "Cremonese v Juventus",
             "time": "19:45",
             "date": "2025-11-01"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Cremonese v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "DAZN Great Britain (geo/R) 📺",
@@ -2651,6 +2757,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-26 04:21:10",
-    "total_items": 321
+    "last_updated": "2025-10-26 15:17:36",
+    "total_items": 334
 }

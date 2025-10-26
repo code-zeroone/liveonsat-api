@@ -259,6 +259,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Gaziantep v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "beIN Connect Canada 📺",
             "link": "https://connect-ca.beinsports.com/",
             "related_to": "Gaziantep v Fenerbahçe",
@@ -483,6 +491,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Gaziantep v Fenerbahçe",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "SportKlub 3 Slovenija",
             "link": "#",
             "related_to": "Gaziantep v Fenerbahçe",
@@ -697,12 +713,28 @@
             "date": "2025-11-02"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Besiktas v Fenerbahçe",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Besiktas v Fenerbahçe",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "link": "#",
+            "related_to": "Besiktas v Fenerbahçe",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD Viaccess"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -1575,6 +1607,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-26 04:24:12",
-    "total_items": 184
+    "last_updated": "2025-10-26 15:20:39",
+    "total_items": 188
 }

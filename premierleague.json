@@ -107,6 +107,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "link": "#",
+            "related_to": "Arsenal v Crystal Palace",
+            "sat": "Eutelsat 36C",
+            "freq": "11.823 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Canal+ Sport 360 HD",
             "link": "#",
             "related_to": "Arsenal v Crystal Palace",
@@ -217,6 +225,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Arsenal v Crystal Palace",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
@@ -1587,6 +1603,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "link": "#",
+            "related_to": "Everton v Tottenham Hotspur",
+            "sat": "Eutelsat 36C",
+            "freq": "11.823 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Canal+ Sport 5 Czech HD 📺",
             "link": "https://livetv.skylink.cz",
             "related_to": "Everton v Tottenham Hotspur",
@@ -1689,6 +1713,14 @@
             "sat": "Hotbird 13F",
             "freq": "11.804 V 29700 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Everton v Tottenham Hotspur",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
@@ -1865,6 +1897,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Turkmenistan Sport HD 📺",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "Everton v Tottenham Hotspur",
+            "sat": "MonacoSat",
+            "freq": "12.303 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "TV2 Play Premium (geo/R) 📺",
@@ -2451,6 +2491,22 @@
             "date": "2025-11-02"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "West Ham United v Newcastle United",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "West Ham United v Newcastle United",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "West Ham United v Newcastle United",
@@ -2539,6 +2595,22 @@
             "match": "Manchester City v Bournemouth",
             "time": "16:30",
             "date": "2025-11-02"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Manchester City v Bournemouth",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Manchester City v Bournemouth",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -4505,6 +4577,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-26 04:19:48",
-    "total_items": 547
+    "last_updated": "2025-10-26 15:16:14",
+    "total_items": 556
 }

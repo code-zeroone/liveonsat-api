@@ -381,6 +381,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "link": "#",
+            "related_to": "Real Madrid v Barcelona",
+            "sat": "Eutelsat 16A",
+            "freq": "10.886 H 30000 - 8/9",
+            "encry": "HD Mediaguard"
+        },
+        {
             "channel": "Cytavision Sports 8 HD",
             "link": "#",
             "related_to": "Real Madrid v Barcelona",
@@ -477,6 +485,14 @@
             "encry": "FTA (BISS)"
         },
         {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Barcelona",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
             "channel": "Italia 1 HD 📺",
             "link": "https://www.mediasetplay.mediaset.it/diretta/italia1_cI1",
             "related_to": "Real Madrid v Barcelona",
@@ -546,6 +562,14 @@
             "related_to": "Real Madrid v Barcelona",
             "sat": "Eutelsat 16A",
             "freq": "12.604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "New World Sport 5 Togo",
+            "link": "#",
+            "related_to": "Real Madrid v Barcelona",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
             "encry": "MPEG-4 Conax"
         },
         {
@@ -771,6 +795,22 @@
             "sat": "Eutelsat 36D",
             "freq": "11.346 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Real Madrid v Barcelona",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Real Madrid v Barcelona",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 10",
@@ -1143,6 +1183,22 @@
             "encry": "N/A"
         },
         {
+            "channel": "Ziggo Sport 5",
+            "link": "#",
+            "related_to": "Osasuna v Celta Vigo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Osasuna v Celta Vigo",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 10",
             "flags": {
                 "team1": "spain",
@@ -1447,6 +1503,14 @@
             "sat": "Thor 6",
             "freq": "10.872 V 25000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Alavés",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 10",
@@ -1909,6 +1973,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports Australia 2 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Valencia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "beIN Sports France 2 HD",
             "link": "#",
             "related_to": "Real Madrid v Valencia",
@@ -1957,6 +2029,22 @@
             "match": "Levante v Celta Vigo",
             "time": "13:00",
             "date": "2025-11-02"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Levante v Celta Vigo",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 7 HD max",
+            "link": "#",
+            "related_to": "Levante v Celta Vigo",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN LaLiga HD",
@@ -2059,6 +2147,22 @@
             "date": "2025-11-02"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Barcelona v Elche",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Barcelona v Elche",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN LaLiga HD",
             "link": "#",
             "related_to": "Barcelona v Elche",
@@ -2091,6 +2195,22 @@
             "match": "Real Betis v Mallorca",
             "time": "20:00",
             "date": "2025-11-02"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Real Betis v Mallorca",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Real Betis v Mallorca",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -2573,6 +2693,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-26 04:21:50",
-    "total_items": 315
+    "last_updated": "2025-10-26 15:18:17",
+    "total_items": 330
 }
