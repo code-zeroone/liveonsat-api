@@ -37,6 +37,14 @@
             "date": "2025-10-27"
         },
         {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Botosani v Hermannstadt",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Digi Sport 1 Romania HD",
             "link": "#",
             "related_to": "Botosani v Hermannstadt",
@@ -59,6 +67,32 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "compet": "Russian Premier League - Week 13",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "match": "Akhmat Grozny v Sochi",
+            "time": "16:30",
+            "date": "2025-10-27"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "link": "#",
+            "related_to": "Akhmat Grozny v Sochi",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": "Akhmat Grozny v Sochi",
+            "sat": "Horizons 2",
+            "freq": "11.720 H 28800 - 3/4",
+            "encry": "Conax"
         },
         {
             "compet": "Türkiye Süper Lig - Week 10",
@@ -311,6 +345,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Gaziantep v Fenerbahçe",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "SportKlub 1 Hrvatska HD",
             "link": "#",
             "related_to": "Gaziantep v Fenerbahçe",
@@ -369,6 +411,24 @@
             "encry": "HD Irdeto"
         },
         {
+            "compet": "Bosnia-Herzegovina Premier Liga - Week 12",
+            "flags": {
+                "team1": "bosnia2",
+                "team2": "bosnia15"
+            },
+            "match": "Zrinjski v Borac Banja Luka",
+            "time": "17:00",
+            "date": "2025-10-27"
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "link": "#",
+            "related_to": "Zrinjski v Borac Banja Luka",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
             "compet": "Swedish Allsvenskan - Week 28",
             "flags": {
                 "team1": "sweden",
@@ -385,6 +445,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "HBO Max Extra 2 HD",
+            "link": "#",
+            "related_to": "Brommapojkarna v GAIS",
+            "sat": "Thor 5",
+            "freq": "11.341 V 25000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "TV4 Play Sverige [online] 📺",
@@ -413,6 +481,58 @@
             "encry": "VideoGuard"
         },
         {
+            "compet": "Polish Ekstraklasa - Week 13",
+            "flags": {
+                "team1": "poland5",
+                "team2": "poland"
+            },
+            "match": "Radomiak Radom v Wisla Plock",
+            "time": "18:00",
+            "date": "2025-10-27"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Radomiak Radom v Wisla Plock",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Canal+ Sport 3 Polska HD",
+            "link": "#",
+            "related_to": "Radomiak Radom v Wisla Plock",
+            "sat": "Hotbird 13G",
+            "freq": "10.892 H 27500 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Ekstraklasa TV ($/PPV) 📺",
+            "link": "https://www.ekstraklasa.tv/ekstraklasa/",
+            "related_to": "Radomiak Radom v Wisla Plock",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Danish Superliga - Week 13",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "match": "OB Odense v Brøndby",
+            "time": "18:00",
+            "date": "2025-10-27"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "OB Odense v Brøndby",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Swedish Allsvenskan - Week 28",
             "flags": {
                 "team1": "sweden",
@@ -431,6 +551,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "HBO Max Extra 1 HD",
+            "link": "#",
+            "related_to": "Malmö v Hammarby",
+            "sat": "Thor 5",
+            "freq": "11.341 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "TV4 Play Sverige [online] 📺",
             "link": "https://www.tv4play.se/sport",
             "related_to": "Malmö v Hammarby",
@@ -447,6 +575,14 @@
             "match": "Rapid Bucharest v Unirea Slobozia",
             "time": "18:30",
             "date": "2025-10-27"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "link": "#",
+            "related_to": "Rapid Bucharest v Unirea Slobozia",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "Digi Sport 1 Romania HD",
@@ -483,19 +619,19 @@
             "date": "2025-10-27"
         },
         {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "link": "#",
-            "related_to": "Barracas Central v Boca Juniors",
-            "sat": "Eutelsat 16A",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
             "channel": "Arena Sport 3 Srbija HD",
             "link": "#",
             "related_to": "Barracas Central v Boca Juniors",
             "sat": "Astra 3B",
             "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "link": "#",
+            "related_to": "Barracas Central v Boca Juniors",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
             "encry": "HD Conax"
         },
         {
@@ -533,6 +669,14 @@
             "date": "2025-10-27"
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Port Vale v Stockport County",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Port Vale v Stockport County",
@@ -555,6 +699,14 @@
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "link": "#",
+            "related_to": "Port Vale v Stockport County",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -605,6 +757,54 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Port Vale v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Port Vale v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Port Vale v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Port Vale v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Port Vale v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Port Vale v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 10",
             "flags": {
                 "team1": "spain",
@@ -613,6 +813,14 @@
             "match": "Real Betis v Atlético Madrid",
             "time": "20:00",
             "date": "2025-10-27"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Real Betis v Atlético Madrid",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "ART Motion Sport 1 HD 📺",
@@ -687,6 +895,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Betis v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Real Betis v Atlético Madrid",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Real Betis v Atlético Madrid",
@@ -727,6 +951,14 @@
             "encry": "MPEG-4 Conax"
         },
         {
+            "channel": "Nova Sports 1 Hellas HD",
+            "link": "#",
+            "related_to": "Real Betis v Atlético Madrid",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "link": "#",
             "related_to": "Real Betis v Atlético Madrid",
@@ -751,12 +983,36 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "link": "#",
+            "related_to": "Real Betis v Atlético Madrid",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "TSN Malta 4 HD",
             "link": "#",
             "related_to": "Real Betis v Atlético Madrid",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "link": "#",
+            "related_to": "Real Betis v Atlético Madrid",
+            "sat": "Thor 6",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Real Betis v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Portuguese Liga Portugal - Week 9",
@@ -793,6 +1049,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-10-27 04:27:56",
-    "total_items": 96
+    "last_updated": "2025-10-27 15:19:13",
+    "total_items": 127
 }

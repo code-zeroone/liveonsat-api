@@ -1,5 +1,78 @@
 {
-    "footonsat": [],
-    "last_updated": "2025-10-27 04:34:03",
-    "total_items": 0
+    "footonsat": [
+        {
+            "compet": "Saudi Division 1 - Round of 16",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Nassr v Al Ittihad",
+            "time": "18:00",
+            "date": "2025-10-29"
+        },
+        {
+            "channel": "Cosmote Sport 5 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Eutelsat 9B",
+            "freq": "12.418 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Saudi Professional League - Week 7",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Ahli v Al Riyadh",
+            "time": "17:30",
+            "date": "2025-10-30"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "link": "#",
+            "related_to": "Al Ahli v Al Riyadh",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Saudi Professional League - Week 7",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Hilal v Al Shabab",
+            "time": "14:50",
+            "date": "2025-10-31"
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Saudi Professional League - Week 7",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Nassr v Al Fayha",
+            "time": "17:30",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "Cosmote Sport 9 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fayha",
+            "sat": "Eutelsat 9B",
+            "freq": "12.169 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        }
+    ],
+    "last_updated": "2025-10-27 15:25:24",
+    "total_items": 8
 }
