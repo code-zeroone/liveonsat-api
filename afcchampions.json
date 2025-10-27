@@ -11,6 +11,14 @@
             "date": "2025-10-29"
         },
         {
+            "channel": "Spor Smart Türkiye HD",
+            "link": "#",
+            "related_to": "Al Khalidiya v Al Ahli",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Al Khalidiya v Al Ahli",
@@ -27,6 +35,14 @@
             "match": "Al Wehdat v Muharraq",
             "time": "18:15",
             "date": "2025-10-29"
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "link": "#",
+            "related_to": "Al Wehdat v Muharraq",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -57,6 +73,40 @@
         {
             "compet": "AFC Champions League Elite - Round 4",
             "flags": {
+                "team1": "iran",
+                "team2": "iraq"
+            },
+            "match": "Tractor Sazi v Al Shorta",
+            "time": "16:00",
+            "date": "2025-11-03"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "AFC Champions League Elite - Round 4",
+            "flags": {
                 "team1": "qatar",
                 "team2": "uae3"
             },
@@ -68,24 +118,6 @@
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Al Duhail v Shabab Al Ahli",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "AFC Champions League Elite - Round 4",
-            "flags": {
-                "team1": "iran",
-                "team2": "iraq"
-            },
-            "match": "Tractor Sazi v Al Shorta",
-            "time": "16:00",
-            "date": "2025-11-03"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Tractor Sazi v Al Shorta",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -541,6 +573,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-26 15:18:58",
-    "total_items": 60
+    "last_updated": "2025-10-27 04:31:00",
+    "total_items": 64
 }
