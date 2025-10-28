@@ -305,6 +305,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 4 Slovenija HD",
+            "link": "#",
+            "related_to": "Lorient v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Arena Sport 5 Hrvatska HD",
             "link": "#",
             "related_to": "Lorient v Paris St Germain",
@@ -377,12 +385,28 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Lorient v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "link": "#",
             "related_to": "Lorient v Paris St Germain",
             "sat": "Hispasat 30W-5",
             "freq": "12.360 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "TV3 Sport Dansk HD",
+            "link": "#",
+            "related_to": "Lorient v Paris St Germain",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -497,6 +521,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Nantes v Monaco",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport Variety 4 HD",
+            "link": "#",
+            "related_to": "Nantes v Monaco",
+            "sat": "Intelsat 20",
+            "freq": "11.170 H 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -751,6 +791,14 @@
             "sat": "Astra 3B",
             "freq": "11.798 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ART Motion Sport 4 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Paris FC v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -1045,6 +1093,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SuperSport Variety 4 HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Nice",
+            "sat": "Intelsat 20",
+            "freq": "11.170 H 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Paris St Germain v Nice",
@@ -1319,6 +1375,22 @@
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport GOtv Africa",
+            "link": "#",
+            "related_to": "Auxerre v Marseille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport Variety 4 HD",
+            "link": "#",
+            "related_to": "Auxerre v Marseille",
+            "sat": "Intelsat 20",
+            "freq": "11.170 H 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1610,6 +1682,120 @@
                 "team1": "france",
                 "team2": "france"
             },
+            "match": "Toulouse v Le Havre",
+            "time": "16:15",
+            "date": "2025-11-02"
+        },
+        {
+            "channel": "Arena Sport 10 Hrvatska HD",
+            "link": "#",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "link": "#",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Ligue 1+ 7 ($/geo/R) 📺",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 6 ($/geo/R)",
+            "link": "#",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Toulouse v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "French Ligue 1 - Week 11",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
             "match": "Lens v Lorient",
             "time": "16:15",
             "date": "2025-11-02"
@@ -1814,104 +2000,6 @@
                 "team1": "france",
                 "team2": "france"
             },
-            "match": "Toulouse v Le Havre",
-            "time": "16:15",
-            "date": "2025-11-02"
-        },
-        {
-            "channel": "Arena Sport 10 Hrvatska HD",
-            "link": "#",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "Astra 3C",
-            "freq": "12.402 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Ligue 1+ 7 ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Megogo Futbol 6 ($/geo/R)",
-            "link": "#",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Toulouse v Le Havre",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "French Ligue 1 - Week 11",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
             "match": "Brest v Lyon",
             "time": "19:45",
             "date": "2025-11-02"
@@ -1923,6 +2011,14 @@
             "sat": "Eutelsat 16A",
             "freq": "11.554 H 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 4 Slovenija HD",
+            "link": "#",
+            "related_to": "Brest v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Arena Sport 5 BiH HD",
@@ -2711,6 +2807,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-28 04:22:44",
-    "total_items": 330
+    "last_updated": "2025-10-28 15:22:11",
+    "total_items": 342
 }

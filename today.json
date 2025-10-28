@@ -289,6 +289,76 @@
             "encry": "HD VideoGuard"
         },
         {
+            "compet": "Romanian Cup - 1st Round",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "match": "Csikszereda v Sepsi OSK",
+            "time": "14:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "link": "#",
+            "related_to": "Csikszereda v Sepsi OSK",
+            "sat": "Thor 5",
+            "freq": "11.862 H 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "link": "#",
+            "related_to": "Csikszereda v Sepsi OSK",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Csikszereda v Sepsi OSK",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Qadisiyah v Al Hazem",
+            "time": "14:35",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thamanya 1 KSA HD",
+            "link": "#",
+            "related_to": "Al Qadisiyah v Al Hazem",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Shabab v Al Zulfi",
+            "time": "14:50",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thamanya 2 KSA HD",
+            "link": "#",
+            "related_to": "Al Shabab v Al Zulfi",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "Portuguese Liga Revelação U-23 - Regular Season Serie A - 8",
             "flags": {
                 "team1": "portugal",
@@ -331,6 +401,42 @@
             "sat": "Turksat 4A",
             "freq": "12.053 H 27500 - 5/6",
             "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Akhdoud v Al Hilal",
+            "time": "15:10",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "link": "#",
+            "related_to": "Al Akhdoud v Al Hilal",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Friendly International (W)",
+            "flags": {
+                "team1": "romania",
+                "team2": "ukraine"
+            },
+            "match": "Romania v Ukraine",
+            "time": "15:30",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "link": "#",
+            "related_to": "Romania v Ukraine",
+            "sat": "Thor 6",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "compet": "Albanian Superliga - Week 9",
@@ -447,6 +553,40 @@
             "encry": "HD Conax"
         },
         {
+            "compet": "Romanian Cup - 1st Round",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "match": "Slatina v CFR Cluj",
+            "time": "16:30",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "link": "#",
+            "related_to": "Slatina v CFR Cluj",
+            "sat": "Thor 5",
+            "freq": "11.862 H 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "link": "#",
+            "related_to": "Slatina v CFR Cluj",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Slatina v CFR Cluj",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "compet": "Bulgarian Cup",
             "flags": {
                 "team1": "bulgaria",
@@ -507,6 +647,14 @@
             "encry": "HD Viaccess"
         },
         {
+            "channel": "ORF 1 Austria HD 📺",
+            "link": "https://tvthek.orf.at/live",
+            "related_to": "Austria v Czechia",
+            "sat": "Astra 1L",
+            "freq": "11.303 H 22000 - 2/3",
+            "encry": "HD CryptoWorks"
+        },
+        {
             "compet": "UEFA Womens Nations League - Relegation Play-Off (2nd Leg)",
             "flags": {
                 "team1": "denmark",
@@ -531,6 +679,32 @@
             "sat": "Astra 4A",
             "freq": "11.881 H 28000 - 3/4",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "compet": "South African Knockout Cup - Quarter Final",
+            "flags": {
+                "team1": "southafrica16",
+                "team2": "southafrica"
+            },
+            "match": "Orlando Pirates v Magesi",
+            "time": "17:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "link": "#",
+            "related_to": "Orlando Pirates v Magesi",
+            "sat": "Intelsat 20",
+            "freq": "11.170 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport Variety 4 HD",
+            "link": "#",
+            "related_to": "Orlando Pirates v Magesi",
+            "sat": "Intelsat 20",
+            "freq": "11.170 H 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "compet": "Italian Serie A - Week 9",
@@ -567,6 +741,38 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ART Motion Sport 1 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Lecce v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "link": "#",
             "related_to": "Lecce v Napoli",
@@ -580,6 +786,14 @@
             "related_to": "Lecce v Napoli",
             "sat": "Eutelsat 9B",
             "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Astra 1N",
+            "freq": "12.070 H 27500 - 9/10",
             "encry": "HD VideoGuard"
         },
         {
@@ -615,6 +829,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Digi Sport 2 Romania HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Thor 6",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Lecce v Napoli",
@@ -639,6 +861,38 @@
             "encry": ""
         },
         {
+            "channel": "Fast Sports TV Armenia 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "Lecce v Napoli",
+            "sat": "Eutelsat 70B",
+            "freq": "11.050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Thor 7",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Conax"
+        },
+        {
             "channel": "MAX Sport 3 Bulgaria HD",
             "link": "#",
             "related_to": "Lecce v Napoli",
@@ -656,11 +910,19 @@
         },
         {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
             "related_to": "Lecce v Napoli",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Thor 5",
+            "freq": "11.247 V 24500 - 7/8",
+            "encry": "HD Conax"
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -669,6 +931,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Lecce v Napoli",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "S Sport 2 Türkiye HD",
@@ -687,6 +965,14 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Astra 4A",
+            "freq": "11.958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "Setanta Sports 1 Eurasia HD",
             "link": "#",
             "related_to": "Lecce v Napoli",
@@ -701,6 +987,38 @@
             "sat": "Amos 7",
             "freq": "11.030 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Intelsat 20",
+            "freq": "11.514 H 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Intelsat 20",
+            "freq": "11.594 V 27500 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "SuperSport MáXimo 360",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Express AMU1",
+            "freq": "12.130 H 27500 - 2/3",
+            "encry": "Irdeto"
         },
         {
             "channel": "Tivibu Spor 2 HD",
@@ -727,12 +1045,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "TSN Malta 7 HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
             "link": "https://play.tv2.dk/sport",
             "related_to": "Lecce v Napoli",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Thor 6",
+            "freq": "10.716 H 25000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "TV4 Fotboll HD",
@@ -759,6 +1093,14 @@
             "encry": ""
         },
         {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Lecce v Napoli",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
             "compet": "German Cup (DFB-Pokal) - Round 2",
             "flags": {
                 "team1": "germany",
@@ -767,6 +1109,22 @@
             "match": "Eintracht Frankfurt v Borussia Dortmund",
             "time": "17:30",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Eutelsat 7 West A",
+            "freq": "11.411 H 30000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Arena Premium 1 Slovenija",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Arena Sport 1 BiH HD",
@@ -793,6 +1151,46 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ART Motion Sport 3 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Astro Sports UHD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Measat 3a",
+            "freq": "11.775 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DFB Play TV (geo/R) 📺",
             "link": "https://www.dfbplay.tv/",
             "related_to": "Eintracht Frankfurt v Borussia Dortmund",
@@ -817,12 +1215,36 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 3 Brazil HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "GOL España HD 📺",
             "link": "https://www.goltelevision.com/en-directo",
             "related_to": "Eintracht Frankfurt v Borussia Dortmund",
             "sat": "* IPTV/Stream",
             "freq": "0.000 - -",
             "encry": "Free To Air"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "L´Équipe Live Foot (geo/R) 📺",
+            "link": "https://lequipe.fr/",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Megogo Futbol 2 ($/geo/R)",
@@ -833,12 +1255,36 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Nova Sport 2 Czech HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Astra 3B",
+            "freq": "11.973 V 29900 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Eintracht Frankfurt v Borussia Dortmund",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
@@ -873,6 +1319,22 @@
             "encry": ""
         },
         {
+            "channel": "QazSport HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "KazSat 2",
+            "freq": "11.660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Sifir Tv",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Turksat 4A",
+            "freq": "12.379 H 30000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Sky Sport 2 Deutsch HD",
             "link": "#",
             "related_to": "Eintracht Frankfurt v Borussia Dortmund",
@@ -889,12 +1351,68 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Astra 2F",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "link": "#",
             "related_to": "Eintracht Frankfurt v Borussia Dortmund",
             "sat": "Eutelsat 16A",
             "freq": "10.845 H 30000 - 3/5",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "TVNet Sport Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "ZDF Deutschland HD 📺",
@@ -905,6 +1423,14 @@
             "encry": "Free To Air"
         },
         {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Borussia Dortmund",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+        },
+        {
             "compet": "German Cup (DFB-Pokal) - Round 2",
             "flags": {
                 "team1": "germany",
@@ -913,6 +1439,22 @@
             "match": "Wolfsburg v Holstein Kiel",
             "time": "17:30",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "Abu Dhabi Sports 2 HD 📺",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
+            "related_to": "Wolfsburg v Holstein Kiel",
+            "sat": "Eutelsat 7 West A",
+            "freq": "11.411 H 30000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Holstein Kiel",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Arena Sport 4 Hrvatska HD",
@@ -973,6 +1515,14 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "AD Sports 1 Asia HD [app]",
+            "link": "#",
+            "related_to": "Heidenheim v Hamburg",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Arena Sport 2 Srbija HD",
             "link": "#",
             "related_to": "Heidenheim v Hamburg",
@@ -995,6 +1545,14 @@
             "sat": "Eutelsat 16A",
             "freq": "11.678 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Heidenheim v Hamburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DFB Play TV (geo/R) 📺",
@@ -1021,6 +1579,14 @@
             "encry": ""
         },
         {
+            "channel": "Nova Sport 3 Czech HD",
+            "link": "#",
+            "related_to": "Heidenheim v Hamburg",
+            "sat": "Astra 3B",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Heidenheim v Hamburg",
@@ -1045,6 +1611,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Heidenheim v Hamburg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "compet": "German Cup (DFB-Pokal) - Round 2",
             "flags": {
                 "team1": "germany",
@@ -1053,6 +1627,22 @@
             "match": "Hertha Berlin v Elversberg",
             "time": "17:30",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "AD Sports 2 Asia HD [app]",
+            "link": "#",
+            "related_to": "Hertha Berlin v Elversberg",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Arena Sport 2 Slovenija HD",
+            "link": "#",
+            "related_to": "Hertha Berlin v Elversberg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Arena Sport 4 BiH HD",
@@ -1157,214 +1747,6 @@
             "encry": ""
         },
         {
-            "compet": "English League Trophy - Group Stage",
-            "flags": {
-                "team1": "england82",
-                "team2": "england"
-            },
-            "match": "Barrow v Notts Forest U-21",
-            "time": "18:00",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Barrow v Notts Forest U-21",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Barrow v Notts Forest U-21",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League Trophy - Group Stage",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Cheltenham v Tottenham U-21",
-            "time": "18:00",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Cheltenham v Tottenham U-21",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Cheltenham v Tottenham U-21",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League Trophy - Group Stage",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Exeter City v Arsenal U-21",
-            "time": "18:00",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Exeter City v Arsenal U-21",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Exeter City v Arsenal U-21",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League Trophy - Group Stage",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Leyton Orient v Aston Villa U-21",
-            "time": "18:00",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Leyton Orient v Aston Villa U-21",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Leyton Orient v Aston Villa U-21",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League Trophy - Group Stage",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Luton Town v Brighton U-21",
-            "time": "18:00",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Luton Town v Brighton U-21",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Luton Town v Brighton U-21",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League Trophy - Group Stage",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Rotherham United v Manchester City U-21",
-            "time": "18:00",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Rotherham United v Manchester City U-21",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Rotherham United v Manchester City U-21",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League Trophy - Group Stage",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Swindon Town v West Ham United U-21",
-            "time": "18:00",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Swindon Town v West Ham United U-21",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Swindon Town v West Ham United U-21",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League Trophy - Group Stage",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Walsall v Chelsea U-21",
-            "time": "18:00",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Walsall v Chelsea U-21",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Walsall v Chelsea U-21",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
             "compet": "UEFA Womens Nations League - Semi Final (2nd Leg)",
             "flags": {
                 "team1": "sweden",
@@ -1399,6 +1781,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SuperSport Variety 3 HD",
+            "link": "#",
+            "related_to": "Sweden v Spain",
+            "sat": "Intelsat 20",
+            "freq": "11.170 H 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "SVT 2 Sverige HD",
             "link": "#",
             "related_to": "Sweden v Spain",
@@ -1429,6 +1819,150 @@
             "sat": "*DTT",
             "freq": "0.000 - -",
             "encry": "Free To Air HD"
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england82",
+                "team2": "england"
+            },
+            "match": "Barrow v Notts Forest U-21",
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Barrow v Notts Forest U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Cheltenham v Tottenham U-21",
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Cheltenham v Tottenham U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Exeter City v Arsenal U-21",
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Exeter City v Arsenal U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Leyton Orient v Aston Villa U-21",
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Leyton Orient v Aston Villa U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Luton Town v Brighton U-21",
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Luton Town v Brighton U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Rotherham United v Manchester City U-21",
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Rotherham United v Manchester City U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Swindon Town v West Ham United U-21",
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Swindon Town v West Ham United U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Walsall v Chelsea U-21",
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Walsall v Chelsea U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "Spanish Cup (Copa del Rey) - 1st Round",
@@ -1545,6 +2079,88 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "compet": "Saudi King's Cup - Round of 16",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Nassr v Al Ittihad",
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "SES 6",
+            "freq": "11.680 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Cosmote Sport 5 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Eutelsat 9B",
+            "freq": "12.418 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Astra 1L",
+            "freq": "10.729 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Movistar Plus+ 2 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SporTV 2 Brazil HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "Israeli Toto Cup (Ligat ha'Al) - Final",
             "flags": {
                 "team1": "israel",
@@ -1643,6 +2259,74 @@
             "encry": ""
         },
         {
+            "compet": "Friendly International (W)",
+            "flags": {
+                "team1": "england",
+                "team2": "australia"
+            },
+            "match": "England v Australia",
+            "time": "19:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "ITV 4 HD 📺",
+            "link": "https://www.itv.com/watch?channel=itv4",
+            "related_to": "England v Australia",
+            "sat": "Astra 2E",
+            "freq": "10.891 H 22000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "ITV X (geo/R) 📺",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": "England v Australia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "link": "#",
+            "related_to": "England v Australia",
+            "sat": "Intelsat 20",
+            "freq": "11.554 V 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "compet": "Romanian Cup - 1st Round",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "match": "CS Dinamo v Dinamo Bucharest",
+            "time": "19:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "link": "#",
+            "related_to": "CS Dinamo v Dinamo Bucharest",
+            "sat": "Thor 5",
+            "freq": "11.862 H 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "link": "#",
+            "related_to": "CS Dinamo v Dinamo Bucharest",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "CS Dinamo v Dinamo Bucharest",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "compet": "Dutch Cup (KNVB Beker)",
             "flags": {
                 "team1": "holland",
@@ -1701,6 +2385,14 @@
             "sat": "Hotbird 13G",
             "freq": "12.265 V 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport Variety 3 HD",
+            "link": "#",
+            "related_to": "France v Germany",
+            "sat": "Intelsat 20",
+            "freq": "11.170 H 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "channel": "W9 France HD 📺",
@@ -2421,6 +3113,446 @@
             "encry": ""
         },
         {
+            "compet": "Austrian Cup (ÖFB Cup) - Round of 16",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "match": "Stripfing v LASK Linz",
+            "time": "19:30",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "ORF Sport+ HD [s/cast]",
+            "link": "#",
+            "related_to": "Stripfing v LASK Linz",
+            "sat": "Astra 1KR",
+            "freq": "11.244 H 22000 - 5/6",
+            "encry": "Cryptoworks"
+        },
+        {
+            "compet": "Austrian Cup (ÖFB Cup) - Round of 16",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "match": "Blau-Weiß Linz v Hartberg",
+            "time": "19:30",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "ORF Sport+ HD [s/cast]",
+            "link": "#",
+            "related_to": "Blau-Weiß Linz v Hartberg",
+            "sat": "Astra 1KR",
+            "freq": "11.244 H 22000 - 5/6",
+            "encry": "Cryptoworks"
+        },
+        {
+            "compet": "Austrian Cup (ÖFB Cup) - Round of 16",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "match": "Kapfenberg v Rheindorf Altach",
+            "time": "19:30",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "ORF Sport+ HD [s/cast]",
+            "link": "#",
+            "related_to": "Kapfenberg v Rheindorf Altach",
+            "sat": "Astra 1KR",
+            "freq": "11.244 H 22000 - 5/6",
+            "encry": "Cryptoworks"
+        },
+        {
+            "compet": "Italian Serie A - Week 9",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Atalanta v AC Milan",
+            "time": "19:45",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Thor 5",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Astra 3C",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ART Motion Sport 1 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Astro Arena 2 HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Measat 3b",
+            "freq": "10.852 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Astra 1N",
+            "freq": "12.070 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Thor 6",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Eleven Sports 1 Polska HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Hotbird 13G",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Fast Sports [online] ($/geo/R) 📺",
+            "link": "https://fasttv.am/live-sports?sport_type=football",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Fast Sports TV Armenia 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Eutelsat 70B",
+            "freq": "11.050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R) 📺",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Thor 5",
+            "freq": "11.247 V 24500 - 7/8",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Setanta Sports 1 Baltic",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Astra 4A",
+            "freq": "11.958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Intelsat 20",
+            "freq": "11.514 H 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport MáXimo 360",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Express AMU1",
+            "freq": "12.130 H 27500 - 2/3",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Turksat 4A",
+            "freq": "11.853 H 25000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Thor 6",
+            "freq": "10.716 H 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "Thor 6",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Atalanta v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "English League Cup - Round of 16",
             "flags": {
                 "team1": "england",
@@ -2445,6 +3577,14 @@
             "sat": "Astra 3C",
             "freq": "12.402 V 30000 - 3/4",
             "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Arena Sport 2 Slovenija HD",
+            "link": "#",
+            "related_to": "Wycombe Wanderers v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Arena Sport 9 Hrvatska HD",
@@ -2543,6 +3683,62 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "ST World Football HD",
+            "link": "#",
+            "related_to": "Wycombe Wanderers v Fulham",
+            "sat": "Eutelsat 10B",
+            "freq": "3.736 R 07307 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "link": "#",
+            "related_to": "Wycombe Wanderers v Fulham",
+            "sat": "Intelsat 20",
+            "freq": "11.594 V 27500 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "SuperSport MáXimo 2A HD",
+            "link": "#",
+            "related_to": "Wycombe Wanderers v Fulham",
+            "sat": "Express AMU1",
+            "freq": "12.169 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "link": "#",
+            "related_to": "Wycombe Wanderers v Fulham",
+            "sat": "Intelsat 20",
+            "freq": "11.554 V 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "link": "#",
+            "related_to": "Wycombe Wanderers v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "link": "#",
+            "related_to": "Wycombe Wanderers v Fulham",
+            "sat": "Thor 6",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "link": "#",
+            "related_to": "Wycombe Wanderers v Fulham",
+            "sat": "Astra 4A",
+            "freq": "11.823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Wycombe Wanderers v Fulham",
@@ -2599,222 +3795,12 @@
             "encry": "N/A"
         },
         {
-            "compet": "Italian Serie A - Week 9",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "match": "Atalanta v AC Milan",
-            "time": "19:45",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
+            "channel": "ZBC Channel 2",
             "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "Astra 3B",
-            "freq": "0.000 0",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "Astra 3C",
-            "freq": "12.246 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "Eutelsat 16A",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "Hotbird 13G",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "Fast Sports [online] ($/geo/R) 📺",
-            "link": "https://fasttv.am/live-sports?sport_type=football",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "MAX Sport 3 Bulgaria HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V 30000 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Megogo Futbol 1 ($/geo/R) 📺",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "KazSat 3",
-            "freq": "12.657 V 45000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Tivibu Spor 2 HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "Turksat 4A",
-            "freq": "11.853 H 25000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "NSS 12",
-            "freq": "3.798 R 19167 - 3/5",
-            "encry": "Irdeto [c]"
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "Hellas Sat 4",
-            "freq": "10.890 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "TV2 Play Danmark ($/geo/R) 📺",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV4 Fotboll HD",
-            "link": "#",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "Thor 6",
-            "freq": "10.872 V 25000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "TV4 Play Sverige [online] 📺",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R) 📺",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "Atalanta v AC Milan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "related_to": "Wycombe Wanderers v Fulham",
+            "sat": "Eutelsat 7C",
+            "freq": "11.043 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra"
         },
         {
             "compet": "English League Cup - Round of 16",
@@ -2825,6 +3811,14 @@
             "match": "Grimsby Town v Brentford",
             "time": "19:45",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "link": "#",
+            "related_to": "Grimsby Town v Brentford",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Arena Sport 4 Hrvatska HD",
@@ -2841,6 +3835,22 @@
             "sat": "Astra 3B",
             "freq": "11.817 V 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Grimsby Town v Brentford",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 1 HD",
+            "link": "#",
+            "related_to": "Grimsby Town v Brentford",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -2907,6 +3917,54 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Grimsby Town v Brentford",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "link": "#",
+            "related_to": "Grimsby Town v Brentford",
+            "sat": "Belintersat 1",
+            "freq": "11.098 H 16665 - 1/2",
+            "encry": "Conax"
+        },
+        {
+            "channel": "TSN Malta 1 HD",
+            "link": "#",
+            "related_to": "Grimsby Town v Brentford",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "link": "#",
+            "related_to": "Grimsby Town v Brentford",
+            "sat": "Thor 6",
+            "freq": "11.345 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "V Sport Football HD",
+            "link": "#",
+            "related_to": "Grimsby Town v Brentford",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "link": "#",
+            "related_to": "Grimsby Town v Brentford",
+            "sat": "Thor 5",
+            "freq": "11.278 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Grimsby Town v Brentford",
@@ -2963,58 +4021,6 @@
             "encry": "N/A"
         },
         {
-            "compet": "English League One - Week 12",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Bradford City v Lincoln City",
-            "time": "19:45",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Bradford City v Lincoln City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Bradford City v Lincoln City",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League One - Week 12",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Mansfield Town v Plymouth Argyle",
-            "time": "19:45",
-            "date": "2025-10-28"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Mansfield Town v Plymouth Argyle",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Mansfield Town v Plymouth Argyle",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
             "compet": "Northern Ireland Premiership - Week 5",
             "flags": {
                 "team1": "international",
@@ -3041,6 +4047,14 @@
             "match": "Mönchengladbach v Karlsruhe",
             "time": "19:45",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "Abu Dhabi Sports 2 HD 📺",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
+            "related_to": "Mönchengladbach v Karlsruhe",
+            "sat": "Eutelsat 7 West A",
+            "freq": "11.411 H 30000 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Arena Sport 4 Srbija HD",
@@ -3109,6 +4123,14 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "AD Sports 2 Asia HD [app]",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Arena Sport 3 BiH HD",
             "link": "#",
             "related_to": "St Pauli v Hoffenheim",
@@ -3125,12 +4147,44 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Megogo Futbol 5 ($/geo/R)",
             "link": "#",
             "related_to": "St Pauli v Hoffenheim",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Nova Sport 2 Czech HD",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "Astra 3B",
+            "freq": "11.973 V 29900 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "QazSport HD",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "KazSat 2",
+            "freq": "11.660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto"
         },
         {
             "channel": "Sky Sport 3 Deutsch HD",
@@ -3149,6 +4203,22 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "St Pauli v Hoffenheim",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "compet": "German Cup (DFB-Pokal) - Round 2",
             "flags": {
                 "team1": "germany",
@@ -3159,6 +4229,14 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": "Energie Cottbus v RB Leipzig",
+            "sat": "Eutelsat 7 West A",
+            "freq": "11.411 H 30000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Arena Sport 3 Srbija HD",
             "link": "#",
             "related_to": "Energie Cottbus v RB Leipzig",
@@ -3167,12 +4245,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 4 Slovenija HD",
+            "link": "#",
+            "related_to": "Energie Cottbus v RB Leipzig",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Arena Sport 5 Hrvatska HD",
             "link": "#",
             "related_to": "Energie Cottbus v RB Leipzig",
             "sat": "Eutelsat 16A",
             "freq": "11.678 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Energie Cottbus v RB Leipzig",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Diema Sport 3 HD",
@@ -3215,6 +4309,22 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "link": "#",
+            "related_to": "Energie Cottbus v RB Leipzig",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "link": "#",
+            "related_to": "Energie Cottbus v RB Leipzig",
+            "sat": "Astra 3B",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Energie Cottbus v RB Leipzig",
@@ -3229,6 +4339,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Sifir Tv",
+            "link": "#",
+            "related_to": "Energie Cottbus v RB Leipzig",
+            "sat": "Turksat 4A",
+            "freq": "12.379 H 30000 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Sky Sport 4 Deutsch HD",
@@ -3247,6 +4365,30 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Energie Cottbus v RB Leipzig",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "link": "#",
+            "related_to": "Energie Cottbus v RB Leipzig",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Energie Cottbus v RB Leipzig",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "compet": "German Cup (DFB-Pokal) - Round 2",
             "flags": {
                 "team1": "germany",
@@ -3255,6 +4397,14 @@
             "match": "Augsburg v Bochum",
             "time": "19:45",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "AD Sports 1 Asia HD [app]",
+            "link": "#",
+            "related_to": "Augsburg v Bochum",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Arena Sport 1 BiH HD",
@@ -3271,6 +4421,14 @@
             "sat": "Eutelsat 16A",
             "freq": "11.595 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ART Motion Sport 3 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Augsburg v Bochum",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Megogo Futbol 8 ($/geo/R)",
@@ -3297,6 +4455,42 @@
             "encry": "HD VideoGuard"
         },
         {
+            "compet": "English League One - Week 12",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Bradford City v Lincoln City",
+            "time": "19:45",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Bradford City v Lincoln City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League One - Week 12",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Mansfield Town v Plymouth Argyle",
+            "time": "19:45",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Mansfield Town v Plymouth Argyle",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "English League Cup - Round of 16",
             "flags": {
                 "team1": "england",
@@ -3305,6 +4499,22 @@
             "match": "Wrexham v Cardiff City",
             "time": "20:00",
             "date": "2025-10-28"
+        },
+        {
+            "channel": "Arena Premium 1 Slovenija",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -3347,6 +4557,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Digi Sport 3 Romania",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "Thor 6",
+            "freq": "11.900 H 28000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "ITV 1 England HD 📺",
             "link": "https://www.itv.com/watch?channel=itv",
             "related_to": "Wrexham v Cardiff City",
@@ -3361,6 +4579,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "Thor 7",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Conax"
         },
         {
             "channel": "Nova Sport 4 Czech HD",
@@ -3443,6 +4669,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "ST Sports Life",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "Thor 6",
+            "freq": "12.418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "STV Player (geo/R) 📺",
             "link": "https://player.stv.tv/live",
             "related_to": "Wrexham v Cardiff City",
@@ -3459,12 +4693,52 @@
             "encry": "Free To Air"
         },
         {
+            "channel": "TSN Malta 7 HD",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "UTV Northern Ireland HD",
             "link": "#",
             "related_to": "Wrexham v Cardiff City",
             "sat": "Astra 2E",
             "freq": "10.906 V 22000 - 5/6",
             "encry": "Free To Air"
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "Thor 6",
+            "freq": "11.305 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "V Sport 3 Norge HD",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "Thor 6",
+            "freq": "11.345 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "Thor 5",
+            "freq": "11.278 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -3489,6 +4763,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "link": "#",
+            "related_to": "Wrexham v Cardiff City",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "ViaPlay Suomi HD",
@@ -3549,6 +4831,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Esport 3 Catalunya 📺",
+            "link": "https://www.3cat.cat/3cat/directes/esport3/",
+            "related_to": "Toledo v Sevilla",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "RTVE Play ($/geoR) 📺",
             "link": "https://www.rtve.es/play/deportes/",
             "related_to": "Toledo v Sevilla",
@@ -3557,20 +4847,20 @@
             "encry": ""
         },
         {
+            "channel": "ST Sports Arena",
+            "link": "#",
+            "related_to": "Toledo v Sevilla",
+            "sat": "Thor 6",
+            "freq": "11.938 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Teledeporte España 📺",
             "link": "http://www.rtve.es/directo/teledeporte/",
             "related_to": "Toledo v Sevilla",
             "sat": "*DTT",
             "freq": "0.000 - -",
             "encry": "Free To Air HD"
-        },
-        {
-            "channel": "TV3 Catalunya HD",
-            "link": "#",
-            "related_to": "Toledo v Sevilla",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "Free To Air"
         },
         {
             "compet": "Spanish Cup (Copa del Rey) - 1st Round",
@@ -3597,6 +4887,14 @@
             "sat": "Astra 1KR",
             "freq": "11.259 V 22000 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ST Sports Focus",
+            "link": "#",
+            "related_to": "Negreira v Real Sociedad",
+            "sat": "Thor 6",
+            "freq": "11.977 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
         },
         {
             "compet": "Dutch Cup (KNVB Beker)",
@@ -3653,6 +4951,14 @@
             "date": "2025-10-28"
         },
         {
+            "channel": "ON Sport 2 HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "Eutelsat 7 West A",
+            "freq": "10.853 H 27500 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "link": "#",
             "related_to": "Sporting Lisbon v Alverca",
@@ -3679,6 +4985,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-10-28 04:20:39",
-    "total_items": 438
+    "last_updated": "2025-10-28 15:20:08",
+    "total_items": 598
 }

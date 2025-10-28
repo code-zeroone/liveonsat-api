@@ -19,6 +19,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Arena Sport 4 Srbija HD",
             "link": "#",
             "related_to": "Racing Santander v Real Sociedad II",
@@ -57,6 +65,14 @@
             "sat": "Hotbird 13F",
             "freq": "11.823 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Prima Sport RO PPV 2",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -187,6 +203,14 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO PPV 2",
+            "link": "#",
+            "related_to": "Almería v Eibar",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 12",
             "flags": {
                 "team1": "spain",
@@ -309,6 +333,14 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO PPV 1",
+            "link": "#",
+            "related_to": "Real Zaragoza v Deportivo La Coruña",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 12",
             "flags": {
                 "team1": "spain",
@@ -317,6 +349,14 @@
             "match": "Real Valladolid v Granada",
             "time": "19:30",
             "date": "2025-11-03"
+        },
+        {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "link": "#",
+            "related_to": "Real Valladolid v Granada",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -551,6 +591,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-28 04:26:28",
-    "total_items": 63
+    "last_updated": "2025-10-28 15:25:55",
+    "total_items": 68
 }

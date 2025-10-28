@@ -271,32 +271,6 @@
             "encry": ""
         },
         {
-            "compet": "AFC Champions League Elite - Round 4",
-            "flags": {
-                "team1": "qatar1",
-                "team2": "saudiarabia"
-            },
-            "match": "Al Sadd v Al Ahli",
-            "time": "16:00",
-            "date": "2025-11-04"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "link": "#",
-            "related_to": "Al Sadd v Al Ahli",
-            "sat": "Astra 3C",
-            "freq": "11.856 V 29900 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Al Sadd v Al Ahli",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
             "compet": "AFC Champions League 2 - Round 4",
             "flags": {
                 "team1": "iran",
@@ -326,6 +300,32 @@
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Sepahan v Ahal FK",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "AFC Champions League Elite - Round 4",
+            "flags": {
+                "team1": "qatar1",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Sadd v Al Ahli",
+            "time": "16:00",
+            "date": "2025-11-04"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "link": "#",
+            "related_to": "Al Sadd v Al Ahli",
+            "sat": "Astra 3C",
+            "freq": "11.856 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Al Sadd v Al Ahli",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -677,6 +677,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-28 04:23:45",
+    "last_updated": "2025-10-28 15:23:13",
     "total_items": 77
 }

@@ -1,6 +1,142 @@
 {
     "footonsat": [
         {
+            "compet": "Saudi King's Cup - Round of 16",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Qadisiyah v Al Hazem",
+            "time": "14:35",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thamanya 1 KSA HD",
+            "link": "#",
+            "related_to": "Al Qadisiyah v Al Hazem",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Shabab v Al Zulfi",
+            "time": "14:50",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thamanya 2 KSA HD",
+            "link": "#",
+            "related_to": "Al Shabab v Al Zulfi",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Akhdoud v Al Hilal",
+            "time": "15:10",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "link": "#",
+            "related_to": "Al Akhdoud v Al Hilal",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi King's Cup - Round of 16",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Nassr v Al Ittihad",
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "SES 6",
+            "freq": "11.680 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Cosmote Sport 5 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Eutelsat 9B",
+            "freq": "12.418 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Astra 1L",
+            "freq": "10.729 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Movistar Plus+ 2 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SporTV 2 Brazil HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Ittihad",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "Saudi Division 1 - Round of 16",
             "flags": {
                 "team1": "saudiarabia",
@@ -77,6 +213,22 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Prima Sport RO 4 HD",
+            "link": "#",
+            "related_to": "Al Ahli v Al Riyadh",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Al Ahli v Al Riyadh",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "link": "#",
             "related_to": "Al Ahli v Al Riyadh",
@@ -99,6 +251,14 @@
             "sat": "Eutelsat 16A",
             "freq": "11.231 V 42000 - 5/6",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "link": "#",
+            "related_to": "Al Ahli v Al Riyadh",
+            "sat": "Astra 2F",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
         },
         {
             "channel": "TRT Spor Türkiye HD 📺",
@@ -133,6 +293,22 @@
             "sat": "AzerSpace 2",
             "freq": "11.475 V 30000 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "S Sport+ Streaming",
@@ -185,6 +361,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Prima Sport RO 4 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fayha",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Al Nassr v Al Fayha",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "link": "#",
             "related_to": "Al Nassr v Al Fayha",
@@ -193,6 +385,6 @@
             "encry": "HD NagraVision"
         }
     ],
-    "last_updated": "2025-10-28 04:26:48",
-    "total_items": 23
+    "last_updated": "2025-10-28 15:26:15",
+    "total_items": 46
 }
