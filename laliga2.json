@@ -11,12 +11,44 @@
             "date": "2025-10-31"
         },
         {
+            "channel": "Arena Sport 1 BiH HD",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "Astra 3B",
+            "freq": "11.720 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Arena Sport 6 Hrvatska HD",
             "link": "#",
             "related_to": "Racing Santander v Real Sociedad II",
             "sat": "Eutelsat 16A",
             "freq": "11.554 V 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Nova Sports Extra 2 Hellas HD",
@@ -40,9 +72,79 @@
                 "team1": "spain",
                 "team2": "spain"
             },
+            "match": "Cultural Leonesa v Mirandés",
+            "time": "15:15",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Cultural Leonesa v Mirandés",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Albacete v Huesca",
+            "time": "17:30",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Albacete v Huesca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Leganés v Burgos",
+            "time": "17:30",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Leganés v Burgos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
             "match": "Almería v Eibar",
             "time": "20:00",
             "date": "2025-11-01"
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "link": "#",
+            "related_to": "Almería v Eibar",
+            "sat": "Astra 3B",
+            "freq": "11.895 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 3 Srbija HD",
+            "link": "#",
+            "related_to": "Almería v Eibar",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -69,6 +171,162 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Almería v Eibar",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 7 ($/geo/R)",
+            "link": "#",
+            "related_to": "Almería v Eibar",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Andorra v Cádiz",
+            "time": "13:00",
+            "date": "2025-11-02"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Andorra v Cádiz",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Sporting Gijón v Las Palmas",
+            "time": "15:15",
+            "date": "2025-11-02"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Sporting Gijón v Las Palmas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Córdoba v Ceuta",
+            "time": "15:15",
+            "date": "2025-11-02"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Córdoba v Ceuta",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Castellón v Málaga",
+            "time": "17:30",
+            "date": "2025-11-02"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Castellón v Málaga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Real Zaragoza v Deportivo La Coruña",
+            "time": "20:00",
+            "date": "2025-11-02"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "link": "#",
+            "related_to": "Real Zaragoza v Deportivo La Coruña",
+            "sat": "Astra 3C",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 3 Srbija HD",
+            "link": "#",
+            "related_to": "Real Zaragoza v Deportivo La Coruña",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "link": "#",
+            "related_to": "Real Zaragoza v Deportivo La Coruña",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Zaragoza v Deportivo La Coruña",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Zaragoza v Deportivo La Coruña",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Real Valladolid v Granada",
+            "time": "19:30",
+            "date": "2025-11-03"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Valladolid v Granada",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 10",
             "flags": {
                 "team1": "spain",
@@ -93,8 +351,206 @@
             "sat": "Astra 1M",
             "freq": "10.758 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Mirandés v Sporting Gijón",
+            "time": "19:30",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Mirandés v Sporting Gijón",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Real Sociedad II v Leganés",
+            "time": "13:00",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Sociedad II v Leganés",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Eibar v Albacete",
+            "time": "15:15",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Eibar v Albacete",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Huesca v Andorra",
+            "time": "15:15",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Huesca v Andorra",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Deportivo La Coruña v Cultural Leonesa",
+            "time": "17:30",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Deportivo La Coruña v Cultural Leonesa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Málaga v Córdoba",
+            "time": "20:00",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Málaga v Córdoba",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Las Palmas v Racing Santander",
+            "time": "13:00",
+            "date": "2025-11-09"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Las Palmas v Racing Santander",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Ceuta v Almería",
+            "time": "15:15",
+            "date": "2025-11-09"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Ceuta v Almería",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Granada v Real Zaragoza",
+            "time": "17:30",
+            "date": "2025-11-09"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Granada v Real Zaragoza",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Cádiz v Real Valladolid",
+            "time": "20:00",
+            "date": "2025-11-09"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Cádiz v Real Valladolid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Burgos v Castellón",
+            "time": "19:30",
+            "date": "2025-11-10"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Burgos v Castellón",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         }
     ],
-    "last_updated": "2025-10-27 15:25:04",
-    "total_items": 11
+    "last_updated": "2025-10-28 04:26:28",
+    "total_items": 63
 }

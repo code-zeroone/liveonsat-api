@@ -11,6 +11,22 @@
             "date": "2025-11-04"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Slavia Prague v Arsenal",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "Slavia Prague v Arsenal",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Slavia Prague v Arsenal",
@@ -129,6 +145,56 @@
         {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
+                "team1": "italy",
+                "team2": "portugal"
+            },
+            "match": "Juventus v Sporting Lisbon",
+            "time": "20:00",
+            "date": "2025-11-04"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Juventus v Sporting Lisbon",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Juventus v Sporting Lisbon",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Juventus v Sporting Lisbon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "link": "#",
+            "related_to": "Juventus v Sporting Lisbon",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Juventus v Sporting Lisbon",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
                 "team1": "france",
                 "team2": "germany"
             },
@@ -155,28 +221,44 @@
         {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
-                "team1": "italy",
-                "team2": "portugal"
+                "team1": "england",
+                "team2": "spain"
             },
-            "match": "Juventus v Sporting Lisbon",
+            "match": "Liverpool v Real Madrid",
             "time": "20:00",
             "date": "2025-11-04"
         },
         {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Juventus v Sporting Lisbon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
-            "channel": "TNT Sports 4 HD",
+            "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
-            "related_to": "Juventus v Sporting Lisbon",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Prime Video UK [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
@@ -211,32 +293,6 @@
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
-                "team1": "england",
-                "team2": "spain"
-            },
-            "match": "Liverpool v Real Madrid",
-            "time": "20:00",
-            "date": "2025-11-04"
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Prime Video UK [$] 📺",
-            "link": "https://www.primevideo.com/",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
@@ -453,6 +509,14 @@
             "encry": ""
         },
         {
+            "channel": "Play RTS Sport (geo/R) 📺",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "RSI La 2 Svizzera HD 📺",
             "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
             "related_to": "Club Brugge v Barcelona",
@@ -535,6 +599,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "link": "#",
+            "related_to": "Benfica v Bayer Leverkusen",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "TNT Sports 6",
@@ -1139,6 +1211,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-27 15:19:55",
-    "total_items": 131
+    "last_updated": "2025-10-28 04:21:21",
+    "total_items": 140
 }
