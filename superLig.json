@@ -95,7 +95,7 @@
             "encry": ""
         },
         {
-            "channel": "beIN Sports France 7 HD max",
+            "channel": "beIN Sports France 10 HD max",
             "link": "#",
             "related_to": "Galatasaray v Trabzonspor",
             "sat": "Astra 1M",
@@ -117,6 +117,14 @@
             "sat": "Turksat 5B",
             "freq": "11.305 V 30000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "link": "#",
+            "related_to": "Galatasaray v Trabzonspor",
+            "sat": "Horizons 2",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
         },
         {
             "compet": "Türkiye Süper Lig - Week 11",
@@ -261,6 +269,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Claro Sports En Vivo 📺",
+            "link": "https://www.clarosports.com/en-vivo/",
+            "related_to": "Besiktas v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "DigiTurk 4K UHD",
             "link": "#",
             "related_to": "Besiktas v Fenerbahçe",
@@ -331,6 +347,14 @@
             "sat": "Eutelsat 16A",
             "freq": "10.977 H 24114 - 1/2",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "link": "#",
+            "related_to": "Besiktas v Fenerbahçe",
+            "sat": "SES 6",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
         },
         {
             "channel": "ESPN Mexico",
@@ -411,6 +435,14 @@
             "sat": "Intelsat 20",
             "freq": "10.970 V 30000 - 5/6",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "SuperSport GOtv Africa",
+            "link": "#",
+            "related_to": "Besiktas v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "ZhiBo8 TV (China)",
@@ -1267,6 +1299,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-29 04:29:18",
-    "total_items": 147
+    "last_updated": "2025-10-29 15:25:11",
+    "total_items": 151
 }

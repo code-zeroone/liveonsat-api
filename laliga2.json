@@ -221,6 +221,22 @@
             "date": "2025-11-02"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Andorra v Cádiz",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Andorra v Cádiz",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Andorra v Cádiz",
@@ -591,6 +607,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-29 04:30:19",
-    "total_items": 68
+    "last_updated": "2025-10-29 15:26:12",
+    "total_items": 70
 }

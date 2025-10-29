@@ -51,6 +51,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Canal+ Live 8 France HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Brentford",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Crystal Palace v Brentford",
@@ -97,6 +105,14 @@
             "sat": "Astra 4A",
             "freq": "12.207 V 30000 - 2/3",
             "encry": "HD Verimatrix"
+        },
+        {
+            "channel": "Sky Sport 5 NZ HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Brentford",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
@@ -176,240 +192,6 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "match": "Burnley v Arsenal",
-            "time": "15:00",
-            "date": "2025-11-01"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Astra 3B",
-            "freq": "0.000 0",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Premium 1 Slovenija",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Astra 3C",
-            "freq": "12.402 V 30000 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Arena Sport 4 Hrvatska HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Eutelsat 16A",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Burnley v Arsenal",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Eshail 2",
-            "freq": "10.850 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "DAZN 2 Portugal HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Hellas Sat 3",
-            "freq": "12.137 V 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Nova Sports 2 Hellas HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Hotbird 13F",
-            "freq": "12.130 H 27500 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Peacock Premium USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Play Diema XTRA ($/geo/R) 📺",
-            "link": "https://gong.bg/streaming",
-            "related_to": "Burnley v Arsenal",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "Play Sports 1 Belgium",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "KazSat 3",
-            "freq": "12.657 V 45000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R) 📺",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "SuperSport GOtv Africa",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SuperSport MáXimo 360",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Express AMU1",
-            "freq": "12.130 H 27500 - 2/3",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport Variety 3 HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Intelsat 20",
-            "freq": "11.170 H 30000 - 5/6",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "TV3+ Norge HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Thor 7",
-            "freq": "12.437 H 30000 - 2/3",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "V Sport Premium HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "Thor 6",
-            "freq": "10.903 V 25000 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$] 📺",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "Burnley v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English Premier League - Week 10",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
             "match": "Nottingham Forest v Manchester United",
             "time": "15:00",
             "date": "2025-11-01"
@@ -447,12 +229,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Nottingham Forest v Manchester United",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Nottingham Forest v Manchester United",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Manchester United",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 7 France HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Manchester United",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29900 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN 1 Portugal HD",
@@ -559,6 +365,14 @@
             "encry": "HD Verimatrix"
         },
         {
+            "channel": "Sky Sport Select NZ HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
             "link": "https://www.stan.com.au/sport",
             "related_to": "Nottingham Forest v Manchester United",
@@ -660,6 +474,296 @@
                 "team1": "england",
                 "team2": "england"
             },
+            "match": "Burnley v Arsenal",
+            "time": "15:00",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Premium 1 Slovenija",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Burnley v Arsenal",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 6 France HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport 360 HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "AzerSpace 2",
+            "freq": "12.610 H 12500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Hellas Sat 3",
+            "freq": "12.137 V 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "ORTB Benin",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Eutelsat 16A",
+            "freq": "10.804 H 30000 - 2/3",
+            "encry": "FTA (MPEG-S2)"
+        },
+        {
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Burnley v Arsenal",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Play Sports 1 Belgium",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sky Sport 4 NZ HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R) 📺",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport GOtv Africa",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport MáXimo 360",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Express AMU1",
+            "freq": "12.130 H 27500 - 2/3",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "SuperSport Variety 3 HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Intelsat 20",
+            "freq": "11.170 H 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "TV3+ Norge HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Thor 7",
+            "freq": "12.437 H 30000 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Thor 6",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$] 📺",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "Burnley v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "YTV Botswana",
+            "link": "#",
+            "related_to": "Burnley v Arsenal",
+            "sat": "Intelsat 20",
+            "freq": "12.634 V 16166 - 5/6",
+            "encry": "FTA (MPEG-S2)"
+        },
+        {
+            "compet": "English Premier League - Week 10",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
             "match": "Brighton H.A. v Leeds United",
             "time": "15:00",
             "date": "2025-11-01"
@@ -695,6 +799,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Canal+ Live 9 France HD",
+            "link": "#",
+            "related_to": "Brighton H.A. v Leeds United",
+            "sat": "Astra 1N",
+            "freq": "12.207 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -734,6 +846,14 @@
             "related_to": "Brighton H.A. v Leeds United",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 7 NZ HD",
+            "link": "#",
+            "related_to": "Brighton H.A. v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -843,6 +963,14 @@
             "encry": ""
         },
         {
+            "channel": "Canal+ Live 10 France HD",
+            "link": "#",
+            "related_to": "Fulham v Wolves",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Fulham v Wolves",
@@ -872,6 +1000,14 @@
             "related_to": "Fulham v Wolves",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 6 NZ HD",
+            "link": "#",
+            "related_to": "Fulham v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -1005,12 +1141,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Chelsea",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "Tottenham Hotspur v Chelsea",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Chelsea",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 5 France HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Chelsea",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN 1 Portugal HD",
@@ -1123,6 +1283,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 8 NZ HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Chelsea",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Sky Sports Main Event HD",
@@ -1303,12 +1471,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Liverpool v Aston Villa",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "Liverpool v Aston Villa",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Liverpool v Aston Villa",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 5 France HD",
+            "link": "#",
+            "related_to": "Liverpool v Aston Villa",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN 1 Portugal HD",
@@ -1397,6 +1589,14 @@
             "sat": "Astra 4A",
             "freq": "12.207 V 30000 - 2/3",
             "encry": "HD Verimatrix"
+        },
+        {
+            "channel": "Sky Sport 8 NZ HD",
+            "link": "#",
+            "related_to": "Liverpool v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
@@ -1545,12 +1745,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "West Ham United v Newcastle United",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "West Ham United v Newcastle United",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "West Ham United v Newcastle United",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "link": "#",
+            "related_to": "West Ham United v Newcastle United",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN 1 Portugal HD",
@@ -1631,6 +1855,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 8 NZ HD",
+            "link": "#",
+            "related_to": "West Ham United v Newcastle United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Sky Sports Main Event HD",
@@ -1795,12 +2027,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Manchester City v Bournemouth",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "Manchester City v Bournemouth",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Manchester City v Bournemouth",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "link": "#",
+            "related_to": "Manchester City v Bournemouth",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN 1 Portugal HD",
@@ -1881,6 +2137,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 8 NZ HD",
+            "link": "#",
+            "related_to": "Manchester City v Bournemouth",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Sky Sports Main Event HD",
@@ -2029,12 +2293,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Sunderland v Everton",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "Sunderland v Everton",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Sunderland v Everton",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "link": "#",
+            "related_to": "Sunderland v Everton",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -2091,6 +2379,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 8 NZ HD",
+            "link": "#",
+            "related_to": "Sunderland v Everton",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Sky Sports Main Event HD",
@@ -4019,6 +4315,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-29 04:24:53",
-    "total_items": 487
+    "last_updated": "2025-10-29 15:20:44",
+    "total_items": 524
 }

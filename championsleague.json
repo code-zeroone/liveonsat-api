@@ -19,12 +19,36 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Slavia Prague v Arsenal",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 2 HD",
             "link": "#",
             "related_to": "Slavia Prague v Arsenal",
             "sat": "Eshail 2",
             "freq": "11.390 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Slavia Prague v Arsenal",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "link": "#",
+            "related_to": "Slavia Prague v Arsenal",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -93,6 +117,38 @@
             "date": "2025-11-04"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Napoli v Eintracht Frankfurt",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Napoli v Eintracht Frankfurt",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "link": "#",
+            "related_to": "Napoli v Eintracht Frankfurt",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport France HD",
+            "link": "#",
+            "related_to": "Napoli v Eintracht Frankfurt",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Napoli v Eintracht Frankfurt",
@@ -133,6 +189,30 @@
             "match": "Tottenham Hotspur v FC Copenhagen",
             "time": "20:00",
             "date": "2025-11-04"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Tottenham Hotspur v FC Copenhagen",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v FC Copenhagen",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 5 France HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v FC Copenhagen",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -217,6 +297,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Canal+ Live 4 France HD",
+            "link": "#",
+            "related_to": "Juventus v Sporting Lisbon",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Juventus v Sporting Lisbon",
@@ -243,12 +331,94 @@
         {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
+                "team1": "norway",
+                "team2": "france"
+            },
+            "match": "Bodø/Glimt v Monaco",
+            "time": "20:00",
+            "date": "2025-11-04"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Bodø/Glimt v Monaco",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Monaco",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 3 France HD",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Monaco",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport 360 HD",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Monaco",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Bodø/Glimt v Monaco",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Play Sports 7 Belgium",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Monaco",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Monaco",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
                 "team1": "france",
                 "team2": "germany"
             },
             "match": "Paris St Germain v Bayern Munich",
             "time": "20:00",
             "date": "2025-11-04"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Bayern Munich",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Bayern Munich",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -325,6 +495,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Canal+ Live 7 France HD",
+            "link": "#",
+            "related_to": "Olympiacos v PSV Eindhoven",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29900 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Olympiacos v PSV Eindhoven",
@@ -367,12 +545,36 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "Liverpool v Real Madrid",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport France HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
         },
         {
             "channel": "Play Sports 4 Belgium",
@@ -409,6 +611,14 @@
             "date": "2025-11-04"
         },
         {
+            "channel": "Canal+ Live 6 France HD",
+            "link": "#",
+            "related_to": "Atlético Madrid v Union St Gilloise",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Atlético Madrid v Union St Gilloise",
@@ -443,40 +653,6 @@
         {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
-                "team1": "norway",
-                "team2": "france"
-            },
-            "match": "Bodø/Glimt v Monaco",
-            "time": "20:00",
-            "date": "2025-11-04"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Bodø/Glimt v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Play Sports 7 Belgium",
-            "link": "#",
-            "related_to": "Bodø/Glimt v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 7",
-            "link": "#",
-            "related_to": "Bodø/Glimt v Monaco",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
                 "team1": "cyprus",
                 "team2": "spain"
             },
@@ -499,6 +675,22 @@
             "sat": "Eshail 2",
             "freq": "10.810 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Canal+ Live 3 France HD",
+            "link": "#",
+            "related_to": "Pafos FC v Villarreal",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport France HD",
+            "link": "#",
+            "related_to": "Pafos FC v Villarreal",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -541,6 +733,22 @@
             "match": "Qarabagh v Chelsea",
             "time": "17:45",
             "date": "2025-11-05"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Qarabagh v Chelsea",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "link": "#",
+            "related_to": "Qarabagh v Chelsea",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -601,6 +809,22 @@
             "date": "2025-11-05"
         },
         {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Manchester City v Borussia Dortmund",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "link": "#",
+            "related_to": "Manchester City v Borussia Dortmund",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Manchester City v Borussia Dortmund",
@@ -657,6 +881,14 @@
             "sat": "Eshail 2",
             "freq": "10.810 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 5 France HD",
+            "link": "#",
+            "related_to": "Newcastle United v Athletic Bilbao",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -731,6 +963,22 @@
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Canal+ Live 3 France HD",
+            "link": "#",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport France HD",
+            "link": "#",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -823,6 +1071,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Canal+ Live 7 France HD",
+            "link": "#",
+            "related_to": "Ajax v Galatasaray",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29900 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Ajax v Galatasaray",
@@ -855,6 +1111,14 @@
             "match": "Benfica v Bayer Leverkusen",
             "time": "20:00",
             "date": "2025-11-05"
+        },
+        {
+            "channel": "Canal+ Live 6 France HD",
+            "link": "#",
+            "related_to": "Benfica v Bayer Leverkusen",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -899,6 +1163,14 @@
             "date": "2025-11-05"
         },
         {
+            "channel": "Canal+ Live 4 France HD",
+            "link": "#",
+            "related_to": "Inter Milan v Kairat Almaty",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Inter Milan v Kairat Almaty",
@@ -923,6 +1195,22 @@
             "match": "Marseille v Atalanta",
             "time": "20:00",
             "date": "2025-11-05"
+        },
+        {
+            "channel": "Canal+ France HD",
+            "link": "#",
+            "related_to": "Marseille v Atalanta",
+            "sat": "Astra 1N",
+            "freq": "12.728 V 23500 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "link": "#",
+            "related_to": "Marseille v Atalanta",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -1483,6 +1771,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-29 04:25:14",
-    "total_items": 174
+    "last_updated": "2025-10-29 15:21:05",
+    "total_items": 210
 }

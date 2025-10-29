@@ -121,6 +121,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 2 HD",
             "link": "#",
             "related_to": "Tractor Sazi v Al Shorta",
@@ -183,12 +191,62 @@
         {
             "compet": "AFC Champions League Elite - Round 4",
             "flags": {
+                "team1": "japan",
+                "team2": "australia"
+            },
+            "match": "Machida Zelvia v Melbourne City",
+            "time": "10:00",
+            "date": "2025-11-04"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Machida Zelvia v Melbourne City",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Machida Zelvia v Melbourne City",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Machida Zelvia v Melbourne City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "AFC Champions League Elite - Round 4",
+            "flags": {
                 "team1": "koreasouth7",
                 "team2": "china"
             },
             "match": "FC Seoul v Chengdu Rongcheng",
             "time": "10:00",
             "date": "2025-11-04"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "FC Seoul v Chengdu Rongcheng",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "FC Seoul v Chengdu Rongcheng",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -202,29 +260,27 @@
             "compet": "AFC Champions League Elite - Round 4",
             "flags": {
                 "team1": "japan",
-                "team2": "australia"
-            },
-            "match": "Machida Zelvia v Melbourne City",
-            "time": "10:00",
-            "date": "2025-11-04"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Machida Zelvia v Melbourne City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "AFC Champions League Elite - Round 4",
-            "flags": {
-                "team1": "japan",
                 "team2": "koreasouth"
             },
             "match": "Sanfrecce Hiroshima v Gangwon",
             "time": "10:00",
             "date": "2025-11-04"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Sanfrecce Hiroshima v Gangwon",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Sanfrecce Hiroshima v Gangwon",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -243,6 +299,22 @@
             "match": "Buriram United v Shanghai Port",
             "time": "12:15",
             "date": "2025-11-04"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Buriram United v Shanghai Port",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Buriram United v Shanghai Port",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -677,6 +749,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-29 04:27:37",
-    "total_items": 77
+    "last_updated": "2025-10-29 15:23:30",
+    "total_items": 86
 }
