@@ -167,6 +167,30 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v FC Copenhagen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v FC Copenhagen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v FC Copenhagen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
                 "team1": "italy",
@@ -248,6 +272,30 @@
             "related_to": "Paris St Germain v Bayern Munich",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "Paris St Germain v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "Paris St Germain v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Bayern Munich",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -429,6 +477,64 @@
         {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
+                "team1": "cyprus",
+                "team2": "spain"
+            },
+            "match": "Pafos FC v Villarreal",
+            "time": "17:45",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Pafos FC v Villarreal",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Pafos FC v Villarreal",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Pafos FC v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Play Sports 4 Belgium",
+            "link": "#",
+            "related_to": "Pafos FC v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Pafos FC v Villarreal",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Pafos FC v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
                 "team1": "azerbaijan",
                 "team2": "england7"
             },
@@ -487,40 +593,6 @@
         {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
-                "team1": "cyprus",
-                "team2": "spain"
-            },
-            "match": "Pafos FC v Villarreal",
-            "time": "17:45",
-            "date": "2025-11-05"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Pafos FC v Villarreal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Play Sports 4 Belgium",
-            "link": "#",
-            "related_to": "Pafos FC v Villarreal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 3 HD",
-            "link": "#",
-            "related_to": "Pafos FC v Villarreal",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
                 "team1": "england",
                 "team2": "germany"
             },
@@ -571,6 +643,22 @@
             "date": "2025-11-05"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Newcastle United v Athletic Bilbao",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Newcastle United v Athletic Bilbao",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Newcastle United v Athletic Bilbao",
@@ -595,6 +683,30 @@
             "encry": ""
         },
         {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "Newcastle United v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "Newcastle United v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "link": "#",
+            "related_to": "Newcastle United v Athletic Bilbao",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
                 "team1": "belgium",
@@ -603,6 +715,22 @@
             "match": "Club Brugge v Barcelona",
             "time": "20:00",
             "date": "2025-11-05"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -653,6 +781,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "VTM 2 Belgium HD",
             "link": "#",
             "related_to": "Club Brugge v Barcelona",
@@ -669,6 +805,22 @@
             "match": "Ajax v Galatasaray",
             "time": "20:00",
             "date": "2025-11-05"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Ajax v Galatasaray",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "link": "#",
+            "related_to": "Ajax v Galatasaray",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -1331,6 +1483,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-28 15:20:49",
-    "total_items": 155
+    "last_updated": "2025-10-29 04:25:14",
+    "total_items": 174
 }
