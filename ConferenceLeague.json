@@ -45,6 +45,22 @@
             "date": "2025-11-06"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "AEK Athens v Shamrock Rovers",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "AEK Athens v Shamrock Rovers",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Canal+ Live 13 France HD",
             "link": "#",
             "related_to": "AEK Athens v Shamrock Rovers",
@@ -677,6 +693,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-29 15:21:46",
-    "total_items": 79
+    "last_updated": "2025-10-30 04:22:03",
+    "total_items": 81
 }

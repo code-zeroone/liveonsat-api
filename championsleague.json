@@ -841,6 +841,30 @@
             "encry": ""
         },
         {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Manchester City v Borussia Dortmund",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "RTÉ 2 Ireland HD",
+            "link": "#",
+            "related_to": "Manchester City v Borussia Dortmund",
+            "sat": "Astra 2E",
+            "freq": "11.914 H 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "RTÉ Player (geo/R) 📺",
+            "link": "https://www.rte.ie/player/onnow",
+            "related_to": "Manchester City v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Manchester City v Borussia Dortmund",
@@ -1027,6 +1051,22 @@
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TVP 1 Polska HD",
+            "link": "#",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "Hotbird 13G",
+            "freq": "11.449 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "link": "#",
+            "related_to": "Club Brugge v Barcelona",
+            "sat": "Hotbird 13G",
+            "freq": "10.834 V 27500 - 3/4",
+            "encry": "HD Viaccess"
         },
         {
             "channel": "Virgin Media MORE HD",
@@ -1771,6 +1811,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-29 15:21:05",
-    "total_items": 210
+    "last_updated": "2025-10-30 04:21:22",
+    "total_items": 215
 }
