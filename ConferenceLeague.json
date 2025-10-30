@@ -103,6 +103,14 @@
             "date": "2025-11-06"
         },
         {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "link": "#",
+            "related_to": "Celje v Legia Warsaw",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Celje v Legia Warsaw",
@@ -161,6 +169,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport 5 Austria HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Fiorentina",
+            "sat": "Astra 1M",
+            "freq": "11.720 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TNT Sports 6",
@@ -285,6 +301,22 @@
             "date": "2025-11-06"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Crystal Palace v AZ Alkmaar",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AZ Alkmaar",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Canal+ Live 10 France HD",
             "link": "#",
             "related_to": "Crystal Palace v AZ Alkmaar",
@@ -311,54 +343,28 @@
         {
             "compet": "UEFA Conference League - Matchday 3",
             "flags": {
-                "team1": "ireland",
-                "team2": "kosova1"
-            },
-            "match": "Shelbourne v Drita",
-            "time": "20:00",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Canal+ Live 16 France HD",
-            "link": "#",
-            "related_to": "Shelbourne v Drita",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Shelbourne v Drita",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "link": "#",
-            "related_to": "Shelbourne v Drita",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TNT Sports 4 HD",
-            "link": "#",
-            "related_to": "Shelbourne v Drita",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "UEFA Conference League - Matchday 3",
-            "flags": {
                 "team1": "sweden",
                 "team2": "france"
             },
             "match": "BK Häcken v Strasbourg",
             "time": "20:00",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "BK Häcken v Strasbourg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "link": "#",
+            "related_to": "BK Häcken v Strasbourg",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Canal+ Foot HD",
@@ -391,6 +397,56 @@
             "sat": "Astra 2G",
             "freq": "11.597 V 23000 - 2/3",
             "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 3",
+            "flags": {
+                "team1": "ireland",
+                "team2": "kosova1"
+            },
+            "match": "Shelbourne v Drita",
+            "time": "20:00",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "link": "#",
+            "related_to": "Shelbourne v Drita",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Canal+ Live 16 France HD",
+            "link": "#",
+            "related_to": "Shelbourne v Drita",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shelbourne v Drita",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Shelbourne v Drita",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Shelbourne v Drita",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Conference League - Matchday 3",
@@ -693,6 +749,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-30 04:22:03",
-    "total_items": 81
+    "last_updated": "2025-10-30 15:21:15",
+    "total_items": 88
 }

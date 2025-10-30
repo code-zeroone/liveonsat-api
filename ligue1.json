@@ -253,11 +253,27 @@
             "encry": "N/A"
         },
         {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Monaco v Paris FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "link": "#",
             "related_to": "Monaco v Paris FC",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "V Sport 1 Sverige HD",
+            "link": "#",
+            "related_to": "Monaco v Paris FC",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
             "encry": "HD NagraVision"
         },
         {
@@ -397,6 +413,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Auxerre v Marseille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Setanta Sports Qazaqstan HD",
@@ -623,6 +647,14 @@
             "sat": "Thor 6",
             "freq": "10.809 V 25000 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "link": "#",
+            "related_to": "Rennes v Strasbourg",
+            "sat": "Astra 4A",
+            "freq": "11.823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -967,6 +999,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "link": "#",
+            "related_to": "Lens v Lorient",
+            "sat": "Astra 4A",
+            "freq": "11.823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Lens v Lorient",
@@ -1209,6 +1249,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Prime Video UK PPV [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Brest v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Sport TV6 Portugal HD",
@@ -1933,6 +1981,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-30 04:22:45",
-    "total_items": 235
+    "last_updated": "2025-10-30 15:21:57",
+    "total_items": 241
 }

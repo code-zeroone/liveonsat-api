@@ -355,9 +355,67 @@
             "date": "2025-11-05"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Vissel Kobe v Ulsan Horang-i",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Vissel Kobe v Ulsan Horang-i",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Vissel Kobe v Ulsan Horang-i",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 4",
+            "flags": {
+                "team1": "vietnam3",
+                "team2": "japan"
+            },
+            "match": "Nam Dinh v Gamba Osaka",
+            "time": "12:15",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Nam Dinh v Gamba Osaka",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Nam Dinh v Gamba Osaka",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "link": "#",
+            "related_to": "Nam Dinh v Gamba Osaka",
+            "sat": "Astra 3C",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Nam Dinh v Gamba Osaka",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -371,6 +429,22 @@
             "match": "Johor Darul Ta'zim v Shanghai Shenhua",
             "time": "12:15",
             "date": "2025-11-05"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Johor Darul Ta'zim v Shanghai Shenhua",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Johor Darul Ta'zim v Shanghai Shenhua",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -394,32 +468,6 @@
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Eastern v Ratchaburi",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 4",
-            "flags": {
-                "team1": "vietnam3",
-                "team2": "japan"
-            },
-            "match": "Nam Dinh v Gamba Osaka",
-            "time": "12:15",
-            "date": "2025-11-05"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "link": "#",
-            "related_to": "Nam Dinh v Gamba Osaka",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Nam Dinh v Gamba Osaka",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -499,6 +547,40 @@
         {
             "compet": "AFC Champions League 2 - Round 4",
             "flags": {
+                "team1": "jordan",
+                "team2": "iran"
+            },
+            "match": "Al Wehdat v Esteghlal Tehran",
+            "time": "18:15",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Al Wehdat v Esteghlal Tehran",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Al Wehdat v Esteghlal Tehran",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Al Wehdat v Esteghlal Tehran",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 4",
+            "flags": {
                 "team1": "saudiarabia",
                 "team2": "india1"
             },
@@ -518,24 +600,6 @@
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Al Nassr v FC Goa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 4",
-            "flags": {
-                "team1": "jordan",
-                "team2": "iran"
-            },
-            "match": "Al Wehdat v Esteghlal Tehran",
-            "time": "18:15",
-            "date": "2025-11-05"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Al Wehdat v Esteghlal Tehran",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -569,6 +633,22 @@
             "date": "2025-11-06"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Lion City Sailors v Bangkok United",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Lion City Sailors v Bangkok United",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "ESPN 1 Nederland HD",
             "link": "#",
             "related_to": "Lion City Sailors v Bangkok United",
@@ -595,9 +675,67 @@
             "date": "2025-11-06"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Pohang Steelers v Tampines Rovers",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Pohang Steelers v Tampines Rovers",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Pohang Steelers v Tampines Rovers",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 5",
+            "flags": {
+                "team1": "malaysia",
+                "team2": "indonesia"
+            },
+            "match": "Selangor v Persib Bandung",
+            "time": "12:15",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Selangor v Persib Bandung",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Selangor v Persib Bandung",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "link": "#",
+            "related_to": "Selangor v Persib Bandung",
+            "sat": "Astra 3C",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Selangor v Persib Bandung",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -637,34 +775,8 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 5",
-            "flags": {
-                "team1": "malaysia",
-                "team2": "indonesia"
-            },
-            "match": "Selangor v Persib Bandung",
-            "time": "12:15",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "link": "#",
-            "related_to": "Selangor v Persib Bandung",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Selangor v Persib Bandung",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
         }
     ],
-    "last_updated": "2025-10-30 04:23:46",
-    "total_items": 76
+    "last_updated": "2025-10-30 15:22:59",
+    "total_items": 90
 }

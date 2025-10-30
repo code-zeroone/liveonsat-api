@@ -219,6 +219,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Thor 5",
+            "freq": "11.278 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Augsburg v Borussia Dortmund",
@@ -1233,6 +1241,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "FC Cologne v Hamburg",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/0",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "DAZN 3 Portugal HD",
             "link": "#",
             "related_to": "FC Cologne v Hamburg",
@@ -1353,6 +1369,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "link": "#",
+            "related_to": "FC Cologne v Hamburg",
+            "sat": "Thor 5",
+            "freq": "11.278 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "FC Cologne v Hamburg",
@@ -1433,6 +1457,14 @@
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Hoffenheim",
+            "sat": "Astra 1N",
+            "freq": "12.070 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "DAZN 3 Portugal HD",
@@ -2989,6 +3021,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-30 04:23:26",
-    "total_items": 363
+    "last_updated": "2025-10-30 15:22:38",
+    "total_items": 367
 }
