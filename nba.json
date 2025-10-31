@@ -249,6 +249,14 @@
             "date": "2025-11-01"
         },
         {
+            "channel": "Cytavision Sports 5 HD",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Sacramento Kings",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Milwaukee Bucks v Sacramento Kings",
@@ -258,6 +266,14 @@
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Sacramento Kings",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Silk Sport 2 HD",
             "link": "#",
             "related_to": "Milwaukee Bucks v Sacramento Kings",
             "sat": "* IPTV/Stream",
@@ -311,6 +327,14 @@
             "sat": "Thor 6",
             "freq": "11.727 V 28000 - 7/8",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Sacramento Kings",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "NBA Regular Season",
@@ -429,6 +453,22 @@
             "date": "2025-11-02"
         },
         {
+            "channel": "6’Eren Danmark HD",
+            "link": "#",
+            "related_to": "Oklahoma Thunder v New Orleans Pelicans",
+            "sat": "Thor 6",
+            "freq": "10.809 H 24500 - 7/8",
+            "encry": "Conax"
+        },
+        {
+            "channel": "Cytavision Sports 5 HD",
+            "link": "#",
+            "related_to": "Oklahoma Thunder v New Orleans Pelicans",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Oklahoma Thunder v New Orleans Pelicans",
@@ -437,12 +477,36 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Oklahoma Thunder v New Orleans Pelicans",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "link": "#",
             "related_to": "Oklahoma Thunder v New Orleans Pelicans",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "Oklahoma Thunder v New Orleans Pelicans",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Silk Sport 2 HD",
+            "link": "#",
+            "related_to": "Oklahoma Thunder v New Orleans Pelicans",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Sport 1 Hungary HD",
@@ -459,6 +523,14 @@
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Oklahoma Thunder v New Orleans Pelicans",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "NBA Regular Season",
@@ -1551,6 +1623,14 @@
             "match": "Milwaukee Bucks v Houston Rockets",
             "time": "20:30",
             "date": "2025-11-09"
+        },
+        {
+            "channel": "6’Eren Danmark HD",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Houston Rockets",
+            "sat": "Thor 6",
+            "freq": "10.809 H 24500 - 7/8",
+            "encry": "Conax"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -10971,6 +11051,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-10-31 04:25:25",
-    "total_items": 1224
+    "last_updated": "2025-10-31 15:21:11",
+    "total_items": 1234
 }

@@ -35,6 +35,22 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Kocaelispor",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Kocaelispor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 11",
             "flags": {
                 "team1": "turkey",
@@ -59,6 +75,14 @@
             "sat": "Turksat 3A",
             "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Göztepe v Gençlerbirligi",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "Türkiye Süper Lig - Week 11",
@@ -135,6 +159,30 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Galatasaray v Trabzonspor",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "link": "#",
+            "related_to": "Galatasaray v Trabzonspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Galatasaray v Trabzonspor",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 11",
             "flags": {
                 "team1": "turkey",
@@ -203,6 +251,14 @@
             "sat": "Astra 3B",
             "freq": "11.798 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ART Motion Sport 4 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Besiktas v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "beIN Connect Canada 📺",
@@ -445,6 +501,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Besiktas v Fenerbahçe",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Sport TV6 Portugal HD",
             "link": "#",
             "related_to": "Besiktas v Fenerbahçe",
@@ -458,6 +522,22 @@
             "related_to": "Besiktas v Fenerbahçe",
             "sat": "KazSat 3",
             "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Besiktas v Fenerbahçe",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Besiktas v Fenerbahçe",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
             "encry": "MPEG-4 NDS"
         },
         {
@@ -1347,6 +1427,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-31 04:26:26",
-    "total_items": 157
+    "last_updated": "2025-10-31 15:22:12",
+    "total_items": 167
 }

@@ -43,14 +43,6 @@
             "encry": "HD Conax"
         },
         {
-            "channel": "beIN Connect France 📺",
-            "link": "https://connect.beinsports.com/france/",
-            "related_to": "Paris St Germain v Nice",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Paris St Germain v Nice",
@@ -59,12 +51,28 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect France 📺",
+            "link": "https://connect.beinsports.com/france/",
+            "related_to": "Paris St Germain v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "link": "#",
             "related_to": "Paris St Germain v Nice",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -91,6 +99,22 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Nice",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Nice",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "link": "#",
             "related_to": "Paris St Germain v Nice",
@@ -99,12 +123,28 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Nice",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "SuperSport Variety 4 HD",
             "link": "#",
             "related_to": "Paris St Germain v Nice",
             "sat": "Intelsat 20",
             "freq": "11.170 H 30000 - 5/6",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Nice",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -375,6 +415,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "Auxerre v Marseille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Auxerre v Marseille",
@@ -415,6 +463,14 @@
             "encry": ""
         },
         {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "Auxerre v Marseille",
+            "sat": "Astra 3C",
+            "freq": "12.285 V 30000 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
             "link": "https://gong.bg/streaming",
             "related_to": "Auxerre v Marseille",
@@ -431,6 +487,14 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "Auxerre v Marseille",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
             "channel": "Setanta Sports Qazaqstan HD",
             "link": "#",
             "related_to": "Auxerre v Marseille",
@@ -439,12 +503,28 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sky Sport MIX Italia HD",
+            "link": "#",
+            "related_to": "Auxerre v Marseille",
+            "sat": "Hotbird 13F",
+            "freq": "11.862 H 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "link": "#",
             "related_to": "Auxerre v Marseille",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Auxerre v Marseille",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         },
         {
             "channel": "SuperSport GOtv Africa",
@@ -599,6 +679,14 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "Rennes v Strasbourg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -763,6 +851,14 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "Nantes v Metz",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
             "channel": "Sport TV7 Portugal HD",
             "link": "#",
             "related_to": "Nantes v Metz",
@@ -885,6 +981,14 @@
             "encry": ""
         },
         {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "Lille v Angers",
+            "sat": "Astra 3C",
+            "freq": "12.285 V 30000 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Sport TV5 Portugal HD",
             "link": "#",
             "related_to": "Lille v Angers",
@@ -973,6 +1077,14 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "Lens v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -1203,6 +1315,22 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "Brest v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "link": "#",
+            "related_to": "Brest v Lyon",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Brest v Lyon",
@@ -1251,6 +1379,14 @@
             "encry": ""
         },
         {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "Brest v Lyon",
+            "sat": "Astra 3C",
+            "freq": "12.285 V 30000 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
             "link": "https://gong.bg/streaming",
             "related_to": "Brest v Lyon",
@@ -1261,6 +1397,30 @@
         {
             "channel": "Prime Video UK PPV [$] 📺",
             "link": "https://www.primevideo.com/",
+            "related_to": "Brest v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "link": "#",
+            "related_to": "Brest v Lyon",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Brest v Lyon",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
             "related_to": "Brest v Lyon",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -1553,6 +1713,14 @@
             "match": "Monaco v Lens",
             "time": "20:05",
             "date": "2025-11-08"
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "Monaco v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Eleven Sports 4 Polska HD",
@@ -2053,6 +2221,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-31 04:23:32",
-    "total_items": 250
+    "last_updated": "2025-10-31 15:19:18",
+    "total_items": 271
 }

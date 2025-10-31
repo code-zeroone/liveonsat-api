@@ -199,6 +199,14 @@
             "encry": ""
         },
         {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "Perth Glory v Melbourne Victory",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "TNT Sports 2 HD",
             "link": "#",
             "related_to": "Perth Glory v Melbourne Victory",
@@ -248,9 +256,35 @@
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
+            "match": "Al Akhdoud v Al Najma",
+            "time": "13:40",
+            "date": "2025-10-31"
+        },
+        {
+            "channel": "Thamanya 2 KSA HD",
+            "link": "#",
+            "related_to": "Al Akhdoud v Al Najma",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 7",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
             "match": "Al Hilal v Al Shabab",
             "time": "14:50",
             "date": "2025-10-31"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Cosmote Sport 1 HD",
@@ -277,12 +311,60 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "DAZN France ($/geo/R)",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "M+ #Vamos Bar",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "M+ Vamos España HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Astra 1KR",
+            "freq": "11.156 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "MAX Sport 4 Bulgaria HD",
             "link": "#",
             "related_to": "Al Hilal v Al Shabab",
             "sat": "AzerSpace 2",
             "freq": "11.475 V 30000 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Okko Sport HD Russia ($/geo/R)",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Prima Sport RO 2 HD",
@@ -317,12 +399,68 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Sportdigital FUSSBALL 2",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sportitalia HD 📺",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Eutelsat 9B",
+            "freq": "12.341 V 31400 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "SportKlub 1 Slovenija HD",
             "link": "#",
             "related_to": "Al Hilal v Al Shabab",
             "sat": "Eutelsat 16A",
             "freq": "11.471 H 30000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SPOTV Malaysia 2 HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Measat 3b",
+            "freq": "11.102 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Thor 6",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Conax"
+        },
+        {
+            "channel": "ST World Football HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Eutelsat 10B",
+            "freq": "3.736 R 07307 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Strike TV",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Thor 6",
+            "freq": "12.245 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra"
         },
         {
             "channel": "SuperSport 2 Albania HD",
@@ -333,12 +471,36 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "SuperSport ESPN HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "TRT Spor Türkiye HD 📺",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": "Al Hilal v Al Shabab",
             "sat": "Turksat 3A",
             "freq": "11.096 H 30000 - 5/6",
             "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "TV2 Play Premium (geo/R) 📺",
+            "link": "https://tv2play.hu/musorok?mufajok=sport&rendezes=nepszeruseg",
+            "related_to": "Al Hilal v Al Shabab",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "compet": "Bulgarian Second League - Week 14",
@@ -539,6 +701,22 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Kocaelispor",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Kocaelispor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "Türkiye 1. Lig - Week 12",
             "flags": {
                 "team1": "turkey",
@@ -649,6 +827,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "link": "#",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "Measat 3b",
+            "freq": "10.732 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "beIN Sports Australia 2 HD",
             "link": "#",
             "related_to": "Elversberg v Hannover 96",
@@ -697,6 +883,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Nova Sport 4 Czech HD",
+            "link": "#",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "Astra 3B",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Nova Sports 2 Cyprus HD",
             "link": "#",
             "related_to": "Elversberg v Hannover 96",
@@ -711,6 +905,14 @@
             "sat": "Hotbird 13F",
             "freq": "12.130 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "link": "#",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
@@ -745,12 +947,36 @@
             "encry": "N/A"
         },
         {
+            "channel": "Sky Sport 253 Italia HD",
+            "link": "#",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Sky Sport Bundesliga 3 HD",
             "link": "#",
             "related_to": "Elversberg v Hannover 96",
             "sat": "Astra 1N",
             "freq": "12.304 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sport TV1 Slovenija",
@@ -761,12 +987,44 @@
             "encry": "MPEG-4 NDS"
         },
         {
+            "channel": "SportKlub 3 Hrvatska",
+            "link": "#",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Tivibu Spor 3 HD",
             "link": "#",
             "related_to": "Elversberg v Hannover 96",
             "sat": "Turksat 4A",
             "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "link": "#",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "link": "#",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "link": "#",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "Thor 6",
+            "freq": "11.345 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay 1 Urheilu HD",
@@ -825,6 +1083,14 @@
             "encry": ""
         },
         {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Elversberg v Hannover 96",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "YouTube: German Football (geo/R) 📺",
             "link": "https://www.youtube.com/@GermanFootball/streams",
             "related_to": "Elversberg v Hannover 96",
@@ -875,6 +1141,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Nova Sport 5 Czech HD",
+            "link": "#",
+            "related_to": "Preußen Münster v Holstein Kiel",
+            "sat": "Astra 3B",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Preußen Münster v Holstein Kiel",
@@ -915,12 +1189,28 @@
             "encry": ""
         },
         {
+            "channel": "SportKlub 7 Hrvatska",
+            "link": "#",
+            "related_to": "Preußen Münster v Holstein Kiel",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Tivibu Spor 4 HD",
             "link": "#",
             "related_to": "Preußen Münster v Holstein Kiel",
             "sat": "Turksat 4A",
             "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TSN Malta 8 HD",
+            "link": "#",
+            "related_to": "Preußen Münster v Holstein Kiel",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -969,6 +1259,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Preußen Münster v Holstein Kiel",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "YouTube: German Football (geo/R) 📺",
@@ -1087,6 +1385,24 @@
             "encry": "HD Irdeto"
         },
         {
+            "compet": "Saudi Professional League - Week 7",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Ettifaq v Al Hazem",
+            "time": "17:30",
+            "date": "2025-10-31"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Ettifaq v Al Hazem",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "German 3. Liga - Week 13",
             "flags": {
                 "team1": "germany",
@@ -1121,6 +1437,14 @@
             "match": "Horsens v HB Køge",
             "time": "18:00",
             "date": "2025-10-31"
+        },
+        {
+            "channel": "TV3 Sport Dansk HD",
+            "link": "#",
+            "related_to": "Horsens v HB Køge",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1171,6 +1495,14 @@
             "sat": "Astra 3B",
             "freq": "11.895 V 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Digi 4K UHD",
+            "link": "#",
+            "related_to": "Dinamo Bucharest v CFR Cluj",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Digi Sport 1 Romania HD",
@@ -1405,6 +1737,14 @@
             "date": "2025-10-31"
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Fortuna Sittard",
+            "sat": "Belintersat 1",
+            "freq": "11.290 H 45000 - 8/9",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Arena Sport 1 Srbija HD",
             "link": "#",
             "related_to": "PSV Eindhoven v Fortuna Sittard",
@@ -1413,12 +1753,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Fortuna Sittard",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 2 Portugal HD",
             "link": "#",
             "related_to": "PSV Eindhoven v Fortuna Sittard",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Fortuna Sittard",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "ESPN 2 Nederland HD",
@@ -1443,6 +1799,14 @@
             "sat": "Hotbird 13F",
             "freq": "12.169 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Play Sports 3 Belgium",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Fortuna Sittard",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Premier Sports 2 Ireland HD",
@@ -1493,12 +1857,52 @@
             "encry": ""
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Fortuna Sittard",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Sport TV2 Slovenija",
             "link": "#",
             "related_to": "PSV Eindhoven v Fortuna Sittard",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Fortuna Sittard",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Fortuna Sittard",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Fortuna Sittard",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Fortuna Sittard",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "channel": "Thriller TV+ [online] ($/geo/R) 📺",
@@ -1515,6 +1919,14 @@
             "sat": "Turksat 4A",
             "freq": "11.853 H 25000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Fortuna Sittard",
+            "sat": "ABS 2A",
+            "freq": "11.605 V 43200 - 7/8",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "compet": "French Ligue 2 - Week 13",
@@ -1797,6 +2209,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Cytavision Sports 4 HD",
+            "link": "#",
+            "related_to": "Luton Town v Forest Green Rovers",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "link": "#",
             "related_to": "Luton Town v Forest Green Rovers",
@@ -1845,6 +2265,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "SportsNet World HD",
+            "link": "#",
+            "related_to": "Luton Town v Forest Green Rovers",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Luton Town v Forest Green Rovers",
@@ -1867,6 +2295,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "V Sport+ Norge HD",
+            "link": "#",
+            "related_to": "Luton Town v Forest Green Rovers",
+            "sat": "Thor 6",
+            "freq": "11.345 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1983,12 +2419,28 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Measat 3b",
+            "freq": "10.732 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "beIN Sports France 2 HD",
             "link": "#",
             "related_to": "Augsburg v Borussia Dortmund",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "SES 4",
+            "freq": "11.171 V 45000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN 1 Portugal HD",
@@ -2039,6 +2491,46 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Fast Sports TV Armenia 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Eutelsat 70B",
+            "freq": "11.050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "MBC Action HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Badr 8",
+            "freq": "12.399 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Astra 3B",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Nova Sports 3 Cyprus HD",
             "link": "#",
             "related_to": "Augsburg v Borussia Dortmund",
@@ -2055,6 +2547,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Okko Sport HD Russia ($/geo/R)",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Augsburg v Borussia Dortmund",
@@ -2063,12 +2571,28 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
             "link": "https://gong.bg/streaming",
             "related_to": "Augsburg v Borussia Dortmund",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Play Sports 1 Belgium",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Prima Sport RO 2 HD",
@@ -2092,6 +2616,22 @@
             "related_to": "Augsburg v Borussia Dortmund",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -2135,6 +2675,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sky Sport Top Event HD",
             "link": "#",
             "related_to": "Augsburg v Borussia Dortmund",
@@ -2143,12 +2691,84 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sony Sports TEN 2 India HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "G-Sat 10",
+            "freq": "11.090 V 32720 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Tivibu Spor 1 HD",
             "link": "#",
             "related_to": "Augsburg v Borussia Dortmund",
             "sat": "Turksat 4A",
             "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Thor 6",
+            "freq": "11.305 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay 2 Urheilu HD",
@@ -2213,6 +2833,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "YouTube: German Football (geo/R) 📺",
@@ -2331,6 +2959,22 @@
             "encry": ""
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "Astra 1M",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "Astra 1L",
+            "freq": "11.038 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "Megogo Futbol 3 ($/geo/R)",
             "link": "#",
             "related_to": "Racing Santander v Real Sociedad II",
@@ -2339,12 +2983,36 @@
             "encry": ""
         },
         {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "Astra 3C",
+            "freq": "12.285 V 30000 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Nova Sports Extra 2 Hellas HD",
             "link": "#",
             "related_to": "Racing Santander v Real Sociedad II",
             "sat": "Hotbird 13F",
             "freq": "11.823 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "ONE2 Sport Israel HD",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "Amos 7",
+            "freq": "11.058 V 13750 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Premier Sports GB Player HD 📺",
@@ -2361,6 +3029,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Sport Premium 2 HD",
+            "link": "#",
+            "related_to": "Racing Santander v Real Sociedad II",
+            "sat": "Thor 6",
+            "freq": "11.385 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -2455,6 +3131,14 @@
         {
             "channel": "DAZN Belgium ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-BE/",
+            "related_to": "Standard Liège v Sporting Charleroi",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Danmark ($/geo/R)",
+            "link": "#",
             "related_to": "Standard Liège v Sporting Charleroi",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -2709,12 +3393,44 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "Wrexham v Coventry City",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Nova Sport 6 Czech HD",
+            "link": "#",
+            "related_to": "Wrexham v Coventry City",
+            "sat": "Astra 3C",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Wrexham v Coventry City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
             "link": "https://gong.bg/streaming",
             "related_to": "Wrexham v Coventry City",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Setanta Sports 1 Baltic",
+            "link": "#",
+            "related_to": "Wrexham v Coventry City",
+            "sat": "Astra 4A",
+            "freq": "11.958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS"
         },
         {
             "channel": "Setanta Sports 1 Eurasia HD",
@@ -2773,12 +3489,36 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Wrexham v Coventry City",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "link": "#",
             "related_to": "Wrexham v Coventry City",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Wrexham v Coventry City",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "link": "#",
+            "related_to": "Wrexham v Coventry City",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "channel": "SuperSport MáXimo 360",
@@ -2795,6 +3535,22 @@
             "sat": "Intelsat 20",
             "freq": "11.554 V 30000 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TSN Malta 1 HD",
+            "link": "#",
+            "related_to": "Wrexham v Coventry City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "link": "#",
+            "related_to": "Wrexham v Coventry City",
+            "sat": "Thor 6",
+            "freq": "11.345 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "V Sport Premium HD",
@@ -2861,6 +3617,14 @@
             "encry": ""
         },
         {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Wrexham v Coventry City",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 11",
             "flags": {
                 "team1": "spain",
@@ -2903,6 +3667,14 @@
             "encry": ""
         },
         {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Getafe v Girona",
@@ -2917,6 +3689,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "Measat 3b",
+            "freq": "11.142 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "beIN Sports France 9 HD max",
@@ -2951,6 +3731,14 @@
             "encry": ""
         },
         {
+            "channel": "Cytavision Sports 8 HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 2 Bar Deutsch HD",
             "link": "#",
             "related_to": "Getafe v Girona",
@@ -2973,6 +3761,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN España HD FTA (geo)",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 - -",
+            "encry": "Free To Air"
         },
         {
             "channel": "DAZN LaLiga HD",
@@ -3015,6 +3819,22 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 3 Brazil HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "ESPN Deportes",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Getafe v Girona",
@@ -3029,6 +3849,14 @@
             "sat": "Astra 1M",
             "freq": "10.818 V 22000 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "M+ LaLiga HDR",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "MATCH! Futbol 2 HD",
@@ -3079,12 +3907,44 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "Eutelsat 16A",
+            "freq": "12.604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Nova Sport 4 Czech HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "Astra 3B",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Nova Sports 1 Hellas HD",
             "link": "#",
             "related_to": "Getafe v Girona",
             "sat": "Hotbird 13F",
             "freq": "12.130 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Getafe v Girona",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -3143,12 +4003,36 @@
             "encry": ""
         },
         {
+            "channel": "Silk Sport 1 HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Spíler 2 TV Hungary HD",
             "link": "#",
             "related_to": "Getafe v Girona",
             "sat": "Thor 6",
             "freq": "11.727 V 28000 - 7/8",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "Belintersat 1",
+            "freq": "11.098 H 16665 - 1/2",
+            "encry": "Conax"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         },
         {
             "channel": "SuperSport LaLiga HD",
@@ -3183,12 +4067,52 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "TSN Malta 4 HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Getafe v Girona",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Getafe v Girona",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "TV2 Play Premium (geo/R) 📺",
             "link": "https://tv2play.hu/musorok?mufajok=sport&rendezes=nepszeruseg",
             "related_to": "Getafe v Girona",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "TV2 Sport Dansk HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "Thor 6",
+            "freq": "11.305 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "Thor 6",
+            "freq": "11.385 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TV4 Fotboll HD",
@@ -3199,12 +4123,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Getafe v Girona",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "link": "#",
             "related_to": "Getafe v Girona",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Getafe v Girona",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "Ziggo Sport 2",
@@ -3257,6 +4197,14 @@
             "encry": ""
         },
         {
+            "channel": "Nova Sport 5 Czech HD",
+            "link": "#",
+            "related_to": "Marseille v Strasbourg",
+            "sat": "Astra 3B",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "SuperSport Football HD",
             "link": "#",
             "related_to": "Marseille v Strasbourg",
@@ -3273,6 +4221,14 @@
             "encry": ""
         },
         {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Marseille v Strasbourg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "compet": "Portuguese Liga Portugal - Week 10",
             "flags": {
                 "team1": "portugal",
@@ -3283,12 +4239,44 @@
             "date": "2025-10-31"
         },
         {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "Belintersat 1",
+            "freq": "11.230 H 45000 - 8/9",
+            "encry": "HD Panaccess"
+        },
+        {
             "channel": "Arena Sport 2 Srbija HD",
             "link": "#",
             "related_to": "Sporting Lisbon v Alverca",
             "sat": "Astra 3B",
             "freq": "11.798 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 10 HD max",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Bold+ Dansk ($/geo/R) 📺",
+            "link": "https://bold.dk/plus",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Cosmote Sport 2 HD",
@@ -3299,6 +4287,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Cytavision Sports 7 HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Eleven Sports 2 Polska HD",
             "link": "#",
             "related_to": "Sporting Lisbon v Alverca",
@@ -3307,11 +4303,27 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "SES 6",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "Megogo Futbol 2 ($/geo/R)",
             "link": "#",
             "related_to": "Sporting Lisbon v Alverca",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Sport Kazakhstan [$]",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -3331,6 +4343,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport 1 Lithuania HD [$]",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Sport 2 Hungary HD",
             "link": "#",
             "related_to": "Sporting Lisbon v Alverca",
@@ -3339,12 +4359,52 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Sport Live Dansk HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "Thor 6",
+            "freq": "10.934 V 25000 - 2/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "link": "#",
             "related_to": "Sporting Lisbon v Alverca",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "SportKlub 1 Slovenija HD",
@@ -3369,6 +4429,30 @@
             "sat": "Turksat 4A",
             "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+        },
+        {
+            "channel": "VG+ Sport Norge ($/geo/R) 📺",
+            "link": "https://www.vgtv.no/live",
+            "related_to": "Sporting Lisbon v Alverca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Argentinean Primera División - 2nd Phase, Week 14",
@@ -3421,6 +4505,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-10-31 04:21:27",
-    "total_items": 413
+    "last_updated": "2025-10-31 15:17:13",
+    "total_items": 548
 }
