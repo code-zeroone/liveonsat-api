@@ -6,172 +6,6 @@
                 "team1": "assocnba",
                 "team2": "assocnba"
             },
-            "match": "Chicago Bulls v Sacramento Kings",
-            "time": "00:00",
-            "date": "2025-10-30"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Chicago Bulls v Sacramento Kings",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Dallas Mavericks v Indiana Pacers",
-            "time": "00:30",
-            "date": "2025-10-30"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Dallas Mavericks v Indiana Pacers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Denver Nuggets v New Orleans Pelicans",
-            "time": "01:00",
-            "date": "2025-10-30"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Denver Nuggets v New Orleans Pelicans",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Utah Jazz v Portland Trail Blazers",
-            "time": "01:00",
-            "date": "2025-10-30"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Utah Jazz v Portland Trail Blazers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Minnesota Timberwolves v Los Angeles Lakers",
-            "time": "01:30",
-            "date": "2025-10-30"
-        },
-        {
-            "channel": "ART Motion Sport 1 HD 📺",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "Minnesota Timberwolves v Los Angeles Lakers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Minnesota Timberwolves v Los Angeles Lakers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Minnesota Timberwolves v Los Angeles Lakers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "S Sport 1 Türkiye HD",
-            "link": "#",
-            "related_to": "Minnesota Timberwolves v Los Angeles Lakers",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V 27500 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Minnesota Timberwolves v Los Angeles Lakers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "link": "#",
-            "related_to": "Minnesota Timberwolves v Los Angeles Lakers",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Phoenix Suns v Memphis Grizzlies",
-            "time": "02:00",
-            "date": "2025-10-30"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Phoenix Suns v Memphis Grizzlies",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Charlotte Hornets v Orlando Magic",
-            "time": "23:00",
-            "date": "2025-10-30"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Charlotte Hornets v Orlando Magic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
             "match": "Milwaukee Bucks v Golden State Warriors",
             "time": "00:00",
             "date": "2025-10-31"
@@ -431,12 +265,52 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Sacramento Kings",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Sky Sport 1 Deutsch HD",
             "link": "#",
             "related_to": "Milwaukee Bucks v Sacramento Kings",
             "sat": "Astra 1N",
             "freq": "11.914 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Sacramento Kings",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Sacramento Kings",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Sacramento Kings",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Sacramento Kings",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
         },
         {
             "compet": "NBA Regular Season",
@@ -571,6 +445,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Oklahoma Thunder v New Orleans Pelicans",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "link": "#",
             "related_to": "Oklahoma Thunder v New Orleans Pelicans",
@@ -631,6 +513,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Cleveland Cavaliers v Atlanta Hawks",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
         },
         {
             "compet": "NBA Regular Season",
@@ -1671,6 +1561,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Houston Rockets",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
             "compet": "NBA Regular Season",
             "flags": {
                 "team1": "assocnba",
@@ -1723,6 +1621,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "link": "#",
+            "related_to": "Memphis Grizzlies v Oklahoma Thunder",
+            "sat": "Astra 1M",
+            "freq": "11.758 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "link": "#",
+            "related_to": "Memphis Grizzlies v Oklahoma Thunder",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Memphis Grizzlies v Oklahoma Thunder",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
         },
         {
             "compet": "NBA Regular Season",
@@ -1815,6 +1737,22 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sky Sport 1 Deutsch HD",
+            "link": "#",
+            "related_to": "Detroit Pistons v Washington Wizards",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "link": "#",
+            "related_to": "Detroit Pistons v Washington Wizards",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "NBA Regular Season",
             "flags": {
                 "team1": "assocnba",
@@ -1885,6 +1823,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Dallas Mavericks v Milwaukee Bucks",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
         },
         {
             "compet": "NBA Regular Season",
@@ -1995,6 +1941,22 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sky Sport 1 Deutsch HD",
+            "link": "#",
+            "related_to": "Philadelphia 76ers v Boston Celtics",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "link": "#",
+            "related_to": "Philadelphia 76ers v Boston Celtics",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "NBA Regular Season",
             "flags": {
                 "team1": "assocnba",
@@ -2011,6 +1973,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Oklahoma Thunder v Golden State Warriors",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
         },
         {
             "compet": "NBA Regular Season",
@@ -2047,6 +2017,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 1 Deutsch HD",
+            "link": "#",
+            "related_to": "Sacramento Kings v Denver Nuggets",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "link": "#",
+            "related_to": "Sacramento Kings v Denver Nuggets",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Sacramento Kings v Denver Nuggets",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
         },
         {
             "compet": "NBA Regular Season",
@@ -10977,6 +10971,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-10-30 15:23:51",
-    "total_items": 1223
+    "last_updated": "2025-10-31 04:25:25",
+    "total_items": 1224
 }

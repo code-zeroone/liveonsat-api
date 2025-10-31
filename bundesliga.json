@@ -11,6 +11,14 @@
             "date": "2025-10-31"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "link": "#",
+            "related_to": "Augsburg v Borussia Dortmund",
+            "sat": "Thor 5",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Arena Premium 3 Srbija HD",
             "link": "#",
             "related_to": "Augsburg v Borussia Dortmund",
@@ -437,6 +445,14 @@
             "match": "RB Leipzig v Stuttgart",
             "time": "14:30",
             "date": "2025-11-01"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "link": "#",
+            "related_to": "RB Leipzig v Stuttgart",
+            "sat": "Thor 5",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
         },
         {
             "channel": "Arena Sport 5 Srbija HD",
@@ -967,6 +983,14 @@
             "date": "2025-11-01"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Bayer Leverkusen",
+            "sat": "Thor 5",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Arena Premium 5 Srbija HD",
             "link": "#",
             "related_to": "Bayern Munich v Bayer Leverkusen",
@@ -1233,6 +1257,14 @@
             "date": "2025-11-02"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "link": "#",
+            "related_to": "FC Cologne v Hamburg",
+            "sat": "Thor 5",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Arena Premium 4 Srbija HD",
             "link": "#",
             "related_to": "FC Cologne v Hamburg",
@@ -1335,6 +1367,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Polsat Sport Premium 1 HD",
+            "link": "#",
+            "related_to": "FC Cologne v Hamburg",
+            "sat": "Hotbird 13G",
+            "freq": "11.117 V 27500 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Prima Sport RO 5 HD",
@@ -1653,6 +1693,14 @@
             "date": "2025-11-07"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Thor 5",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "BBC iPlayer (geo/R) 📺",
             "link": "https://www.bbc.co.uk/iplayer",
             "related_to": "Werder Bremen v Wolfsburg",
@@ -1677,12 +1725,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
             "channel": "DAZN Japan ($/geo/R)",
             "link": "#",
             "related_to": "Werder Bremen v Wolfsburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Hotbird 13G",
+            "freq": "11.488 V 27500 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "ESPN+ USA ($/geo/R)",
@@ -1699,6 +1771,38 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Polsat Sport Premium 1 HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Hotbird 13G",
+            "freq": "11.117 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Astra 1N",
+            "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Thor 5",
+            "freq": "11.278 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1791,6 +1895,14 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport Bundesliga 3 HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Heidenheim",
+            "sat": "Astra 1N",
+            "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Bayer Leverkusen v Heidenheim",
@@ -1857,6 +1969,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Eleven Sports 3 Polska HD",
+            "link": "#",
+            "related_to": "Hamburg v Borussia Dortmund",
+            "sat": "Hotbird 13F",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "ESPN+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Hamburg v Borussia Dortmund",
@@ -1871,6 +1991,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "link": "#",
+            "related_to": "Hamburg v Borussia Dortmund",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "link": "#",
+            "related_to": "Hamburg v Borussia Dortmund",
+            "sat": "Astra 1N",
+            "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Bundesliga UHD",
+            "link": "#",
+            "related_to": "Hamburg v Borussia Dortmund",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1955,6 +2099,14 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport Bundesliga 4 HD",
+            "link": "#",
+            "related_to": "Hoffenheim v RB Leipzig",
+            "sat": "Astra 1N",
+            "freq": "12.032 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Hoffenheim v RB Leipzig",
@@ -2021,6 +2173,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Eleven Sports 2 Polska HD",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "Hotbird 13G",
+            "freq": "11.488 V 27500 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "ESPN+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Union Berlin v Bayern Munich",
@@ -2029,12 +2189,28 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Match 4 Hungary HD",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "Thor 7",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Conax"
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Union Berlin v Bayern Munich",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport Bundesliga 2 HD",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "Astra 1M",
+            "freq": "11.758 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -2103,6 +2279,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Eleven Sports 4 Polska HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v FC Cologne",
+            "sat": "Hotbird 13G",
+            "freq": "11.278 V 27500 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "ESPN+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Mönchengladbach v FC Cologne",
@@ -2125,6 +2309,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v FC Cologne",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v FC Cologne",
+            "sat": "Astra 1N",
+            "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v FC Cologne",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sports Football HD",
@@ -2193,12 +2401,36 @@
             "date": "2025-11-09"
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Freiburg v St Pauli",
+            "sat": "Astra 1N",
+            "freq": "12.070 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Freiburg v St Pauli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "DAZN Japan ($/geo/R)",
             "link": "#",
             "related_to": "Freiburg v St Pauli",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Eleven Sports 4 Polska HD",
+            "link": "#",
+            "related_to": "Freiburg v St Pauli",
+            "sat": "Hotbird 13G",
+            "freq": "11.278 V 27500 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "ESPN+ USA ($/geo/R)",
@@ -2283,12 +2515,36 @@
             "date": "2025-11-09"
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Stuttgart v Augsburg",
+            "sat": "Astra 1N",
+            "freq": "12.070 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Stuttgart v Augsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "DAZN Japan ($/geo/R)",
             "link": "#",
             "related_to": "Stuttgart v Augsburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Eleven Sports 4 Polska HD",
+            "link": "#",
+            "related_to": "Stuttgart v Augsburg",
+            "sat": "Hotbird 13G",
+            "freq": "11.278 V 27500 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "ESPN+ USA ($/geo/R)",
@@ -2373,12 +2629,36 @@
             "date": "2025-11-09"
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Mainz 05",
+            "sat": "Astra 1N",
+            "freq": "12.070 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "DAZN Japan ($/geo/R)",
             "link": "#",
             "related_to": "Eintracht Frankfurt v Mainz 05",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Eleven Sports 4 Polska HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Mainz 05",
+            "sat": "Hotbird 13G",
+            "freq": "11.278 V 27500 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "ESPN+ USA ($/geo/R)",
@@ -3021,6 +3301,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-30 15:22:38",
-    "total_items": 367
+    "last_updated": "2025-10-31 04:24:13",
+    "total_items": 402
 }

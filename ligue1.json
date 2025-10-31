@@ -391,6 +391,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Eleven Sports 2 Polska HD",
+            "link": "#",
+            "related_to": "Auxerre v Marseille",
+            "sat": "Hotbird 13G",
+            "freq": "11.488 V 27500 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Auxerre v Marseille",
@@ -1317,12 +1325,60 @@
             "date": "2025-11-07"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Paris FC v Rennes",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Paris FC v Rennes",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Paris FC v Rennes",
+            "sat": "Astra 1N",
+            "freq": "12.070 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Paris FC v Rennes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Paris FC v Rennes",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "link": "#",
+            "related_to": "Paris FC v Rennes",
+            "sat": "Thor 6",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "link": "#",
+            "related_to": "Paris FC v Rennes",
+            "sat": "Thor 5",
+            "freq": "11.278 V 25000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1497,6 +1553,14 @@
             "match": "Monaco v Lens",
             "time": "20:05",
             "date": "2025-11-08"
+        },
+        {
+            "channel": "Eleven Sports 4 Polska HD",
+            "link": "#",
+            "related_to": "Monaco v Lens",
+            "sat": "Hotbird 13G",
+            "freq": "11.278 V 27500 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -1789,6 +1853,14 @@
             "date": "2025-11-09"
         },
         {
+            "channel": "Eleven Sports 3 Polska HD",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "Hotbird 13F",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Lyon v Paris St Germain",
@@ -1981,6 +2053,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-30 15:21:57",
-    "total_items": 241
+    "last_updated": "2025-10-31 04:23:32",
+    "total_items": 250
 }
