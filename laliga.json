@@ -331,6 +331,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "ST Sports Premium HD",
+            "link": "#",
+            "related_to": "Villarreal v Rayo Vallecano",
+            "sat": "Belintersat 1",
+            "freq": "11.098 H 16665 - 1/2",
+            "encry": "Conax"
+        },
+        {
             "channel": "SuperSport 1 Albania HD",
             "link": "#",
             "related_to": "Villarreal v Rayo Vallecano",
@@ -467,6 +475,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Atlético Madrid v Sevilla",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Connect FRANCE 📺",
@@ -765,6 +781,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "ST Sports Life",
+            "link": "#",
+            "related_to": "Atlético Madrid v Sevilla",
+            "sat": "Thor 6",
+            "freq": "12.418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "SuperSport 1 Albania HD",
             "link": "#",
             "related_to": "Atlético Madrid v Sevilla",
@@ -991,6 +1015,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 3 Brazil HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Athletic Bilbao",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "ESPN Deportes",
             "link": "#",
             "related_to": "Real Sociedad v Athletic Bilbao",
@@ -1159,6 +1191,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "ST Sports Premium HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Athletic Bilbao",
+            "sat": "Belintersat 1",
+            "freq": "11.098 H 16665 - 1/2",
+            "encry": "Conax"
+        },
+        {
             "channel": "SuperSport 1 Albania HD",
             "link": "#",
             "related_to": "Real Sociedad v Athletic Bilbao",
@@ -1303,6 +1343,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Valencia",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Connect FRANCE 📺",
@@ -1465,6 +1513,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Valencia",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Real Madrid v Valencia",
@@ -1527,6 +1583,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Real Madrid v Valencia",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
@@ -1657,6 +1721,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "ST Sports Premium HD",
+            "link": "#",
+            "related_to": "Real Madrid v Valencia",
+            "sat": "Belintersat 1",
+            "freq": "11.098 H 16665 - 1/2",
+            "encry": "Conax"
+        },
+        {
             "channel": "SuperSport 1 Albania HD",
             "link": "#",
             "related_to": "Real Madrid v Valencia",
@@ -1783,6 +1855,14 @@
             "sat": "Astra 3C",
             "freq": "12.129 V 29900 - 3/4",
             "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Real Madrid v Valencia",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 11",
@@ -5109,6 +5189,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-01 04:21:14",
-    "total_items": 631
+    "last_updated": "2025-11-01 15:19:34",
+    "total_items": 641
 }

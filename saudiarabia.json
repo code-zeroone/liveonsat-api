@@ -24,9 +24,43 @@
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
+            "match": "Al Khaleej v Al Ittihad",
+            "time": "14:35",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "Al Khaleej v Al Ittihad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "link": "#",
+            "related_to": "Al Khaleej v Al Ittihad",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 7",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
             "match": "Al Nassr v Al Fayha",
             "time": "17:30",
             "date": "2025-11-01"
+        },
+        {
+            "channel": "Azam Sports 1 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fayha",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Band Sports Brazil HD",
@@ -109,6 +143,14 @@
             "encry": "MPEG-4 NDS"
         },
         {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fayha",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "link": "#",
             "related_to": "Al Nassr v Al Fayha",
@@ -165,6 +207,14 @@
             "encry": "Conax"
         },
         {
+            "channel": "ST Sports Life",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fayha",
+            "sat": "Thor 6",
+            "freq": "12.418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Strike TV",
             "link": "#",
             "related_to": "Al Nassr v Al Fayha",
@@ -187,6 +237,14 @@
             "sat": "Intelsat 20",
             "freq": "10.970 V 30000 - 5/6",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Fayha",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "TV2 Play Premium (geo/R) 📺",
@@ -215,6 +273,6 @@
             "encry": "HD Irdeto"
         }
     ],
-    "last_updated": "2025-11-01 04:25:08",
-    "total_items": 26
+    "last_updated": "2025-11-01 15:25:23",
+    "total_items": 33
 }

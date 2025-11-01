@@ -107,6 +107,14 @@
             "encry": ""
         },
         {
+            "channel": "ST Sports Arena",
+            "link": "#",
+            "related_to": "Heidenheim v Eintracht Frankfurt",
+            "sat": "Thor 6",
+            "freq": "11.938 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Tivibu Spor 3 HD",
             "link": "#",
             "related_to": "Heidenheim v Eintracht Frankfurt",
@@ -389,6 +397,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ST World Football HD",
+            "link": "#",
+            "related_to": "RB Leipzig v Stuttgart",
+            "sat": "Eutelsat 10B",
+            "freq": "3.736 R 07307 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Tivibu Spor 2 HD",
             "link": "#",
             "related_to": "RB Leipzig v Stuttgart",
@@ -525,6 +541,14 @@
             "sat": "Astra 1N",
             "freq": "12.032 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ST Sports Arena",
+            "link": "#",
+            "related_to": "Mainz 05 v Werder Bremen",
+            "sat": "Thor 6",
+            "freq": "11.938 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
         },
         {
             "channel": "Tring Sport 4 HD",
@@ -681,6 +705,14 @@
             "encry": ""
         },
         {
+            "channel": "ST Sports Focus",
+            "link": "#",
+            "related_to": "St Pauli v Mönchengladbach",
+            "sat": "Thor 6",
+            "freq": "11.977 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Tring Sport 6 HD",
             "link": "#",
             "related_to": "St Pauli v Mönchengladbach",
@@ -795,6 +827,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ST Sports Focus",
+            "link": "#",
+            "related_to": "Union Berlin v Freiburg",
+            "sat": "Thor 6",
+            "freq": "11.977 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Tring Sport 5 HD",
             "link": "#",
             "related_to": "Union Berlin v Freiburg",
@@ -874,6 +914,14 @@
             "related_to": "Bayern Munich v Bayer Leverkusen",
             "sat": "Astra 3C",
             "freq": "12.304 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Bayer Leverkusen",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
             "encry": "HD NagraVision"
         },
         {
@@ -1213,12 +1261,28 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Sporty TV Africa",
             "link": "#",
             "related_to": "Bayern Munich v Bayer Leverkusen",
             "sat": "Astra 2F",
             "freq": "12.605 V 30000 - 5/6",
             "encry": "Free To Air"
+        },
+        {
+            "channel": "ST World Football HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Bayer Leverkusen",
+            "sat": "Eutelsat 10B",
+            "freq": "3.736 R 07307 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "Tivibu Spor 2 HD",
@@ -3699,6 +3763,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-01 04:21:35",
-    "total_items": 452
+    "last_updated": "2025-11-01 15:20:15",
+    "total_items": 460
 }

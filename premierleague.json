@@ -1419,6 +1419,14 @@
             "encry": "MPEG-4 Irdeto"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Manchester United",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "Fast Sports 2 Armenia ($/geo/R) 📺",
             "link": "https://fasttv.am/tv-channels/fastsports2",
             "related_to": "Nottingham Forest v Manchester United",
@@ -1481,6 +1489,14 @@
             "sat": "Intelsat 39",
             "freq": "11.555 V 30000 - 2/3",
             "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Nottingham Forest v Manchester United",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "NBC Universo USA",
@@ -1957,6 +1973,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Chelsea",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "Fast Sports 1 Armenia ($/geo/R) 📺",
             "link": "https://fasttv.am/tv-channels/fastsports1",
             "related_to": "Tottenham Hotspur v Chelsea",
@@ -1971,6 +1995,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Chelsea",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
@@ -2013,12 +2045,28 @@
             "encry": "FTA (BISS)"
         },
         {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Chelsea",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "link": "#",
             "related_to": "Tottenham Hotspur v Chelsea",
             "sat": "Thor 7",
             "freq": "12.130 H 28000 - 7/8",
             "encry": "Conax"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Chelsea",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Nova Sports Premier League HD",
@@ -2557,6 +2605,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "link": "#",
+            "related_to": "Liverpool v Aston Villa",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
         },
         {
             "channel": "Fast Sports 1 Armenia ($/geo/R) 📺",
@@ -12355,125 +12411,25 @@
         {
             "compet": "English Premier League - Week 18",
             "flags": {
-                "team1": "england7",
-                "team2": "england3"
-            },
-            "match": "Chelsea v Aston Villa",
-            "time": "15:00",
-            "date": "2025-12-27"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Chelsea v Aston Villa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "link": "#",
-            "related_to": "Chelsea v Aston Villa",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "link": "#",
-            "related_to": "Chelsea v Aston Villa",
-            "sat": "Astra 2F",
-            "freq": "12.207 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "link": "#",
-            "related_to": "Chelsea v Aston Villa",
-            "sat": "Astra 2E",
-            "freq": "11.934 V 27500 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 18",
-            "flags": {
                 "team1": "england",
                 "team2": "england"
             },
-            "match": "Crystal Palace v Tottenham Hotspur",
-            "time": "15:00",
-            "date": "2025-12-27"
+            "match": "Manchester United v Newcastle United",
+            "time": "20:00",
+            "date": "2025-12-26"
         },
         {
             "channel": "Sky Go UK [online]",
             "link": "#",
-            "related_to": "Crystal Palace v Tottenham Hotspur",
+            "related_to": "Manchester United v Newcastle United",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
         },
         {
-            "channel": "Sky Sports Main Event HD",
-            "link": "#",
-            "related_to": "Crystal Palace v Tottenham Hotspur",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "link": "#",
-            "related_to": "Crystal Palace v Tottenham Hotspur",
-            "sat": "Astra 2F",
-            "freq": "12.207 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
             "channel": "Sky Sports Premier League HD",
             "link": "#",
-            "related_to": "Crystal Palace v Tottenham Hotspur",
-            "sat": "Astra 2E",
-            "freq": "11.934 V 27500 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 18",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Sunderland v Leeds United",
-            "time": "15:00",
-            "date": "2025-12-27"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Sunderland v Leeds United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "link": "#",
-            "related_to": "Sunderland v Leeds United",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "link": "#",
-            "related_to": "Sunderland v Leeds United",
-            "sat": "Astra 2F",
-            "freq": "12.207 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "link": "#",
-            "related_to": "Sunderland v Leeds United",
+            "related_to": "Manchester United v Newcastle United",
             "sat": "Astra 2E",
             "freq": "11.934 V 27500 - 5/6",
             "encry": "VideoGuard"
@@ -12485,7 +12441,7 @@
                 "team2": "england"
             },
             "match": "Nottingham Forest v Manchester City",
-            "time": "15:00",
+            "time": "12:30",
             "date": "2025-12-27"
         },
         {
@@ -12507,25 +12463,125 @@
         {
             "compet": "English Premier League - Week 18",
             "flags": {
-                "team1": "england",
-                "team2": "england"
+                "team1": "england7",
+                "team2": "england3"
             },
-            "match": "Manchester United v Newcastle United",
-            "time": "15:00",
+            "match": "Chelsea v Aston Villa",
+            "time": "17:30",
             "date": "2025-12-27"
         },
         {
             "channel": "Sky Go UK [online]",
             "link": "#",
-            "related_to": "Manchester United v Newcastle United",
+            "related_to": "Chelsea v Aston Villa",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Chelsea v Aston Villa",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Chelsea v Aston Villa",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sky Sports Premier League HD",
             "link": "#",
-            "related_to": "Manchester United v Newcastle United",
+            "related_to": "Chelsea v Aston Villa",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 18",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Sunderland v Leeds United",
+            "time": "14:00",
+            "date": "2025-12-28"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Sunderland v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Sunderland v Leeds United",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Sunderland v Leeds United",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "link": "#",
+            "related_to": "Sunderland v Leeds United",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 18",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Crystal Palace v Tottenham Hotspur",
+            "time": "16:30",
+            "date": "2025-12-28"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Crystal Palace v Tottenham Hotspur",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Tottenham Hotspur",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Crystal Palace v Tottenham Hotspur",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Tottenham Hotspur",
             "sat": "Astra 2E",
             "freq": "11.934 V 27500 - 5/6",
             "encry": "VideoGuard"
@@ -12534,62 +12590,10 @@
             "compet": "English Premier League - Week 19",
             "flags": {
                 "team1": "england",
-                "team2": "england3"
-            },
-            "match": "Arsenal v Aston Villa",
-            "time": "20:00",
-            "date": "2025-12-30"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Arsenal v Aston Villa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "link": "#",
-            "related_to": "Arsenal v Aston Villa",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 19",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Brentford v Tottenham Hotspur",
-            "time": "20:00",
-            "date": "2025-12-30"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Brentford v Tottenham Hotspur",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "link": "#",
-            "related_to": "Brentford v Tottenham Hotspur",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 19",
-            "flags": {
-                "team1": "england",
                 "team2": "england"
             },
             "match": "Burnley v Newcastle United",
-            "time": "20:00",
+            "time": "19:30",
             "date": "2025-12-30"
         },
         {
@@ -12615,7 +12619,7 @@
                 "team2": "england"
             },
             "match": "Chelsea v Bournemouth",
-            "time": "20:00",
+            "time": "19:30",
             "date": "2025-12-30"
         },
         {
@@ -12638,11 +12642,115 @@
             "compet": "English Premier League - Week 19",
             "flags": {
                 "team1": "england",
+                "team2": "england8"
+            },
+            "match": "Nottingham Forest v Everton",
+            "time": "19:30",
+            "date": "2025-12-30"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Nottingham Forest v Everton",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Everton",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 19",
+            "flags": {
+                "team1": "england21",
+                "team2": "england"
+            },
+            "match": "West Ham United v Brighton H.A.",
+            "time": "19:30",
+            "date": "2025-12-30"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "West Ham United v Brighton H.A.",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "link": "#",
+            "related_to": "West Ham United v Brighton H.A.",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 19",
+            "flags": {
+                "team1": "england",
+                "team2": "england3"
+            },
+            "match": "Arsenal v Aston Villa",
+            "time": "20:15",
+            "date": "2025-12-30"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Arsenal v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "link": "#",
+            "related_to": "Arsenal v Aston Villa",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 19",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Manchester United v Wolves",
+            "time": "20:15",
+            "date": "2025-12-30"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Manchester United v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "link": "#",
+            "related_to": "Manchester United v Wolves",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 19",
+            "flags": {
+                "team1": "england",
                 "team2": "england9"
             },
             "match": "Crystal Palace v Fulham",
-            "time": "20:00",
-            "date": "2025-12-30"
+            "time": "17:30",
+            "date": "2026-01-01"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -12667,8 +12775,8 @@
                 "team2": "england"
             },
             "match": "Liverpool v Leeds United",
-            "time": "20:00",
-            "date": "2025-12-30"
+            "time": "17:30",
+            "date": "2026-01-01"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -12692,14 +12800,14 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "match": "Manchester United v Wolves",
+            "match": "Brentford v Tottenham Hotspur",
             "time": "20:00",
-            "date": "2025-12-30"
+            "date": "2026-01-01"
         },
         {
             "channel": "Sky Go UK [online]",
             "link": "#",
-            "related_to": "Manchester United v Wolves",
+            "related_to": "Brentford v Tottenham Hotspur",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
@@ -12707,33 +12815,7 @@
         {
             "channel": "Sky Sports UK HD",
             "link": "#",
-            "related_to": "Manchester United v Wolves",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 19",
-            "flags": {
-                "team1": "england",
-                "team2": "england8"
-            },
-            "match": "Nottingham Forest v Everton",
-            "time": "20:00",
-            "date": "2025-12-30"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Nottingham Forest v Everton",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "link": "#",
-            "related_to": "Nottingham Forest v Everton",
+            "related_to": "Brentford v Tottenham Hotspur",
             "sat": "Astra 2E",
             "freq": "11.856 V 27500 - 2/3",
             "encry": "HD VideoGuard"
@@ -12746,7 +12828,7 @@
             },
             "match": "Sunderland v Manchester City",
             "time": "20:00",
-            "date": "2025-12-30"
+            "date": "2026-01-01"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -12760,32 +12842,6 @@
             "channel": "Sky Sports UK HD",
             "link": "#",
             "related_to": "Sunderland v Manchester City",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 19",
-            "flags": {
-                "team1": "england21",
-                "team2": "england"
-            },
-            "match": "West Ham United v Brighton H.A.",
-            "time": "20:00",
-            "date": "2025-12-30"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "West Ham United v Brighton H.A.",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "link": "#",
-            "related_to": "West Ham United v Brighton H.A.",
             "sat": "Astra 2E",
             "freq": "11.856 V 27500 - 2/3",
             "encry": "HD VideoGuard"
@@ -12797,7 +12853,7 @@
                 "team2": "england"
             },
             "match": "Aston Villa v Nottingham Forest",
-            "time": "15:00",
+            "time": "12:30",
             "date": "2026-01-03"
         },
         {
@@ -12839,7 +12895,7 @@
                 "team2": "england"
             },
             "match": "Bournemouth v Arsenal",
-            "time": "15:00",
+            "time": "17:30",
             "date": "2026-01-03"
         },
         {
@@ -12870,48 +12926,6 @@
             "channel": "Sky Sports Premier League HD",
             "link": "#",
             "related_to": "Bournemouth v Arsenal",
-            "sat": "Astra 2E",
-            "freq": "11.934 V 27500 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 20",
-            "flags": {
-                "team1": "england",
-                "team2": "england7"
-            },
-            "match": "Manchester City v Chelsea",
-            "time": "15:00",
-            "date": "2026-01-03"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Manchester City v Chelsea",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "link": "#",
-            "related_to": "Manchester City v Chelsea",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "link": "#",
-            "related_to": "Manchester City v Chelsea",
-            "sat": "Astra 2F",
-            "freq": "12.207 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "link": "#",
-            "related_to": "Manchester City v Chelsea",
             "sat": "Astra 2E",
             "freq": "11.934 V 27500 - 5/6",
             "encry": "VideoGuard"
@@ -12923,8 +12937,8 @@
                 "team2": "england"
             },
             "match": "Leeds United v Manchester United",
-            "time": "15:00",
-            "date": "2026-01-03"
+            "time": "12:30",
+            "date": "2026-01-04"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -12950,7 +12964,7 @@
             },
             "match": "Everton v Brentford",
             "time": "15:00",
-            "date": "2026-01-03"
+            "date": "2026-01-04"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -12976,7 +12990,7 @@
             },
             "match": "Fulham v Liverpool",
             "time": "15:00",
-            "date": "2026-01-03"
+            "date": "2026-01-04"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -13002,7 +13016,7 @@
             },
             "match": "Newcastle United v Crystal Palace",
             "time": "15:00",
-            "date": "2026-01-03"
+            "date": "2026-01-04"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -13028,7 +13042,7 @@
             },
             "match": "Tottenham Hotspur v Sunderland",
             "time": "15:00",
-            "date": "2026-01-03"
+            "date": "2026-01-04"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -13047,19 +13061,19 @@
             "encry": "HD VideoGuard"
         },
         {
-            "compet": "English Premier League - Week 21",
+            "compet": "English Premier League - Week 20",
             "flags": {
                 "team1": "england",
-                "team2": "england"
+                "team2": "england7"
             },
-            "match": "Arsenal v Liverpool",
-            "time": "20:00",
-            "date": "2026-01-07"
+            "match": "Manchester City v Chelsea",
+            "time": "17:30",
+            "date": "2026-01-04"
         },
         {
             "channel": "Sky Go UK [online]",
             "link": "#",
-            "related_to": "Arsenal v Liverpool",
+            "related_to": "Manchester City v Chelsea",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
@@ -13067,7 +13081,7 @@
         {
             "channel": "Sky Sports Main Event HD",
             "link": "#",
-            "related_to": "Arsenal v Liverpool",
+            "related_to": "Manchester City v Chelsea",
             "sat": "Astra 2E",
             "freq": "11.856 V 27500 - 3/4",
             "encry": "HD VideoGuard"
@@ -13075,7 +13089,7 @@
         {
             "channel": "Sky Sports Main Event UHD",
             "link": "#",
-            "related_to": "Arsenal v Liverpool",
+            "related_to": "Manchester City v Chelsea",
             "sat": "Astra 2F",
             "freq": "12.207 V 27500 - 2/3",
             "encry": "HD VideoGuard"
@@ -13083,7 +13097,7 @@
         {
             "channel": "Sky Sports Premier League HD",
             "link": "#",
-            "related_to": "Arsenal v Liverpool",
+            "related_to": "Manchester City v Chelsea",
             "sat": "Astra 2E",
             "freq": "11.934 V 27500 - 5/6",
             "encry": "VideoGuard"
@@ -13096,7 +13110,7 @@
             },
             "match": "West Ham United v Nottingham Forest",
             "time": "20:00",
-            "date": "2026-01-07"
+            "date": "2026-01-06"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -13137,7 +13151,7 @@
                 "team2": "england"
             },
             "match": "Bournemouth v Tottenham Hotspur",
-            "time": "20:00",
+            "time": "19:30",
             "date": "2026-01-07"
         },
         {
@@ -13163,7 +13177,7 @@
                 "team2": "england"
             },
             "match": "Brentford v Sunderland",
-            "time": "20:00",
+            "time": "19:30",
             "date": "2026-01-07"
         },
         {
@@ -13178,32 +13192,6 @@
             "channel": "Sky Sports UK HD",
             "link": "#",
             "related_to": "Brentford v Sunderland",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 21",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Burnley v Manchester United",
-            "time": "20:00",
-            "date": "2026-01-07"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Burnley v Manchester United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "link": "#",
-            "related_to": "Burnley v Manchester United",
             "sat": "Astra 2E",
             "freq": "11.856 V 27500 - 2/3",
             "encry": "HD VideoGuard"
@@ -13215,7 +13203,7 @@
                 "team2": "england3"
             },
             "match": "Crystal Palace v Aston Villa",
-            "time": "20:00",
+            "time": "19:30",
             "date": "2026-01-07"
         },
         {
@@ -13241,7 +13229,7 @@
                 "team2": "england"
             },
             "match": "Everton v Wolves",
-            "time": "20:00",
+            "time": "19:30",
             "date": "2026-01-07"
         },
         {
@@ -13267,7 +13255,7 @@
                 "team2": "england7"
             },
             "match": "Fulham v Chelsea",
-            "time": "20:00",
+            "time": "19:30",
             "date": "2026-01-07"
         },
         {
@@ -13293,7 +13281,7 @@
                 "team2": "england"
             },
             "match": "Manchester City v Brighton H.A.",
-            "time": "20:00",
+            "time": "19:30",
             "date": "2026-01-07"
         },
         {
@@ -13318,8 +13306,34 @@
                 "team1": "england",
                 "team2": "england"
             },
+            "match": "Burnley v Manchester United",
+            "time": "20:15",
+            "date": "2026-01-07"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Burnley v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "link": "#",
+            "related_to": "Burnley v Manchester United",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 21",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
             "match": "Newcastle United v Leeds United",
-            "time": "20:00",
+            "time": "20:15",
             "date": "2026-01-07"
         },
         {
@@ -13337,8 +13351,50 @@
             "sat": "Astra 2E",
             "freq": "11.856 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 21",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Arsenal v Liverpool",
+            "time": "20:00",
+            "date": "2026-01-08"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Arsenal v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Arsenal v Liverpool",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Arsenal v Liverpool",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "link": "#",
+            "related_to": "Arsenal v Liverpool",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-11-01 04:19:10",
-    "total_items": 1639
+    "last_updated": "2025-11-01 15:15:59",
+    "total_items": 1646
 }
