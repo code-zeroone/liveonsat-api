@@ -6,56 +6,6 @@
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "match": "Istanbul Basaksehir v Kocaelispor",
-            "time": "17:00",
-            "date": "2025-10-31"
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
-            "link": "#",
-            "related_to": "Istanbul Basaksehir v Kocaelispor",
-            "sat": "Astra 3C",
-            "freq": "12.304 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Istanbul Basaksehir v Kocaelispor",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "link": "#",
-            "related_to": "Istanbul Basaksehir v Kocaelispor",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "Sport+ Qazaqstan",
-            "link": "#",
-            "related_to": "Istanbul Basaksehir v Kocaelispor",
-            "sat": "KazSat 3",
-            "freq": "10.720 H 30000 - 3/4",
-            "encry": "MPEG-4 NDS"
-        },
-        {
-            "channel": "SportKlub 6 Hrvatska",
-            "link": "#",
-            "related_to": "Istanbul Basaksehir v Kocaelispor",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 11",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
             "match": "Göztepe v Gençlerbirligi",
             "time": "14:00",
             "date": "2025-11-01"
@@ -101,6 +51,14 @@
             "sat": "Astra 3B",
             "freq": "11.798 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ART Motion Sport 6 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Galatasaray v Trabzonspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "beIN Connect FRANCE 📺",
@@ -175,12 +133,28 @@
             "encry": ""
         },
         {
+            "channel": "SportKlub 4 Slovenija",
+            "link": "#",
+            "related_to": "Galatasaray v Trabzonspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "SuperSport 3 Albania HD",
             "link": "#",
             "related_to": "Galatasaray v Trabzonspor",
             "sat": "Eutelsat 16A",
             "freq": "10.845 H 30000 - 3/5",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "link": "#",
+            "related_to": "Galatasaray v Trabzonspor",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "compet": "Türkiye Süper Lig - Week 11",
@@ -583,12 +557,54 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "ART Motion Sport 3 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Alanyaspor v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Alanyaspor v Gaziantep",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 1 HD",
+            "link": "#",
+            "related_to": "Alanyaspor v Gaziantep",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 11",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "match": "Caykur Rizespor v Fatih Karagümrük",
+            "time": "17:00",
+            "date": "2025-11-03"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Caykur Rizespor v Fatih Karagümrük",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "link": "#",
+            "related_to": "Caykur Rizespor v Fatih Karagümrük",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "Türkiye Süper Lig - Week 11",
@@ -609,22 +625,12 @@
             "encry": ""
         },
         {
-            "compet": "Türkiye Süper Lig - Week 11",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "match": "Caykur Rizespor v Fatih Karagümrük",
-            "time": "17:00",
-            "date": "2025-11-03"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Caykur Rizespor v Fatih Karagümrük",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Eyüpspor v Antalyaspor",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "Türkiye Süper Lig - Week 12",
@@ -689,12 +695,28 @@
             "date": "2025-11-08"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Trabzonspor v Alanyaspor",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Trabzonspor v Alanyaspor",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Trabzonspor v Alanyaspor",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -715,12 +737,28 @@
             "date": "2025-11-08"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Antalyaspor v Besiktas",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Antalyaspor v Besiktas",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports France 6 HD max",
+            "link": "#",
+            "related_to": "Antalyaspor v Besiktas",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -1427,6 +1465,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-31 15:22:12",
-    "total_items": 167
+    "last_updated": "2025-11-01 04:23:47",
+    "total_items": 172
 }

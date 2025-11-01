@@ -3,12 +3,134 @@
         {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
+                "team1": "serbia",
+                "team2": "france"
+            },
+            "match": "Red Star Belgrade v Lille",
+            "time": "17:45",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTS 1 Srbija HD",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "Astra 3B",
+            "freq": "11.914 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Sky Sport 4 Austria HD",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "Astra 1N",
+            "freq": "12.382 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Ziggo Sport 6",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Seca"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 4",
+            "flags": {
                 "team1": "switzerland",
                 "team2": "romania"
             },
             "match": "Basel v FCSB",
             "time": "17:45",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 9 Hrvatska HD",
+            "link": "#",
+            "related_to": "Basel v FCSB",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -51,6 +173,30 @@
             "encry": ""
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Basel v FCSB",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Basel v FCSB",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Basel v FCSB",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "sweden",
@@ -59,6 +205,14 @@
             "match": "Malmö v Panathinaikos",
             "time": "17:45",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "link": "#",
+            "related_to": "Malmö v Panathinaikos",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -109,6 +263,30 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Malmö v Panathinaikos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Malmö v Panathinaikos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Malmö v Panathinaikos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "holland",
@@ -117,6 +295,14 @@
             "match": "Utrecht v FC Porto",
             "time": "17:45",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -199,6 +385,30 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "denmark",
@@ -233,12 +443,12 @@
             "encry": "HD NagraVision"
         },
         {
-            "channel": "Celtic TV ($/geo/R) 📺",
+            "channel": "Celtic TV (audio only) 📺",
             "link": "https://www.celticfc.tv/",
             "related_to": "Midtjylland v Celtic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "sat": "* RADIO",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -289,6 +499,30 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "croatia",
@@ -297,6 +531,14 @@
             "match": "Dinamo Zagreb v Celta Vigo",
             "time": "17:45",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Celta Vigo",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -353,6 +595,30 @@
             "sat": "Astra 2G",
             "freq": "11.597 V 23000 - 2/3",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Celta Vigo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Celta Vigo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Celta Vigo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -421,6 +687,30 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Salzburg v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Salzburg v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Salzburg v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "austria",
@@ -429,6 +719,14 @@
             "match": "Sturm Graz v Nottingham Forest",
             "time": "17:45",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -503,6 +801,38 @@
             "encry": "HD Viaccess"
         },
         {
+            "channel": "V Sport 2 Norge HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Thor 6",
+            "freq": "11.345 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "france",
@@ -511,6 +841,14 @@
             "match": "Nice v Freiburg",
             "time": "17:45",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "Canal+ Live 3 France HD",
@@ -553,35 +891,75 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
-                "team1": "serbia",
-                "team2": "france"
+                "team1": "czechia",
+                "team2": "turkey"
             },
-            "match": "Red Star Belgrade v Lille",
-            "time": "17:45",
+            "match": "Viktoria Plzen v Fenerbahçe",
+            "time": "20:00",
             "date": "2025-11-06"
         },
         {
-            "channel": "Canal+ Foot HD",
+            "channel": "Arena Sport 7 Hrvatska HD",
             "link": "#",
-            "related_to": "Red Star Belgrade v Lille",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 5 France HD",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
             "sat": "Astra 1M",
             "freq": "12.012 V 29700 - 2/3",
             "encry": "HD NagraVision"
         },
         {
-            "channel": "Canal+ Live 2 France HD",
-            "link": "#",
-            "related_to": "Red Star Belgrade v Lille",
-            "sat": "Astra 1L",
-            "freq": "12.728 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Red Star Belgrade v Lille",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -589,26 +967,82 @@
         {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
-            "related_to": "Red Star Belgrade v Lille",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "Sky Sport 4 Austria HD",
+            "channel": "Sky Sport MIX Deutsch HD",
             "link": "#",
-            "related_to": "Red Star Belgrade v Lille",
-            "sat": "Astra 1N",
-            "freq": "12.382 H 27500 - 3/4",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "Astra 1M",
+            "freq": "11.758 H 27500 - 9/10",
             "encry": "HD VideoGuard"
         },
         {
-            "channel": "TNT Sports 7",
+            "channel": "Sky Sport Top Event HD",
             "link": "#",
-            "related_to": "Red Star Belgrade v Lille",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "Astra 3C",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Sport 1 Slovakia HD",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "Astra 3C",
+            "freq": "12.012 V 29900 - 3/4",
+            "encry": "HD CryptoWorks"
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 6",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Seca"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -619,6 +1053,14 @@
             "match": "PAOK Thessaloniki v Young Boys",
             "time": "20:00",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 9 Hrvatska HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -653,6 +1095,30 @@
             "encry": ""
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "england3",
@@ -661,6 +1127,14 @@
             "match": "Aston Villa v Maccabi Tel Aviv",
             "time": "20:00",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -735,12 +1209,44 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "V Sport 2 Norge HD",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "Thor 6",
+            "freq": "11.345 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "V Sport Ultra 4K UHD (geo/R)",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "Thor 5",
+            "freq": "11.372 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "ViaPlay 1 Urheilu HD",
             "link": "#",
             "related_to": "Aston Villa v Maccabi Tel Aviv",
             "sat": "Thor 5",
             "freq": "11.278 V 25000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -753,20 +1259,20 @@
             "date": "2025-11-06"
         },
         {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Rangers v Roma",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
         },
         {
             "channel": "beIN Sports MENA English 1 HD",
@@ -849,6 +1355,30 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "germany",
@@ -857,6 +1387,14 @@
             "match": "Stuttgart v Feyenoord",
             "time": "20:00",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -955,6 +1493,30 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "spain",
@@ -963,6 +1525,14 @@
             "match": "Real Betis v Lyon",
             "time": "20:00",
             "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "Eutelsat 16A",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -1037,6 +1607,30 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "italy",
@@ -1103,6 +1697,38 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "V Sport 1 Norge HD",
+            "link": "#",
+            "related_to": "Bologna v Brann",
+            "sat": "Thor 6",
+            "freq": "11.305 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Bologna v Brann",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Bologna v Brann",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Bologna v Brann",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "hungary",
@@ -1154,6 +1780,30 @@
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Ferencváros v Ludogorets",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Ferencváros v Ludogorets",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Ferencváros v Ludogorets",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
             "link": "#",
             "related_to": "Ferencváros v Ludogorets",
             "sat": "* IPTV/Stream",
@@ -1219,78 +1869,28 @@
             "encry": "HD VideoGuard"
         },
         {
-            "compet": "UEFA Europa League - Matchday 4",
-            "flags": {
-                "team1": "czechia",
-                "team2": "turkey"
-            },
-            "match": "Viktoria Plzen v Fenerbahçe",
-            "time": "20:00",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Canal+ Live 5 France HD",
+            "channel": "ViaPlay Norge HD",
             "link": "#",
-            "related_to": "Viktoria Plzen v Fenerbahçe",
-            "sat": "Astra 1M",
-            "freq": "12.012 V 29700 - 2/3",
-            "encry": "HD NagraVision"
+            "related_to": "Sporting Braga v Racing Genk",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Sporting Braga v Racing Genk",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Sporting Braga v Racing Genk",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Viktoria Plzen v Fenerbahçe",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport MIX Deutsch HD",
-            "link": "#",
-            "related_to": "Viktoria Plzen v Fenerbahçe",
-            "sat": "Astra 1M",
-            "freq": "11.758 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "link": "#",
-            "related_to": "Viktoria Plzen v Fenerbahçe",
-            "sat": "Astra 1N",
-            "freq": "11.914 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sport 1 Czechia HD",
-            "link": "#",
-            "related_to": "Viktoria Plzen v Fenerbahçe",
-            "sat": "Astra 3C",
-            "freq": "12.070 H 27500 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "Sport 1 Slovakia HD",
-            "link": "#",
-            "related_to": "Viktoria Plzen v Fenerbahçe",
-            "sat": "Astra 3C",
-            "freq": "12.012 V 29900 - 3/4",
-            "encry": "HD CryptoWorks"
-        },
-        {
-            "channel": "TNT Sports 8",
-            "link": "#",
-            "related_to": "Viktoria Plzen v Fenerbahçe",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 5",
@@ -1381,12 +1981,12 @@
             "date": "2025-11-27"
         },
         {
-            "channel": "Celtic TV ($/geo/R) 📺",
+            "channel": "Celtic TV (audio only) 📺",
             "link": "https://www.celticfc.tv/",
             "related_to": "Feyenoord v Celtic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "sat": "* RADIO",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -1777,6 +2377,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-10-31 15:18:16",
-    "total_items": 213
+    "last_updated": "2025-11-01 04:19:51",
+    "total_items": 288
 }
