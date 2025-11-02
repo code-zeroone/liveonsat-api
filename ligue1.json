@@ -957,6 +957,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Brest v Lyon",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "SuperSport GOtv Africa",
             "link": "#",
             "related_to": "Brest v Lyon",
@@ -1095,6 +1103,14 @@
             "encry": ""
         },
         {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "link": "#",
+            "related_to": "Paris FC v Rennes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "SuperSport GOtv Africa",
             "link": "#",
             "related_to": "Paris FC v Rennes",
@@ -1225,6 +1241,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "link": "#",
+            "related_to": "Marseille v Brest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "Marseille v Brest",
+            "sat": "Astra 3C",
+            "freq": "12.285 V 30000 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Marseille v Brest",
@@ -1304,6 +1336,14 @@
             "related_to": "Le Havre v Nantes",
             "sat": "Download APP",
             "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "link": "#",
+            "related_to": "Le Havre v Nantes",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
             "encry": ""
         },
         {
@@ -1394,6 +1434,14 @@
             "related_to": "Monaco v Lens",
             "sat": "Download APP",
             "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R) 📺",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "Monaco v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
             "encry": ""
         },
         {
@@ -1537,6 +1585,22 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Angers v Auxerre",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "link": "#",
+            "related_to": "Angers v Auxerre",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Ligue 1+ 6 ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Angers v Auxerre",
@@ -1580,6 +1644,88 @@
             "channel": "ViaPlay Sverige HD",
             "link": "#",
             "related_to": "Angers v Auxerre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "French Ligue 1 - Week 12",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "match": "Strasbourg v Lille",
+            "time": "16:15",
+            "date": "2025-11-09"
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Strasbourg v Lille",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Ligue 1+ 4 ($/geo/R) 📺",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "Strasbourg v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -1656,72 +1802,6 @@
                 "team1": "france",
                 "team2": "france"
             },
-            "match": "Strasbourg v Lille",
-            "time": "16:15",
-            "date": "2025-11-09"
-        },
-        {
-            "channel": "Arena Sport 6 Hrvatska HD",
-            "link": "#",
-            "related_to": "Strasbourg v Lille",
-            "sat": "Eutelsat 16A",
-            "freq": "11.554 V 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Ligue 1+ 4 ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Strasbourg v Lille",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Strasbourg v Lille",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Strasbourg v Lille",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Strasbourg v Lille",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Strasbourg v Lille",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Strasbourg v Lille",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "French Ligue 1 - Week 12",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
             "match": "Lyon v Paris St Germain",
             "time": "19:45",
             "date": "2025-11-09"
@@ -1748,6 +1828,14 @@
             "related_to": "Lyon v Paris St Germain",
             "sat": "Download APP",
             "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
             "encry": ""
         },
         {
@@ -1943,6 +2031,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-02 04:22:56",
-    "total_items": 237
+    "last_updated": "2025-11-02 15:17:35",
+    "total_items": 248
 }

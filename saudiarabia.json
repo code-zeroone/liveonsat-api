@@ -6,6 +6,24 @@
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
+            "match": "Al Najma v Al Hilal",
+            "time": "17:30",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Saudi Professional League - Week 8",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
             "match": "NEOM SC v Al Nassr",
             "time": "13:50",
             "date": "2025-11-08"
@@ -17,8 +35,70 @@
             "sat": "Hotbird 13G",
             "freq": "12.265 V 27500 - 5/6",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "NEOM SC v Al Nassr",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Saudi Professional League - Week 8",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Ittihad v Al Ahli",
+            "time": "17:30",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Saudi Professional League - Week 9",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Ahli v Al Qadisiyah",
+            "time": "17:30",
+            "date": "2025-11-21"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "Al Ahli v Al Qadisiyah",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Saudi Professional League - Week 9",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Hilal v Al Fateh",
+            "time": "17:30",
+            "date": "2025-11-22"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "link": "#",
+            "related_to": "Al Hilal v Al Fateh",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
         }
     ],
-    "last_updated": "2025-11-02 04:27:12",
-    "total_items": 2
+    "last_updated": "2025-11-02 15:21:49",
+    "total_items": 11
 }
