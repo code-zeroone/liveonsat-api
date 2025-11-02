@@ -191,6 +191,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sport TV1 Slovenija",
+            "link": "#",
+            "related_to": "Celje v Legia Warsaw",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "link": "#",
             "related_to": "Celje v Legia Warsaw",
@@ -651,6 +659,14 @@
             "sat": "Astra 1M",
             "freq": "11.758 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SuperSport Variety 3 HD",
+            "link": "#",
+            "related_to": "Crystal Palace v AZ Alkmaar",
+            "sat": "Intelsat 20",
+            "freq": "11.170 H 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "channel": "TNT Sports 1 HD",
@@ -1349,6 +1365,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-11-01 04:20:12",
-    "total_items": 163
+    "last_updated": "2025-11-02 04:22:15",
+    "total_items": 165
 }
