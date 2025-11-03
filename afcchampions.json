@@ -11,6 +11,22 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Astro Arena Bola HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Nasaf Qarshi v Al Wahda",
@@ -35,12 +51,44 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Nasaf Qarshi v Al Wahda",
             "sat": "AzerSpace 2",
             "freq": "12.560 V 30000 - 5/6",
             "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -73,6 +121,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "SportKlub 1 Hrvatska HD",
@@ -117,6 +173,22 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Astro Arena Bola HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Tractor Sazi v Al Shorta",
@@ -141,6 +213,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Tractor Sazi v Al Shorta",
@@ -149,12 +229,36 @@
             "encry": "MPEG-4 Irdeto"
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Spor Smart Türkiye HD",
             "link": "#",
             "related_to": "Tractor Sazi v Al Shorta",
             "sat": "Turksat 4A",
             "freq": "12.188 V 27500 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "SportKlub 8 Hrvatska",
@@ -191,6 +295,30 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Al Kass 7 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Measat 3b",
+            "freq": "10.892 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Al Duhail v Shabab Al Ahli",
@@ -223,12 +351,36 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
             "link": "https://gong.bg/streaming",
             "related_to": "Al Duhail v Shabab Al Ahli",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Silk Sport 3 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Spor Smart 2 Türkiye HD",
@@ -279,6 +431,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sporty TV Africa",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Astra 2F",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "TV Start Russia HD",
             "link": "#",
             "related_to": "Al Duhail v Shabab Al Ahli",
@@ -305,6 +465,30 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Al Kass 7 HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Al Gharafa v Al Hilal",
@@ -329,6 +513,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "ESPN 3 Brazil HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "ESPN 4 Nederland HD",
             "link": "#",
             "related_to": "Al Gharafa v Al Hilal",
@@ -337,12 +529,52 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Al Gharafa v Al Hilal",
             "sat": "AzerSpace 2",
             "freq": "12.560 V 30000 - 5/6",
             "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Silk Sport 3 HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -369,6 +601,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "SportKlub HD",
             "link": "#",
             "related_to": "Al Gharafa v Al Hilal",
@@ -377,12 +617,28 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sporty TV Africa",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Astra 2F",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "TV Start Russia HD",
             "link": "#",
             "related_to": "Al Gharafa v Al Hilal",
             "sat": "ABS 2A",
             "freq": "11.605 V 43200 - 7/8",
             "encry": "FTA (MPEG-4)"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -2161,6 +2417,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-03 04:30:05",
-    "total_items": 263
+    "last_updated": "2025-11-03 15:22:03",
+    "total_items": 295
 }

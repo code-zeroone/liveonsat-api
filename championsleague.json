@@ -663,6 +663,392 @@
         {
             "compet": "UEFA Champions League - Matchday 4",
             "flags": {
+                "team1": "england",
+                "team2": "spain"
+            },
+            "match": "Liverpool v Real Madrid",
+            "time": "20:00",
+            "date": "2025-11-04"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA French 2 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 2 Live HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 3 Live HDR",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport D 2 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Hotbird 13G",
+            "freq": "11.278 V 27500 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 1L",
+            "freq": "12.728 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport 5 Polska HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Hotbird 13G",
+            "freq": "10.719 V 27500 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "Canal+ Sport France HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 1N",
+            "freq": "12.070 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Thor 5",
+            "freq": "11.862 H 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Kanal A Slovenija HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Eutelsat 16A",
+            "freq": "11.387 H 30000 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 1KR",
+            "freq": "11.259 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Megogo Futbol 1 ($/geo/R) 📺",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "Seca"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Thor 7",
+            "freq": "12.476 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Nova Sport 6 Czech HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 3C",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Orange Fútbol 1 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Play Sports 4 Belgium",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Prime Video UK [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 3 Austria HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Astra 1M",
+            "freq": "11.758 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Intelsat 20",
+            "freq": "11.594 V 27500 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Intelsat 20",
+            "freq": "11.554 V 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Hellas Sat 4",
+            "freq": "10.890 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV3 Sport Dansk HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Voyo Player Slovakia [$] 📺",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": "Liverpool v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 4",
+            "flags": {
                 "team1": "france",
                 "team2": "germany"
             },
@@ -1002,384 +1388,6 @@
             "channel": "Voyo Player Slovakia [$] 📺",
             "link": "https://voyo.markiza.sk/",
             "related_to": "Paris St Germain v Bayern Munich",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 4",
-            "flags": {
-                "team1": "england",
-                "team2": "spain"
-            },
-            "match": "Liverpool v Real Madrid",
-            "time": "20:00",
-            "date": "2025-11-04"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Astra 3B",
-            "freq": "0.000 0",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Astra 3C",
-            "freq": "12.402 V 30000 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Eutelsat 16A",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Eshail 2",
-            "freq": "10.850 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "beIN Sports MENA French 2 HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Eshail 2",
-            "freq": "10.850 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Blue Sport 2 Live HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Blue Sport 3 Live HDR",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Blue Sport D 2 HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Canal+ Extra 1 Polska HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Hotbird 13G",
-            "freq": "11.278 V 27500 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Canal+ Live 2 France HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Astra 1L",
-            "freq": "12.728 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Canal+ Sport 5 Polska HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Hotbird 13G",
-            "freq": "10.719 V 27500 - 5/6",
-            "encry": "Seca"
-        },
-        {
-            "channel": "Canal+ Sport France HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Eutelsat 36C",
-            "freq": "11.785 H 27500 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "Cosmote Sport 3 HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Cytavision Sports 3 HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN 1 Bar Deutsch HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Astra 1N",
-            "freq": "12.070 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN 1 Portugal HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.399 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Thor 5",
-            "freq": "11.862 H 28000 - 7/8",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Kanal A Slovenija HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Eutelsat 16A",
-            "freq": "11.387 H 30000 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Astra 1KR",
-            "freq": "11.259 V 22000 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "MAX Sport 3 Bulgaria HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V 30000 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Megogo Futbol 1 ($/geo/R) 📺",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Meraj TV",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "MonacoSat",
-            "freq": "11.221 V 27500 - 2/3",
-            "encry": "FTA (MPEG-4)"
-        },
-        {
-            "channel": "Movistar Plus+ HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Astra 1L",
-            "freq": "11.097 V 22000 - 5/6",
-            "encry": "Seca"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Urheilu 1 Suomi HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Thor 7",
-            "freq": "12.476 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Nova Sport 6 Czech HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Astra 3C",
-            "freq": "12.090 V 29900 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Orange Fútbol 1 HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Play Sports 4 Belgium",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Hellas Sat 3",
-            "freq": "12.290 V 30000 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "PrimaPlay [app] 📺",
-            "link": "https://www.primaplay.ro/",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "Prime Video UK [$] 📺",
-            "link": "https://www.primevideo.com/",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport 3 Austria HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Astra 1M",
-            "freq": "11.758 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Intelsat 20",
-            "freq": "11.594 V 27500 - 5/6",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport Premier League HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Intelsat 20",
-            "freq": "11.554 V 30000 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Hellas Sat 4",
-            "freq": "10.890 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "TV2 Play Norge ($/geo/R) 📺",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV3 Sport Dansk HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "Thor 6",
-            "freq": "11.345 V 30000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "link": "#",
-            "related_to": "Liverpool v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Voyo Player Slovakia [$] 📺",
-            "link": "https://voyo.markiza.sk/",
-            "related_to": "Liverpool v Real Madrid",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -5177,6 +5185,14 @@
             "encry": ""
         },
         {
+            "channel": "RTL Club Belgique",
+            "link": "#",
+            "related_to": "Galatasaray v Union St Gilloise",
+            "sat": "Hotbird 13G",
+            "freq": "11.411 H 27500 - 3/4",
+            "encry": "MPEG-4 Seca"
+        },
+        {
             "channel": "TRT 1 Türkiye HD 📺",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
             "related_to": "Galatasaray v Union St Gilloise",
@@ -5583,6 +5599,14 @@
             "encry": ""
         },
         {
+            "channel": "RTL Club Belgique",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Club Brugge",
+            "sat": "Hotbird 13G",
+            "freq": "11.411 H 27500 - 3/4",
+            "encry": "MPEG-4 Seca"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
                 "team1": "france",
@@ -5811,6 +5835,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-03 04:27:42",
-    "total_items": 715
+    "last_updated": "2025-11-03 15:19:38",
+    "total_items": 718
 }

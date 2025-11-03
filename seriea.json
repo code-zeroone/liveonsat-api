@@ -83,6 +83,14 @@
             "encry": ""
         },
         {
+            "channel": "DAZN 1 Italia HD",
+            "link": "#",
+            "related_to": "Sassuolo v Genoa",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "DAZN 2 Bar Deutsch HD",
             "link": "#",
             "related_to": "Sassuolo v Genoa",
@@ -405,6 +413,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Lazio v Cagliari",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "link": "#",
             "related_to": "Lazio v Cagliari",
@@ -493,6 +509,14 @@
             "encry": ""
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Lazio v Cagliari",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "MATCH! Futbol 1 HD",
             "link": "#",
             "related_to": "Lazio v Cagliari",
@@ -579,6 +603,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "link": "#",
+            "related_to": "Lazio v Cagliari",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Lazio v Cagliari",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sport 1 Czechia HD",
@@ -683,6 +723,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Lazio v Cagliari",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "Italian Serie A - Week 11",
@@ -4159,6 +4207,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-03 04:28:43",
-    "total_items": 510
+    "last_updated": "2025-11-03 15:20:41",
+    "total_items": 516
 }

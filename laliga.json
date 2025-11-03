@@ -43,6 +43,14 @@
             "encry": ""
         },
         {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Real Oviedo v Osasuna",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Real Oviedo v Osasuna",
@@ -273,6 +281,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "link": "#",
+            "related_to": "Real Oviedo v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Spíler 2 TV Hungary HD",
@@ -3635,6 +3651,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-03 04:29:24",
-    "total_items": 444
+    "last_updated": "2025-11-03 15:21:22",
+    "total_items": 446
 }

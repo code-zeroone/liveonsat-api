@@ -29,6 +29,14 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Al Kass 6 HD",
+            "link": "#",
+            "related_to": "South Africa U-17 v Bolivia U-17",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD Free To Air"
+        },
+        {
             "channel": "beIN Sports MENA Xtra 2 HD",
             "link": "#",
             "related_to": "South Africa U-17 v Bolivia U-17",
@@ -55,12 +63,28 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Al Kass 4 HD 📺",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=three",
+            "related_to": "Costa Rica U-17 v U.A.E. U-17",
+            "sat": "Badr 4",
+            "freq": "12.245 V 27500 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "FIFA+ [app] (geo/R) 📺",
             "link": "https://www.fifa.com/fifaplus/en/live",
             "related_to": "Costa Rica U-17 v U.A.E. U-17",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "Costa Rica U-17 v U.A.E. U-17",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -89,6 +113,14 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Al Kass 5 HD 📺",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "Senegal U-17 v Croatia U-17",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "beIN Sports MENA Xtra 3 HD",
             "link": "#",
             "related_to": "Senegal U-17 v Croatia U-17",
@@ -111,6 +143,14 @@
             "sat": "Amos 7",
             "freq": "11.030 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Senegal U-17 v Croatia U-17",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "compet": "Albanian Superliga - Week 10",
@@ -257,6 +297,14 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Al Kass 3 HD",
+            "link": "#",
+            "related_to": "Japan U-17 v Morocco U-17",
+            "sat": "Badr 4",
+            "freq": "12.245 V 27500 - 5.6",
+            "encry": "HD Free To Air"
+        },
+        {
             "channel": "beIN Sports MENA Xtra 1 HD",
             "link": "#",
             "related_to": "Japan U-17 v Morocco U-17",
@@ -279,6 +327,14 @@
             "sat": "Amos 7",
             "freq": "11.030 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Japan U-17 v Morocco U-17",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "Ukrainian Premier League - Week 11",
@@ -317,6 +373,22 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Astro Arena Bola HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Nasaf Qarshi v Al Wahda",
@@ -341,12 +413,44 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Nasaf Qarshi v Al Wahda",
             "sat": "AzerSpace 2",
             "freq": "12.560 V 30000 - 5/6",
             "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -379,6 +483,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "SportKlub 1 Hrvatska HD",
@@ -491,6 +603,14 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Al Kass 4 HD 📺",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=three",
+            "related_to": "Argentina U-17 v Belgium U-17",
+            "sat": "Badr 4",
+            "freq": "12.245 V 27500 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "beIN Sports MENA Xtra 2 HD",
             "link": "#",
             "related_to": "Argentina U-17 v Belgium U-17",
@@ -505,6 +625,14 @@
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "Argentina U-17 v Belgium U-17",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -591,6 +719,14 @@
             "match": "New Caledonia U-17 v Portugal U-17",
             "time": "15:15",
             "date": "2025-11-03"
+        },
+        {
+            "channel": "Al Kass 6 HD",
+            "link": "#",
+            "related_to": "New Caledonia U-17 v Portugal U-17",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD Free To Air"
         },
         {
             "channel": "beIN Sports MENA Xtra 3 HD",
@@ -685,6 +821,14 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Al Kass 3 HD",
+            "link": "#",
+            "related_to": "Qatar U-17 v Italy U-17",
+            "sat": "Badr 4",
+            "freq": "12.245 V 27500 - 5.6",
+            "encry": "HD Free To Air"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Qatar U-17 v Italy U-17",
@@ -717,6 +861,14 @@
             "encry": "-"
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Qatar U-17 v Italy U-17",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "MATCH! Futbol 2 HD",
             "link": "#",
             "related_to": "Qatar U-17 v Italy U-17",
@@ -733,6 +885,22 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Qatar U-17 v Italy U-17",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Qatar U-17 v Italy U-17",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 1",
             "flags": {
                 "team1": "tunisia",
@@ -741,6 +909,14 @@
             "match": "Tunisia U-17 v Fiji U-17",
             "time": "15:45",
             "date": "2025-11-03"
+        },
+        {
+            "channel": "Al Kass 5 HD 📺",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "Tunisia U-17 v Fiji U-17",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "beIN Sports MENA Xtra 1 HD",
@@ -769,6 +945,22 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Astro Arena Bola HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Tractor Sazi v Al Shorta",
@@ -793,6 +985,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Tractor Sazi v Al Shorta",
@@ -801,12 +1001,36 @@
             "encry": "MPEG-4 Irdeto"
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Spor Smart Türkiye HD",
             "link": "#",
             "related_to": "Tractor Sazi v Al Shorta",
             "sat": "Turksat 4A",
             "freq": "12.188 V 27500 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "SportKlub 8 Hrvatska",
@@ -843,6 +1067,30 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Al Kass 7 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Measat 3b",
+            "freq": "10.892 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Al Duhail v Shabab Al Ahli",
@@ -875,12 +1123,36 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
             "link": "https://gong.bg/streaming",
             "related_to": "Al Duhail v Shabab Al Ahli",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Silk Sport 3 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Spor Smart 2 Türkiye HD",
@@ -929,6 +1201,14 @@
             "sat": "Eutelsat 16A",
             "freq": "11.595 V 30000 - 3/5",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Astra 2F",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
         },
         {
             "channel": "TV Start Russia HD",
@@ -1591,6 +1871,14 @@
             "encry": ""
         },
         {
+            "channel": "DAZN 1 Italia HD",
+            "link": "#",
+            "related_to": "Sassuolo v Genoa",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "DAZN 2 Bar Deutsch HD",
             "link": "#",
             "related_to": "Sassuolo v Genoa",
@@ -2097,6 +2385,30 @@
             "date": "2025-11-03"
         },
         {
+            "channel": "Al Kass 7 HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Al Gharafa v Al Hilal",
@@ -2121,6 +2433,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "ESPN 3 Brazil HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "ESPN 4 Nederland HD",
             "link": "#",
             "related_to": "Al Gharafa v Al Hilal",
@@ -2129,12 +2449,52 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Al Gharafa v Al Hilal",
             "sat": "AzerSpace 2",
             "freq": "12.560 V 30000 - 5/6",
             "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Silk Sport 3 HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -2161,6 +2521,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "SportKlub HD",
             "link": "#",
             "related_to": "Al Gharafa v Al Hilal",
@@ -2169,12 +2537,28 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sporty TV Africa",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Astra 2F",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "TV Start Russia HD",
             "link": "#",
             "related_to": "Al Gharafa v Al Hilal",
             "sat": "ABS 2A",
             "freq": "11.605 V 43200 - 7/8",
             "encry": "FTA (MPEG-4)"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -2627,6 +3011,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "link": "#",
+            "related_to": "Real Valladolid v Granada",
+            "sat": "Measat 3b",
+            "freq": "10.732 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Cytavision Sports 7 HD",
             "link": "#",
             "related_to": "Real Valladolid v Granada",
@@ -2721,6 +3113,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Silk Universal HD",
+            "link": "#",
+            "related_to": "Real Valladolid v Granada",
+            "sat": "Astra 5B",
+            "freq": "12.207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt"
         },
         {
             "channel": "TSN Malta 6 HD",
@@ -2983,6 +3383,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Lazio v Cagliari",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "link": "#",
             "related_to": "Lazio v Cagliari",
@@ -3071,6 +3479,14 @@
             "encry": ""
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Lazio v Cagliari",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "MATCH! Futbol 1 HD",
             "link": "#",
             "related_to": "Lazio v Cagliari",
@@ -3157,6 +3573,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "link": "#",
+            "related_to": "Lazio v Cagliari",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Lazio v Cagliari",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sport 1 Czechia HD",
@@ -3261,6 +3693,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Lazio v Cagliari",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "English Premier League - Week 10",
@@ -3449,12 +3889,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "link": "#",
+            "related_to": "Sunderland v Everton",
+            "sat": "SES 6",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "link": "#",
             "related_to": "Sunderland v Everton",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "Sunderland v Everton",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
@@ -3527,6 +3983,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport Arena Italia HD",
+            "link": "#",
+            "related_to": "Sunderland v Everton",
+            "sat": "Hotbird 13F",
+            "freq": "11.996 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sport Premier League DE HD",
@@ -3745,6 +4209,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Real Oviedo v Osasuna",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Connect FRANCE 📺",
@@ -3979,6 +4451,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "Silk Sport 1 HD",
+            "link": "#",
+            "related_to": "Real Oviedo v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Spíler 2 TV Hungary HD",
             "link": "#",
             "related_to": "Real Oviedo v Osasuna",
@@ -4143,8 +4623,26 @@
             "sat": "KazSat 3",
             "freq": "10.720 H 30000 - 3/4",
             "encry": "Irdeto"
+        },
+        {
+            "compet": "Argentinean Primera División - 2nd Phase, Week 14",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "match": "Central Córdoba v Racing Club",
+            "time": "22:00",
+            "date": "2025-11-03"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "link": "#",
+            "related_to": "Central Córdoba v Racing Club",
+            "sat": "SES 6",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
         }
     ],
-    "last_updated": "2025-11-03 04:26:59",
-    "total_items": 500
+    "last_updated": "2025-11-03 15:18:56",
+    "total_items": 562
 }
