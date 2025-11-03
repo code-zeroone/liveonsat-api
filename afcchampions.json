@@ -35,6 +35,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "Spor Smart Türkiye HD",
             "link": "#",
             "related_to": "Nasaf Qarshi v Al Wahda",
@@ -65,6 +73,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Al Wahda",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
         },
         {
             "channel": "TV Start Russia HD",
@@ -117,12 +141,28 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "Spor Smart Türkiye HD",
             "link": "#",
             "related_to": "Tractor Sazi v Al Shorta",
             "sat": "Turksat 4A",
             "freq": "12.188 V 27500 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "link": "#",
+            "related_to": "Tractor Sazi v Al Shorta",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "TV Start Triumph HD",
@@ -175,6 +215,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Hellas Sat 3",
+            "freq": "12.137 V 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Spor Smart 2 Türkiye HD",
             "link": "#",
             "related_to": "Al Duhail v Shabab Al Ahli",
@@ -213,6 +269,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Al Duhail v Shabab Al Ahli",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TV Start Russia HD",
@@ -273,6 +337,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "Spor Smart Türkiye HD",
             "link": "#",
             "related_to": "Al Gharafa v Al Hilal",
@@ -295,6 +367,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Al Gharafa v Al Hilal",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TV Start Russia HD",
@@ -339,6 +419,30 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Machida Zelvia v Melbourne City",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "link": "#",
+            "related_to": "Machida Zelvia v Melbourne City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Machida Zelvia v Melbourne City",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Machida Zelvia v Melbourne City",
@@ -373,6 +477,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "link": "#",
+            "related_to": "FC Seoul v Chengdu Rongcheng",
+            "sat": "Hellas Sat 3",
+            "freq": "12.137 V 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "FC Seoul v Chengdu Rongcheng",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Spor Smart 2 Türkiye HD",
             "link": "#",
             "related_to": "FC Seoul v Chengdu Rongcheng",
@@ -395,6 +515,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "FC Seoul v Chengdu Rongcheng",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "link": "#",
+            "related_to": "FC Seoul v Chengdu Rongcheng",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "TV Start Russia HD",
@@ -439,6 +575,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Sanfrecce Hiroshima v Gangwon",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Sanfrecce Hiroshima v Gangwon",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Spor Smart Türkiye HD",
             "link": "#",
             "related_to": "Sanfrecce Hiroshima v Gangwon",
@@ -469,6 +621,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Sanfrecce Hiroshima v Gangwon",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TV Start Triumph HD",
@@ -513,6 +673,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Buriram United v Shanghai Port",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Buriram United v Shanghai Port",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Spor Smart Türkiye HD",
             "link": "#",
             "related_to": "Buriram United v Shanghai Port",
@@ -545,6 +721,22 @@
             "encry": ""
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Buriram United v Shanghai Port",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Buriram United v Shanghai Port",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "TV Start Russia HD",
             "link": "#",
             "related_to": "Buriram United v Shanghai Port",
@@ -574,56 +766,6 @@
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Mohun Bagan v Al Hussein",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 4",
-            "flags": {
-                "team1": "iran",
-                "team2": "turkmenistan"
-            },
-            "match": "Sepahan v Ahal FK",
-            "time": "16:00",
-            "date": "2025-11-04"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Sepahan v Ahal FK",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "link": "#",
-            "related_to": "Sepahan v Ahal FK",
-            "sat": "Eshail 2",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "link": "#",
-            "related_to": "Sepahan v Ahal FK",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H 27500 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TV Start Triumph HD",
-            "link": "#",
-            "related_to": "Sepahan v Ahal FK",
-            "sat": "Eutelsat 36C",
-            "freq": "11.785 R 27500 - 3/4",
-            "encry": "MPEG-4 Viaccess"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Sepahan v Ahal FK",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -663,12 +805,28 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Al Sadd v Al Ahli",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "ESPN 2 Nederland HD",
             "link": "#",
             "related_to": "Al Sadd v Al Ahli",
             "sat": "Astra 3C",
             "freq": "11.856 V 29900 - 3/4",
             "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Al Sadd v Al Ahli",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -703,6 +861,22 @@
             "encry": ""
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Al Sadd v Al Ahli",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "link": "#",
+            "related_to": "Al Sadd v Al Ahli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV Start Russia HD",
             "link": "#",
             "related_to": "Al Sadd v Al Ahli",
@@ -714,6 +888,72 @@
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Al Sadd v Al Ahli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 4",
+            "flags": {
+                "team1": "iran",
+                "team2": "turkmenistan"
+            },
+            "match": "Sepahan v Ahal FK",
+            "time": "16:00",
+            "date": "2025-11-04"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Sepahan v Ahal FK",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Sepahan v Ahal FK",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Sepahan v Ahal FK",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Spor Smart 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Sepahan v Ahal FK",
+            "sat": "Turksat 4A",
+            "freq": "12.245 H 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Sepahan v Ahal FK",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "link": "#",
+            "related_to": "Sepahan v Ahal FK",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Sepahan v Ahal FK",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -761,6 +1001,14 @@
             "encry": "HD Viaccess"
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Al Ittihad v Sharjah",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "Spor Smart 2 Türkiye HD",
             "link": "#",
             "related_to": "Al Ittihad v Sharjah",
@@ -801,6 +1049,22 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SportKlub 3 Hrvatska",
+            "link": "#",
+            "related_to": "Al Ittihad v Sharjah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "link": "#",
+            "related_to": "Al Ittihad v Sharjah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Al Ittihad v Sharjah",
@@ -835,6 +1099,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Vissel Kobe v Ulsan Horang-i",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Vissel Kobe v Ulsan Horang-i",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Sport 1 Baltic",
             "link": "#",
             "related_to": "Vissel Kobe v Ulsan Horang-i",
@@ -857,6 +1137,14 @@
             "sat": "Astra 1L",
             "freq": "11.186 V 22000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Vissel Kobe v Ulsan Horang-i",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "TV Start Russia HD",
@@ -907,6 +1195,22 @@
             "sat": "Astra 3C",
             "freq": "11.739 V 29900 - 3/4",
             "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Nam Dinh v Gamba Osaka",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Nam Dinh v Gamba Osaka",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -977,6 +1281,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Johor Darul Ta'zim v Shanghai Shenhua",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Johor Darul Ta'zim v Shanghai Shenhua",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Sport 2 Baltic",
             "link": "#",
             "related_to": "Johor Darul Ta'zim v Shanghai Shenhua",
@@ -999,6 +1319,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Johor Darul Ta'zim v Shanghai Shenhua",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "TV Start Russia HD",
@@ -1043,6 +1371,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Canal 11 [online] (geo/R) 📺",
+            "link": "https://www.canal11.pt/",
+            "related_to": "Al Wasl v Muharraq",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "link": "#",
+            "related_to": "Al Wasl v Muharraq",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.437 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Sport 1 Baltic",
             "link": "#",
             "related_to": "Al Wasl v Muharraq",
@@ -1056,6 +1400,14 @@
             "related_to": "Al Wasl v Muharraq",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "link": "#",
+            "related_to": "Al Wasl v Muharraq",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
             "encry": ""
         },
         {
@@ -1143,6 +1495,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Al Zawra'a v Istiqlol",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "Sport 2 Baltic",
             "link": "#",
             "related_to": "Al Zawra'a v Istiqlol",
@@ -1165,6 +1525,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Al Zawra'a v Istiqlol",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -1283,6 +1651,14 @@
             "encry": ""
         },
         {
+            "channel": "SportKlub 6 Slovenija",
+            "link": "#",
+            "related_to": "Al Wehdat v Esteghlal Tehran",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Al Wehdat v Esteghlal Tehran",
@@ -1317,12 +1693,36 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Canal 11 [online] (geo/R) 📺",
+            "link": "https://www.canal11.pt/",
+            "related_to": "Al Nassr v FC Goa",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "link": "#",
+            "related_to": "Al Nassr v FC Goa",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.437 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "ESPN 1 Nederland HD",
             "link": "#",
             "related_to": "Al Nassr v FC Goa",
             "sat": "Astra 3C",
             "freq": "11.739 V 29900 - 3/4",
             "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Al Nassr v FC Goa",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
         },
         {
             "channel": "Sport 1 Baltic",
@@ -1391,6 +1791,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Macarthur FC v Công An Hà Nôi",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "Sport 1 Baltic",
             "link": "#",
             "related_to": "Macarthur FC v Công An Hà Nôi",
@@ -1457,6 +1865,14 @@
             "encry": "HD Viaccess"
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Lion City Sailors v Bangkok United",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "Sport 2 Baltic",
             "link": "#",
             "related_to": "Lion City Sailors v Bangkok United",
@@ -1513,6 +1929,22 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Pohang Steelers v Tampines Rovers",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Pohang Steelers v Tampines Rovers",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "Sport 1 Baltic",
@@ -1581,12 +2013,28 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Selangor v Persib Bandung",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
             "channel": "ESPN 1 Nederland HD",
             "link": "#",
             "related_to": "Selangor v Persib Bandung",
             "sat": "Astra 3C",
             "freq": "11.739 V 29900 - 3/4",
             "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Selangor v Persib Bandung",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "Sport 2 Baltic",
@@ -1637,6 +2085,14 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Beijing Guoan v Tai Po",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
         },
         {
             "channel": "Sport 1 Baltic",
@@ -1705,6 +2161,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-02 15:18:36",
-    "total_items": 206
+    "last_updated": "2025-11-03 04:30:05",
+    "total_items": 263
 }
