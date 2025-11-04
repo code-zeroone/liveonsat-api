@@ -965,6 +965,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "link": "#",
+            "related_to": "Crystal Palace v AZ Alkmaar",
+            "sat": "Measat 3b",
+            "freq": "10.732 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "link": "#",
             "related_to": "Crystal Palace v AZ Alkmaar",
@@ -1461,6 +1469,14 @@
             "encry": ""
         },
         {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Dynamo Kyiv v Zrinjski",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "link": "#",
             "related_to": "Dynamo Kyiv v Zrinjski",
@@ -1671,6 +1687,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Lincoln Red Imps v Rijeka",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -1989,6 +2013,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-11-04 04:22:09",
-    "total_items": 243
+    "last_updated": "2025-11-04 15:21:04",
+    "total_items": 246
 }

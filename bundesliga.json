@@ -59,6 +59,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Measat 3b",
+            "freq": "10.732 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "beIN Sports France 2 HD",
             "link": "#",
             "related_to": "Werder Bremen v Wolfsburg",
@@ -299,6 +307,22 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "Measat 3b",
+            "freq": "10.732 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "beIN Sports France 4 HD max",
@@ -997,12 +1021,28 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "link": "#",
+            "related_to": "Mönchengladbach v FC Cologne",
+            "sat": "Measat 3b",
+            "freq": "10.732 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "beIN Sports France 4 HD max",
             "link": "#",
             "related_to": "Mönchengladbach v FC Cologne",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "link": "#",
+            "related_to": "Mönchengladbach v FC Cologne",
+            "sat": "AzerSpace 2",
+            "freq": "12.610 H 12500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "DAZN 3 Portugal HD",
@@ -1207,6 +1247,14 @@
             "date": "2025-11-09"
         },
         {
+            "channel": "Arena Sport 1 Srbija HD",
+            "link": "#",
+            "related_to": "Freiburg v St Pauli",
+            "sat": "Astra 3C",
+            "freq": "12.460 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "link": "#",
             "related_to": "Freiburg v St Pauli",
@@ -1261,6 +1309,14 @@
             "sat": "Astra 3B",
             "freq": "11.934 V 27500 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Nova Sport Srbija HD",
+            "link": "#",
+            "related_to": "Freiburg v St Pauli",
+            "sat": "Eutelsat 16A",
+            "freq": "11.221 H 30000 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Nova Sports Start Cyprus HD",
@@ -1385,6 +1441,14 @@
             "date": "2025-11-09"
         },
         {
+            "channel": "Arena Sport 1 Srbija HD",
+            "link": "#",
+            "related_to": "Stuttgart v Augsburg",
+            "sat": "Astra 3C",
+            "freq": "12.460 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Stuttgart v Augsburg",
@@ -1455,6 +1519,14 @@
             "sat": "AzerSpace 2",
             "freq": "12.560 V 30000 - 5/6",
             "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Nova Sport Srbija HD",
+            "link": "#",
+            "related_to": "Stuttgart v Augsburg",
+            "sat": "Eutelsat 16A",
+            "freq": "11.221 H 30000 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Nova Sports 3 Cyprus HD",
@@ -1587,6 +1659,14 @@
             "date": "2025-11-09"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Mainz 05",
+            "sat": "Astra 3C",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "link": "#",
             "related_to": "Eintracht Frankfurt v Mainz 05",
@@ -1641,6 +1721,14 @@
             "sat": "AzerSpace 2",
             "freq": "12.560 V 30000 - 5/6",
             "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Nova Sport Srbija HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Mainz 05",
+            "sat": "Eutelsat 16A",
+            "freq": "11.221 H 30000 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Nova Sports Prime Cyprus HD",
@@ -2331,6 +2419,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-04 04:23:31",
-    "total_items": 283
+    "last_updated": "2025-11-04 15:22:28",
+    "total_items": 294
 }

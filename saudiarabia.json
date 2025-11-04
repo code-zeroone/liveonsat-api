@@ -19,6 +19,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "M+ #Vamos Bar",
             "link": "#",
             "related_to": "Al Najma v Al Hilal",
@@ -51,6 +59,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SPOTV Malaysia HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "Saudi Professional League - Week 8",
             "flags": {
                 "team1": "saudiarabia",
@@ -67,6 +83,14 @@
             "sat": "Eutelsat 9B",
             "freq": "12.169 H 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "NEOM SC v Al Nassr",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "M+ Vamos España HD",
@@ -109,6 +133,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SPOTV Malaysia HD",
+            "link": "#",
+            "related_to": "NEOM SC v Al Nassr",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "Saudi Professional League - Week 8",
             "flags": {
                 "team1": "saudiarabia",
@@ -127,6 +159,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "link": "#",
             "related_to": "Al Ittihad v Al Ahli",
@@ -143,6 +183,14 @@
             "encry": ""
         },
         {
+            "channel": "SPOTV Malaysia HD",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "Saudi Professional League - Week 9",
             "flags": {
                 "team1": "saudiarabia",
@@ -151,6 +199,14 @@
             "match": "Al Ahli v Al Qadisiyah",
             "time": "17:30",
             "date": "2025-11-21"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Al Ahli v Al Qadisiyah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Sportdigital FUSSBALL HD",
@@ -171,6 +227,14 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Al Hilal v Al Fateh",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Sportdigital FUSSBALL 2",
             "link": "#",
             "related_to": "Al Hilal v Al Fateh",
@@ -179,6 +243,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-04 04:27:04",
-    "total_items": 21
+    "last_updated": "2025-11-04 15:26:02",
+    "total_items": 29
 }

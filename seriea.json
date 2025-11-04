@@ -11,6 +11,14 @@
             "date": "2025-11-07"
         },
         {
+            "channel": "Arena Premium 1 Slovenija",
+            "link": "#",
+            "related_to": "Pisa v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Arena Premium 2 BiH HD",
             "link": "#",
             "related_to": "Pisa v Cremonese",
@@ -33,6 +41,14 @@
             "sat": "Eutelsat 16A",
             "freq": "11.554 H 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "link": "#",
+            "related_to": "Pisa v Cremonese",
+            "sat": "Measat 3b",
+            "freq": "10.892 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Cosmote Sport 2 HD",
@@ -155,6 +171,22 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport 251 Italia HD",
+            "link": "#",
+            "related_to": "Pisa v Cremonese",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Pisa v Cremonese",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sport 1 Czechia HD",
             "link": "#",
             "related_to": "Pisa v Cremonese",
@@ -245,6 +277,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 2 Slovenija HD",
+            "link": "#",
+            "related_to": "Como v Cagliari",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Arena Sport 4 Hrvatska HD",
             "link": "#",
             "related_to": "Como v Cagliari",
@@ -258,6 +298,14 @@
             "related_to": "Como v Cagliari",
             "sat": "Eutelsat 9B",
             "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "link": "#",
+            "related_to": "Como v Cagliari",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -339,6 +387,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Como v Cagliari",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "S Sport+ Streaming",
@@ -439,11 +495,27 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Astro Arena Bola 2 HD",
+            "link": "#",
+            "related_to": "Lecce v Hellas Verona",
+            "sat": "Measat 3b",
+            "freq": "10.892 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Cosmote Sport 4 HD",
             "link": "#",
             "related_to": "Lecce v Hellas Verona",
             "sat": "Eutelsat 9B",
             "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 2 Italia HD",
+            "link": "#",
+            "related_to": "Lecce v Hellas Verona",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -593,6 +665,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "link": "#",
+            "related_to": "Juventus v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Arena Sport 4 Hrvatska HD",
             "link": "#",
             "related_to": "Juventus v Torino",
@@ -601,11 +681,35 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Juventus v Torino",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Juventus v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Cosmote Sport 2 HD",
             "link": "#",
             "related_to": "Juventus v Torino",
             "sat": "Eutelsat 9B",
             "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "link": "#",
+            "related_to": "Juventus v Torino",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -721,6 +825,14 @@
             "encry": ""
         },
         {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Juventus v Torino",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "link": "#",
             "related_to": "Juventus v Torino",
@@ -811,6 +923,14 @@
             "date": "2025-11-08"
         },
         {
+            "channel": "Arena Premium 1 Slovenija",
+            "link": "#",
+            "related_to": "Parma v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Arena Premium 2 BiH HD",
             "link": "#",
             "related_to": "Parma v AC Milan",
@@ -833,6 +953,14 @@
             "sat": "Eutelsat 16A",
             "freq": "11.554 H 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Parma v AC Milan",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Cosmote Sport 2 HD",
@@ -979,6 +1107,14 @@
             "encry": ""
         },
         {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Parma v AC Milan",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "link": "#",
             "related_to": "Parma v AC Milan",
@@ -993,6 +1129,38 @@
             "sat": "KazSat 3",
             "freq": "12.657 V 45000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "link": "#",
+            "related_to": "Parma v AC Milan",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Parma v AC Milan",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "link": "#",
+            "related_to": "Parma v AC Milan",
+            "sat": "Hotbird 13E",
+            "freq": "11.996 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "link": "#",
+            "related_to": "Parma v AC Milan",
+            "sat": "Hotbird 13F",
+            "freq": "11.958 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sport 1 Czechia HD",
@@ -1101,6 +1269,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "link": "#",
+            "related_to": "Atalanta v Sassuolo",
+            "sat": "Astra 3C",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Arena Sport 1 Hrvatska HD",
             "link": "#",
             "related_to": "Atalanta v Sassuolo",
@@ -1109,11 +1285,43 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Atalanta v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Atalanta v Sassuolo",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Atalanta v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Cosmote Sport 1 HD",
             "link": "#",
             "related_to": "Atalanta v Sassuolo",
             "sat": "Eutelsat 9B",
             "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "link": "#",
+            "related_to": "Atalanta v Sassuolo",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -1229,6 +1437,14 @@
             "encry": ""
         },
         {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Atalanta v Sassuolo",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "link": "#",
             "related_to": "Atalanta v Sassuolo",
@@ -1327,12 +1543,28 @@
             "date": "2025-11-09"
         },
         {
+            "channel": "Arena Premium 3 Srbija HD",
+            "link": "#",
+            "related_to": "Bologna v Napoli",
+            "sat": "Astra 3C",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Arena Sport 4 Hrvatska HD",
             "link": "#",
             "related_to": "Bologna v Napoli",
             "sat": "Eutelsat 16A",
             "freq": "11.554 H 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 4 Slovenija HD",
+            "link": "#",
+            "related_to": "Bologna v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Arena Sport 5 BiH HD",
@@ -1343,11 +1575,35 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Bologna v Napoli",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Bologna v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Cosmote Sport 3 HD",
             "link": "#",
             "related_to": "Bologna v Napoli",
             "sat": "Eutelsat 9B",
             "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "link": "#",
+            "related_to": "Bologna v Napoli",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -1455,6 +1711,14 @@
             "encry": ""
         },
         {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Bologna v Napoli",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "link": "#",
             "related_to": "Bologna v Napoli",
@@ -1553,6 +1817,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 6 Srbija HD",
+            "link": "#",
+            "related_to": "Genoa v Fiorentina",
+            "sat": "Astra 3B",
+            "freq": "11.817 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Arena Sport 8 Hrvatska HD",
             "link": "#",
             "related_to": "Genoa v Fiorentina",
@@ -1561,11 +1833,27 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Astro Arena Bola 2 HD",
+            "link": "#",
+            "related_to": "Genoa v Fiorentina",
+            "sat": "Measat 3b",
+            "freq": "10.892 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Cosmote Sport 4 HD",
             "link": "#",
             "related_to": "Genoa v Fiorentina",
             "sat": "Eutelsat 9B",
             "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 2 Italia HD",
+            "link": "#",
+            "related_to": "Genoa v Fiorentina",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -1715,12 +2003,44 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 2 Slovenija HD",
+            "link": "#",
+            "related_to": "Roma v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Arena Sport 4 Hrvatska HD",
             "link": "#",
             "related_to": "Roma v Udinese",
             "sat": "Eutelsat 16A",
             "freq": "11.554 H 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 7 Srbija HD",
+            "link": "#",
+            "related_to": "Roma v Udinese",
+            "sat": "Astra 3B",
+            "freq": "11.817 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Roma v Udinese",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Roma v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Cosmote Sport 2 HD",
@@ -1835,12 +2155,36 @@
             "encry": ""
         },
         {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Roma v Udinese",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "link": "#",
             "related_to": "Roma v Udinese",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "link": "#",
+            "related_to": "Roma v Udinese",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Roma v Udinese",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sport 1 Czechia HD",
@@ -1933,6 +2277,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Premium 5 Srbija HD",
+            "link": "#",
+            "related_to": "Inter Milan v Lazio",
+            "sat": "Astra 3C",
+            "freq": "12.304 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "Arena Sport 1 Hrvatska HD",
             "link": "#",
             "related_to": "Inter Milan v Lazio",
@@ -1941,11 +2293,35 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Inter Milan v Lazio",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Inter Milan v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Cosmote Sport 2 HD",
             "link": "#",
             "related_to": "Inter Milan v Lazio",
             "sat": "Eutelsat 9B",
             "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "link": "#",
+            "related_to": "Inter Milan v Lazio",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -2069,6 +2445,14 @@
             "encry": ""
         },
         {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Inter Milan v Lazio",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "link": "#",
             "related_to": "Inter Milan v Lazio",
@@ -2099,6 +2483,14 @@
             "sat": "Hispasat 30W-5",
             "freq": "12.360 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "link": "#",
+            "related_to": "Inter Milan v Lazio",
+            "sat": "Astra 2F",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
         },
         {
             "channel": "TNT Sports 1 HD",
@@ -3587,6 +3979,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-04 04:22:29",
-    "total_items": 439
+    "last_updated": "2025-11-04 15:21:25",
+    "total_items": 488
 }

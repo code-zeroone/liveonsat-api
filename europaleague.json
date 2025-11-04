@@ -43,6 +43,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Measat 3b",
+            "freq": "11.142 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "link": "#",
             "related_to": "Sturm Graz v Nottingham Forest",
@@ -1109,6 +1117,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Celta Vigo",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "SuperSport LaLiga HD",
             "link": "#",
             "related_to": "Dinamo Zagreb v Celta Vigo",
@@ -1285,6 +1301,14 @@
             "sat": "Astra 1N",
             "freq": "12.382 H 27500 - 3/4",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "TNT Sports 7",
@@ -1475,6 +1499,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Sports 3 HD (Astro)",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "Measat 3b",
+            "freq": "10.732 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Blue Sport 7 Live HD",
             "link": "#",
             "related_to": "Nice v Freiburg",
@@ -1605,184 +1637,6 @@
         {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
-                "team1": "greece",
-                "team2": "switzerland"
-            },
-            "match": "PAOK Thessaloniki v Young Boys",
-            "time": "20:00",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Arena Sport 3 Srbija HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "Astra 3B",
-            "freq": "11.798 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 6 BiH HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "Astra 3B",
-            "freq": "0.000 0",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 9 Hrvatska HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "Eutelsat 16A",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "Eshail 2",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Blue Sport 2 Live HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Blue Sport 3 Live HDR",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Blue Sport D 2 HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Cosmote Sport 5 HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "Eutelsat 9B",
-            "freq": "12.418 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Cytavision Sports 4K UHD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Digi Sport 3 Romania",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "Thor 6",
-            "freq": "11.900 H 28000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "M+ Liga de Campeones 10",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "Astra 1KR",
-            "freq": "11.686 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Megogo Futbol 14 ($/geo/R)",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Prima Sport RO 4 HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "Hellas Sat 3",
-            "freq": "12.606 V 30000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "PrimaPlay [app] 📺",
-            "link": "https://www.primaplay.ro/",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "Ring Bulgaria HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V 30000 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "link": "#",
-            "related_to": "PAOK Thessaloniki v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 4",
-            "flags": {
                 "team1": "england3",
                 "team2": "israel"
             },
@@ -1821,6 +1675,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports 1 HD (Astro)",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "Measat 3b",
+            "freq": "11.142 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "beIN Sports MENA English 2 HD",
@@ -2119,6 +1981,14 @@
             "sat": "Hotbird 13F",
             "freq": "12.054 H 29900 - 5/6",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Bologna v Brann",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sport Italia 4K UHD",
@@ -2479,6 +2349,184 @@
         {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
+                "team1": "greece",
+                "team2": "switzerland"
+            },
+            "match": "PAOK Thessaloniki v Young Boys",
+            "time": "20:00",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 3 Srbija HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 6 BiH HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 9 Hrvatska HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 2 Live HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 3 Live HDR",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport D 2 HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cosmote Sport 5 HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "Eutelsat 9B",
+            "freq": "12.418 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Cytavision Sports 4K UHD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Digi Sport 3 Romania",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "Thor 6",
+            "freq": "11.900 H 28000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 10",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "Astra 1KR",
+            "freq": "11.686 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Megogo Futbol 14 ($/geo/R)",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 4 HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 4",
+            "flags": {
                 "team1": "scotland",
                 "team2": "italy"
             },
@@ -2669,6 +2717,14 @@
             "sat": "Hotbird 13F",
             "freq": "11.958 V 27500 - 3/4",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Eutelsat 16A",
+            "freq": "11.387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS"
         },
         {
             "channel": "SuperSport Football HD",
@@ -3849,6 +3905,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-04 04:21:48",
-    "total_items": 472
+    "last_updated": "2025-11-04 15:20:44",
+    "total_items": 479
 }
