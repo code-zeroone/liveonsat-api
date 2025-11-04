@@ -3,6 +3,264 @@
         {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
+                "team1": "austria",
+                "team2": "england"
+            },
+            "match": "Sturm Graz v Nottingham Forest",
+            "time": "17:45",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Astra 3C",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 12 Live HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "bTV Action HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "AzerSpace 2",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Canal+ Live 4 France HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cosmote Sport 9 HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Eutelsat 9B",
+            "freq": "12.169 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 4",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Astra 1L",
+            "freq": "10.979 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Polsat Sport Extra 4 HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Hotbird 13G",
+            "freq": "10.911 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Q Sport League HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "KazSat 3",
+            "freq": "12.719 V 45000 - 3/4",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Silk Universal HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Astra 5B",
+            "freq": "12.207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt"
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Arena Italia HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Hotbird 13F",
+            "freq": "11.996 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Sport 2 Czechia HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Astra 3C",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "SuperSport GOtv Africa",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SuperSport MáXimo 3A HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Express AMU1",
+            "freq": "12.169 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Intelsat 20",
+            "freq": "11.554 V 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "TSN Malta 8 HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "Thor 6",
+            "freq": "11.345 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 4",
+            "flags": {
                 "team1": "switzerland",
                 "team2": "romania"
             },
@@ -113,6 +371,14 @@
             "sat": "Astra 1KR",
             "freq": "11.686 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "Megogo Futbol 10 ($/geo/R)",
+            "link": "#",
+            "related_to": "Basel v FCSB",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -245,6 +511,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Cytavision Sports 4K UHD",
+            "link": "#",
+            "related_to": "Malmö v Panathinaikos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Malmö v Panathinaikos",
@@ -259,6 +533,14 @@
             "sat": "Astra 1KR",
             "freq": "11.686 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "Megogo Futbol 9 ($/geo/R)",
+            "link": "#",
+            "related_to": "Malmö v Panathinaikos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -391,6 +673,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Megogo Futbol 7 ($/geo/R)",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Utrecht v FC Porto",
@@ -405,6 +695,22 @@
             "sat": "Hotbird 13G",
             "freq": "12.265 V 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Premier Sports 3 Mongolia HD",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Sky Sport 255 Italia HD",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "Hotbird 13F",
+            "freq": "12.418 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sport 7 Austria HD",
@@ -445,6 +751,14 @@
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 4 HD",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -537,6 +851,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Megogo Futbol 11 ($/geo/R)",
+            "link": "#",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Midtjylland v Celtic",
@@ -559,6 +881,14 @@
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 3/4",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Q Sport Arena HD",
+            "link": "#",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "Sky Sport 6 Austria HD",
@@ -591,6 +921,14 @@
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Midtjylland v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -715,6 +1053,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Megogo Futbol 6 ($/geo/R)",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Celta Vigo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Megogo Sport Ukraine HD 📺",
             "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
             "related_to": "Dinamo Zagreb v Celta Vigo",
@@ -729,6 +1075,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Premier Sports 4 Mongolia HD",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Celta Vigo",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "Prima Sport RO 2 HD",
@@ -769,6 +1123,14 @@
             "sat": "Astra 2G",
             "freq": "11.597 V 23000 - 2/3",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 6 HD",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Celta Vigo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -893,6 +1255,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Megogo Futbol 8 ($/geo/R)",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Red Star Belgrade v Lille",
@@ -923,6 +1293,14 @@
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "link": "#",
+            "related_to": "Red Star Belgrade v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -1007,6 +1385,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Megogo Futbol 12 ($/geo/R)",
+            "link": "#",
+            "related_to": "Salzburg v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Salzburg v Go Ahead Eagles",
@@ -1050,208 +1436,6 @@
             "channel": "ViaPlay Ísland HD",
             "link": "#",
             "related_to": "Salzburg v Go Ahead Eagles",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 4",
-            "flags": {
-                "team1": "austria",
-                "team2": "england"
-            },
-            "match": "Sturm Graz v Nottingham Forest",
-            "time": "17:45",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Astra 3B",
-            "freq": "0.000 0",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Astra 3C",
-            "freq": "12.422 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Arena Sport 6 Hrvatska HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Eutelsat 16A",
-            "freq": "11.554 V 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Eshail 2",
-            "freq": "10.850 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Blue Sport 12 Live HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "bTV Action HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "AzerSpace 2",
-            "freq": "11.555 V 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "Canal+ Live 4 France HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Astra 1M",
-            "freq": "11.934 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Cosmote Sport 9 HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Eutelsat 9B",
-            "freq": "12.169 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "M+ Liga de Campeones 4",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Astra 1L",
-            "freq": "10.979 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Megogo Futbol 2 ($/geo/R)",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Polsat Sport Extra 4 HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Hotbird 13G",
-            "freq": "10.911 V 27500 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Sport 1 Hungary HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Thor 6",
-            "freq": "11.727 V 28000 - 7/8",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Sport 2 Czechia HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Astra 3C",
-            "freq": "12.090 V 29900 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "SuperSport GOtv Africa",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SuperSport MáXimo 3A HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Express AMU1",
-            "freq": "12.169 V 27500 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "SuperSport Premier League HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Intelsat 20",
-            "freq": "11.554 V 30000 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "V Sport 2 Norge HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "Thor 6",
-            "freq": "11.345 H 30000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "link": "#",
-            "related_to": "Sturm Graz v Nottingham Forest",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -1331,12 +1515,44 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Nice v Freiburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Premier Sports 1 Mongolia HD",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "Telstar 18",
+            "freq": "12.477 H 45000 - 2/3",
+            "encry": "HD Verimatrix"
+        },
+        {
+            "channel": "QazSport HD",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "KazSat 2",
+            "freq": "11.660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Sky Sport 254 Italia HD",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "Hotbird 13F",
+            "freq": "12.341 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sport 3 Austria HD",
@@ -1353,6 +1569,14 @@
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -1461,6 +1685,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Cytavision Sports 4K UHD",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Digi Sport 3 Romania",
             "link": "#",
             "related_to": "PAOK Thessaloniki v Young Boys",
@@ -1483,6 +1715,14 @@
             "sat": "Astra 1KR",
             "freq": "11.686 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "Megogo Futbol 14 ($/geo/R)",
+            "link": "#",
+            "related_to": "PAOK Thessaloniki v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -1623,6 +1863,14 @@
             "encry": ""
         },
         {
+            "channel": "Jurnal TV Moldova",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "M+ Liga de Campeones 5",
             "link": "#",
             "related_to": "Aston Villa v Maccabi Tel Aviv",
@@ -1637,6 +1885,14 @@
             "sat": "AzerSpace 2",
             "freq": "11.475 V 30000 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -1655,11 +1911,35 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Premier Sports 1 Mongolia HD",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "Telstar 18",
+            "freq": "12.477 H 45000 - 2/3",
+            "encry": "HD Verimatrix"
+        },
+        {
             "channel": "Premier Sports 2 Ireland HD",
             "link": "#",
             "related_to": "Aston Villa v Maccabi Tel Aviv",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Q Sport Arena HD",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Sky Sport 255 Italia HD",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "Hotbird 13F",
+            "freq": "12.418 V 29900 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -1703,6 +1983,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Aston Villa v Maccabi Tel Aviv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "V Sport 2 Norge HD",
             "link": "#",
             "related_to": "Aston Villa v Maccabi Tel Aviv",
@@ -1741,224 +2029,6 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 4",
-            "flags": {
-                "team1": "scotland",
-                "team2": "italy"
-            },
-            "match": "Rangers v Roma",
-            "time": "20:00",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Arena Sport 2 Srbija HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Astra 3B",
-            "freq": "11.798 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 5 Hrvatska HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Eutelsat 16A",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Rangers v Roma",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Eshail 2",
-            "freq": "10.850 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Blue Sport 6 Live HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Canal+ Live 4 France HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Astra 1M",
-            "freq": "11.934 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Cosmote Sport 3 HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Intelsat 10-02",
-            "freq": "12.687 H 27500 - 3/4",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "M+ Liga de Campeones 4",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Astra 1L",
-            "freq": "10.979 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "MAX Sport 3 Bulgaria HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V 30000 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Megogo Futbol 2 ($/geo/R)",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Polsat Sport Extra 1 HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Hotbird 13G",
-            "freq": "12.265 V 27500 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Prima Sport RO 3 HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Hellas Sat 3",
-            "freq": "12.606 V 30000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "PrimaPlay [app] 📺",
-            "link": "https://www.primaplay.ro/",
-            "related_to": "Rangers v Roma",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "Rangers TV ($/geo/R) 📺",
-            "link": "https://tv.rangers.co.uk/",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sport 6 Austria HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Astra 1M",
-            "freq": "11.798 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "SuperSport Football HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Intelsat 20",
-            "freq": "11.514 H 30000 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "SuperSport MáXimo 2A HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Express AMU1",
-            "freq": "12.169 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "TNT Sports 3 HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TNT Sports Ultimate UHD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Astra 2F",
-            "freq": "12.207 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "ViaPlay 2 Urheilu HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "Thor 5",
-            "freq": "11.278 V 25000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "link": "#",
-            "related_to": "Rangers v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -2019,6 +2089,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Megogo Futbol 6 ($/geo/R)",
+            "link": "#",
+            "related_to": "Bologna v Brann",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Megogo Sport Ukraine HD 📺",
             "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
             "related_to": "Bologna v Brann",
@@ -2035,6 +2113,22 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport 253 Italia HD",
+            "link": "#",
+            "related_to": "Bologna v Brann",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "link": "#",
+            "related_to": "Bologna v Brann",
+            "sat": "Hotbird 13E",
+            "freq": "11.996 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sport 3 Czech [online] 📺",
             "link": "https://amcmikro.cz/",
             "related_to": "Bologna v Brann",
@@ -2049,6 +2143,14 @@
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 4 HD",
+            "link": "#",
+            "related_to": "Bologna v Brann",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "V Sport 1 Norge HD",
@@ -2165,6 +2267,14 @@
             "encry": "HD Viaccess"
         },
         {
+            "channel": "Megogo Futbol 11 ($/geo/R)",
+            "link": "#",
+            "related_to": "Ferencváros v Ludogorets",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Ferencváros v Ludogorets",
@@ -2279,6 +2389,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Megogo Futbol 9 ($/geo/R)",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Viktoria Plzen v Fenerbahçe",
@@ -2357,6 +2475,272 @@
             "sat": "Astra 3C",
             "freq": "12.129 V 29900 - 3/4",
             "encry": "MPEG-4 Seca"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 4",
+            "flags": {
+                "team1": "scotland",
+                "team2": "italy"
+            },
+            "match": "Rangers v Roma",
+            "time": "20:00",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Rangers v Roma",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 6 Live HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Canal+ Live 4 France HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Astra 1M",
+            "freq": "11.934 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Intelsat 10-02",
+            "freq": "12.687 H 27500 - 3/4",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Fast Sports TV Armenia 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "Rangers v Roma",
+            "sat": "Eutelsat 70B",
+            "freq": "11.050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss"
+        },
+        {
+            "channel": "M+ Liga de Campeones 4",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Astra 1L",
+            "freq": "10.979 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Megogo Futbol 2 ($/geo/R)",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Polsat Sport Extra 1 HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Hotbird 13G",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Premier Sports 3 Mongolia HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Rangers v Roma",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Qazaqstan TV HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "KazSat 2",
+            "freq": "11.495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Rangers TV ($/geo/R) 📺",
+            "link": "https://tv.rangers.co.uk/",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 252 Italia HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport 6 Austria HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Hotbird 13F",
+            "freq": "11.958 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Intelsat 20",
+            "freq": "11.514 H 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport MáXimo 2A HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Express AMU1",
+            "freq": "12.169 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Thor 5",
+            "freq": "11.278 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -2457,6 +2841,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Megogo Futbol 8 ($/geo/R)",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Stuttgart v Feyenoord",
@@ -2471,6 +2863,22 @@
             "sat": "Hotbird 13G",
             "freq": "12.265 V 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Q Sport League HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "KazSat 3",
+            "freq": "12.719 V 45000 - 3/4",
+            "encry": "MPEG-4 Irdeto"
         },
         {
             "channel": "RTL Deutschland HD 📺",
@@ -2495,6 +2903,22 @@
             "sat": "Astra 1L",
             "freq": "12.226 H 27500 - 3/4",
             "encry": "Free To Air"
+        },
+        {
+            "channel": "Silk Sport 3 HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 256 Italia HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sky Sport 4 Austria HD",
@@ -2529,6 +2953,14 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "TSN Malta 7 HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "ViaPlay Norge HD",
             "link": "#",
             "related_to": "Stuttgart v Feyenoord",
@@ -2551,6 +2983,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "VRT Canvas Belgium HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "Astra 3B",
+            "freq": "12.188 H 29900 - 2/3",
+            "encry": "HD Mediaguard"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -2659,6 +3099,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Movistar Plus+ HD",
             "link": "#",
             "related_to": "Real Betis v Lyon",
@@ -2673,6 +3121,38 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Premier Sports 4 Mongolia HD",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "QazSport HD",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "KazSat 2",
+            "freq": "11.660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Silk Universal HD",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "Astra 5B",
+            "freq": "12.207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt"
+        },
+        {
+            "channel": "Sky Sport 254 Italia HD",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "Hotbird 13F",
+            "freq": "12.341 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sport 8 Austria HD",
@@ -2697,6 +3177,14 @@
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 6 HD",
+            "link": "#",
+            "related_to": "Real Betis v Lyon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "TV8 Italia HD 📺",
@@ -2789,12 +3277,28 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Megogo Futbol 12 ($/geo/R)",
+            "link": "#",
+            "related_to": "Sporting Braga v Racing Genk",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Sporting Braga v Racing Genk",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Play 6 Belgium",
+            "link": "#",
+            "related_to": "Sporting Braga v Racing Genk",
+            "sat": "Astra 3C",
+            "freq": "11.856 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra"
         },
         {
             "channel": "RTBF Tipik Belgique",
@@ -3345,6 +3849,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-03 15:19:59",
-    "total_items": 409
+    "last_updated": "2025-11-04 04:21:48",
+    "total_items": 472
 }

@@ -27,6 +27,14 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "M+ Vamos España HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Astra 1KR",
+            "freq": "11.156 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "link": "#",
             "related_to": "Al Najma v Al Hilal",
@@ -61,12 +69,28 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "M+ Vamos España HD",
+            "link": "#",
+            "related_to": "NEOM SC v Al Nassr",
+            "sat": "Astra 1KR",
+            "freq": "11.156 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "Polsat Sport 2 HD",
             "link": "#",
             "related_to": "NEOM SC v Al Nassr",
             "sat": "Hotbird 13G",
             "freq": "12.265 V 27500 - 5/6",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Setanta Sports Premium HD 📺",
+            "link": "https://tv.kyivstar.ua/en/setantasports",
+            "related_to": "NEOM SC v Al Nassr",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Sport TV3 Portugal HD",
@@ -155,6 +179,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-03 15:25:14",
-    "total_items": 18
+    "last_updated": "2025-11-04 04:27:04",
+    "total_items": 21
 }

@@ -1,738 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Italian Serie A - Week 10",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "match": "Sassuolo v Genoa",
-            "time": "17:30",
-            "date": "2025-11-03"
-        },
-        {
-            "channel": "Arena Premium 1 Slovenija",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Astra 3B",
-            "freq": "0.000 0",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Astra 3C",
-            "freq": "12.480 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Eutelsat 16A",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "ART Motion Sport 2 HD 📺",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Astro Football HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Measat 3b",
-            "freq": "10.932 V 30000 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Cosmote Sport 3 HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Cytavision Sports 4 HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN 1 Italia HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Hotbird 13F",
-            "freq": "11.843 V 29900 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Astra 1M",
-            "freq": "11.798 H 27500 - 9/0",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Digi Sport 3 Romania",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Thor 6",
-            "freq": "11.900 H 28000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Hotbird 13G",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "Eleven Sports 4 Polska HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Hotbird 13G",
-            "freq": "11.278 V 27500 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Fast Sports [online] ($/geo/R) 📺",
-            "link": "https://fasttv.am/live-sports?sport_type=football",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "MATCH! Futbol 1 HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Horizons 2",
-            "freq": "11.840 H 28800 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "MAX Sport 3 Bulgaria HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V 30000 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Megogo Futbol 1 ($/geo/R) 📺",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Urheilu 2 Suomi HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Thor 5",
-            "freq": "11.247 V 24500 - 7/8",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "New World Sport 2 Mauritius",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Eutelsat 16A",
-            "freq": "12.562 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Hellas Sat 3",
-            "freq": "12.290 V 30000 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "PrimaPlay [app] 📺",
-            "link": "https://www.primaplay.ro/",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 1 Czechia HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Astra 3C",
-            "freq": "12.070 H 27500 - 3/4",
-            "encry": "HD CryptoWorks"
-        },
-        {
-            "channel": "Sport 1 Slovakia HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Astra 3C",
-            "freq": "12.012 V 29900 - 3/4",
-            "encry": "HD CryptoWorks"
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "SuperSport Football HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Intelsat 20",
-            "freq": "11.514 H 30000 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Intelsat 20",
-            "freq": "11.594 V 27500 - 5/6",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport MáXimo 360",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Express AMU1",
-            "freq": "12.130 H 27500 - 2/3",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Hellas Sat 4",
-            "freq": "10.890 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "TSN Malta 6 HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV2 Play Danmark ($/geo/R) 📺",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV4 Play Sverige [online] 📺",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "TV4 Sportkanalen HD",
-            "link": "#",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "Thor 6",
-            "freq": "10.778 H 25000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R) 📺",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "Sassuolo v Genoa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Italian Serie A - Week 10",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "match": "Lazio v Cagliari",
-            "time": "19:45",
-            "date": "2025-11-03"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Thor 5",
-            "freq": "12.265 V 28000 - 7/8",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "Arena Premium 1 Slovenija",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Astra 3B",
-            "freq": "0.000 0",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Astra 3C",
-            "freq": "12.480 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Eutelsat 16A",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "ART Motion Sport 1 HD 📺",
-            "link": "https://artmotion.net/tv/",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Astro Football HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Measat 3b",
-            "freq": "10.932 V 30000 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Azam Sports 3 HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Eutelsat 7C",
-            "freq": "10.981 V 45000 - 5/6",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Cosmote Sport 1 HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Cytavision Sports 4 HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Astra 1M",
-            "freq": "11.798 H 27500 - 9/0",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Digi Sport 3 Romania",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Thor 6",
-            "freq": "11.900 H 28000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Hotbird 13G",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "Fast Sports [online] ($/geo/R) 📺",
-            "link": "https://fasttv.am/live-sports?sport_type=football",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Futbol TV Uzbekistan",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "NSS 12",
-            "freq": "11.610 H 20200 - 3/4",
-            "encry": "MPEG-4 Verimatrix"
-        },
-        {
-            "channel": "MATCH! Futbol 1 HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Horizons 2",
-            "freq": "11.840 H 28800 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "MATCH! Russia HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Yamal 401",
-            "freq": "3.786 R 15284 - 3/4",
-            "encry": "MPEG-4 GoSTcrypt"
-        },
-        {
-            "channel": "MAX Sport 3 Bulgaria HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V 30000 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Megogo Futbol 1 ($/geo/R) 📺",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Urheilu 2 Suomi HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Thor 5",
-            "freq": "11.247 V 24500 - 7/8",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "New World Sport 2 Mauritius",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Eutelsat 16A",
-            "freq": "12.562 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Hellas Sat 3",
-            "freq": "12.290 V 30000 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "PrimaPlay [app] 📺",
-            "link": "https://www.primaplay.ro/",
-            "related_to": "Lazio v Cagliari",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport 251 Italia HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Hotbird 13F",
-            "freq": "12.054 H 29900 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Sky Sport Calcio HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Hotbird 13F",
-            "freq": "12.073 V 29900 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sport 1 Czechia HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Astra 3C",
-            "freq": "12.070 H 27500 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "Sport 1 Slovakia HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Astra 3C",
-            "freq": "12.012 V 29900 - 3/4",
-            "encry": "HD CryptoWorks"
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Sport TV7 Portugal HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.360 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "SuperSport Football HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Intelsat 20",
-            "freq": "11.514 H 30000 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "SuperSport MáXimo 360",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Express AMU1",
-            "freq": "12.130 H 27500 - 2/3",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Hellas Sat 4",
-            "freq": "10.890 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "TSN Malta 3 HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV2 Play Danmark ($/geo/R) 📺",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV2 Sport Dansk HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Thor 6",
-            "freq": "11.305 H 30000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TV4 Fotboll HD",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "Thor 6",
-            "freq": "10.872 V 25000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "TV4 Play Sverige [online] 📺",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "VG+ Sport Norge ($/geo/R) 📺",
-            "link": "https://www.vgtv.no/live",
-            "related_to": "Lazio v Cagliari",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Zor TV Uzbekistan",
-            "link": "#",
-            "related_to": "Lazio v Cagliari",
-            "sat": "NSS 12",
-            "freq": "11.610 H 20200 - 3/4",
-            "encry": "MPEG-4 Verimatrix"
-        },
-        {
             "compet": "Italian Serie A - Week 11",
             "flags": {
                 "team1": "italy",
@@ -919,6 +187,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Pisa v Cremonese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
             "link": "https://play.tv2.dk/sport",
             "related_to": "Pisa v Cremonese",
@@ -1097,6 +373,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Como v Cagliari",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
             "link": "https://play.tv2.dk/sport",
             "related_to": "Como v Cagliari",
@@ -1195,6 +479,14 @@
             "encry": ""
         },
         {
+            "channel": "Megogo Futbol 4 ($/geo/R)",
+            "link": "#",
+            "related_to": "Lecce v Hellas Verona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
             "link": "https://www.mtv.fi/urheilu",
             "related_to": "Lecce v Hellas Verona",
@@ -1241,6 +533,14 @@
             "sat": "Hellas Sat 4",
             "freq": "10.890 H 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "link": "#",
+            "related_to": "Lecce v Hellas Verona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -1469,6 +769,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Juventus v Torino",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
             "link": "https://play.tv2.dk/sport",
             "related_to": "Juventus v Torino",
@@ -1679,6 +987,14 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "link": "#",
+            "related_to": "Parma v AC Milan",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Sport 1 Czechia HD",
             "link": "#",
             "related_to": "Parma v AC Milan",
@@ -1725,6 +1041,14 @@
             "sat": "Hellas Sat 4",
             "freq": "10.890 H 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Parma v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -1913,6 +1237,14 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "link": "#",
+            "related_to": "Atalanta v Sassuolo",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Sport 1 Czechia HD",
             "link": "#",
             "related_to": "Atalanta v Sassuolo",
@@ -1951,6 +1283,14 @@
             "sat": "Hellas Sat 4",
             "freq": "10.890 H 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Atalanta v Sassuolo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -2163,6 +1503,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Bologna v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
             "link": "https://play.tv2.dk/sport",
             "related_to": "Bologna v Napoli",
@@ -2315,6 +1663,14 @@
             "sat": "Hellas Sat 4",
             "freq": "10.890 H 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "link": "#",
+            "related_to": "Genoa v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -2527,6 +1883,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Roma v Udinese",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
             "link": "https://play.tv2.dk/sport",
             "related_to": "Roma v Udinese",
@@ -2713,6 +2077,14 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "link": "#",
+            "related_to": "Inter Milan v Lazio",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Sport 1 Czechia HD",
             "link": "#",
             "related_to": "Inter Milan v Lazio",
@@ -2743,6 +2115,14 @@
             "sat": "Hellas Sat 4",
             "freq": "10.890 H 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "TSN Malta 3 HD",
+            "link": "#",
+            "related_to": "Inter Milan v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -4207,6 +3587,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-03 15:20:41",
-    "total_items": 516
+    "last_updated": "2025-11-04 04:22:29",
+    "total_items": 439
 }

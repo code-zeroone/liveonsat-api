@@ -6,68 +6,6 @@
                 "team1": "assocnba",
                 "team2": "assocnba"
             },
-            "match": "New York Knicks v Chicago Bulls",
-            "time": "00:00",
-            "date": "2025-11-03"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "New York Knicks v Chicago Bulls",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "link": "#",
-            "related_to": "New York Knicks v Chicago Bulls",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Phoenix Suns v San Antonio Spurs",
-            "time": "01:00",
-            "date": "2025-11-03"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Phoenix Suns v San Antonio Spurs",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Los Angeles Lakers v Miami Heat",
-            "time": "02:30",
-            "date": "2025-11-03"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Los Angeles Lakers v Miami Heat",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
             "match": "Brooklyn Nets v Minnesota Timberwolves",
             "time": "00:00",
             "date": "2025-11-04"
@@ -113,6 +51,22 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "link": "#",
+            "related_to": "Brooklyn Nets v Minnesota Timberwolves",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Silk Sport 2 HD",
+            "link": "#",
+            "related_to": "Brooklyn Nets v Minnesota Timberwolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "link": "#",
             "related_to": "Brooklyn Nets v Minnesota Timberwolves",
@@ -132,8 +86,8 @@
             "channel": "Sky Sports+ TV HD",
             "link": "#",
             "related_to": "Brooklyn Nets v Minnesota Timberwolves",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
+            "sat": "Astra 2F",
+            "freq": "12.226 H 27500 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -421,6 +375,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "Silk Universal HD",
+            "link": "#",
+            "related_to": "Atlanta Hawks v Orlando Magic",
+            "sat": "Astra 5B",
+            "freq": "12.207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt"
+        },
+        {
             "channel": "Sky Sport 1 Deutsch HD",
             "link": "#",
             "related_to": "Atlanta Hawks v Orlando Magic",
@@ -581,6 +543,22 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "link": "#",
+            "related_to": "Los Angeles Clippers v Oklahoma Thunder",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Silk Sport 2 HD",
+            "link": "#",
+            "related_to": "Los Angeles Clippers v Oklahoma Thunder",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "Sky Sport 1 Deutsch HD",
             "link": "#",
             "related_to": "Los Angeles Clippers v Oklahoma Thunder",
@@ -710,6 +688,14 @@
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
+            "link": "#",
+            "related_to": "New York Knicks v Minnesota Timberwolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Silk Sport 2 HD",
             "link": "#",
             "related_to": "New York Knicks v Minnesota Timberwolves",
             "sat": "* IPTV/Stream",
@@ -863,6 +849,22 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v San Antonio Spurs",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Silk Universal HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v San Antonio Spurs",
+            "sat": "Astra 5B",
+            "freq": "12.207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt"
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "link": "#",
             "related_to": "Los Angeles Lakers v San Antonio Spurs",
@@ -955,6 +957,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "link": "#",
+            "related_to": "Phoenix Suns v Los Angeles Clippers",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Sport TV1 Portugal HD",
@@ -1839,6 +1849,22 @@
             "match": "Philadelphia 76ers v Boston Celtics",
             "time": "01:00",
             "date": "2025-11-12"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Philadelphia 76ers v Boston Celtics",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Philadelphia 76ers v Boston Celtics",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -10887,6 +10913,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-11-03 15:22:52",
-    "total_items": 1219
+    "last_updated": "2025-11-04 04:24:42",
+    "total_items": 1223
 }
