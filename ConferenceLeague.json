@@ -361,6 +361,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "BeIN Sports MENA Xtra 4 HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Fiorentina",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Blue Sport 15 Live HD",
             "link": "#",
             "related_to": "Mainz 05 v Fiorentina",
@@ -1125,6 +1133,14 @@
             "encry": ""
         },
         {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Crystal Palace v AZ Alkmaar",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 3",
             "flags": {
                 "team1": "sweden",
@@ -1281,6 +1297,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "link": "#",
+            "related_to": "Shelbourne v Drita",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "TNT Sports 4 HD",
             "link": "#",
             "related_to": "Shelbourne v Drita",
@@ -1406,6 +1430,120 @@
             "channel": "ViaPlay Ísland HD",
             "link": "#",
             "related_to": "Rapid Vienna v Universitatea Craiova",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 3",
+            "flags": {
+                "team1": "spain",
+                "team2": "poland"
+            },
+            "match": "Rayo Vallecano v Lech Poznan",
+            "time": "20:00",
+            "date": "2025-11-06"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 23 Live HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Canal+ Live 11 France HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "Astra 1L",
+            "freq": "10.729 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Megogo Futbol 10 ($/geo/R)",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Polsat Sport 1 HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "Hotbird 13G",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Polsat Sport Premium 1 HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "Hotbird 13G",
+            "freq": "11.117 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TNT Sports 10",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "TSN Malta 2 HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Lech Poznan",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -1731,112 +1869,6 @@
         {
             "compet": "UEFA Conference League - Matchday 3",
             "flags": {
-                "team1": "spain",
-                "team2": "poland"
-            },
-            "match": "Rayo Vallecano v Lech Poznan",
-            "time": "20:00",
-            "date": "2025-11-06"
-        },
-        {
-            "channel": "Blue Sport 23 Live HD",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Canal+ Live 11 France HD",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "M+ Liga de Campeones 2 HD",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "Astra 1L",
-            "freq": "10.729 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Megogo Futbol 10 ($/geo/R)",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Polsat Sport 1 HD",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "Hotbird 13G",
-            "freq": "12.265 V 27500 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Polsat Sport Premium 1 HD",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "Hotbird 13G",
-            "freq": "11.117 V 27500 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "TNT Sports 10",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 23000 - 2/3",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "TSN Malta 2 HD",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Lech Poznan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Conference League - Matchday 3",
-            "flags": {
                 "team1": "northmacedonia",
                 "team2": "poland"
             },
@@ -2021,6 +2053,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-11-05 04:22:58",
-    "total_items": 247
+    "last_updated": "2025-11-05 15:20:00",
+    "total_items": 251
 }

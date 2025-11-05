@@ -243,6 +243,22 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO 2 HD",
+            "link": "#",
+            "related_to": "Elche v Real Sociedad",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Elche v Real Sociedad",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "link": "#",
             "related_to": "Elche v Real Sociedad",
@@ -272,6 +288,14 @@
             "related_to": "Elche v Real Sociedad",
             "sat": "Express AMU1",
             "freq": "12.169 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Tivibu Spor 4 HD",
+            "link": "#",
+            "related_to": "Elche v Real Sociedad",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
         },
         {
@@ -345,6 +369,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Elche v Real Sociedad",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 12",
@@ -501,14 +533,6 @@
             "encry": "HD Irdeto"
         },
         {
-            "channel": "Premier Sports 1 UK HD",
-            "link": "#",
-            "related_to": "Girona v Alavés",
-            "sat": "Astra 2G",
-            "freq": "11.686 V 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
             "channel": "Premier Sports 2 Ireland HD",
             "link": "#",
             "related_to": "Girona v Alavés",
@@ -527,6 +551,14 @@
         {
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Girona v Alavés",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 5 HD",
+            "link": "#",
             "related_to": "Girona v Alavés",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -627,6 +659,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Girona v Alavés",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 12",
@@ -783,6 +823,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Prima Sport RO 5 HD",
+            "link": "#",
+            "related_to": "Sevilla v Osasuna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "S Sport 1 Türkiye HD",
             "link": "#",
             "related_to": "Sevilla v Osasuna",
@@ -885,6 +933,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Sevilla v Osasuna",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 12",
@@ -1113,6 +1169,14 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO 5 HD",
+            "link": "#",
+            "related_to": "Atlético Madrid v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "S Sport 1 Türkiye HD",
             "link": "#",
             "related_to": "Atlético Madrid v Levante",
@@ -1241,6 +1305,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Atlético Madrid v Levante",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 12",
             "flags": {
                 "team1": "spain",
@@ -1331,6 +1403,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Espanyol v Villarreal",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Belarus 5 HD",
             "link": "#",
             "related_to": "Espanyol v Villarreal",
@@ -1385,6 +1465,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Idman TV HD",
+            "link": "#",
+            "related_to": "Espanyol v Villarreal",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "FTA (BISS)"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -1449,6 +1537,22 @@
             "sat": "Hotbird 13F",
             "freq": "12.130 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Prima Sport RO 4 HD",
+            "link": "#",
+            "related_to": "Espanyol v Villarreal",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Espanyol v Villarreal",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "S Sport 1 Türkiye HD",
@@ -1553,6 +1657,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "link": "#",
+            "related_to": "Espanyol v Villarreal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 12",
@@ -1749,19 +1861,19 @@
             "encry": "HD Irdeto"
         },
         {
-            "channel": "Premier Sports 1 Ireland HD",
+            "channel": "Premier Sports 2 Ireland HD",
             "link": "#",
             "related_to": "Athletic Bilbao v Real Oviedo",
             "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
+            "freq": "12.188 H 27500 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
-            "channel": "Premier Sports 1 UK HD",
+            "channel": "Premier Sports 2 UK HD",
             "link": "#",
             "related_to": "Athletic Bilbao v Real Oviedo",
             "sat": "Astra 2G",
-            "freq": "11.686 V 23000 - 2/3",
+            "freq": "11.671 H 23000 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -1771,6 +1883,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Real Oviedo",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Athletic Bilbao v Real Oviedo",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "S Sport 1 Türkiye HD",
@@ -1877,6 +2005,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "Ziggo Sport 3",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Real Oviedo",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 12",
             "flags": {
                 "team1": "spain",
@@ -1956,6 +2092,14 @@
             "related_to": "Rayo Vallecano v Real Madrid",
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
             "encry": "HD Irdeto"
         },
         {
@@ -2063,19 +2207,19 @@
             "encry": "HD Irdeto"
         },
         {
-            "channel": "Premier Sports 1 Ireland HD",
+            "channel": "Premier Sports 2 Ireland HD",
             "link": "#",
             "related_to": "Rayo Vallecano v Real Madrid",
             "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
+            "freq": "12.188 H 27500 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
-            "channel": "Premier Sports 1 UK HD",
+            "channel": "Premier Sports 2 UK HD",
             "link": "#",
             "related_to": "Rayo Vallecano v Real Madrid",
             "sat": "Astra 2G",
-            "freq": "11.686 V 23000 - 2/3",
+            "freq": "11.671 H 23000 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -2085,6 +2229,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "link": "#",
+            "related_to": "Rayo Vallecano v Real Madrid",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Rayo Vallecano v Real Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "S Sport 1 Türkiye HD",
@@ -2215,182 +2375,12 @@
             "encry": "N/A"
         },
         {
-            "compet": "Spanish La Liga (Primera) - Week 12",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Mallorca v Getafe",
-            "time": "17:30",
-            "date": "2025-11-09"
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
+            "channel": "Ziggo Sport 3",
             "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "Astra 3C",
-            "freq": "12.304 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 10 Hrvatska HD",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "Astra 3C",
-            "freq": "12.402 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect FRANCE 📺",
-            "link": "https://connect.beinsports.com/france/se-connecter",
-            "related_to": "Mallorca v Getafe",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Mallorca v Getafe",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "Astra 1M",
-            "freq": "11.856 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "Eshail 2",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "M+ LaLiga HD",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "Astra 1M",
-            "freq": "10.818 V 22000 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "M+ LaLiga HDR",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
+            "related_to": "Rayo Vallecano v Real Madrid",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
-        },
-        {
-            "channel": "Megogo Futbol 3 ($/geo/R)",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": "Mallorca v Getafe",
-            "sat": "Astra 3C",
-            "freq": "12.285 V 30000 - 2/3",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Mallorca v Getafe",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Nova Sports Start Hellas HD",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "Hotbird 13F",
-            "freq": "11.804 V 29700 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Mallorca v Getafe",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TSN Malta 7 HD",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV2 Play Norge ($/geo/R) 📺",
-            "link": "https://play.tv2.no/sport",
-            "related_to": "Mallorca v Getafe",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV2 Sport Premium 2 HD",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "Thor 6",
-            "freq": "11.385 V 30000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TV4 Play Sverige [online] 📺",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": "Mallorca v Getafe",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "TV4 Sport Live 1 HD",
-            "link": "#",
-            "related_to": "Mallorca v Getafe",
-            "sat": "Thor 6",
-            "freq": "10.934 H 25000 - 3/4",
-            "encry": "HD NagraVision"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 12",
@@ -2555,19 +2545,19 @@
             "encry": "HD Irdeto"
         },
         {
-            "channel": "Premier Sports 1 Ireland HD",
+            "channel": "Premier Sports 2 Ireland HD",
             "link": "#",
             "related_to": "Valencia v Real Betis",
             "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
+            "freq": "12.188 H 27500 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
-            "channel": "Premier Sports 1 UK HD",
+            "channel": "Premier Sports 2 UK HD",
             "link": "#",
             "related_to": "Valencia v Real Betis",
             "sat": "Astra 2G",
-            "freq": "11.686 V 23000 - 2/3",
+            "freq": "11.671 H 23000 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -2577,6 +2567,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "link": "#",
+            "related_to": "Valencia v Real Betis",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Valencia v Real Betis",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "S Sport 1 Türkiye HD",
@@ -2657,6 +2663,200 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Valencia v Real Betis",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 12",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Mallorca v Getafe",
+            "time": "17:30",
+            "date": "2025-11-09"
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "Astra 3C",
+            "freq": "12.304 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 10 Hrvatska HD",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Mallorca v Getafe",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Mallorca v Getafe",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "Astra 1M",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "M+ LaLiga HDR",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 3 ($/geo/R)",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "Mallorca v Getafe",
+            "sat": "Astra 3C",
+            "freq": "12.285 V 30000 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Mallorca v Getafe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "Hotbird 13F",
+            "freq": "11.804 V 29700 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Mallorca v Getafe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO PPV 3",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Mallorca v Getafe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Sport Premium 2 HD",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "Thor 6",
+            "freq": "11.385 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Mallorca v Getafe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "link": "#",
+            "related_to": "Mallorca v Getafe",
+            "sat": "Thor 6",
+            "freq": "10.934 H 25000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 12",
@@ -2757,6 +2957,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Barcelona",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Belarus 5 HD",
             "link": "#",
             "related_to": "Celta Vigo v Barcelona",
@@ -2795,6 +3003,14 @@
             "sat": "Thor 6",
             "freq": "11.823 H 30000 - 5/6",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Idman TV HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Barcelona",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "FTA (BISS)"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -2901,19 +3117,19 @@
             "encry": ""
         },
         {
-            "channel": "Premier Sports 1 Ireland HD",
+            "channel": "Premier Sports 2 Ireland HD",
             "link": "#",
             "related_to": "Celta Vigo v Barcelona",
             "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
+            "freq": "12.188 H 27500 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
-            "channel": "Premier Sports 1 UK HD",
+            "channel": "Premier Sports 2 UK HD",
             "link": "#",
             "related_to": "Celta Vigo v Barcelona",
             "sat": "Astra 2G",
-            "freq": "11.686 V 23000 - 2/3",
+            "freq": "11.671 H 23000 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -2923,6 +3139,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Barcelona",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Celta Vigo v Barcelona",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "S Sport 1 Türkiye HD",
@@ -3019,6 +3251,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Barcelona",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 13",
@@ -4073,6 +4313,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-05 04:24:01",
-    "total_items": 499
+    "last_updated": "2025-11-05 15:21:03",
+    "total_items": 529
 }

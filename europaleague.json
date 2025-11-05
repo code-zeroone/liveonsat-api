@@ -275,6 +275,14 @@
             "encry": ""
         },
         {
+            "channel": "Ziggo Sport 5",
+            "link": "#",
+            "related_to": "Sturm Graz v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "switzerland",
@@ -807,6 +815,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Utrecht v FC Porto",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -1481,6 +1505,14 @@
             "encry": ""
         },
         {
+            "channel": "Ziggo Sport 3",
+            "link": "#",
+            "related_to": "Salzburg v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 4",
             "flags": {
                 "team1": "france",
@@ -1515,12 +1547,28 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Nice v Freiburg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports 3 HD (Astro)",
             "link": "#",
             "related_to": "Nice v Freiburg",
             "sat": "Measat 3b",
             "freq": "10.732 V 30000 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Nice v Freiburg",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Blue Sport 7 Live HD",
@@ -2575,6 +2623,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "Rangers v Roma",
@@ -2629,6 +2685,14 @@
             "sat": "Eutelsat 70B",
             "freq": "11.050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss"
+        },
+        {
+            "channel": "Ictimai TV HD",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "M+ Liga de Campeones 4",
@@ -2812,6 +2876,14 @@
             "related_to": "Rangers v Roma",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 5",
+            "link": "#",
+            "related_to": "Rangers v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -3063,6 +3135,14 @@
             "sat": "Astra 3B",
             "freq": "12.188 H 29900 - 2/3",
             "encry": "HD Mediaguard"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Stuttgart v Feyenoord",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -3937,6 +4017,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-05 04:22:38",
-    "total_items": 483
+    "last_updated": "2025-11-05 15:19:40",
+    "total_items": 493
 }

@@ -109,8 +109,32 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Mirandés v Sporting Gijón",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "link": "#",
+            "related_to": "Mirandés v Sporting Gijón",
+            "sat": "Astra 2G",
+            "freq": "11.671 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Mirandés v Sporting Gijón",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO PPV 4",
+            "link": "#",
             "related_to": "Mirandés v Sporting Gijón",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -335,6 +359,14 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO PPV 1",
+            "link": "#",
+            "related_to": "Málaga v Córdoba",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 13",
             "flags": {
                 "team1": "spain",
@@ -461,6 +493,14 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO PPV 4",
+            "link": "#",
+            "related_to": "Granada v Real Zaragoza",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "TEN TV España HD",
             "link": "#",
             "related_to": "Granada v Real Zaragoza",
@@ -521,6 +561,22 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Arena Sport 1 BiH HD",
+            "link": "#",
+            "related_to": "Burgos v Castellón",
+            "sat": "Astra 3B",
+            "freq": "11.720 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "link": "#",
+            "related_to": "Burgos v Castellón",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Burgos v Castellón",
@@ -543,6 +599,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "link": "#",
+            "related_to": "Burgos v Castellón",
+            "sat": "Intelsat 10-02",
+            "freq": "12.687 H 27500 - 3/4",
+            "encry": "NagraVision"
         },
         {
             "channel": "LaLiga Hypermotion HD",
@@ -577,6 +641,38 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO 3 HD",
+            "link": "#",
+            "related_to": "Burgos v Castellón",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Burgos v Castellón",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Burgos v Castellón",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Burgos v Castellón",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TV4 Fotboll HD",
             "link": "#",
             "related_to": "Burgos v Castellón",
@@ -601,6 +697,14 @@
             "match": "Real Valladolid v Las Palmas",
             "time": "19:30",
             "date": "2025-11-14"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "link": "#",
+            "related_to": "Real Valladolid v Las Palmas",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -679,6 +783,14 @@
             "match": "Racing Santander v Granada",
             "time": "20:00",
             "date": "2025-11-15"
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "link": "#",
+            "related_to": "Racing Santander v Granada",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -805,6 +917,14 @@
             "date": "2025-11-16"
         },
         {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Real Zaragoza v Huesca",
+            "sat": "Eutelsat 16A",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Real Zaragoza v Huesca",
@@ -881,6 +1001,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-05 04:27:33",
-    "total_items": 104
+    "last_updated": "2025-11-05 15:24:38",
+    "total_items": 119
 }

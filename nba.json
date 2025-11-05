@@ -541,6 +541,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "New York Knicks v Minnesota Timberwolves",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Cosmote Sport 4 HD",
             "link": "#",
             "related_to": "New York Knicks v Minnesota Timberwolves",
@@ -711,6 +719,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Los Angeles Lakers v San Antonio Spurs",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Los Angeles Lakers v San Antonio Spurs",
@@ -829,12 +845,28 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Phoenix Suns v Los Angeles Clippers",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "link": "#",
             "related_to": "Phoenix Suns v Los Angeles Clippers",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "link": "#",
+            "related_to": "Phoenix Suns v Los Angeles Clippers",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Cosmote Sport 4 HD",
@@ -1267,6 +1299,30 @@
             "date": "2025-11-09"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Los Angeles Clippers v Phoenix Suns",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "link": "#",
+            "related_to": "Los Angeles Clippers v Phoenix Suns",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "Los Angeles Clippers v Phoenix Suns",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Los Angeles Clippers v Phoenix Suns",
@@ -1403,12 +1459,36 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Memphis Grizzlies v Oklahoma Thunder",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "link": "#",
             "related_to": "Memphis Grizzlies v Oklahoma Thunder",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "link": "#",
+            "related_to": "Memphis Grizzlies v Oklahoma Thunder",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Memphis Grizzlies v Oklahoma Thunder",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -1523,12 +1603,28 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Detroit Pistons v Washington Wizards",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "link": "#",
             "related_to": "Detroit Pistons v Washington Wizards",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "link": "#",
+            "related_to": "Detroit Pistons v Washington Wizards",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -10879,6 +10975,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-11-05 04:25:31",
-    "total_items": 1221
+    "last_updated": "2025-11-05 15:22:36",
+    "total_items": 1233
 }

@@ -293,6 +293,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Marseille v Brest",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Marseille v Brest",
@@ -1211,6 +1219,30 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Lyon v Paris St Germain",
@@ -2013,6 +2045,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-05 04:23:40",
-    "total_items": 245
+    "last_updated": "2025-11-05 15:20:42",
+    "total_items": 249
 }

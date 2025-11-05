@@ -99,11 +99,27 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports MENA 4K UHD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "Eshail 2",
+            "freq": "11.310 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "Tottenham Hotspur v Manchester United",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
         },
         {
@@ -201,6 +217,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Idman TV HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "FTA (BISS)"
         },
         {
             "channel": "Match 4 Hungary HD",
@@ -531,6 +555,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Idman TV HD",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "FTA (BISS)"
         },
         {
             "channel": "Nova Sports Premier League HD",
@@ -1042,7 +1074,7 @@
         },
         {
             "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
+            "link": "https://www.beinconnect.com.tr/spor",
             "related_to": "Sunderland v Arsenal",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -1062,6 +1094,14 @@
             "related_to": "Sunderland v Arsenal",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
         },
         {
@@ -1119,6 +1159,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Idman TV HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "FTA (BISS)"
         },
         {
             "channel": "Nova Sports Premier League HD",
@@ -1403,12 +1451,44 @@
             "encry": ""
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Chelsea v Wolves",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Chelsea v Wolves",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Canal+ Extra 1 Polska HD",
@@ -2885,6 +2965,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Canal+ Extra 1 Polska HD",
             "link": "#",
             "related_to": "Manchester City v Liverpool",
@@ -2955,6 +3043,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Idman TV HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "FTA (BISS)"
         },
         {
             "channel": "M+ #Vamos Bar 2",
@@ -10695,6 +10791,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-11-05 04:21:56",
-    "total_items": 1311
+    "last_updated": "2025-11-05 15:18:58",
+    "total_items": 1323
 }
