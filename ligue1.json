@@ -463,6 +463,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "V Sport 1 Sverige HD",
+            "link": "#",
+            "related_to": "Le Havre v Nantes",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Le Havre v Nantes",
@@ -687,6 +695,14 @@
             "sat": "Eutelsat 33E",
             "freq": "10.758 V 27500 - 5/6",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "V Sport Football HD",
+            "link": "#",
+            "related_to": "Monaco v Lens",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1007,6 +1023,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "V Sport 1 Sverige HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Strasbourg v Lille",
@@ -1095,6 +1119,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "link": "#",
+            "related_to": "Metz v Nice",
+            "sat": "Thor 6",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1257,6 +1289,14 @@
             "sat": "Thor 6",
             "freq": "11.345 V 30000 - 3/4",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "Thor 6",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1973,6 +2013,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-04 15:21:46",
-    "total_items": 240
+    "last_updated": "2025-11-05 04:23:40",
+    "total_items": 245
 }

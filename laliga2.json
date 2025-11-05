@@ -117,6 +117,30 @@
             "encry": ""
         },
         {
+            "channel": "TV2 Play Norge ($/geo/R) 📺",
+            "link": "https://play.tv2.no/sport",
+            "related_to": "Mirandés v Sporting Gijón",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Sport Premium 2 HD",
+            "link": "#",
+            "related_to": "Mirandés v Sporting Gijón",
+            "sat": "Thor 6",
+            "freq": "11.385 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Mirandés v Sporting Gijón",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 13",
             "flags": {
                 "team1": "spain",
@@ -489,6 +513,14 @@
             "encry": ""
         },
         {
+            "channel": "Arena Premium 4 Srbija HD",
+            "link": "#",
+            "related_to": "Burgos v Castellón",
+            "sat": "Astra 3C",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Burgos v Castellón",
@@ -545,6 +577,22 @@
             "encry": ""
         },
         {
+            "channel": "TV4 Fotboll HD",
+            "link": "#",
+            "related_to": "Burgos v Castellón",
+            "sat": "Thor 6",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Burgos v Castellón",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 14",
             "flags": {
                 "team1": "spain",
@@ -569,6 +617,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "link": "#",
+            "related_to": "Real Valladolid v Las Palmas",
+            "sat": "Thor 6",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Real Valladolid v Las Palmas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga 2 - Week 14",
@@ -623,6 +687,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Racing Santander v Granada",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "link": "#",
+            "related_to": "Racing Santander v Granada",
+            "sat": "Thor 6",
+            "freq": "10.778 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "Spanish La Liga 2 - Week 14",
@@ -733,6 +813,22 @@
             "encry": ""
         },
         {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Real Zaragoza v Huesca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "link": "#",
+            "related_to": "Real Zaragoza v Huesca",
+            "sat": "Thor 6",
+            "freq": "10.778 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 14",
             "flags": {
                 "team1": "spain",
@@ -749,6 +845,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "link": "#",
+            "related_to": "Cultural Leonesa v Málaga",
+            "sat": "Thor 6",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "TV4 Play Sverige [online] 📺",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": "Cultural Leonesa v Málaga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga 2 - Week 15",
@@ -769,6 +881,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-04 15:25:42",
-    "total_items": 90
+    "last_updated": "2025-11-05 04:27:33",
+    "total_items": 104
 }
