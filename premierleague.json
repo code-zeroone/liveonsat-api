@@ -1,6 +1,68 @@
 {
     "footonsat": [
         {
+            "compet": "English Premier League 2",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "West Ham United U-21 v Liverpool U-21",
+            "time": "19:00",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "LFC TV HD",
+            "link": "#",
+            "related_to": "West Ham United U-21 v Liverpool U-21",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "LFCTV GO [$] 📺",
+            "link": "https://video.liverpoolfc.com/",
+            "related_to": "West Ham United U-21 v Liverpool U-21",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "compet": "English Premier League 2",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Southampton U-21 v Arsenal U-21",
+            "time": "19:00",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "Arsenal LIVE ($/geo/R) 📺",
+            "link": "https://www.arsenal.com/ppv-packages",
+            "related_to": "Southampton U-21 v Arsenal U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "English Premier League 2",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Fulham U-21 v Tottenham U-21",
+            "time": "12:00",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "SpursPlay ($/geo/R) 📺",
+            "link": "https://play.tottenhamhotspur.com/",
+            "related_to": "Fulham U-21 v Tottenham U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "English Premier League - Week 11",
             "flags": {
                 "team1": "england",
@@ -241,6 +303,14 @@
             "sat": "Hotbird 13F",
             "freq": "11.804 V 29700 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
@@ -525,6 +595,14 @@
             "encry": ""
         },
         {
+            "channel": "Fubo Sports USA ($/geo/R) 📺",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "Everton v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "link": "#",
             "related_to": "Everton v Fulham",
@@ -563,6 +641,14 @@
             "sat": "AzerSpace 1",
             "freq": "11.175 H 30000 - 5/6",
             "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "NBC Universo USA",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Nova Sports Premier League HD",
@@ -683,6 +769,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "USA Network HD",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "V Sport Premier League HD",
@@ -895,6 +989,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "link": "#",
+            "related_to": "West Ham United v Burnley",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sky Sport 7 Deutsch HD",
             "link": "#",
             "related_to": "West Ham United v Burnley",
@@ -1074,7 +1176,7 @@
         },
         {
             "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor",
+            "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Sunderland v Arsenal",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -1137,6 +1239,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Fubo Sports USA ($/geo/R) 📺",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "link": "#",
             "related_to": "Sunderland v Arsenal",
@@ -1169,12 +1279,36 @@
             "encry": "FTA (BISS)"
         },
         {
+            "channel": "NBA TV USA HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "NBC Universo USA",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Nova Sports Premier League HD",
             "link": "#",
             "related_to": "Sunderland v Arsenal",
             "sat": "Hotbird 13F",
             "freq": "11.804 V 29700 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
@@ -1523,6 +1657,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Fubo Sports USA ($/geo/R) 📺",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "Chelsea v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "link": "#",
             "related_to": "Chelsea v Wolves",
@@ -1547,12 +1689,36 @@
             "encry": ""
         },
         {
+            "channel": "NBA TV USA HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "NBC Universo USA",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Nova Sports Premier League HD",
             "link": "#",
             "related_to": "Chelsea v Wolves",
             "sat": "Hotbird 13F",
             "freq": "11.804 V 29700 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
@@ -1909,6 +2075,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Brentford v Newcastle United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Setanta Sports 2 Eurasia HD",
             "link": "#",
             "related_to": "Brentford v Newcastle United",
@@ -2151,6 +2325,14 @@
             "encry": ""
         },
         {
+            "channel": "DAZN 4 Portugal HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Leeds United",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Nottingham Forest v Leeds United",
@@ -2197,6 +2379,14 @@
             "sat": "Hotbird 13F",
             "freq": "11.804 V 29700 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Nottingham Forest v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Setanta Sports+ Ukraine HD",
@@ -2433,6 +2623,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Fubo Sports USA ($/geo/R) 📺",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "Aston Villa v Bournemouth",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "link": "#",
             "related_to": "Aston Villa v Bournemouth",
@@ -2559,6 +2757,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "USA Network HD",
+            "link": "#",
+            "related_to": "Aston Villa v Bournemouth",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "V Sport Premier League 4 HD",
@@ -2691,6 +2897,14 @@
             "encry": ""
         },
         {
+            "channel": "DAZN 1 Portugal HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Brighton H.A.",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Crystal Palace v Brighton H.A.",
@@ -2729,6 +2943,14 @@
             "sat": "Hotbird 13F",
             "freq": "11.938 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Peacock Premium USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Crystal Palace v Brighton H.A.",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Play Sports 2 Belgium",
@@ -2981,6 +3203,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "DAZN 1 Portugal HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.399 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Manchester City v Liverpool",
@@ -2995,6 +3225,14 @@
             "sat": "Hellas Sat 3",
             "freq": "12.137 V 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R) 📺",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "FuboTV Canada ($/geo/R)",
@@ -3221,6 +3459,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Telemundo USA",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TSN Malta 2 HD",
             "link": "#",
             "related_to": "Manchester City v Liverpool",
@@ -3235,6 +3481,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "USA Network HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "V Sport Premier League HD",
@@ -10791,6 +11045,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-11-05 15:18:58",
-    "total_items": 1323
+    "last_updated": "2025-11-06 04:24:50",
+    "total_items": 1354
 }
