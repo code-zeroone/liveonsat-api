@@ -127,6 +127,14 @@
             "encry": "MPEG-4 Conax"
         },
         {
+            "channel": "SportKlub 9 Hrvatska",
+            "link": "#",
+            "related_to": "Trabzonspor v Alanyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 12",
             "flags": {
                 "team1": "turkey",
@@ -193,6 +201,14 @@
             "encry": "MPEG-4 Conax"
         },
         {
+            "channel": "SportKlub 7 Hrvatska",
+            "link": "#",
+            "related_to": "Antalyaspor v Besiktas",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 12",
             "flags": {
                 "team1": "turkey",
@@ -217,6 +233,14 @@
             "sat": "Turksat 3A",
             "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Kasimpasa v Göztepe",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "Türkiye Süper Lig - Week 12",
@@ -985,6 +1009,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-06 04:29:25",
-    "total_items": 114
+    "last_updated": "2025-11-06 15:25:01",
+    "total_items": 117
 }

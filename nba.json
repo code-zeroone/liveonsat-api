@@ -807,6 +807,22 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Atlanta Hawks v Los Angeles Lakers",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "link": "#",
+            "related_to": "Atlanta Hawks v Los Angeles Lakers",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "compet": "NBA Regular Season",
             "flags": {
                 "team1": "assocnba",
@@ -1345,6 +1361,14 @@
             "date": "2025-11-11"
         },
         {
+            "channel": "Cosmote Sport 4 HD",
+            "link": "#",
+            "related_to": "Dallas Mavericks v Milwaukee Bucks",
+            "sat": "Eutelsat 9B",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Dallas Mavericks v Milwaukee Bucks",
@@ -1519,6 +1543,14 @@
             "date": "2025-11-12"
         },
         {
+            "channel": "Cosmote Sport 4 HD",
+            "link": "#",
+            "related_to": "Oklahoma Thunder v Golden State Warriors",
+            "sat": "Eutelsat 9B",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Oklahoma Thunder v Golden State Warriors",
@@ -1635,6 +1667,14 @@
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Cosmote Sport 4 HD",
+            "link": "#",
+            "related_to": "New York Knicks v Orlando Magic",
+            "sat": "Eutelsat 9B",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -10595,6 +10635,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-11-06 04:28:24",
-    "total_items": 1187
+    "last_updated": "2025-11-06 15:24:00",
+    "total_items": 1192
 }

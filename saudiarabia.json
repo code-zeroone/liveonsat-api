@@ -83,6 +83,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SportKlub 7 Hrvatska",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "link": "#",
             "related_to": "Al Najma v Al Hilal",
@@ -181,6 +189,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "NEOM SC v Al Nassr",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "link": "#",
             "related_to": "NEOM SC v Al Nassr",
@@ -255,6 +271,22 @@
             "encry": ""
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "Eutelsat 16A",
+            "freq": "11.387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "link": "#",
             "related_to": "Al Ittihad v Al Ahli",
@@ -315,6 +347,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-06 04:30:46",
-    "total_items": 38
+    "last_updated": "2025-11-06 15:26:23",
+    "total_items": 42
 }
