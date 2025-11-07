@@ -6,6 +6,42 @@
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
+            "match": "Al Fayha v Al Akhdoud",
+            "time": "13:20",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Fayha v Al Akhdoud",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 8",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Fateh v Al Taawoun",
+            "time": "14:35",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "link": "#",
+            "related_to": "Al Fateh v Al Taawoun",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 8",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
             "match": "Al Najma v Al Hilal",
             "time": "17:30",
             "date": "2025-11-07"
@@ -97,6 +133,14 @@
             "sat": "Measat 3b",
             "freq": "10.772 V 30000 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "TRT Spor Türkiye HD 📺",
@@ -205,6 +249,32 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "NEOM SC v Al Nassr",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 8",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Shabab v Al Ettifaq",
+            "time": "14:45",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "link": "#",
+            "related_to": "Al Shabab v Al Ettifaq",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "Saudi Professional League - Week 8",
             "flags": {
                 "team1": "saudiarabia",
@@ -295,6 +365,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "Saudi Professional League - Week 9",
             "flags": {
                 "team1": "saudiarabia",
@@ -347,6 +425,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-06 15:26:23",
-    "total_items": 42
+    "last_updated": "2025-11-07 04:26:35",
+    "total_items": 51
 }
