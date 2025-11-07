@@ -27,6 +27,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "BBC iPlayer (geo/R) 📺",
             "link": "https://www.bbc.co.uk/iplayer",
             "related_to": "Werder Bremen v Wolfsburg",
@@ -123,6 +131,30 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Go3 Sport Open Baltic 📺",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Astra 4A",
+            "freq": "11.958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "MBC Action HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Badr 8",
+            "freq": "12.399 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Nova Sport 3 Czech HD",
             "link": "#",
             "related_to": "Werder Bremen v Wolfsburg",
@@ -155,6 +187,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
             "link": "https://gong.bg/streaming",
             "related_to": "Werder Bremen v Wolfsburg",
@@ -177,6 +217,14 @@
             "sat": "Hotbird 13G",
             "freq": "11.117 V 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "Prima Sport RO 4 HD",
@@ -203,6 +251,22 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Setanta Sports Premium HD 📺",
             "link": "https://tv.kyivstar.ua/en/setantasports",
             "related_to": "Werder Bremen v Wolfsburg",
@@ -219,11 +283,35 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sky Sport 255 Italia HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Hotbird 13F",
+            "freq": "12.418 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sky Sport Bundesliga HD",
             "link": "#",
             "related_to": "Werder Bremen v Wolfsburg",
             "sat": "Astra 1N",
             "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Bundesliga UHD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport MIX Italia HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Hotbird 13F",
+            "freq": "11.862 H 29900 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -235,12 +323,60 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "SportKlub 3 Hrvatska",
             "link": "#",
             "related_to": "Werder Bremen v Wolfsburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ST World Football HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Eutelsat 10B",
+            "freq": "3.736 R 07307 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "Tivibu Spor 1 HD",
@@ -265,6 +401,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "V Sport 2 Norge HD",
@@ -305,6 +449,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "ViaPlay Suomi HD",
@@ -509,6 +661,14 @@
             "encry": ""
         },
         {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Prima Sport RO 3 HD",
             "link": "#",
             "related_to": "Union Berlin v Bayern Munich",
@@ -533,6 +693,14 @@
             "encry": ""
         },
         {
+            "channel": "See Dansk HD",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "Thor 6",
+            "freq": "11.265 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Setanta Sports Qazaqstan HD",
             "link": "#",
             "related_to": "Union Berlin v Bayern Munich",
@@ -555,6 +723,22 @@
             "sat": "Astra 1M",
             "freq": "11.758 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Sport TV1 Slovenija",
@@ -651,6 +835,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Z Sports 2 Angola",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "Eutelsat 36D",
+            "freq": "11.388 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra"
         },
         {
             "compet": "German 1. Bundesliga - Week 10",
@@ -759,6 +951,14 @@
             "encry": ""
         },
         {
+            "channel": "Premier Sports 4 Mongolia HD",
+            "link": "#",
+            "related_to": "Hamburg v Borussia Dortmund",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Prima Sport RO PPV 3",
             "link": "#",
             "related_to": "Hamburg v Borussia Dortmund",
@@ -797,6 +997,14 @@
             "sat": "Astra 1M",
             "freq": "11.798 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Hamburg v Borussia Dortmund",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sport TV2 Slovenija",
@@ -1317,12 +1525,28 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v FC Cologne",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Prima Sport RO PPV 3",
             "link": "#",
             "related_to": "Mönchengladbach v FC Cologne",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "See Dansk HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v FC Cologne",
+            "sat": "Thor 6",
+            "freq": "11.265 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -1363,6 +1587,14 @@
             "sat": "Astra 2E",
             "freq": "12.012 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v FC Cologne",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sport TV2 Slovenija",
@@ -1597,6 +1829,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "link": "#",
+            "related_to": "Freiburg v St Pauli",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "Prima Sport RO PPV 2",
@@ -1849,6 +2089,14 @@
             "encry": ""
         },
         {
+            "channel": "Premier Sports 4 Mongolia HD",
+            "link": "#",
+            "related_to": "Stuttgart v Augsburg",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Prima Sport RO PPV 2",
             "link": "#",
             "related_to": "Stuttgart v Augsburg",
@@ -1879,6 +2127,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Stuttgart v Augsburg",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sport TV2 Slovenija",
@@ -1983,6 +2239,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Z Sports 2 Angola",
+            "link": "#",
+            "related_to": "Stuttgart v Augsburg",
+            "sat": "Eutelsat 36D",
+            "freq": "11.388 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra"
         },
         {
             "compet": "German 1. Bundesliga - Week 10",
@@ -2107,6 +2371,14 @@
             "encry": ""
         },
         {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Mainz 05",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Prima Sport RO PPV 2",
             "link": "#",
             "related_to": "Eintracht Frankfurt v Mainz 05",
@@ -2169,6 +2441,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Mainz 05",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "V Sport 2 Norge HD",
@@ -3860,14 +4140,14 @@
                 "team1": "germany",
                 "team2": "germany"
             },
-            "match": "Borussia Dortmund v Hoffenheim",
-            "time": "14:30",
-            "date": "2025-12-06"
+            "match": "Mainz 05 v Mönchengladbach",
+            "time": "19:30",
+            "date": "2025-12-05"
         },
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
-            "related_to": "Borussia Dortmund v Hoffenheim",
+            "related_to": "Mainz 05 v Mönchengladbach",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -3896,24 +4176,6 @@
                 "team1": "germany",
                 "team2": "germany"
             },
-            "match": "Hamburg v Werder Bremen",
-            "time": "14:30",
-            "date": "2025-12-06"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Hamburg v Werder Bremen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 13",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
             "match": "Heidenheim v Freiburg",
             "time": "14:30",
             "date": "2025-12-06"
@@ -3922,42 +4184,6 @@
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Heidenheim v Freiburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 13",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Mainz 05 v Mönchengladbach",
-            "time": "14:30",
-            "date": "2025-12-06"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Mainz 05 v Mönchengladbach",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 13",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "RB Leipzig v Eintracht Frankfurt",
-            "time": "14:30",
-            "date": "2025-12-06"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "RB Leipzig v Eintracht Frankfurt",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -3997,8 +4223,62 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 13",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "match": "RB Leipzig v Eintracht Frankfurt",
+            "time": "17:30",
+            "date": "2025-12-06"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R) 📺",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "RB Leipzig v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 13",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "match": "Hamburg v Werder Bremen",
+            "time": "14:30",
+            "date": "2025-12-07"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R) 📺",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "Hamburg v Werder Bremen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 13",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "match": "Borussia Dortmund v Hoffenheim",
+            "time": "16:30",
+            "date": "2025-12-07"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R) 📺",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "Borussia Dortmund v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         }
     ],
-    "last_updated": "2025-11-07 04:23:01",
-    "total_items": 491
+    "last_updated": "2025-11-07 15:21:21",
+    "total_items": 526
 }

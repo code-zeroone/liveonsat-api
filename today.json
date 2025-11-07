@@ -149,6 +149,24 @@
             "encry": "HD VideoGuard"
         },
         {
+            "compet": "Azerbaijan Premier League - Week 11",
+            "flags": {
+                "team1": "azerbaijan",
+                "team2": "azerbaijan"
+            },
+            "match": "Shamakhi v Imishli FK",
+            "time": "09:44",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "CBC Sport HD",
+            "link": "#",
+            "related_to": "Shamakhi v Imishli FK",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "Belarus Premier League - Week 28",
             "flags": {
                 "team1": "belarus",
@@ -165,24 +183,6 @@
             "sat": "Belintersat 1",
             "freq": "11.350 H 45000 - 3/4",
             "encry": "HD DRE-Crypt"
-        },
-        {
-            "compet": "Azerbaijan Premier League - Week 11",
-            "flags": {
-                "team1": "azerbaijan",
-                "team2": "azerbaijan"
-            },
-            "match": "Shamakhi v Imishli FK",
-            "time": "10:00",
-            "date": "2025-11-07"
-        },
-        {
-            "channel": "CBC Sport HD",
-            "link": "#",
-            "related_to": "Shamakhi v Imishli FK",
-            "sat": "AzerSpace 1",
-            "freq": "11.175 H 30000 - 5/6",
-            "encry": "Free To Air HD"
         },
         {
             "compet": "Australian A League - Week 4",
@@ -319,6 +319,22 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "England U-17 v Haiti U-17",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "England U-17 v Haiti U-17",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 2",
             "flags": {
                 "team1": "elsalvador",
@@ -343,6 +359,40 @@
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "El Salvador U-17 v Colombia U-17",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "El Salvador U-17 v Colombia U-17",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "Azerbaijan Premier League - Week 11",
+            "flags": {
+                "team1": "azerbaijan",
+                "team2": "azerbaijan"
+            },
+            "match": "Qabala v Sumqayit",
+            "time": "12:44",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "CBC Sport HD",
+            "link": "#",
+            "related_to": "Qabala v Sumqayit",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "Free To Air HD"
         },
         {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 2",
@@ -377,6 +427,22 @@
             "sat": "Astra 1N",
             "freq": "12.304 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Germany U-17 v North Korea U-17",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Germany U-17 v North Korea U-17",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "compet": "Bulgarian First League - Week 15",
@@ -421,22 +487,22 @@
             "encry": ""
         },
         {
-            "compet": "Azerbaijan Premier League - Week 11",
+            "compet": "Albanian First Division - Week 11",
             "flags": {
-                "team1": "azerbaijan",
-                "team2": "azerbaijan"
+                "team1": "albania",
+                "team2": "albania"
             },
-            "match": "Qabala v Sumqayit",
+            "match": "Burreli v Pogradeci",
             "time": "13:00",
             "date": "2025-11-07"
         },
         {
-            "channel": "CBC Sport HD",
-            "link": "#",
-            "related_to": "Qabala v Sumqayit",
-            "sat": "AzerSpace 1",
-            "freq": "11.175 H 30000 - 5/6",
-            "encry": "Free To Air HD"
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Burreli v Pogradeci",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
         },
         {
             "compet": "Croatian Prva NL - Week 14",
@@ -463,6 +529,42 @@
             "sat": "Eutelsat 16A",
             "freq": "11.595 H 30000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "compet": "Israeli Liga Leumit (2nd) - Week 12",
+            "flags": {
+                "team1": "israel7",
+                "team2": "israel"
+            },
+            "match": "Hapoel Ra'anana v Bnei Yehuda",
+            "time": "13:00",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "5 LIVE Israel HD",
+            "link": "#",
+            "related_to": "Hapoel Ra'anana v Bnei Yehuda",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "Israeli Liga Leumit (2nd) - Week 12",
+            "flags": {
+                "team1": "israel",
+                "team2": "israel"
+            },
+            "match": "Hapoel Nof HaGalil v Maccabi Petah Tikva",
+            "time": "13:00",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "link": "#",
+            "related_to": "Hapoel Nof HaGalil v Maccabi Petah Tikva",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "Saudi Professional League - Week 8",
@@ -515,6 +617,14 @@
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "link": "#",
+            "related_to": "Egypt U-17 v Venezuela U-17",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
         },
         {
             "compet": "Ukrainian Premier League - Week 12",
@@ -647,6 +757,30 @@
             "encry": "-"
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "Mexico U-17 v Ivory Coast U-17",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "link": "#",
+            "related_to": "Mexico U-17 v Ivory Coast U-17",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Mexico U-17 v Ivory Coast U-17",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 2",
             "flags": {
                 "team1": "switzerland8",
@@ -671,6 +805,30 @@
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Switzerland U-17 v South Korea U-17",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Switzerland U-17 v South Korea U-17",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Switzerland U-17 v South Korea U-17",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "Bulgarian First League - Week 15",
@@ -749,6 +907,22 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Brazil U-17 v Indonesia U-17",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Brazil U-17 v Indonesia U-17",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 2",
             "flags": {
                 "team1": "zambia",
@@ -773,6 +947,14 @@
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "link": "#",
+            "related_to": "Zambia U-17 v Honduras U-17",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
         },
         {
             "compet": "Romanian Superliga - Week 16",
@@ -815,6 +997,32 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "compet": "Albanian Superliga - Week 11",
+            "flags": {
+                "team1": "albania",
+                "team2": "albania1"
+            },
+            "match": "Bylis v Flamurtari",
+            "time": "16:00",
+            "date": "2025-11-07"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Bylis v Flamurtari",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "channel": "RTSH Tani [app]",
+            "link": "#",
+            "related_to": "Bylis v Flamurtari",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "Ukrainian Premier League - Week 12",
@@ -1487,6 +1695,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Dynamo Dresden v Nuremberg",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Sport TV1 Slovenija",
             "link": "#",
             "related_to": "Dynamo Dresden v Nuremberg",
@@ -1837,6 +2053,14 @@
             "date": "2025-11-07"
         },
         {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Cosmote Sport 9 HD",
             "link": "#",
             "related_to": "Al Najma v Al Hilal",
@@ -1851,6 +2075,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DAZN France ($/geo/R)",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "M+ #Vamos Bar",
@@ -1909,6 +2157,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sportitalia HD 📺",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Eutelsat 9B",
+            "freq": "12.341 V 31400 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "SportKlub 7 Hrvatska",
             "link": "#",
             "related_to": "Al Najma v Al Hilal",
@@ -1925,6 +2181,46 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Spíler 1 TV Hungary HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Thor 6",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Conax"
+        },
+        {
+            "channel": "ST World Football HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Eutelsat 10B",
+            "freq": "3.736 R 07307 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Strike TV",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Thor 6",
+            "freq": "12.245 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Thmanyah 1 HD",
             "link": "#",
             "related_to": "Al Najma v Al Hilal",
@@ -1939,6 +2235,22 @@
             "sat": "Turksat 3A",
             "freq": "11.096 H 30000 - 5/6",
             "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "TV2 Play Premium (geo/R) 📺",
+            "link": "https://tv2play.hu/musorok?mufajok=sport&rendezes=nepszeruseg",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Z Sports 1 Angola",
+            "link": "#",
+            "related_to": "Al Najma v Al Hilal",
+            "sat": "Eutelsat 36D",
+            "freq": "11.263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra"
         },
         {
             "compet": "Swedish Damallsvenskan - Week 25",
@@ -2049,6 +2361,14 @@
             "match": "Duisburg v Waldhof Mannheim",
             "time": "18:00",
             "date": "2025-11-07"
+        },
+        {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "link": "#",
+            "related_to": "Duisburg v Waldhof Mannheim",
+            "sat": "Belintersat 1",
+            "freq": "11.230 H 45000 - 8/9",
+            "encry": "HD Panaccess"
         },
         {
             "channel": "Magenta Sport ($/geo/R) 📺",
@@ -3379,6 +3699,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "BBC iPlayer (geo/R) 📺",
             "link": "https://www.bbc.co.uk/iplayer",
             "related_to": "Werder Bremen v Wolfsburg",
@@ -3475,6 +3803,30 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Go3 Sport Open Baltic 📺",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Astra 4A",
+            "freq": "11.958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "MBC Action HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Badr 8",
+            "freq": "12.399 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Nova Sport 3 Czech HD",
             "link": "#",
             "related_to": "Werder Bremen v Wolfsburg",
@@ -3507,6 +3859,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
             "link": "https://gong.bg/streaming",
             "related_to": "Werder Bremen v Wolfsburg",
@@ -3529,6 +3889,14 @@
             "sat": "Hotbird 13G",
             "freq": "11.117 V 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "Prima Sport RO 4 HD",
@@ -3555,6 +3923,22 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Setanta Sports Premium HD 📺",
             "link": "https://tv.kyivstar.ua/en/setantasports",
             "related_to": "Werder Bremen v Wolfsburg",
@@ -3571,11 +3955,35 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sky Sport 255 Italia HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Hotbird 13F",
+            "freq": "12.418 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sky Sport Bundesliga HD",
             "link": "#",
             "related_to": "Werder Bremen v Wolfsburg",
             "sat": "Astra 1N",
             "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Bundesliga UHD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport MIX Italia HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Hotbird 13F",
+            "freq": "11.862 H 29900 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -3587,12 +3995,60 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport TV Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "SportKlub 3 Hrvatska",
             "link": "#",
             "related_to": "Werder Bremen v Wolfsburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ST World Football HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Eutelsat 10B",
+            "freq": "3.736 R 07307 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "Tivibu Spor 1 HD",
@@ -3617,6 +4073,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "V Sport 2 Norge HD",
@@ -3657,6 +4121,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Wolfsburg",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "ViaPlay Suomi HD",
@@ -3707,6 +4179,14 @@
             "match": "Spezia v Bari",
             "time": "19:30",
             "date": "2025-11-07"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "link": "#",
+            "related_to": "Spezia v Bari",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Blue Sport 3 Live HD",
@@ -4079,6 +4559,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Paris FC v Rennes",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "SuperSport GOtv Africa",
             "link": "#",
             "related_to": "Paris FC v Rennes",
@@ -4109,6 +4597,14 @@
             "sat": "Thor 6",
             "freq": "10.903 V 25000 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Paris FC v Rennes",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "ViaPlay 1 Urheilu HD",
@@ -4217,6 +4713,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Pisa v Cremonese",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Cosmote Sport 2 HD",
             "link": "#",
             "related_to": "Pisa v Cremonese",
@@ -4321,12 +4825,28 @@
             "encry": ""
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Pisa v Cremonese",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "MATCH! Futbol 1 HD",
             "link": "#",
             "related_to": "Pisa v Cremonese",
             "sat": "Horizons 2",
             "freq": "11.840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "link": "#",
+            "related_to": "Pisa v Cremonese",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Megogo Futbol 2 ($/geo/R)",
@@ -4417,6 +4937,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Pisa v Cremonese",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "link": "#",
             "related_to": "Pisa v Cremonese",
@@ -4487,6 +5015,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Pisa v Cremonese",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "Belgian Pro League - Week 14",
@@ -4745,6 +5281,22 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Watford v Bristol City",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Watford v Bristol City",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "SuperSport MáXimo 2A HD",
             "link": "#",
             "related_to": "Watford v Bristol City",
@@ -4883,6 +5435,14 @@
             "encry": ""
         },
         {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Elche v Real Sociedad",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Elche v Real Sociedad",
@@ -5003,6 +5563,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "link": "#",
+            "related_to": "Elche v Real Sociedad",
+            "sat": "SES 6",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "ESPN Deportes",
             "link": "#",
             "related_to": "Elche v Real Sociedad",
@@ -5083,6 +5651,22 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "link": "#",
+            "related_to": "Elche v Real Sociedad",
+            "sat": "Eutelsat 16A",
+            "freq": "12.604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "New World Sport 5 Togo",
+            "link": "#",
+            "related_to": "Elche v Real Sociedad",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Nova Sport 5 Czech HD",
             "link": "#",
             "related_to": "Elche v Real Sociedad",
@@ -5153,6 +5737,14 @@
             "sat": "Thor 6",
             "freq": "11.727 V 28000 - 7/8",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "link": "#",
+            "related_to": "Elche v Real Sociedad",
+            "sat": "Belintersat 1",
+            "freq": "11.098 H 16665 - 1/2",
+            "encry": "Conax"
         },
         {
             "channel": "SuperSport LaLiga HD",
@@ -5343,6 +5935,6 @@
             "encry": "HD NagraVision"
         }
     ],
-    "last_updated": "2025-11-07 04:20:14",
-    "total_items": 642
+    "last_updated": "2025-11-07 15:18:33",
+    "total_items": 715
 }

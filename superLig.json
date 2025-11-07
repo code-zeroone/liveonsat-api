@@ -343,6 +343,14 @@
             "encry": ""
         },
         {
+            "channel": "SuperSport 5 Albania HD",
+            "link": "#",
+            "related_to": "Kocaelispor v Galatasaray",
+            "sat": "Eutelsat 16A",
+            "freq": "10.804 H 29950 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 12",
             "flags": {
                 "team1": "turkey",
@@ -423,6 +431,14 @@
             "sat": "Hispasat 30W-5",
             "freq": "12.360 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Kayserispor",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         },
         {
             "compet": "Türkiye Süper Lig - Week 12",
@@ -1009,6 +1025,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-07 04:25:13",
-    "total_items": 117
+    "last_updated": "2025-11-07 15:23:32",
+    "total_items": 119
 }

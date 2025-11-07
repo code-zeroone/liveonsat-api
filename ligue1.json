@@ -187,6 +187,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Paris FC v Rennes",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "SuperSport GOtv Africa",
             "link": "#",
             "related_to": "Paris FC v Rennes",
@@ -217,6 +225,14 @@
             "sat": "Thor 6",
             "freq": "10.903 V 25000 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Paris FC v Rennes",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "ViaPlay 1 Urheilu HD",
@@ -435,6 +451,14 @@
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "link": "#",
+            "related_to": "Marseille v Brest",
+            "sat": "Eutelsat 16A",
+            "freq": "10.804 H 29950 - 2/3",
+            "encry": "HD Conax"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -657,6 +681,14 @@
             "date": "2025-11-08"
         },
         {
+            "channel": "5 LIVE Israel HD",
+            "link": "#",
+            "related_to": "Monaco v Lens",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Arena Premium 5 Srbija HD",
             "link": "#",
             "related_to": "Monaco v Lens",
@@ -801,6 +833,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Monaco v Lens",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "SuperSport GOtv Africa",
             "link": "#",
             "related_to": "Monaco v Lens",
@@ -929,6 +969,14 @@
             "match": "Lorient v Toulouse",
             "time": "14:00",
             "date": "2025-11-09"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "link": "#",
+            "related_to": "Lorient v Toulouse",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -1271,6 +1319,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sport TV5 Portugal HD",
             "link": "#",
             "related_to": "Strasbourg v Lille",
@@ -1467,6 +1523,14 @@
             "date": "2025-11-09"
         },
         {
+            "channel": "5 LIVE Israel HD",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Arena Sport 4 BiH HD",
             "link": "#",
             "related_to": "Lyon v Paris St Germain",
@@ -1579,6 +1643,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Lyon v Paris St Germain",
@@ -1627,12 +1699,28 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport TV 2 Azerbaijan (geo/R)",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "link": "#",
             "related_to": "Lyon v Paris St Germain",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
         },
         {
             "channel": "TV3 Sport Dansk HD",
@@ -2663,6 +2751,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-07 04:22:19",
-    "total_items": 326
+    "last_updated": "2025-11-07 15:20:39",
+    "total_items": 337
 }
