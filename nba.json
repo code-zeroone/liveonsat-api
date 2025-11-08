@@ -6,80 +6,6 @@
                 "team1": "assocnba",
                 "team2": "assocnba"
             },
-            "match": "Phoenix Suns v Los Angeles Clippers",
-            "time": "02:00",
-            "date": "2025-11-07"
-        },
-        {
-            "channel": "beIN Connect FRANCE 📺",
-            "link": "https://connect.beinsports.com/france/se-connecter",
-            "related_to": "Phoenix Suns v Los Angeles Clippers",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Phoenix Suns v Los Angeles Clippers",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "link": "#",
-            "related_to": "Phoenix Suns v Los Angeles Clippers",
-            "sat": "Astra 1M",
-            "freq": "11.856 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "link": "#",
-            "related_to": "Phoenix Suns v Los Angeles Clippers",
-            "sat": "Eshail 2",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Cosmote Sport 4 HD",
-            "link": "#",
-            "related_to": "Phoenix Suns v Los Angeles Clippers",
-            "sat": "Eutelsat 9B",
-            "freq": "12.149 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Phoenix Suns v Los Angeles Clippers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "link": "#",
-            "related_to": "Phoenix Suns v Los Angeles Clippers",
-            "sat": "KazSat 3",
-            "freq": "12.657 V 45000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "link": "#",
-            "related_to": "Phoenix Suns v Los Angeles Clippers",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
             "match": "Orlando Magic v Boston Celtics",
             "time": "00:00",
             "date": "2025-11-08"
@@ -561,6 +487,14 @@
             "sat": "Astra 3C",
             "freq": "12.480 V 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "link": "#",
+            "related_to": "Milwaukee Bucks v Houston Rockets",
+            "sat": "Eutelsat 16A",
+            "freq": "10.886 H 30000 - 8/9",
+            "encry": "HD Mediaguard"
         },
         {
             "channel": "Cosmote Sport 4 HD",
@@ -1735,6 +1669,22 @@
             "date": "2025-11-15"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Cleveland Cavaliers v Memphis Grizzlies",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 3 HD",
+            "link": "#",
+            "related_to": "Cleveland Cavaliers v Memphis Grizzlies",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Cleveland Cavaliers v Memphis Grizzlies",
@@ -1784,14 +1734,30 @@
                 "team1": "assocnba",
                 "team2": "assocnba"
             },
-            "match": "Milwaukee Bucks v Los Angeles Lakers",
+            "match": "Minnesota Timberwolves v Denver Nuggets",
             "time": "01:00",
             "date": "2025-11-16"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Minnesota Timberwolves v Denver Nuggets",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Minnesota Timberwolves v Denver Nuggets",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
-            "related_to": "Milwaukee Bucks v Los Angeles Lakers",
+            "related_to": "Minnesota Timberwolves v Denver Nuggets",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -1802,14 +1768,14 @@
                 "team1": "assocnba",
                 "team2": "assocnba"
             },
-            "match": "Minnesota Timberwolves v Denver Nuggets",
+            "match": "Milwaukee Bucks v Los Angeles Lakers",
             "time": "01:00",
             "date": "2025-11-16"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
-            "related_to": "Minnesota Timberwolves v Denver Nuggets",
+            "related_to": "Milwaukee Bucks v Los Angeles Lakers",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -10221,6 +10187,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-11-07 15:22:31",
-    "total_items": 1143
+    "last_updated": "2025-11-08 04:24:04",
+    "total_items": 1139
 }

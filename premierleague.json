@@ -6,50 +6,6 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "match": "West Ham United U-21 v Liverpool U-21",
-            "time": "19:00",
-            "date": "2025-11-07"
-        },
-        {
-            "channel": "LFC TV HD",
-            "link": "#",
-            "related_to": "West Ham United U-21 v Liverpool U-21",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "LFCTV GO [$] 📺",
-            "link": "https://video.liverpoolfc.com/",
-            "related_to": "West Ham United U-21 v Liverpool U-21",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "compet": "English Premier League 2",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Southampton U-21 v Arsenal U-21",
-            "time": "19:00",
-            "date": "2025-11-07"
-        },
-        {
-            "channel": "Arsenal LIVE ($/geo/R) 📺",
-            "link": "https://www.arsenal.com/ppv-packages",
-            "related_to": "Southampton U-21 v Arsenal U-21",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "English Premier League 2",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
             "match": "Fulham U-21 v Tottenham U-21",
             "time": "12:00",
             "date": "2025-11-08"
@@ -193,12 +149,84 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ France HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "Astra 1N",
+            "freq": "12.728 V 23500 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport 1 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "Astra 3B",
+            "freq": "11.973 V 29900 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "Eutelsat 36C",
+            "freq": "11.823 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Canal+ Sport 5 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports 4K UHD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "link": "#",
             "related_to": "Tottenham Hotspur v Manchester United",
             "sat": "Hispasat 30W-5",
             "freq": "12.399 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Bar Espana",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Espana HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "Astra 1KR",
+            "freq": "11.156 V 22000 - 5/6",
+            "encry": "NagraVision"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -235,6 +263,14 @@
         {
             "channel": "Disney+ Sverige ($/geo/R)",
             "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Fast Sports 1 Armenia ($/geo/R) 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
             "related_to": "Tottenham Hotspur v Manchester United",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -321,6 +357,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
             "link": "https://gong.bg/streaming",
             "related_to": "Tottenham Hotspur v Manchester United",
@@ -351,6 +395,14 @@
             "sat": "KazSat 3",
             "freq": "12.657 V 45000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "channel": "Setanta Sports Ukraine HD",
@@ -595,6 +647,30 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "Eutelsat 36C",
+            "freq": "11.823 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Canal+ Sport 4 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Everton v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "CRTV Sports Cameroon",
             "link": "#",
             "related_to": "Everton v Fulham",
@@ -603,12 +679,36 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "Cytavision Sports 4 HD",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "link": "#",
             "related_to": "Everton v Fulham",
             "sat": "Hispasat 30W-5",
             "freq": "12.399 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Bar Espana",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Espana HD",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "Astra 1KR",
+            "freq": "11.156 V 22000 - 5/6",
+            "encry": "NagraVision"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -739,12 +839,36 @@
             "encry": "MPEG-4 Verimatrix"
         },
         {
+            "channel": "RTS 2 Senegal HD 📺",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": "Everton v Fulham",
+            "sat": "Amos 17",
+            "freq": "11.968 V 34030 - 5/6",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "SABC 3 HD",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "Intelsat 20",
+            "freq": "11.010 V 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "Setanta Sports 1 Eurasia HD",
             "link": "#",
             "related_to": "Everton v Fulham",
             "sat": "KazSat 3",
             "freq": "12.657 V 45000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "channel": "Setanta Sports+ Ukraine HD",
@@ -777,6 +901,14 @@
             "sat": "Amos 7",
             "freq": "11.474 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "Astra 2F",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
         },
         {
             "channel": "Spíler 1 TV Hungary HD",
@@ -1037,11 +1169,59 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ Live 5 France HD",
+            "link": "#",
+            "related_to": "West Ham United v Burnley",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport 1 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "West Ham United v Burnley",
+            "sat": "Astra 3B",
+            "freq": "11.973 V 29900 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "link": "#",
+            "related_to": "West Ham United v Burnley",
+            "sat": "Eutelsat 16A",
+            "freq": "10.886 H 30000 - 8/9",
+            "encry": "HD Mediaguard"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "link": "#",
+            "related_to": "West Ham United v Burnley",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "link": "#",
+            "related_to": "West Ham United v Burnley",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 3 Portugal HD",
             "link": "#",
             "related_to": "West Ham United v Burnley",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN 4 Espana HD",
+            "link": "#",
+            "related_to": "West Ham United v Burnley",
+            "sat": "Astra 1KR",
+            "freq": "11.436 V 22000 - 2/3",
             "encry": "HD NagraVision"
         },
         {
@@ -1099,6 +1279,14 @@
             "sat": "Telstar 18",
             "freq": "12.598 H 45000 - 5/6",
             "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Sky Sport 259 Italia HD",
+            "link": "#",
+            "related_to": "West Ham United v Burnley",
+            "sat": "Hotbird 13F",
+            "freq": "12.341 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sport 7 Deutsch HD",
@@ -1327,12 +1515,60 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ Sport 1 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "Astra 3B",
+            "freq": "11.973 V 29900 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "Eutelsat 36C",
+            "freq": "11.823 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "link": "#",
             "related_to": "Sunderland v Arsenal",
             "sat": "Hispasat 30W-5",
             "freq": "12.399 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Bar Espana",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Espana HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "Astra 1KR",
+            "freq": "11.156 V 22000 - 5/6",
+            "encry": "NagraVision"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -1349,6 +1585,14 @@
             "sat": "Hellas Sat 3",
             "freq": "12.137 V 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Fast Sports TV Armenia 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "Eutelsat 70B",
+            "freq": "11.050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss"
         },
         {
             "channel": "Fubo Sports USA ($/geo/R) 📺",
@@ -1399,20 +1643,20 @@
             "encry": "FTA (BISS)"
         },
         {
-            "channel": "NBA TV USA HD",
-            "link": "#",
-            "related_to": "Sunderland v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
             "channel": "NBC Universo USA",
             "link": "#",
             "related_to": "Sunderland v Arsenal",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "NBC USA HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Nova Sports Premier League HD",
@@ -1429,6 +1673,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
         },
         {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
@@ -1461,6 +1713,14 @@
             "sat": "KazSat 3",
             "freq": "12.657 V 45000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "channel": "Setanta Sports Ukraine HD",
@@ -1613,6 +1873,14 @@
             "sat": "Thor 6",
             "freq": "10.903 V 25000 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1777,6 +2045,70 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ Foot HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Astra 1M",
+            "freq": "12.012 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Canal+ Sport 1 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Astra 3B",
+            "freq": "11.973 V 29900 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Eutelsat 36C",
+            "freq": "11.823 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Canal+ Sport 5 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Chelsea v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN 1 Bar Espana",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "DAZN 1 Espana HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Astra 1KR",
+            "freq": "10.729 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "link": "#",
             "related_to": "Chelsea v Wolves",
@@ -1799,6 +2131,14 @@
             "sat": "Hellas Sat 3",
             "freq": "12.137 V 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Fast Sports TV Armenia 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Eutelsat 70B",
+            "freq": "11.050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss"
         },
         {
             "channel": "Fubo Sports USA ($/geo/R) 📺",
@@ -1833,20 +2173,20 @@
             "encry": ""
         },
         {
-            "channel": "NBA TV USA HD",
-            "link": "#",
-            "related_to": "Chelsea v Wolves",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
             "channel": "NBC Universo USA",
             "link": "#",
             "related_to": "Chelsea v Wolves",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "NBC USA HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Nova Sports Premier League HD",
@@ -1863,6 +2203,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
         },
         {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
@@ -1897,6 +2245,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
             "channel": "Setanta Sports Ukraine HD",
             "link": "#",
             "related_to": "Chelsea v Wolves",
@@ -1911,6 +2267,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 254 Italia HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Hotbird 13F",
+            "freq": "12.341 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Max Italia HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Hotbird 13F",
+            "freq": "11.977 H 29900 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sport Premier League DE HD",
@@ -2055,6 +2427,14 @@
             "sat": "Thor 6",
             "freq": "10.903 V 25000 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -2203,6 +2583,38 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ Sport 7 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Brentford v Newcastle United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "link": "#",
+            "related_to": "Brentford v Newcastle United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "link": "#",
+            "related_to": "Brentford v Newcastle United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN 3 Espana HD",
+            "link": "#",
+            "related_to": "Brentford v Newcastle United",
+            "sat": "Astra 1KR",
+            "freq": "11.436 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Brentford v Newcastle United",
@@ -2289,6 +2701,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport Arena Italia HD",
+            "link": "#",
+            "related_to": "Brentford v Newcastle United",
+            "sat": "Hotbird 13F",
+            "freq": "11.996 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "link": "#",
+            "related_to": "Brentford v Newcastle United",
+            "sat": "Hotbird 13E",
+            "freq": "11.996 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sports Main Event HD",
@@ -2525,6 +2953,30 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ Sport 1 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Aston Villa v Bournemouth",
+            "sat": "Astra 3B",
+            "freq": "11.973 V 29900 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "DAZN 2 Bar Espana",
+            "link": "#",
+            "related_to": "Aston Villa v Bournemouth",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Espana HD",
+            "link": "#",
+            "related_to": "Aston Villa v Bournemouth",
+            "sat": "Astra 1KR",
+            "freq": "11.156 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Aston Villa v Bournemouth",
@@ -2613,12 +3065,28 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Aston Villa v Bournemouth",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "link": "#",
             "related_to": "Aston Villa v Bournemouth",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 257 Italia HD",
+            "link": "#",
+            "related_to": "Aston Villa v Bournemouth",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sky Sport 8 Deutsch HD",
@@ -2839,6 +3307,14 @@
             "encry": ""
         },
         {
+            "channel": "Canal+ Sport 6 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Crystal Palace v Brighton H.A.",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "link": "#",
             "related_to": "Crystal Palace v Brighton H.A.",
@@ -2917,6 +3393,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 258 Italia HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Brighton H.A.",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sport 6 Deutsch HD",
@@ -3121,6 +3605,14 @@
             "encry": ""
         },
         {
+            "channel": "Canal+ Sport 8 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Nottingham Forest v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 4 Portugal HD",
             "link": "#",
             "related_to": "Nottingham Forest v Leeds United",
@@ -3199,6 +3691,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sport 259 Italia HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Leeds United",
+            "sat": "Hotbird 13F",
+            "freq": "12.341 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sport 7 Deutsch HD",
@@ -3396,7 +3896,7 @@
         },
         {
             "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
+            "link": "https://www.beinconnect.com.tr/spor",
             "related_to": "Manchester City v Liverpool",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -3435,12 +3935,76 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Canal+ Sport 1 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Astra 3B",
+            "freq": "11.973 V 29900 - 2/3",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Eutelsat 36C",
+            "freq": "11.823 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "Canal+ Sport 5 Czech HD 📺",
+            "link": "https://livetv.skylink.cz",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports 4K UHD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "link": "#",
             "related_to": "Manchester City v Liverpool",
             "sat": "Hispasat 30W-5",
             "freq": "12.399 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Bar Espana",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "DAZN 2 Espana HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Astra 1KR",
+            "freq": "11.156 V 22000 - 5/6",
+            "encry": "NagraVision"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -3457,6 +4021,14 @@
             "sat": "Hellas Sat 3",
             "freq": "12.137 V 30000 - 5/6",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Fast Sports TV Armenia 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Eutelsat 70B",
+            "freq": "11.050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss"
         },
         {
             "channel": "Fubo Sports USA ($/geo/R) 📺",
@@ -3593,6 +4165,14 @@
             "sat": "KazSat 3",
             "freq": "12.657 V 45000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "channel": "Setanta Sports Ukraine HD",
@@ -11309,6 +11889,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-11-07 15:18:55",
-    "total_items": 1387
+    "last_updated": "2025-11-08 04:20:29",
+    "total_items": 1460
 }

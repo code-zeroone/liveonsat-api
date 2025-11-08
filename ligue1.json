@@ -3,296 +3,6 @@
         {
             "compet": "French Ligue 1 - Week 12",
             "flags": {
-                "team1": "france50",
-                "team2": "france"
-            },
-            "match": "Paris FC v Rennes",
-            "time": "19:45",
-            "date": "2025-11-07"
-        },
-        {
-            "channel": "5 PLUS Israel HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Arena Sport 3 BiH HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Astra 3B",
-            "freq": "11.895 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 3 Hrvatska HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Eutelsat 16A",
-            "freq": "11.512 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 3 Slovenija HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Arena Sport 3 Srbija HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Astra 3B",
-            "freq": "11.798 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Paris FC v Rennes",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Eshail 2",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "beIN Sports US Español",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "beIN Sports US HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Cablenet Sports 2 HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN 1 Bar Deutsch HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Astra 1N",
-            "freq": "12.070 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "AzerSpace 2",
-            "freq": "12.520 V 30000 - 5/6",
-            "encry": "MPEG-4 Irdeto"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Megogo Futbol 3 ($/geo/R)",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Nova Sport 4 Czech HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Astra 3B",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Okko Futbol HD ($/geo/R)",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Play Diema XTRA ($/geo/R) 📺",
-            "link": "https://gong.bg/streaming",
-            "related_to": "Paris FC v Rennes",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "Setanta Sports 2 Eurasia HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "KazSat 3",
-            "freq": "12.657 V 45000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "SuperSport 3 Albania HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Eutelsat 16A",
-            "freq": "10.845 H 30000 - 3/5",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "SuperSport GOtv Africa",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "SuperSport MáXimo 360",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Express AMU1",
-            "freq": "12.130 H 27500 - 2/3",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "SuperSport Variety 4 HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Intelsat 20",
-            "freq": "11.170 H 30000 - 5/6",
-            "encry": "Irdeto"
-        },
-        {
-            "channel": "V Sport Premium HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Thor 6",
-            "freq": "10.903 V 25000 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Varzish TV Sport HD (tjk)",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "NSS 12",
-            "freq": "11.566 H 10750 - 3/4",
-            "encry": "HD BISS"
-        },
-        {
-            "channel": "ViaPlay 1 Urheilu HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "Thor 5",
-            "freq": "11.278 V 25000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Paris FC v Rennes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Voyo Player Slovakia [$] 📺",
-            "link": "https://voyo.markiza.sk/",
-            "related_to": "Paris FC v Rennes",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "compet": "French Ligue 1 - Week 12",
-            "flags": {
                 "team1": "france",
                 "team2": "france"
             },
@@ -323,6 +33,14 @@
             "sat": "Eutelsat 16A",
             "freq": "11.678 H 30000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "ART Motion Sport 4 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Marseille v Brest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "beIN Connect FRANCE 📺",
@@ -405,6 +123,14 @@
             "encry": ""
         },
         {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "link": "#",
+            "related_to": "Marseille v Brest",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Marseille v Brest",
@@ -443,6 +169,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "link": "#",
+            "related_to": "Marseille v Brest",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "channel": "Sport TV3 Portugal HD",
@@ -567,6 +301,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye Max 1 HD",
+            "link": "#",
+            "related_to": "Le Havre v Nantes",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports US Español",
             "link": "#",
             "related_to": "Le Havre v Nantes",
@@ -589,6 +331,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "link": "#",
+            "related_to": "Le Havre v Nantes",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -721,6 +471,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Monaco v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Monaco v Lens",
@@ -753,6 +511,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 5 HD",
+            "link": "#",
+            "related_to": "Monaco v Lens",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports US Español",
             "link": "#",
             "related_to": "Monaco v Lens",
@@ -767,6 +533,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "Monaco v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "link": "#",
+            "related_to": "Monaco v Lens",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -791,6 +573,14 @@
             "sat": "Hotbird 13G",
             "freq": "11.278 V 27500 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Fast Sports 2 Armenia ($/geo/R) 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": "Monaco v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -823,6 +613,22 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "Monaco v Lens",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "link": "#",
+            "related_to": "Monaco v Lens",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sport TV3 Portugal HD",
@@ -1009,6 +815,22 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "Lorient v Toulouse",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "link": "#",
+            "related_to": "Lorient v Toulouse",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -1271,6 +1093,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye Max 2 HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports US Español",
             "link": "#",
             "related_to": "Strasbourg v Lille",
@@ -1285,6 +1115,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "link": "#",
+            "related_to": "Strasbourg v Lille",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "Irdeto"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -1563,6 +1409,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ART Motion Sport 3 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Lyon v Paris St Germain",
@@ -1595,6 +1449,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports US Español",
             "link": "#",
             "related_to": "Lyon v Paris St Germain",
@@ -1609,6 +1471,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Canal+ Sport 2 Afrique HD",
@@ -1641,6 +1511,14 @@
             "sat": "Hotbird 13F",
             "freq": "11.488 H 27500 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Fast Sports 1 Armenia ($/geo/R) 📺",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "IRIB Varzesh HD",
@@ -1681,6 +1559,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Lyon v Paris St Germain",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "channel": "Setanta Sports Qazaqstan HD",
@@ -2751,6 +2637,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-07 15:20:39",
-    "total_items": 337
+    "last_updated": "2025-11-08 04:22:12",
+    "total_items": 323
 }
