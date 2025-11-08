@@ -19,6 +19,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Union Berlin v Bayern Munich",
@@ -115,6 +123,14 @@
             "encry": ""
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "link": "#",
             "related_to": "Union Berlin v Bayern Munich",
@@ -129,6 +145,14 @@
             "sat": "Badr 8",
             "freq": "12.399 V 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Nova Sport 3 Czech HD",
@@ -927,6 +951,14 @@
             "sat": "Thor 6",
             "freq": "11.977 V 27500 - 3/4",
             "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Tring Sport 7 HD",
+            "link": "#",
+            "related_to": "Hoffenheim v RB Leipzig",
+            "sat": "Hellas Sat 4",
+            "freq": "10.930 H 30000 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1813,6 +1845,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "Stuttgart v Augsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "ST World Football HD",
@@ -4069,6 +4109,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-08 04:22:54",
-    "total_items": 500
+    "last_updated": "2025-11-08 15:18:26",
+    "total_items": 505
 }

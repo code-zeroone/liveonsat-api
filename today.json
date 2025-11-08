@@ -2029,12 +2029,28 @@
             "encry": "FTA (BISS)"
         },
         {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "link": "#",
             "related_to": "Tottenham Hotspur v Manchester United",
             "sat": "Thor 7",
             "freq": "12.130 H 28000 - 7/8",
             "encry": "Conax"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Nova Sports Premier League HD",
@@ -2133,12 +2149,36 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "link": "#",
             "related_to": "Tottenham Hotspur v Manchester United",
             "sat": "Amos 7",
             "freq": "11.474 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Manchester United",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
         },
         {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
@@ -2349,6 +2389,14 @@
             "sat": "Eutelsat 9B",
             "freq": "11.843 V 27500 - 3/5",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "link": "#",
+            "related_to": "Blackburn Rovers v Derby County",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
         },
         {
             "channel": "Nova Sport Bulgaria HD",
@@ -3091,6 +3139,14 @@
             "sat": "Hotbird 13F",
             "freq": "12.130 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "link": "#",
+            "related_to": "Girona v Alavés",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Premier Sports 2 Ireland HD",
@@ -4501,6 +4557,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "NEOM SC v Al Nassr",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "link": "#",
             "related_to": "NEOM SC v Al Nassr",
@@ -5575,6 +5639,14 @@
             "encry": ""
         },
         {
+            "channel": "ONE2 Sport Israel HD",
+            "link": "#",
+            "related_to": "Lecce v Hellas Verona",
+            "sat": "Amos 7",
+            "freq": "11.058 V 13750 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Lecce v Hellas Verona",
@@ -5761,6 +5833,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Union Berlin v Bayern Munich",
@@ -5857,6 +5937,14 @@
             "encry": ""
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "link": "#",
             "related_to": "Union Berlin v Bayern Munich",
@@ -5871,6 +5959,14 @@
             "sat": "Badr 8",
             "freq": "12.399 V 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Union Berlin v Bayern Munich",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Nova Sport 3 Czech HD",
@@ -6671,6 +6767,14 @@
             "encry": "MPEG-4 Conax"
         },
         {
+            "channel": "Tring Sport 7 HD",
+            "link": "#",
+            "related_to": "Hoffenheim v RB Leipzig",
+            "sat": "Hellas Sat 4",
+            "freq": "10.930 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Hoffenheim v RB Leipzig",
@@ -7365,6 +7469,22 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "Sport 24 At Sea HD",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "link": "#",
+            "related_to": "Everton v Fulham",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "Sporty TV Africa",
             "link": "#",
             "related_to": "Everton v Fulham",
@@ -7695,6 +7815,14 @@
             "encry": ""
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "link": "#",
+            "related_to": "West Ham United v Burnley",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "FuboTV Canada ($/geo/R)",
             "link": "#",
             "related_to": "West Ham United v Burnley",
@@ -7757,6 +7885,14 @@
             "sat": "Astra 1KR",
             "freq": "11.171 H 22000 - 3/4",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 24 Extra HD",
+            "link": "#",
+            "related_to": "West Ham United v Burnley",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "PowerVu"
         },
         {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
@@ -8697,6 +8833,24 @@
             "encry": ""
         },
         {
+            "compet": "Scottish League 1 - Week 13",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "match": "Stenhousemuir v Kelty Hearts",
+            "time": "15:00",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "Warriors TV [$] 📺",
+            "link": "https://www.stenhousemuirfc.com/warriors-tv/",
+            "related_to": "Stenhousemuir v Kelty Hearts",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 12",
             "flags": {
                 "team1": "spain",
@@ -8819,6 +8973,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "ESPN 2 Brazil HD",
+            "link": "#",
+            "related_to": "Sevilla v Osasuna",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "ESPN Deportes",
             "link": "#",
             "related_to": "Sevilla v Osasuna",
@@ -8929,6 +9091,14 @@
             "sat": "Hotbird 13F",
             "freq": "12.130 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "link": "#",
+            "related_to": "Sevilla v Osasuna",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Prima Sport RO 5 HD",
@@ -9237,6 +9407,14 @@
             "encry": ""
         },
         {
+            "channel": "ESPN 3 Brazil HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Eibar",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "ST Sports Life",
             "link": "#",
             "related_to": "Athletic Bilbao v Eibar",
@@ -9431,6 +9609,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Ireland U-17 v Uzbekistan U-17",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Ireland U-17 v Uzbekistan U-17",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 2",
@@ -10643,6 +10837,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "link": "#",
+            "related_to": "Juventus v Torino",
+            "sat": "SES 6",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "Fast Sports 1 Armenia ($/geo/R) 📺",
             "link": "https://fasttv.am/tv-channels/fastsports1",
             "related_to": "Juventus v Torino",
@@ -10673,6 +10875,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Juventus v Torino",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "channel": "Go3 Sport 2 Baltic HD 📺",
@@ -10729,6 +10939,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "ONE2 Sport Israel HD",
+            "link": "#",
+            "related_to": "Juventus v Torino",
+            "sat": "Amos 7",
+            "freq": "11.058 V 13750 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -11439,6 +11657,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "Fast Sports TV Armenia 📺",
             "link": "https://fasttv.am/tv-channels/fastsports",
             "related_to": "Sunderland v Arsenal",
@@ -11493,6 +11719,14 @@
             "sat": "Intelsat 39",
             "freq": "11.555 V 30000 - 2/3",
             "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "NBC Universo USA",
@@ -11645,6 +11879,22 @@
             "sat": "Amos 7",
             "freq": "11.474 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "link": "#",
+            "related_to": "Sunderland v Arsenal",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
         },
         {
             "channel": "Spíler 1 TV Hungary HD",
@@ -12331,6 +12581,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 2 Brazil HD",
+            "link": "#",
+            "related_to": "Atlético Madrid v Levante",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "ESPN Deportes",
             "link": "#",
             "related_to": "Atlético Madrid v Levante",
@@ -12457,6 +12715,14 @@
             "sat": "Hotbird 13F",
             "freq": "12.130 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "ONE Sport Israel HD",
+            "link": "#",
+            "related_to": "Atlético Madrid v Levante",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Premier Sports 2 Ireland HD",
@@ -12867,6 +13133,14 @@
             "encry": ""
         },
         {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "link": "#",
             "related_to": "Al Ittihad v Al Ahli",
@@ -12905,6 +13179,14 @@
             "sat": "Eutelsat 16A",
             "freq": "11.387 H 32000 - 3/4",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "SPOTV Malaysia HD",
@@ -12960,6 +13242,14 @@
             "related_to": "Al Ittihad v Al Ahli",
             "sat": "Eutelsat 36D",
             "freq": "11.263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra"
+        },
+        {
+            "channel": "ZBC Channel 2",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "Eutelsat 7C",
+            "freq": "11.043 V 45000 - 5/6",
             "encry": "MPEG-4 Nagra"
         },
         {
@@ -14563,6 +14853,14 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Parma v AC Milan",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "link": "#",
             "related_to": "Parma v AC Milan",
@@ -14903,6 +15201,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "ESPN 1 Brazil HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "Fast Sports TV Armenia 📺",
             "link": "https://fasttv.am/tv-channels/fastsports",
             "related_to": "Chelsea v Wolves",
@@ -14941,6 +15247,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "NBC Universo USA",
@@ -15095,12 +15409,36 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "Sport 1 Israel HD",
             "link": "#",
             "related_to": "Chelsea v Wolves",
             "sat": "Amos 7",
             "freq": "11.474 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "link": "#",
+            "related_to": "Chelsea v Wolves",
+            "sat": "NSS 12",
+            "freq": "4.095 R 30000 - 3/4",
+            "encry": "HD PowerVu"
         },
         {
             "channel": "Sport TV 2 Azerbaijan (geo/R)",
@@ -15569,6 +15907,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "ONE Sport Israel HD",
+            "link": "#",
+            "related_to": "Espanyol v Villarreal",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Prima Sport RO 4 HD",
             "link": "#",
             "related_to": "Espanyol v Villarreal",
@@ -15909,6 +16255,14 @@
             "sat": "Astra 3C",
             "freq": "12.285 V 30000 - 2/3",
             "encry": "Free To Air HD"
+        },
+        {
+            "channel": "ONE2 Sport Israel HD",
+            "link": "#",
+            "related_to": "Málaga v Córdoba",
+            "sat": "Amos 7",
+            "freq": "11.058 V 13750 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Orange Fútbol 2 HD",
@@ -16397,6 +16751,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "ESPN 2 Brazil HD",
+            "link": "#",
+            "related_to": "Santa Clara v Sporting Lisbon",
+            "sat": "SES 6",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+        },
+        {
             "channel": "Megogo Futbol 4 ($/geo/R)",
             "link": "#",
             "related_to": "Santa Clara v Sporting Lisbon",
@@ -16669,6 +17031,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-08 04:20:07",
-    "total_items": 2016
+    "last_updated": "2025-11-08 15:15:40",
+    "total_items": 2061
 }

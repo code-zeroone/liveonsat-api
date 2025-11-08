@@ -139,6 +139,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "NEOM SC v Al Nassr",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "link": "#",
             "related_to": "NEOM SC v Al Nassr",
@@ -271,6 +279,14 @@
             "encry": ""
         },
         {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "link": "#",
             "related_to": "Al Ittihad v Al Ahli",
@@ -309,6 +325,14 @@
             "sat": "Eutelsat 16A",
             "freq": "11.387 H 32000 - 3/4",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "SPOTV Malaysia HD",
@@ -367,6 +391,14 @@
             "encry": "MPEG-4 Nagra"
         },
         {
+            "channel": "ZBC Channel 2",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Ahli",
+            "sat": "Eutelsat 7C",
+            "freq": "11.043 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra"
+        },
+        {
             "compet": "Saudi Professional League - Week 9",
             "flags": {
                 "team1": "saudiarabia",
@@ -419,6 +451,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-08 04:26:27",
-    "total_items": 51
+    "last_updated": "2025-11-08 15:21:58",
+    "total_items": 55
 }
