@@ -587,6 +587,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Racing Santander v Granada",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "link": "#",
             "related_to": "Racing Santander v Granada",
@@ -601,6 +609,14 @@
             "sat": "Astra 1M",
             "freq": "11.895 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "link": "#",
+            "related_to": "Racing Santander v Granada",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -674,6 +690,48 @@
                 "team1": "spain",
                 "team2": "spain"
             },
+            "match": "Almería v Cádiz",
+            "time": "15:15",
+            "date": "2025-11-16"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Almería v Cádiz",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "link": "#",
+            "related_to": "Almería v Cádiz",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Almería v Cádiz",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN España HD FTA (geo)",
+            "link": "#",
+            "related_to": "Almería v Cádiz",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 - -",
+            "encry": "Free To Air"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 14",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
             "match": "Sporting Gijón v Eibar",
             "time": "15:15",
             "date": "2025-11-16"
@@ -690,32 +748,6 @@
             "channel": "DAZN España HD FTA (geo)",
             "link": "#",
             "related_to": "Sporting Gijón v Eibar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 - -",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 14",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Almería v Cádiz",
-            "time": "15:15",
-            "date": "2025-11-16"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Almería v Cádiz",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN España HD FTA (geo)",
-            "link": "#",
-            "related_to": "Almería v Cádiz",
             "sat": "* IPTV/Stream",
             "freq": "0.000 - -",
             "encry": "Free To Air"
@@ -1097,6 +1129,6 @@
             "encry": "Free To Air"
         }
     ],
-    "last_updated": "2025-11-09 04:25:55",
-    "total_items": 130
+    "last_updated": "2025-11-09 15:21:27",
+    "total_items": 134
 }

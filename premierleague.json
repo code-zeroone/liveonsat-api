@@ -1499,6 +1499,14 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "Canal+ Sport 360 HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Astra 1M",
+            "freq": "12.090 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Canal+ Sport 5 Czech HD 📺",
             "link": "https://livetv.skylink.cz",
             "related_to": "Manchester City v Liverpool",
@@ -1563,6 +1571,14 @@
             "encry": ""
         },
         {
+            "channel": "Diema Sport 2 4K",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Diema Sport 2 HD",
             "link": "#",
             "related_to": "Manchester City v Liverpool",
@@ -1601,6 +1617,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
@@ -1651,6 +1675,14 @@
             "encry": "FTA (BISS)"
         },
         {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
             "channel": "M+ #Vamos Bar 2",
             "link": "#",
             "related_to": "Manchester City v Liverpool",
@@ -1689,6 +1721,22 @@
             "sat": "Hotbird 13F",
             "freq": "11.804 V 29700 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "NOW Premier League HK 1",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "NOW Sports HK 1 4K",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Persiana Sport HD",
@@ -1817,6 +1865,14 @@
             "sat": "Astra 2F",
             "freq": "12.246 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Manchester City v Liverpool",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Sport 1 Israel HD",
@@ -9485,6 +9541,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-11-09 04:20:20",
-    "total_items": 1161
+    "last_updated": "2025-11-09 15:15:51",
+    "total_items": 1168
 }
