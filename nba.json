@@ -6,60 +6,6 @@
                 "team1": "assocnba",
                 "team2": "assocnba"
             },
-            "match": "Philadelphia 76ers v Detroit Pistons",
-            "time": "00:30",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Philadelphia 76ers v Detroit Pistons",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Golden State Warriors v Indiana Pacers",
-            "time": "01:30",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Golden State Warriors v Indiana Pacers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Sacramento Kings v Minnesota Timberwolves",
-            "time": "02:00",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Sacramento Kings v Minnesota Timberwolves",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
             "match": "Detroit Pistons v Washington Wizards",
             "time": "00:00",
             "date": "2025-11-11"
@@ -1485,6 +1431,22 @@
             "date": "2025-11-19"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Atlanta Hawks v Detroit Pistons",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Atlanta Hawks v Detroit Pistons",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Atlanta Hawks v Detroit Pistons",
@@ -1537,6 +1499,22 @@
             "match": "Portland Trail Blazers v Phoenix Suns",
             "time": "04:00",
             "date": "2025-11-19"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Portland Trail Blazers v Phoenix Suns",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "link": "#",
+            "related_to": "Portland Trail Blazers v Phoenix Suns",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD Viaccess"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -9557,6 +9535,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-11-10 15:23:58",
-    "total_items": 1066
+    "last_updated": "2025-11-11 04:26:21",
+    "total_items": 1064
 }

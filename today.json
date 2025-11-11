@@ -1,165 +1,37 @@
 {
     "footonsat": [
         {
-            "compet": "Major League Soccer (MLS) - Round of 16",
+            "compet": "Polish Womens Ekstraliga - Week 5",
             "flags": {
-                "team1": "usa",
-                "team2": "usa"
+                "team1": "poland",
+                "team2": "poland"
             },
-            "match": "San Diego FC v Portland Timbers",
-            "time": "02:00",
-            "date": "2025-11-10"
+            "match": "Czarni Sosnowiec v Lech Poznan",
+            "time": "11:00",
+            "date": "2025-11-11"
         },
         {
-            "channel": "MLS Season Pass [$]",
+            "channel": "TVP Sport Polska HD",
             "link": "#",
-            "related_to": "San Diego FC v Portland Timbers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "related_to": "Czarni Sosnowiec v Lech Poznan",
+            "sat": "Hotbird 13G",
+            "freq": "10.834 V 27500 - 3/4",
+            "encry": "HD Viaccess"
         },
         {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
             "flags": {
-                "team1": "switzerland8",
-                "team2": "mexico"
+                "team1": "chile",
+                "team2": "canada7"
             },
-            "match": "Switzerland U-17 v Mexico U-17",
+            "match": "Chile U-17 v Canada U-17",
             "time": "12:30",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 2 HD",
-            "link": "#",
-            "related_to": "Switzerland U-17 v Mexico U-17",
-            "sat": "Eshail 2",
-            "freq": "10.850 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Switzerland U-17 v Mexico U-17",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "link": "#",
-            "related_to": "Switzerland U-17 v Mexico U-17",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
-            "flags": {
-                "team1": "koreasouth",
-                "team2": "ivorycoast"
-            },
-            "match": "South Korea U-17 v Ivory Coast U-17",
-            "time": "12:30",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "South Korea U-17 v Ivory Coast U-17",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "link": "#",
-            "related_to": "South Korea U-17 v Ivory Coast U-17",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
-            "flags": {
-                "team1": "elsalvador",
-                "team2": "germany"
-            },
-            "match": "El Salvador U-17 v Germany U-17",
-            "time": "13:30",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 1 HD",
-            "link": "#",
-            "related_to": "El Salvador U-17 v Germany U-17",
-            "sat": "Eshail 2",
-            "freq": "10.850 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "El Salvador U-17 v Germany U-17",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "link": "#",
-            "related_to": "El Salvador U-17 v Germany U-17",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sport MIX Deutsch HD",
-            "link": "#",
-            "related_to": "El Salvador U-17 v Germany U-17",
-            "sat": "Astra 1M",
-            "freq": "11.758 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sport News Deutsch HD",
-            "link": "#",
-            "related_to": "El Salvador U-17 v Germany U-17",
-            "sat": "Astra 1N",
-            "freq": "12.304 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
-            "flags": {
-                "team1": "colombia1",
-                "team2": "koreanorth1"
-            },
-            "match": "Colombia U-17 v North Korea U-17",
-            "time": "13:30",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "FIFA+ [app] (geo/R) 📺",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Colombia U-17 v North Korea U-17",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": "-"
-        },
-        {
-            "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
-            "flags": {
-                "team1": "honduras1",
-                "team2": "indonesia"
-            },
-            "match": "Honduras U-17 v Indonesia U-17",
-            "time": "14:45",
-            "date": "2025-11-10"
+            "date": "2025-11-11"
         },
         {
             "channel": "beIN Sports MENA Xtra 3 HD",
             "link": "#",
-            "related_to": "Honduras U-17 v Indonesia U-17",
+            "related_to": "Chile U-17 v Canada U-17",
             "sat": "Eshail 2",
             "freq": "10.810 V 27500 - 2/3",
             "encry": "HD Irdeto"
@@ -167,7 +39,7 @@
         {
             "channel": "FIFA+ [app] (geo/R) 📺",
             "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Honduras U-17 v Indonesia U-17",
+            "related_to": "Chile U-17 v Canada U-17",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
@@ -175,17 +47,17 @@
         {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
             "flags": {
-                "team1": "zambia",
-                "team2": "brazil35"
+                "team1": "uganda",
+                "team2": "france27"
             },
-            "match": "Zambia U-17 v Brazil U-17",
-            "time": "14:45",
-            "date": "2025-11-10"
+            "match": "Uganda U-17 v France U-17",
+            "time": "12:30",
+            "date": "2025-11-11"
         },
         {
             "channel": "beIN Sports MENA Xtra 2 HD",
             "link": "#",
-            "related_to": "Zambia U-17 v Brazil U-17",
+            "related_to": "Uganda U-17 v France U-17",
             "sat": "Eshail 2",
             "freq": "10.850 H 27500 - 2/3",
             "encry": "HD VideoGuard"
@@ -193,49 +65,65 @@
         {
             "channel": "FIFA+ [app] (geo/R) 📺",
             "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Zambia U-17 v Brazil U-17",
+            "related_to": "Uganda U-17 v France U-17",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
         },
         {
-            "channel": "Sport 2 Israel HD",
-            "link": "#",
-            "related_to": "Zambia U-17 v Brazil U-17",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "SporTV Brazil HD",
-            "link": "#",
-            "related_to": "Zambia U-17 v Brazil U-17",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "Bulgarian Second League - Week 15",
+            "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
             "flags": {
-                "team1": "bulgaria",
-                "team2": "bulgaria"
+                "team1": "ireland7",
+                "team2": "paraguay"
             },
-            "match": "Dunav Ruse v Fratria",
-            "time": "15:30",
-            "date": "2025-11-10"
+            "match": "Ireland U-17 v Paraguay U-17",
+            "time": "13:30",
+            "date": "2025-11-11"
         },
         {
-            "channel": "Diema Sport HD",
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Ireland U-17 v Paraguay U-17",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
-            "related_to": "Dunav Ruse v Fratria",
-            "sat": "AzerSpace 2",
-            "freq": "12.520 V 30000 - 5/6",
+            "related_to": "Ireland U-17 v Paraguay U-17",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
         },
         {
-            "channel": "Play Diema XTRA ($/geo/R) 📺",
-            "link": "https://gong.bg/streaming",
-            "related_to": "Dunav Ruse v Fratria",
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "link": "#",
+            "related_to": "Ireland U-17 v Paraguay U-17",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Ireland U-17 v Paraguay U-17",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "channel": "RTÉ 2 Ireland HD",
+            "link": "#",
+            "related_to": "Ireland U-17 v Paraguay U-17",
+            "sat": "Astra 2E",
+            "freq": "11.914 H 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "RTÉ Player (geo/R) 📺",
+            "link": "https://www.rte.ie/player/onnow",
+            "related_to": "Ireland U-17 v Paraguay U-17",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
@@ -243,33 +131,111 @@
         {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
             "flags": {
-                "team1": "egypt",
-                "team2": "england34"
+                "team1": "uzbekistan",
+                "team2": "panama2"
             },
-            "match": "Egypt U-17 v England U-17",
+            "match": "Uzbekistan U-17 v Panama U-17",
+            "time": "13:30",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Uzbekistan U-17 v Panama U-17",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Uzbekistan U-17 v Panama U-17",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
+            "flags": {
+                "team1": "burkinafaso",
+                "team2": "tajikistan"
+            },
+            "match": "Burkina Faso U-17 v Tajikistan U-17",
+            "time": "14:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 3 HD",
+            "link": "#",
+            "related_to": "Burkina Faso U-17 v Tajikistan U-17",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Burkina Faso U-17 v Tajikistan U-17",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
+            "flags": {
+                "team1": "czechia",
+                "team2": "usa11"
+            },
+            "match": "Czechia U-17 v United States U-17",
+            "time": "14:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "link": "#",
+            "related_to": "Czechia U-17 v United States U-17",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "CT Sport Czech HD",
+            "link": "#",
+            "related_to": "Czechia U-17 v United States U-17",
+            "sat": "Astra 3B",
+            "freq": "12.344 H 29900 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "FIFA+ [app] (geo/R) 📺",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": "Czechia U-17 v United States U-17",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": "-"
+        },
+        {
+            "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "mali"
+            },
+            "match": "Saudi Arabia U-17 v Mali U-17",
             "time": "15:45",
-            "date": "2025-11-10"
+            "date": "2025-11-11"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
-            "related_to": "Egypt U-17 v England U-17",
+            "related_to": "Saudi Arabia U-17 v Mali U-17",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
         },
         {
-            "channel": "beIN Sports MENA English 2 HD",
-            "link": "#",
-            "related_to": "Egypt U-17 v England U-17",
-            "sat": "Eshail 2",
-            "freq": "11.390 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
             "channel": "beIN Sports MENA Global HD",
             "link": "#",
-            "related_to": "Egypt U-17 v England U-17",
+            "related_to": "Saudi Arabia U-17 v Mali U-17",
             "sat": "Eshail 2",
             "freq": "10.810 V 27500 - 2/3",
             "encry": "Free To Air HD"
@@ -277,57 +243,25 @@
         {
             "channel": "FIFA+ [app] (geo/R) 📺",
             "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Egypt U-17 v England U-17",
+            "related_to": "Saudi Arabia U-17 v Mali U-17",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
         },
         {
-            "channel": "ITV 4 HD 📺",
-            "link": "https://www.itv.com/watch?channel=itv4",
-            "related_to": "Egypt U-17 v England U-17",
-            "sat": "Astra 2E",
-            "freq": "10.891 H 22000 - 5/6",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "ITV X (geo/R) 📺",
-            "link": "https://www.itv.com/watch?channel=itv",
-            "related_to": "Egypt U-17 v England U-17",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "link": "#",
-            "related_to": "Egypt U-17 v England U-17",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "link": "#",
-            "related_to": "Egypt U-17 v England U-17",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
             "compet": "FIFA U-17 World Cup - Group Stage, Round 3",
             "flags": {
-                "team1": "venezuela7",
-                "team2": "haiti3"
+                "team1": "newzealand27",
+                "team2": "austria"
             },
-            "match": "Venezuela U-17 v Haiti U-17",
+            "match": "New Zealand U-17 v Austria U-17",
             "time": "15:45",
-            "date": "2025-11-10"
+            "date": "2025-11-11"
         },
         {
             "channel": "beIN Sports MENA Xtra 1 HD",
             "link": "#",
-            "related_to": "Venezuela U-17 v Haiti U-17",
+            "related_to": "New Zealand U-17 v Austria U-17",
             "sat": "Eshail 2",
             "freq": "10.850 H 27500 - 2/3",
             "encry": "HD Irdeto"
@@ -335,203 +269,41 @@
         {
             "channel": "FIFA+ [app] (geo/R) 📺",
             "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": "Venezuela U-17 v Haiti U-17",
+            "related_to": "New Zealand U-17 v Austria U-17",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": "-"
         },
         {
-            "compet": "Russian FNL - Week 18",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "match": "Fakel Voronezh v Spartak Kostroma",
-            "time": "16:30",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "MATCH! Russia HD",
+            "channel": "Premier Sports 1 Ireland HD",
             "link": "#",
-            "related_to": "Fakel Voronezh v Spartak Kostroma",
-            "sat": "Yamal 401",
-            "freq": "3.786 R 15284 - 3/4",
-            "encry": "MPEG-4 GoSTcrypt"
+            "related_to": "New Zealand U-17 v Austria U-17",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
-            "compet": "German Frauen Bundesliga - Week 10",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Freiburg v Bayer Leverkusen",
-            "time": "17:00",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "DAZN 1 Bar Deutsch HD",
+            "channel": "Sky Sport 1 Austria HD",
             "link": "#",
-            "related_to": "Freiburg v Bayer Leverkusen",
+            "related_to": "New Zealand U-17 v Austria U-17",
             "sat": "Astra 1N",
-            "freq": "12.070 H 27500 - 9/10",
+            "freq": "12.032 H 27500 - 9/10",
             "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN Belgium ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "link": "#",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R) 📺",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 1 Germany HD 📺",
-            "link": "https://tv.sport1.de/sport1/",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "Astra 1KR",
-            "freq": "10.803 H 22000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "link": "#",
-            "related_to": "Freiburg v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Israeli Liga Leumit (2nd) - Week 12",
-            "flags": {
-                "team1": "israel",
-                "team2": "israel"
-            },
-            "match": "Hapoel Rishon LeZion v Hapoel Hadera",
-            "time": "17:00",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "link": "#",
-            "related_to": "Hapoel Rishon LeZion v Hapoel Hadera",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "Israeli Liga Leumit (2nd) - Week 12",
-            "flags": {
-                "team1": "israel",
-                "team2": "israel"
-            },
-            "match": "Kiryat Yam v Maccabi Kabilio Jaffa",
-            "time": "17:00",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "5 LIVE Israel HD",
-            "link": "#",
-            "related_to": "Kiryat Yam v Maccabi Kabilio Jaffa",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "Israeli Liga Leumit (2nd) - Week 12",
-            "flags": {
-                "team1": "israel",
-                "team2": "israel12"
-            },
-            "match": "Ironi Modi'in v Hapoel Ramat HaSharon",
-            "time": "17:00",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "5 STARS Israel HD",
-            "link": "#",
-            "related_to": "Ironi Modi'in v Hapoel Ramat HaSharon",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
         },
         {
             "compet": "Romanian Liga 2 - Week 13",
             "flags": {
-                "team1": "romania4",
+                "team1": "romania",
                 "team2": "romania"
             },
-            "match": "Targu Mures v Politehnica Iasi",
+            "match": "Chindia Târgoviste v Afumati",
             "time": "17:30",
-            "date": "2025-11-10"
+            "date": "2025-11-11"
         },
         {
             "channel": "Digi Sport 1 Romania HD",
             "link": "#",
-            "related_to": "Targu Mures v Politehnica Iasi",
+            "related_to": "Chindia Târgoviste v Afumati",
             "sat": "Thor 5",
             "freq": "11.862 H 28000 - 7/8",
             "encry": "NagraVision"
@@ -539,7 +311,7 @@
         {
             "channel": "Prima Sport RO 1 HD",
             "link": "#",
-            "related_to": "Targu Mures v Politehnica Iasi",
+            "related_to": "Chindia Târgoviste v Afumati",
             "sat": "Hellas Sat 3",
             "freq": "12.290 V 30000 - 3/4",
             "encry": "HD Viaccess"
@@ -547,411 +319,33 @@
         {
             "channel": "PrimaPlay [app] 📺",
             "link": "https://www.primaplay.ro/",
-            "related_to": "Targu Mures v Politehnica Iasi",
+            "related_to": "Chindia Târgoviste v Afumati",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
         },
         {
-            "compet": "Swedish Damallsvenskan - Week 25",
-            "flags": {
-                "team1": "sweden18",
-                "team2": "sweden"
-            },
-            "match": "Linköping v Kristianstad",
-            "time": "18:00",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "Fanseat LIVE ($/geo/R) 📺",
-            "link": "https://www.fanseat.com/schedule",
-            "related_to": "Linköping v Kristianstad",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Linköping v Kristianstad",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Linköping v Kristianstad",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Linköping v Kristianstad",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Linköping v Kristianstad",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "link": "#",
-            "related_to": "Linköping v Kristianstad",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Danish 1. Division - Week 16",
-            "flags": {
-                "team1": "denmark",
-                "team2": "denmark"
-            },
-            "match": "Esbjerg v Middelfart",
-            "time": "18:00",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Esbjerg v Middelfart",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Esbjerg v Middelfart",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Esbjerg v Middelfart",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Esbjerg v Middelfart",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "English WSL 2 - Week 8",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Nottingham Forest v Birmingham City",
-            "time": "19:00",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "YouTube: W/Super League 2 📺",
-            "link": "https://www.youtube.com/@BarclaysWSL2/streams",
-            "related_to": "Nottingham Forest v Birmingham City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 13",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Burgos v Castellón",
-            "time": "19:30",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "Arena Premium 1 Slovenija",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Astra 3C",
-            "freq": "12.246 V 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 1 BiH HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Astra 3B",
-            "freq": "11.720 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Eutelsat 16A",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN España HD FTA (geo)",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 - -",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "DAZN Italia ($/geo/R)",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Intelsat 10-02",
-            "freq": "12.687 H 27500 - 3/4",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Astra 1M",
-            "freq": "10.758 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "MATCH! Futbol 2 HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Horizons 2",
-            "freq": "11.840 H 28800 - 2/3",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Burgos v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Urheilu 3 Suomi HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Nova Sports Start Hellas HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Hotbird 13F",
-            "freq": "11.804 V 29700 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Orange Fútbol 2 HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Prima Sport RO 3 HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Hellas Sat 3",
-            "freq": "12.606 V 30000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "PrimaPlay [app] 📺",
-            "link": "https://www.primaplay.ro/",
-            "related_to": "Burgos v Castellón",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "S Sport 1 Türkiye HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V 27500 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV4 Fotboll HD",
-            "link": "#",
-            "related_to": "Burgos v Castellón",
-            "sat": "Thor 6",
-            "freq": "10.872 V 25000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "TV4 Play Sverige [online] 📺",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": "Burgos v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "Italian Serie C Girone C - Girone C - 13",
+            "compet": "UEFA Womens Champions League - League Stage: Round 3",
             "flags": {
                 "team1": "italy",
-                "team2": "italy"
+                "team2": "norway"
             },
-            "match": "Salernitana v Crotone",
-            "time": "19:30",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Salernitana v Crotone",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "RAI Sport 📺",
-            "link": "https://www.raiplay.it/dirette",
-            "related_to": "Salernitana v Crotone",
-            "sat": "Eutelsat 5 West B",
-            "freq": "11.179 V 35300 - 2/3",
-            "encry": "FTA (MPEG-4)"
-        },
-        {
-            "channel": "RAI Sport+ HD 📺",
-            "link": "https://www.raiplay.it/dirette",
-            "related_to": "Salernitana v Crotone",
-            "sat": "Hotbird 13G",
-            "freq": "11.013 H 29900 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Sky Go Italy [online]",
-            "link": "#",
-            "related_to": "Salernitana v Crotone",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sport 251 Italia HD",
-            "link": "#",
-            "related_to": "Salernitana v Crotone",
-            "sat": "Hotbird 13F",
-            "freq": "12.054 H 29900 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Sky Sport Calcio HD",
-            "link": "#",
-            "related_to": "Salernitana v Crotone",
-            "sat": "Hotbird 13F",
-            "freq": "12.073 V 29900 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League Two - Week 15",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Cheltenham v Notts County",
-            "time": "20:00",
-            "date": "2025-11-10"
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
-            "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "Astra 3C",
-            "freq": "12.304 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Arena Sport 3 Hrvatska HD",
-            "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "Eutelsat 16A",
-            "freq": "11.512 H 30000 - 3/4",
-            "encry": "HD Conax"
+            "match": "Roma v Vålerenga",
+            "time": "17:45",
+            "date": "2025-11-11"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
-            "related_to": "Cheltenham v Notts County",
+            "related_to": "Roma v Vålerenga",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
         },
         {
-            "channel": "beIN Sports MENA 2 HD",
+            "channel": "beIN Sports MENA 3 HD",
             "link": "#",
-            "related_to": "Cheltenham v Notts County",
+            "related_to": "Roma v Vålerenga",
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
@@ -959,110 +353,778 @@
         {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
-            "related_to": "Cheltenham v Notts County",
+            "related_to": "Roma v Vålerenga",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
         },
         {
-            "channel": "Cosmote Sport 3 HD",
+            "channel": "Disney+ Norge ($/geo/R)",
             "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
+            "related_to": "Roma v Vålerenga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ UK ($/geo/R)",
+            "link": "#",
+            "related_to": "Roma v Vålerenga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Danish A-Liga Women - Week 12",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "match": "Midtjylland v Kolding",
+            "time": "18:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Midtjylland v Kolding",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Sport Dansk HD",
+            "link": "#",
+            "related_to": "Midtjylland v Kolding",
+            "sat": "Thor 6",
+            "freq": "11.305 H 30000 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Accrington Stanley v Leeds United U-21",
+            "time": "19:00",
+            "date": "2025-11-11"
         },
         {
-            "channel": "Sky Go UK [online]",
+            "channel": "Sky Sports+ [via APP]",
             "link": "#",
-            "related_to": "Cheltenham v Notts County",
+            "related_to": "Accrington Stanley v Leeds United U-21",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "Astra 2E",
-            "freq": "12.090 V 29500 - 8/9",
-            "encry": "MPEG-4 NDS"
-        },
-        {
-            "channel": "TSN Malta 1 HD",
-            "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "link": "#",
-            "related_to": "Cheltenham v Notts County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Argentinean Primera División - 2nd Phase, Week 15",
+            "compet": "English League Trophy - Group Stage",
             "flags": {
-                "team1": "argentina",
-                "team2": "argentina"
+                "team1": "england",
+                "team2": "england"
             },
-            "match": "Deportivo Riestra v Independiente",
-            "time": "22:00",
-            "date": "2025-11-10"
+            "match": "Barnsley v Lincoln City",
+            "time": "19:00",
+            "date": "2025-11-11"
         },
         {
-            "channel": "Arena Sport 1 Hrvatska HD",
+            "channel": "Sky Sports+ [via APP]",
             "link": "#",
-            "related_to": "Deportivo Riestra v Independiente",
-            "sat": "Eutelsat 16A",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD Conax"
+            "related_to": "Barnsley v Lincoln City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Bristol Rovers v Plymouth Argyle",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Bristol Rovers v Plymouth Argyle",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Burton Albion v Crewe Alexandra",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Burton Albion v Crewe Alexandra",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Chesterfield v Liverpool U-21",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Chesterfield v Liverpool U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Doncaster Rovers v Bradford City",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Doncaster Rovers v Bradford City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Gillingham v Wycombe Wanderers",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Gillingham v Wycombe Wanderers",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Milton Keynes Dons v Swindon Town",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Milton Keynes Dons v Swindon Town",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england70",
+                "team2": "england"
+            },
+            "match": "Newport County v Exeter City",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Newport County v Exeter City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Northampton Town v Shrewsbury Town",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Northampton Town v Shrewsbury Town",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england5"
+            },
+            "match": "Oldham Athletic v Bolton Wanderers",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Oldham Athletic v Bolton Wanderers",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Port Vale v Fleetwood Town",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Port Vale v Fleetwood Town",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Salford City v Wolves U-21",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Salford City v Wolves U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Stockport County v Wigan Athletic",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Stockport County v Wigan Athletic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Tranmere Rovers v Blackpool",
+            "time": "19:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Tranmere Rovers v Blackpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Scottish Challenge Cup - Group Stage: Round 6",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "match": "East Kilbride v Celtic B",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "East Kilbride v Celtic B",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "link": "#",
+            "related_to": "East Kilbride v Celtic B",
+            "sat": "Astra 2G",
+            "freq": "11.686 V 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "East Kilbride v Celtic B",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English National League North - North - 11",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Hereford FC v Macclesfield Town",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Hereford FC v Macclesfield Town",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Hereford FC v Macclesfield Town",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Bromley v AFC Wimbledon",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Bromley v AFC Wimbledon",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Cardiff City v Arsenal U-21",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Cardiff City v Arsenal U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Colchester United v Fulham U-21",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Colchester United v Fulham U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Crawley Town v Peterborough United",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Crawley Town v Peterborough United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English League Trophy - Group Stage",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Harrogate Town v Newcastle United U-21",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Sky Sports+ [via APP]",
+            "link": "#",
+            "related_to": "Harrogate Town v Newcastle United U-21",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English National League 1 - Week 17",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Forest Green Rovers v Tamworth",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Forest Green Rovers v Tamworth",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Forest Green Rovers v Tamworth",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Forest Green Rovers v Tamworth",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "Forest Green Rovers v Tamworth",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "English National League 1 - Week 7",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "York City v Rochdale",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "York City v Rochdale",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "York City v Rochdale",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "York City v Rochdale",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Italia ($/geo/R)",
+            "link": "#",
+            "related_to": "York City v Rochdale",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "Scottish Challenge Cup - Group Stage: Round 6",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "match": "Alloa Athletic v Clyde",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Clyde FC Live Stream ($/geo/R) 📺",
+            "link": "https://clydefc.univtec.com/home",
+            "related_to": "Alloa Athletic v Clyde",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "WASP TV [$] 📺",
+            "link": "https://www.alloaathletic.co.uk/product-category/wasp-tv/",
+            "related_to": "Alloa Athletic v Clyde",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "Scottish Challenge Cup - Group Stage: Round 6",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "match": "Spartans v Aberdeen B",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "Spartans FC TV [$] 📺",
+            "link": "https://spartansfc.tv/",
+            "related_to": "Spartans v Aberdeen B",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Scottish Challenge Cup - Group Stage: Round 6",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "match": "East Fife v Edinburgh City",
+            "time": "19:45",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "East Fife TV [$] 📺",
+            "link": "https://eftv.info/",
+            "related_to": "East Fife v Edinburgh City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Womens Champions League - League Stage: Round 3",
+            "flags": {
+                "team1": "france",
+                "team2": "germany"
+            },
+            "match": "Lyon v Wolfsburg",
+            "time": "20:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Lyon v Wolfsburg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Lyon v Wolfsburg",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "CT Sport Czech HD",
+            "link": "#",
+            "related_to": "Lyon v Wolfsburg",
+            "sat": "Astra 3B",
+            "freq": "12.344 H 29900 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Disney+ Norge ($/geo/R)",
+            "link": "#",
+            "related_to": "Lyon v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ UK ($/geo/R)",
+            "link": "#",
+            "related_to": "Lyon v Wolfsburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TV12 Sverige HD",
+            "link": "#",
+            "related_to": "Lyon v Wolfsburg",
+            "sat": "Thor 6",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Womens Champions League - League Stage: Round 3",
+            "flags": {
+                "team1": "spain",
+                "team2": "france50"
+            },
+            "match": "Real Madrid v Paris FC",
+            "time": "20:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Real Madrid v Paris FC",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Paris FC",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Paris FC",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Disney+ Norge ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Madrid v Paris FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ UK ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Madrid v Paris FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Womens Champions League - League Stage: Round 3",
+            "flags": {
+                "team1": "austria",
+                "team2": "england7"
+            },
+            "match": "St Pölten v Chelsea",
+            "time": "20:00",
+            "date": "2025-11-11"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "St Pölten v Chelsea",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "St Pölten v Chelsea",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "St Pölten v Chelsea",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Norge ($/geo/R)",
+            "link": "#",
+            "related_to": "St Pölten v Chelsea",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ UK ($/geo/R)",
+            "link": "#",
+            "related_to": "St Pölten v Chelsea",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         }
     ],
-    "last_updated": "2025-11-10 15:20:03",
-    "total_items": 127
+    "last_updated": "2025-11-11 04:22:28",
+    "total_items": 130
 }
