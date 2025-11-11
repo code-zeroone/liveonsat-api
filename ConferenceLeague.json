@@ -29,6 +29,24 @@
         {
             "compet": "UEFA Conference League - Matchday 4",
             "flags": {
+                "team1": "iceland",
+                "team2": "turkey"
+            },
+            "match": "Breidablik v Samsunspor",
+            "time": "20:00",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "Breidablik v Samsunspor",
+            "sat": "Turksat 3A",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
                 "team1": "ireland",
                 "team2": "ukraine"
             },
@@ -81,6 +99,24 @@
         {
             "compet": "UEFA Conference League - Matchday 5",
             "flags": {
+                "team1": "turkey",
+                "team2": "greece"
+            },
+            "match": "Samsunspor v AEK Athens",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "Samsunspor v AEK Athens",
+            "sat": "Turksat 3A",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
                 "team1": "ireland",
                 "team2": "england"
             },
@@ -103,8 +139,26 @@
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 6",
+            "flags": {
+                "team1": "germany",
+                "team2": "turkey"
+            },
+            "match": "Mainz 05 v Samsunspor",
+            "time": "20:00",
+            "date": "2025-12-18"
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "Mainz 05 v Samsunspor",
+            "sat": "Turksat 3A",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-11 04:23:50",
-    "total_items": 12
+    "last_updated": "2025-11-11 15:20:33",
+    "total_items": 18
 }

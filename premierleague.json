@@ -6515,6 +6515,14 @@
             "date": "2025-12-26"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Manchester United v Newcastle United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sky Go UK [online]",
             "link": "#",
             "related_to": "Manchester United v Newcastle United",
@@ -6541,6 +6549,14 @@
             "date": "2025-12-27"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Nottingham Forest v Manchester City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Nottingham Forest v Manchester City",
@@ -6559,12 +6575,110 @@
         {
             "compet": "English Premier League - Week 18",
             "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Arsenal v Brighton H.A.",
+            "time": "15:00",
+            "date": "2025-12-27"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Arsenal v Brighton H.A.",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "English Premier League - Week 18",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Brentford v Bournemouth",
+            "time": "15:00",
+            "date": "2025-12-27"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Brentford v Bournemouth",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "English Premier League - Week 18",
+            "flags": {
+                "team1": "england",
+                "team2": "england8"
+            },
+            "match": "Burnley v Everton",
+            "time": "15:00",
+            "date": "2025-12-27"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Burnley v Everton",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "English Premier League - Week 18",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Liverpool v Wolves",
+            "time": "15:00",
+            "date": "2025-12-27"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Liverpool v Wolves",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "English Premier League - Week 18",
+            "flags": {
+                "team1": "england21",
+                "team2": "england9"
+            },
+            "match": "West Ham United v Fulham",
+            "time": "15:00",
+            "date": "2025-12-27"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "West Ham United v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "English Premier League - Week 18",
+            "flags": {
                 "team1": "england7",
                 "team2": "england3"
             },
             "match": "Chelsea v Aston Villa",
             "time": "17:30",
             "date": "2025-12-27"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Chelsea v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Sky Go UK [online]",
@@ -6609,6 +6723,14 @@
             "date": "2025-12-28"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Sunderland v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sky Go UK [online]",
             "link": "#",
             "related_to": "Sunderland v Leeds United",
@@ -6649,6 +6771,14 @@
             "match": "Crystal Palace v Tottenham Hotspur",
             "time": "16:30",
             "date": "2025-12-28"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Crystal Palace v Tottenham Hotspur",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Sky Go UK [online]",
@@ -7491,6 +7621,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-11-11 04:22:49",
-    "total_items": 913
+    "last_updated": "2025-11-11 15:19:32",
+    "total_items": 928
 }

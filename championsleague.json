@@ -701,8 +701,44 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 7",
+            "flags": {
+                "team1": "turkey",
+                "team2": "spain"
+            },
+            "match": "Galatasaray v Atlético Madrid",
+            "time": "17:45",
+            "date": "2026-01-21"
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "Galatasaray v Atlético Madrid",
+            "sat": "Turksat 3A",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 8",
+            "flags": {
+                "team1": "england",
+                "team2": "turkey"
+            },
+            "match": "Manchester City v Galatasaray",
+            "time": "20:00",
+            "date": "2026-01-28"
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "Manchester City v Galatasaray",
+            "sat": "Turksat 3A",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-11 04:23:09",
-    "total_items": 81
+    "last_updated": "2025-11-11 15:19:52",
+    "total_items": 85
 }
