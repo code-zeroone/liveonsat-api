@@ -6083,6 +6083,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sky Sports Premier League HD",
+            "link": "#",
+            "related_to": "Everton v Arsenal",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Sky UK Ultra HD 1",
             "link": "#",
             "related_to": "Everton v Arsenal",
@@ -6195,6 +6203,14 @@
             "sat": "Astra 2E",
             "freq": "11.934 V 27500 - 5/6",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "link": "#",
+            "related_to": "Leeds United v Crystal Palace",
+            "sat": "Astra 2F",
+            "freq": "12.226 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky UK Ultra HD 1",
@@ -7621,6 +7637,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-11-11 15:19:32",
-    "total_items": 928
+    "last_updated": "2025-11-12 04:22:32",
+    "total_items": 930
 }
