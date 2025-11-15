@@ -152,99 +152,25 @@
                 "team1": "germany",
                 "team2": "germany"
             },
-            "match": "Augsburg v Hamburg",
-            "time": "14:30",
-            "date": "2025-11-22"
-        },
-        {
-            "channel": "DAZN Japan ($/geo/R)",
-            "link": "#",
-            "related_to": "Augsburg v Hamburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ESPN+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Augsburg v Hamburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Augsburg v Hamburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport Bundesliga 4 HD",
-            "link": "#",
-            "related_to": "Augsburg v Hamburg",
-            "sat": "Astra 1N",
-            "freq": "12.032 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Augsburg v Hamburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Augsburg v Hamburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Augsburg v Hamburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Augsburg v Hamburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Augsburg v Hamburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "link": "#",
-            "related_to": "Augsburg v Hamburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 11",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
             "match": "Bayern Munich v Freiburg",
             "time": "14:30",
             "date": "2025-11-22"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Bayern Munich v Freiburg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "link": "#",
+            "related_to": "Bayern Munich v Freiburg",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN Japan ($/geo/R)",
@@ -335,6 +261,22 @@
             "match": "Borussia Dortmund v Stuttgart",
             "time": "14:30",
             "date": "2025-11-22"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Borussia Dortmund v Stuttgart",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "link": "#",
+            "related_to": "Borussia Dortmund v Stuttgart",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN Japan ($/geo/R)",
@@ -446,9 +388,131 @@
                 "team1": "germany",
                 "team2": "germany"
             },
+            "match": "Wolfsburg v Bayer Leverkusen",
+            "time": "14:30",
+            "date": "2025-11-22"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 6 HD max",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "DAZN Japan ($/geo/R)",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ESPN+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R) 📺",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport Bundesliga 3 HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "Astra 1N",
+            "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 11",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
             "match": "Heidenheim v Mönchengladbach",
             "time": "14:30",
             "date": "2025-11-22"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Heidenheim v Mönchengladbach",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 8 HD max",
+            "link": "#",
+            "related_to": "Heidenheim v Mönchengladbach",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN Japan ($/geo/R)",
@@ -536,14 +600,14 @@
                 "team1": "germany",
                 "team2": "germany"
             },
-            "match": "Wolfsburg v Bayer Leverkusen",
+            "match": "Augsburg v Hamburg",
             "time": "14:30",
             "date": "2025-11-22"
         },
         {
             "channel": "DAZN Japan ($/geo/R)",
             "link": "#",
-            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "related_to": "Augsburg v Hamburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -551,7 +615,7 @@
         {
             "channel": "ESPN+ USA ($/geo/R)",
             "link": "#",
-            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "related_to": "Augsburg v Hamburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -559,23 +623,23 @@
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
-            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "related_to": "Augsburg v Hamburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
         },
         {
-            "channel": "Sky Sport Bundesliga 3 HD",
+            "channel": "Sky Sport Bundesliga 4 HD",
             "link": "#",
-            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "related_to": "Augsburg v Hamburg",
             "sat": "Astra 1N",
-            "freq": "12.304 H 27500 - 9/10",
+            "freq": "12.032 H 27500 - 9/10",
             "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
-            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "related_to": "Augsburg v Hamburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -583,7 +647,7 @@
         {
             "channel": "ViaPlay Nederland HD",
             "link": "#",
-            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "related_to": "Augsburg v Hamburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -591,7 +655,7 @@
         {
             "channel": "ViaPlay Norge HD",
             "link": "#",
-            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "related_to": "Augsburg v Hamburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -599,7 +663,7 @@
         {
             "channel": "ViaPlay Suomi HD",
             "link": "#",
-            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "related_to": "Augsburg v Hamburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -607,7 +671,7 @@
         {
             "channel": "ViaPlay Sverige HD",
             "link": "#",
-            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "related_to": "Augsburg v Hamburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -615,7 +679,7 @@
         {
             "channel": "ViaPlay Ísland HD",
             "link": "#",
-            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "related_to": "Augsburg v Hamburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -1901,6 +1965,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-14 15:20:05",
-    "total_items": 231
+    "last_updated": "2025-11-15 04:23:03",
+    "total_items": 239
 }

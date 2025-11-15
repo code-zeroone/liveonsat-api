@@ -101,6 +101,14 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Lens v Strasbourg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Lens v Strasbourg",
@@ -115,6 +123,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Lens v Strasbourg",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -175,6 +191,14 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Rennes v Monaco",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Rennes v Monaco",
@@ -189,6 +213,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Rennes v Monaco",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -1467,6 +1499,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-14 15:19:24",
-    "total_items": 172
+    "last_updated": "2025-11-15 04:22:22",
+    "total_items": 176
 }

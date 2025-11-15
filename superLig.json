@@ -63,12 +63,28 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Galatasaray v Gençlerbirligi",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports France 6 HD max",
+            "link": "#",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -1277,6 +1293,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-14 15:22:14",
-    "total_items": 146
+    "last_updated": "2025-11-15 04:25:11",
+    "total_items": 148
 }

@@ -4,84 +4,6 @@
             "compet": "NBA Regular Season",
             "flags": {
                 "team1": "assocnba",
-                "team2": "asonba"
-            },
-            "match": "Cleveland Cavaliers v Toronto Raptors",
-            "time": "00:00",
-            "date": "2025-11-14"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Cleveland Cavaliers v Toronto Raptors",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Utah Jazz v Atlanta Hawks",
-            "time": "02:00",
-            "date": "2025-11-14"
-        },
-        {
-            "channel": "beIN Connect FRANCE 📺",
-            "link": "https://connect.beinsports.com/france/se-connecter",
-            "related_to": "Utah Jazz v Atlanta Hawks",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "link": "#",
-            "related_to": "Utah Jazz v Atlanta Hawks",
-            "sat": "Astra 1M",
-            "freq": "11.856 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Utah Jazz v Atlanta Hawks",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "link": "#",
-            "related_to": "Utah Jazz v Atlanta Hawks",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Phoenix Suns v Indiana Pacers",
-            "time": "02:00",
-            "date": "2025-11-14"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Phoenix Suns v Indiana Pacers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
                 "team2": "assocnba"
             },
             "match": "New York Knicks v Miami Heat",
@@ -1293,6 +1215,22 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Charlotte Hornets v Los Angeles Clippers",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "link": "#",
+            "related_to": "Charlotte Hornets v Los Angeles Clippers",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Charlotte Hornets v Los Angeles Clippers",
@@ -1309,6 +1247,22 @@
             "match": "Orlando Magic v New York Knicks",
             "time": "22:00",
             "date": "2025-11-22"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Orlando Magic v New York Knicks",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Orlando Magic v New York Knicks",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -8897,6 +8851,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-11-14 15:21:13",
-    "total_items": 991
+    "last_updated": "2025-11-15 04:24:10",
+    "total_items": 986
 }

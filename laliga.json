@@ -27,6 +27,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Valencia v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "beIN Sports France 10 HD max",
             "link": "#",
             "related_to": "Valencia v Levante",
@@ -133,6 +141,38 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Alavés v Celta Vigo",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Alavés v Celta Vigo",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 9 HD max",
+            "link": "#",
+            "related_to": "Alavés v Celta Vigo",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Alavés v Celta Vigo",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN Belgium ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-BE/",
             "related_to": "Alavés v Celta Vigo",
@@ -215,6 +255,38 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Barcelona v Athletic Bilbao",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Barcelona v Athletic Bilbao",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 9 HD max",
+            "link": "#",
+            "related_to": "Barcelona v Athletic Bilbao",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Barcelona v Athletic Bilbao",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN Belgium ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-BE/",
             "related_to": "Barcelona v Athletic Bilbao",
@@ -279,6 +351,38 @@
             "match": "Osasuna v Real Sociedad",
             "time": "17:30",
             "date": "2025-11-22"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Osasuna v Real Sociedad",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Osasuna v Real Sociedad",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 9 HD max",
+            "link": "#",
+            "related_to": "Osasuna v Real Sociedad",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Osasuna v Real Sociedad",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Belgium ($/geo/R) 📺",
@@ -369,6 +473,22 @@
             "match": "Villarreal v Mallorca",
             "time": "20:00",
             "date": "2025-11-22"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Villarreal v Mallorca",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Villarreal v Mallorca",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Belgium ($/geo/R) 📺",
@@ -1757,6 +1877,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-14 15:19:44",
-    "total_items": 212
+    "last_updated": "2025-11-15 04:22:42",
+    "total_items": 227
 }
