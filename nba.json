@@ -315,6 +315,22 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Cleveland Cavaliers v Milwaukee Bucks",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "link": "#",
+            "related_to": "Cleveland Cavaliers v Milwaukee Bucks",
+            "sat": "Astra 2F",
+            "freq": "12.148 H 27500 - 2/3",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "NBA Regular Season",
             "flags": {
                 "team1": "assocnba",
@@ -8687,6 +8703,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-11-16 04:27:40",
-    "total_items": 968
+    "last_updated": "2025-11-16 15:19:38",
+    "total_items": 970
 }

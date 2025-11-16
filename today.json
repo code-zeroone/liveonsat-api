@@ -799,6 +799,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "CBC Sport HD",
+            "link": "#",
+            "related_to": "Hungary v Ireland",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Hungary v Ireland",
@@ -863,6 +871,14 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "link": "#",
+            "related_to": "Hungary v Ireland",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Nova Sports Start Hellas HD",
             "link": "#",
             "related_to": "Hungary v Ireland",
@@ -885,6 +901,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Hungary v Ireland",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
@@ -1225,6 +1249,14 @@
             "encry": "MPEG-4 Biss"
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Portugal v Armenia",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "IRIB TV3 HD",
             "link": "#",
             "related_to": "Portugal v Armenia",
@@ -1279,6 +1311,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "link": "#",
+            "related_to": "Portugal v Armenia",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
         },
         {
             "channel": "Nova Sports Prime Hellas HD",
@@ -1383,6 +1423,14 @@
             "sat": "Hotbird 13F",
             "freq": "12.073 V 29900 - 3/4",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Portugal v Armenia",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Sony Sports TEN 2 India HD",
@@ -1609,6 +1657,24 @@
             "encry": ""
         },
         {
+            "compet": "German W/Cup (DFB-Pokal Frauen) - Round of 16",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "match": "Hamburg v Bayer Leverkusen",
+            "time": "14:00",
+            "date": "2025-11-16"
+        },
+        {
+            "channel": "YouTube Channel (see link)",
+            "link": "#",
+            "related_to": "Hamburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "English Womens Super League - Week 9",
             "flags": {
                 "team1": "england",
@@ -1733,6 +1799,24 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "compet": "German W/Cup (DFB-Pokal Frauen) - Round of 16",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "match": "RB Leipzig v Werder Bremen",
+            "time": "15:00",
+            "date": "2025-11-16"
+        },
+        {
+            "channel": "YouTube Channel (see link)",
+            "link": "#",
+            "related_to": "RB Leipzig v Werder Bremen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Spanish La Liga 2 - Week 14",
@@ -2125,6 +2209,14 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "link": "#",
+            "related_to": "Albania v England",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Optus Sport ($/geo/R) 📺",
             "link": "https://sport.optus.com.au/",
             "related_to": "Albania v England",
@@ -2203,6 +2295,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Albania v England",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Sony Sports TEN 2 India HD",
@@ -2511,6 +2611,14 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 5 Togo",
+            "link": "#",
+            "related_to": "Serbia v Latvia",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Serbia v Latvia",
@@ -2753,6 +2861,14 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Azerbaijan v France",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Megogo Futbol 2 ($/geo/R)",
             "link": "#",
             "related_to": "Azerbaijan v France",
@@ -2777,6 +2893,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "link": "#",
+            "related_to": "Azerbaijan v France",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Nova Sports 1 Hellas HD",
             "link": "#",
             "related_to": "Azerbaijan v France",
@@ -2799,6 +2923,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Azerbaijan v France",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Play Diema XTRA ($/geo/R) 📺",
@@ -3121,6 +3253,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "New World Sport 4 Togo",
+            "link": "#",
+            "related_to": "Ukraine v Iceland",
+            "sat": "Eutelsat 16A",
+            "freq": "12.604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
         },
         {
             "channel": "Nova Sports Start Hellas HD",
@@ -3593,6 +3733,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "CBC Sport HD",
+            "link": "#",
+            "related_to": "Italy v Norway",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Cytavision Sports 3 HD",
             "link": "#",
             "related_to": "Italy v Norway",
@@ -3705,6 +3853,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "link": "#",
+            "related_to": "Italy v Norway",
+            "sat": "Eutelsat 16A",
+            "freq": "12.562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Nova Sports Prime Hellas HD",
             "link": "#",
             "related_to": "Italy v Norway",
@@ -3809,6 +3965,14 @@
             "encry": "MPEG-4 Bulcrypt"
         },
         {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Italy v Norway",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "Sony Sports TEN 2 India HD",
             "link": "#",
             "related_to": "Italy v Norway",
@@ -3871,14 +4035,6 @@
             "sat": "Eutelsat 16A",
             "freq": "10.845 H 30000 - 3/5",
             "encry": "HD Conax"
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "link": "#",
-            "related_to": "Italy v Norway",
-            "sat": "Intelsat 20",
-            "freq": "11.594 V 27500 - 5/6",
-            "encry": "Irdeto"
         },
         {
             "channel": "SuperSport MáXimo 2A HD",
@@ -4115,6 +4271,14 @@
             "encry": ""
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "link": "#",
+            "related_to": "Israel v Moldova",
+            "sat": "Eutelsat 16A",
+            "freq": "12.604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "link": "#",
             "related_to": "Israel v Moldova",
@@ -4233,14 +4397,6 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
-        },
-        {
-            "channel": "SuperSport MáXimo 360",
-            "link": "#",
-            "related_to": "Israel v Moldova",
-            "sat": "Express AMU1",
-            "freq": "12.130 H 27500 - 2/3",
-            "encry": "Irdeto"
         },
         {
             "channel": "SuperSport MáXimo 3A HD",
@@ -4533,6 +4689,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-16 04:23:46",
-    "total_items": 551
+    "last_updated": "2025-11-16 15:15:44",
+    "total_items": 570
 }
