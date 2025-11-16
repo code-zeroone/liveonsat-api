@@ -271,6 +271,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports Australia 2 HD",
+            "link": "#",
+            "related_to": "Barcelona v Athletic Bilbao",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "beIN Sports France 9 HD max",
             "link": "#",
             "related_to": "Barcelona v Athletic Bilbao",
@@ -367,6 +375,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports Australia 2 HD",
+            "link": "#",
+            "related_to": "Osasuna v Real Sociedad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "beIN Sports France 9 HD max",
@@ -565,6 +581,22 @@
             "date": "2025-11-23"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Real Oviedo v Rayo Vallecano",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "link": "#",
+            "related_to": "Real Oviedo v Rayo Vallecano",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
             "channel": "DAZN Belgium ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-BE/",
             "related_to": "Real Oviedo v Rayo Vallecano",
@@ -745,6 +777,22 @@
             "date": "2025-11-23"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Getafe v Atlético Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 6 HD max",
+            "link": "#",
+            "related_to": "Getafe v Atlético Madrid",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN Belgium ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-BE/",
             "related_to": "Getafe v Atlético Madrid",
@@ -833,6 +881,38 @@
             "match": "Elche v Real Madrid",
             "time": "20:00",
             "date": "2025-11-23"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Elche v Real Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Elche v Real Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Elche v Real Madrid",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Elche v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Belgium ($/geo/R) 📺",
@@ -1877,6 +1957,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-15 15:18:24",
-    "total_items": 227
+    "last_updated": "2025-11-16 04:26:10",
+    "total_items": 237
 }

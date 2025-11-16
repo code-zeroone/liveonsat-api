@@ -825,6 +825,22 @@
             "date": "2025-11-23"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "RB Leipzig v Werder Bremen",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 6 HD max",
+            "link": "#",
+            "related_to": "RB Leipzig v Werder Bremen",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "RB Leipzig v Werder Bremen",
@@ -921,6 +937,22 @@
             "match": "St Pauli v Union Berlin",
             "time": "16:30",
             "date": "2025-11-23"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "St Pauli v Union Berlin",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 8 HD max",
+            "link": "#",
+            "related_to": "St Pauli v Union Berlin",
+            "sat": "Astra 1M",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -1965,6 +1997,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-15 15:18:45",
-    "total_items": 239
+    "last_updated": "2025-11-16 04:26:31",
+    "total_items": 243
 }

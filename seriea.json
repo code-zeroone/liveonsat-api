@@ -223,6 +223,14 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Fiorentina v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "DAZN Belgium ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-BE/",
             "related_to": "Fiorentina v Juventus",
@@ -335,6 +343,14 @@
             "match": "Napoli v Atalanta",
             "time": "19:45",
             "date": "2025-11-22"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Napoli v Atalanta",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "DAZN Belgium ($/geo/R) 📺",
@@ -1843,6 +1859,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-15 15:17:43",
-    "total_items": 223
+    "last_updated": "2025-11-16 04:25:29",
+    "total_items": 225
 }
