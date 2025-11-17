@@ -1,5 +1,32 @@
 {
-    "footonsat": [],
-    "last_updated": "2025-11-16 15:18:50",
-    "total_items": 0
+    "footonsat": [
+        {
+            "compet": "AFC Champions League Elite - Round 5",
+            "flags": {
+                "team1": "uae3",
+                "team2": "qatar3"
+            },
+            "match": "Shabab Al Ahli v Al Gharafa",
+            "time": "16:00",
+            "date": "2025-11-24"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        }
+    ],
+    "last_updated": "2025-11-17 04:28:04",
+    "total_items": 3
 }

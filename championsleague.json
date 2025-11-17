@@ -27,6 +27,14 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Ajax v Benfica",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
                 "team1": "turkey",
@@ -61,12 +69,96 @@
             "encry": "MPEG-4 Seca"
         },
         {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Galatasaray v Union St Gilloise",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "TRT 1 Türkiye HD 📺",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
             "related_to": "Galatasaray v Union St Gilloise",
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 5",
+            "flags": {
+                "team1": "england",
+                "team2": "germany"
+            },
+            "match": "Manchester City v Bayer Leverkusen",
+            "time": "20:00",
+            "date": "2025-11-25"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Manchester City v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Manchester City v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Manchester City v Bayer Leverkusen",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Manchester City v Bayer Leverkusen",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 5",
+            "flags": {
+                "team1": "france",
+                "team2": "england"
+            },
+            "match": "Marseille v Newcastle United",
+            "time": "20:00",
+            "date": "2025-11-25"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Marseille v Newcastle United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Marseille v Newcastle United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Marseille v Newcastle United",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
@@ -93,6 +185,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v Villarreal",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
@@ -131,58 +231,6 @@
         {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
-                "team1": "england",
-                "team2": "germany"
-            },
-            "match": "Manchester City v Bayer Leverkusen",
-            "time": "20:00",
-            "date": "2025-11-25"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Manchester City v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Manchester City v Bayer Leverkusen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 5",
-            "flags": {
-                "team1": "france",
-                "team2": "england"
-            },
-            "match": "Marseille v Newcastle United",
-            "time": "20:00",
-            "date": "2025-11-25"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Marseille v Newcastle United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Marseille v Newcastle United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 5",
-            "flags": {
                 "team1": "italy",
                 "team2": "azerbaijan"
             },
@@ -205,6 +253,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Napoli v Qarabagh",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
@@ -233,6 +289,14 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Slavia Prague v Athletic Bilbao",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
                 "team1": "norway",
@@ -257,6 +321,48 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Juventus",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 5",
+            "flags": {
+                "team1": "cyprus",
+                "team2": "france"
+            },
+            "match": "Pafos FC v Monaco",
+            "time": "17:45",
+            "date": "2025-11-26"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Pafos FC v Monaco",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Pafos FC v Monaco",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Pafos FC v Monaco",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
@@ -287,32 +393,6 @@
         {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
-                "team1": "cyprus",
-                "team2": "france"
-            },
-            "match": "Pafos FC v Monaco",
-            "time": "17:45",
-            "date": "2025-11-26"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Pafos FC v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Pafos FC v Monaco",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 5",
-            "flags": {
                 "team1": "england",
                 "team2": "germany"
             },
@@ -335,6 +415,98 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Arsenal v Bayern Munich",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Arsenal v Bayern Munich",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 5",
+            "flags": {
+                "team1": "england",
+                "team2": "holland"
+            },
+            "match": "Liverpool v PSV Eindhoven",
+            "time": "20:00",
+            "date": "2025-11-26"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Liverpool v PSV Eindhoven",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Liverpool v PSV Eindhoven",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Liverpool v PSV Eindhoven",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Liverpool v PSV Eindhoven",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 5",
+            "flags": {
+                "team1": "france",
+                "team2": "england"
+            },
+            "match": "Paris St Germain v Tottenham Hotspur",
+            "time": "20:00",
+            "date": "2025-11-26"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Paris St Germain v Tottenham Hotspur",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Paris St Germain v Tottenham Hotspur",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Tottenham Hotspur",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
@@ -384,32 +556,6 @@
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
             "link": "https://www.mtv.fi/urheilu",
             "related_to": "Eintracht Frankfurt v Atalanta",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 5",
-            "flags": {
-                "team1": "england",
-                "team2": "holland"
-            },
-            "match": "Liverpool v PSV Eindhoven",
-            "time": "20:00",
-            "date": "2025-11-26"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Liverpool v PSV Eindhoven",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Liverpool v PSV Eindhoven",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -473,32 +619,6 @@
             "sat": "Hotbird 13G",
             "freq": "11.411 H 27500 - 3/4",
             "encry": "MPEG-4 Seca"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 5",
-            "flags": {
-                "team1": "france",
-                "team2": "england"
-            },
-            "match": "Paris St Germain v Tottenham Hotspur",
-            "time": "20:00",
-            "date": "2025-11-26"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Paris St Germain v Tottenham Hotspur",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Paris St Germain v Tottenham Hotspur",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
@@ -739,6 +859,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-16 15:16:26",
-    "total_items": 85
+    "last_updated": "2025-11-17 04:25:40",
+    "total_items": 100
 }

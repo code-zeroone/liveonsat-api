@@ -27,6 +27,64 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 5",
+            "flags": {
+                "team1": "holland",
+                "team2": "scotland"
+            },
+            "match": "Feyenoord v Celtic",
+            "time": "17:45",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Celtic TV (audio only) 📺",
+            "link": "https://www.celticfc.tv/",
+            "related_to": "Feyenoord v Celtic",
+            "sat": "* RADIO",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Feyenoord v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Feyenoord v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Feyenoord v Celtic",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Feyenoord v Celtic",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 5",
             "flags": {
                 "team1": "portugal",
@@ -85,40 +143,6 @@
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 5",
-            "flags": {
-                "team1": "holland",
-                "team2": "scotland"
-            },
-            "match": "Feyenoord v Celtic",
-            "time": "17:45",
-            "date": "2025-11-27"
-        },
-        {
-            "channel": "Celtic TV (audio only) 📺",
-            "link": "https://www.celticfc.tv/",
-            "related_to": "Feyenoord v Celtic",
-            "sat": "* RADIO",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Feyenoord v Celtic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Feyenoord v Celtic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
         },
         {
             "compet": "UEFA Europa League - Matchday 5",
@@ -253,6 +277,98 @@
         {
             "compet": "UEFA Europa League - Matchday 5",
             "flags": {
+                "team1": "england",
+                "team2": "sweden"
+            },
+            "match": "Nottingham Forest v Malmö",
+            "time": "20:00",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Nottingham Forest v Malmö",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Nottingham Forest v Malmö",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Malmö",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Malmö",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Malmö",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 5",
+            "flags": {
+                "team1": "scotland",
+                "team2": "portugal"
+            },
+            "match": "Rangers v Sporting Braga",
+            "time": "20:00",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Rangers v Sporting Braga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Rangers v Sporting Braga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Rangers TV ($/geo/R) 📺",
+            "link": "https://tv.rangers.co.uk/",
+            "related_to": "Rangers v Sporting Braga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Rangers v Sporting Braga",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 5",
+            "flags": {
                 "team1": "italy",
                 "team2": "austria"
             },
@@ -331,32 +447,6 @@
         {
             "compet": "UEFA Europa League - Matchday 5",
             "flags": {
-                "team1": "england",
-                "team2": "sweden"
-            },
-            "match": "Nottingham Forest v Malmö",
-            "time": "20:00",
-            "date": "2025-11-27"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Nottingham Forest v Malmö",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Nottingham Forest v Malmö",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 5",
-            "flags": {
                 "team1": "greece",
                 "team2": "austria"
             },
@@ -405,40 +495,6 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 5",
-            "flags": {
-                "team1": "scotland",
-                "team2": "portugal"
-            },
-            "match": "Rangers v Sporting Braga",
-            "time": "20:00",
-            "date": "2025-11-27"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Rangers v Sporting Braga",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Rangers v Sporting Braga",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Rangers TV ($/geo/R) 📺",
-            "link": "https://tv.rangers.co.uk/",
-            "related_to": "Rangers v Sporting Braga",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
         },
         {
             "compet": "UEFA Europa League - Matchday 5",
@@ -547,6 +603,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-16 15:16:47",
-    "total_items": 63
+    "last_updated": "2025-11-17 04:26:00",
+    "total_items": 70
 }

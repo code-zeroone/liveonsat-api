@@ -29,6 +29,58 @@
         {
             "compet": "UEFA Conference League - Matchday 4",
             "flags": {
+                "team1": "france",
+                "team2": "england"
+            },
+            "match": "Strasbourg v Crystal Palace",
+            "time": "20:00",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Strasbourg v Crystal Palace",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Strasbourg v Crystal Palace",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
+                "team1": "scotland",
+                "team2": "armenia"
+            },
+            "match": "Aberdeen v Noah",
+            "time": "20:00",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Aberdeen v Noah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Aberdeen v Noah",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
                 "team1": "iceland",
                 "team2": "turkey"
             },
@@ -159,6 +211,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-16 15:17:07",
-    "total_items": 18
+    "last_updated": "2025-11-17 04:26:21",
+    "total_items": 24
 }
