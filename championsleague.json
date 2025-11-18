@@ -45,6 +45,22 @@
             "date": "2025-11-25"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Galatasaray v Union St Gilloise",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "Galatasaray v Union St Gilloise",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Galatasaray v Union St Gilloise",
@@ -171,6 +187,22 @@
             "date": "2025-11-25"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Borussia Dortmund v Villarreal",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v Villarreal",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Borussia Dortmund v Villarreal",
@@ -203,6 +235,22 @@
             "match": "Chelsea v Barcelona",
             "time": "20:00",
             "date": "2025-11-25"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
@@ -391,6 +439,14 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "FC Copenhagen v Kairat Almaty",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
                 "team1": "england",
@@ -535,6 +591,38 @@
             "encry": ""
         },
         {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "Atlético Madrid v Inter Milan",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": "Atlético Madrid v Inter Milan",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "Atlético Madrid v Inter Milan",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Atlético Madrid v Inter Milan",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
                 "team1": "germany",
@@ -561,6 +649,14 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Eintracht Frankfurt v Atalanta",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
                 "team1": "greece",
@@ -585,6 +681,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Olympiacos v Real Madrid",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
@@ -619,6 +723,14 @@
             "sat": "Hotbird 13G",
             "freq": "11.411 H 27500 - 3/4",
             "encry": "MPEG-4 Seca"
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Sporting Lisbon v Club Brugge",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
@@ -859,6 +971,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-17 15:21:18",
-    "total_items": 100
+    "last_updated": "2025-11-18 04:22:42",
+    "total_items": 114
 }
