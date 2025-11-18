@@ -6,6 +6,42 @@
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
+            "match": "Al Kholood v Al Hazem",
+            "time": "14:50",
+            "date": "2025-11-21"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Kholood v Al Hazem",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 9",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Ittihad v Al Riyadh",
+            "time": "15:15",
+            "date": "2025-11-21"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Riyadh",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 9",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
             "match": "Al Ahli v Al Qadisiyah",
             "time": "17:30",
             "date": "2025-11-21"
@@ -25,6 +61,32 @@
             "sat": "Astra 1L",
             "freq": "11.186 V 22000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Ahli v Al Qadisiyah",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "Saudi Professional League - Week 9",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Damac FC v Al Najma",
+            "time": "13:40",
+            "date": "2025-11-22"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Damac FC v Al Najma",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "compet": "Saudi Professional League - Week 9",
@@ -53,6 +115,14 @@
             "encry": ""
         },
         {
+            "channel": "Thmanyah 2 HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Fateh",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "Saudi Professional League - Week 9",
             "flags": {
                 "team1": "saudiarabia",
@@ -71,6 +141,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-18 04:28:17",
-    "total_items": 8
+    "last_updated": "2025-11-18 15:26:50",
+    "total_items": 16
 }

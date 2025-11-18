@@ -11,6 +11,30 @@
             "date": "2025-11-21"
         },
         {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "link": "#",
+            "related_to": "Las Palmas v Albacete",
+            "sat": "Eutelsat 16A",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "link": "#",
+            "related_to": "Las Palmas v Albacete",
+            "sat": "Astra 3B",
+            "freq": "11.895 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "link": "#",
+            "related_to": "Las Palmas v Albacete",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "DAZN España HD FTA (geo)",
             "link": "#",
             "related_to": "Las Palmas v Albacete",
@@ -111,6 +135,14 @@
             "match": "Eibar v Real Zaragoza",
             "time": "17:30",
             "date": "2025-11-22"
+        },
+        {
+            "channel": "Arena Sport 1x2 Srbija",
+            "link": "#",
+            "related_to": "Eibar v Real Zaragoza",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
         },
         {
             "channel": "DAZN España HD FTA (geo)",
@@ -255,6 +287,22 @@
             "date": "2025-11-23"
         },
         {
+            "channel": "Arena Sport 2 Srbija HD",
+            "link": "#",
+            "related_to": "Málaga v Mirandés",
+            "sat": "Astra 3B",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 4 BiH HD",
+            "link": "#",
+            "related_to": "Málaga v Mirandés",
+            "sat": "Astra 3B",
+            "freq": "11.895 V 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "DAZN España HD FTA (geo)",
             "link": "#",
             "related_to": "Málaga v Mirandés",
@@ -313,6 +361,6 @@
             "encry": "Free To Air"
         }
     ],
-    "last_updated": "2025-11-18 04:27:57",
-    "total_items": 36
+    "last_updated": "2025-11-18 15:26:29",
+    "total_items": 42
 }

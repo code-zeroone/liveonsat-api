@@ -63,6 +63,14 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "Arena Sport 1 Srbija HD",
+            "link": "#",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "Astra 3C",
+            "freq": "12.460 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Galatasaray v Gençlerbirligi",
@@ -93,6 +101,14 @@
             "sat": "Turksat 3A",
             "freq": "11.180 H 30000 - 3/4",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "link": "#",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "Horizons 2",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
         },
         {
             "compet": "Türkiye Süper Lig - Week 13",
@@ -131,6 +147,14 @@
             "date": "2025-11-23"
         },
         {
+            "channel": "Arena Sport 1x2 Srbija",
+            "link": "#",
+            "related_to": "Besiktas v Samsunspor",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Besiktas v Samsunspor",
@@ -161,6 +185,14 @@
             "sat": "Turksat 3A",
             "freq": "11.180 H 30000 - 3/4",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "link": "#",
+            "related_to": "Besiktas v Samsunspor",
+            "sat": "Horizons 2",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
         },
         {
             "compet": "Türkiye Süper Lig - Week 13",
@@ -231,6 +263,14 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "MATCH! Futbol 3 HD",
+            "link": "#",
+            "related_to": "Caykur Rizespor v Fenerbahçe",
+            "sat": "Horizons 2",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 13",
             "flags": {
                 "team1": "turkey",
@@ -241,12 +281,28 @@
             "date": "2025-11-24"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Istanbul Basaksehir v Trabzonspor",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Istanbul Basaksehir v Trabzonspor",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Trabzonspor",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -1325,6 +1381,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-18 04:26:55",
-    "total_items": 152
+    "last_updated": "2025-11-18 15:25:28",
+    "total_items": 159
 }

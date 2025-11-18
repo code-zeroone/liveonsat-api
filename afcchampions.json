@@ -3,6 +3,32 @@
         {
             "compet": "AFC Champions League Elite - Round 5",
             "flags": {
+                "team1": "uzbekistan",
+                "team2": "iran"
+            },
+            "match": "Nasaf Qarshi v Tractor Sazi",
+            "time": "13:45",
+            "date": "2025-11-24"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "compet": "AFC Champions League Elite - Round 5",
+            "flags": {
                 "team1": "uae3",
                 "team2": "qatar3"
             },
@@ -19,14 +45,74 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "link": "#",
             "related_to": "Shabab Al Ahli v Al Gharafa",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "compet": "AFC Champions League Elite - Round 5",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "uae"
+            },
+            "match": "Al Ahli v Sharjah",
+            "time": "18:15",
+            "date": "2025-11-24"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "compet": "AFC Champions League Elite - Round 5",
+            "flags": {
+                "team1": "uae2",
+                "team2": "qatar1"
+            },
+            "match": "Al Wahda v Al Sadd",
+            "time": "16:00",
+            "date": "2025-11-25"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Al Wahda v Al Sadd",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Al Wahda v Al Sadd",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         }
     ],
-    "last_updated": "2025-11-18 04:25:06",
-    "total_items": 3
+    "last_updated": "2025-11-18 15:23:38",
+    "total_items": 13
 }
