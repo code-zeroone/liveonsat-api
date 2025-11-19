@@ -47,6 +47,14 @@
             "date": "2025-11-21"
         },
         {
+            "channel": "Cosmote Sport 2 HD",
+            "link": "#",
+            "related_to": "Al Ahli v Al Qadisiyah",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Al Ahli v Al Qadisiyah",
@@ -55,11 +63,27 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sport TV2 Portugal HD",
+            "link": "#",
+            "related_to": "Al Ahli v Al Qadisiyah",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "link": "#",
             "related_to": "Al Ahli v Al Qadisiyah",
             "sat": "Astra 1L",
             "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SPOTV Malaysia HD",
+            "link": "#",
+            "related_to": "Al Ahli v Al Qadisiyah",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -99,6 +123,14 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "Cosmote Sport 8 HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Fateh",
+            "sat": "Eutelsat 9B",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
             "related_to": "Al Hilal v Al Fateh",
@@ -107,12 +139,28 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sport TV4 Portugal HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Fateh",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Sportdigital FUSSBALL 2",
             "link": "#",
             "related_to": "Al Hilal v Al Fateh",
             "sat": "Download APP",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SPOTV Malaysia HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Fateh",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Thmanyah 2 HD",
@@ -133,14 +181,82 @@
             "date": "2025-11-23"
         },
         {
+            "channel": "Cosmote Sport 3 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Setanta Sports Premium HD 📺",
             "link": "https://tv.kyivstar.ua/en/setantasports",
             "related_to": "Al Nassr v Al Khaleej",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SPOTV Malaysia HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Saudi King's Cup - Quarter Final",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Kholood v Al Khaleej",
+            "time": "14:50",
+            "date": "2025-11-28"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "link": "#",
+            "related_to": "Al Kholood v Al Khaleej",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "compet": "Saudi King's Cup - Quarter Final",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Ahli v Al Qadisiyah",
+            "time": "17:30",
+            "date": "2025-11-28"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "link": "#",
+            "related_to": "Al Ahli v Al Qadisiyah",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
         }
     ],
-    "last_updated": "2025-11-18 15:26:50",
-    "total_items": 16
+    "last_updated": "2025-11-19 04:28:28",
+    "total_items": 30
 }

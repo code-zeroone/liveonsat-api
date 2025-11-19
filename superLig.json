@@ -103,12 +103,28 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "beIN Sports US 5",
+            "link": "#",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "link": "#",
             "related_to": "Galatasaray v Gençlerbirligi",
             "sat": "Horizons 2",
             "freq": "11.840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "link": "#",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "compet": "Türkiye Süper Lig - Week 13",
@@ -187,12 +203,28 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "beIN Sports US 5",
+            "link": "#",
+            "related_to": "Besiktas v Samsunspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "link": "#",
             "related_to": "Besiktas v Samsunspor",
             "sat": "Horizons 2",
             "freq": "11.840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "link": "#",
+            "related_to": "Besiktas v Samsunspor",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "compet": "Türkiye Süper Lig - Week 13",
@@ -263,12 +295,28 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "beIN Sports US 3",
+            "link": "#",
+            "related_to": "Caykur Rizespor v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "link": "#",
             "related_to": "Caykur Rizespor v Fenerbahçe",
             "sat": "Horizons 2",
             "freq": "11.840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "link": "#",
+            "related_to": "Caykur Rizespor v Fenerbahçe",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "compet": "Türkiye Süper Lig - Week 13",
@@ -311,6 +359,22 @@
             "sat": "Turksat 3A",
             "freq": "11.180 H 30000 - 3/4",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "beIN Sports US Español",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Trabzonspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Trabzonspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Türkiye Süper Lig - Week 13",
@@ -1381,6 +1445,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-18 15:25:28",
-    "total_items": 159
+    "last_updated": "2025-11-19 04:27:07",
+    "total_items": 167
 }

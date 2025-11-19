@@ -29,6 +29,76 @@
         {
             "compet": "UEFA Conference League - Matchday 4",
             "flags": {
+                "team1": "poland",
+                "team2": "switzerland"
+            },
+            "match": "Lech Poznan v Lausanne Sport",
+            "time": "17:45",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Blue Sport 2 Live HD",
+            "link": "#",
+            "related_to": "Lech Poznan v Lausanne Sport",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 3 Live HDR",
+            "link": "#",
+            "related_to": "Lech Poznan v Lausanne Sport",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport D 1 HD",
+            "link": "#",
+            "related_to": "Lech Poznan v Lausanne Sport",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
+                "team1": "poland",
+                "team2": "austria"
+            },
+            "match": "Raków Czestochowa v Rapid Vienna",
+            "time": "17:45",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Sky Sport 2 Austria HD",
+            "link": "#",
+            "related_to": "Raków Czestochowa v Rapid Vienna",
+            "sat": "Astra 1M",
+            "freq": "11.992 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
+                "team1": "romania",
+                "team2": "germany"
+            },
+            "match": "Universitatea Craiova v Mainz 05",
+            "time": "17:45",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Blue Sport 14 Live HD",
+            "link": "#",
+            "related_to": "Universitatea Craiova v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
                 "team1": "france",
                 "team2": "england"
             },
@@ -37,12 +107,28 @@
             "date": "2025-11-27"
         },
         {
+            "channel": "Blue Sport 23 Live HD",
+            "link": "#",
+            "related_to": "Strasbourg v Crystal Palace",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Strasbourg v Crystal Palace",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport 8 Austria HD",
+            "link": "#",
+            "related_to": "Strasbourg v Crystal Palace",
+            "sat": "Astra 1KR",
+            "freq": "11.171 H 22000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TNT Sports 2 HD",
@@ -95,6 +181,42 @@
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
+                "team1": "italy",
+                "team2": "greece"
+            },
+            "match": "Fiorentina v AEK Athens",
+            "time": "20:00",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Blue Sport 21 Live HD",
+            "link": "#",
+            "related_to": "Fiorentina v AEK Athens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
+                "team1": "poland",
+                "team2": "czechia"
+            },
+            "match": "Legia Warsaw v Sparta Prague",
+            "time": "20:00",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Blue Sport 22 Live HD",
+            "link": "#",
+            "related_to": "Legia Warsaw v Sparta Prague",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Conference League - Matchday 4",
@@ -211,6 +333,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-18 15:21:54",
-    "total_items": 24
+    "last_updated": "2025-11-19 04:23:33",
+    "total_items": 38
 }
