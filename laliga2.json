@@ -391,8 +391,50 @@
             "sat": "Hotbird 13F",
             "freq": "11.804 V 29700 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 13",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Ceuta v Almería",
+            "time": "18:00",
+            "date": "2025-11-26"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Ceuta v Almería",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN España HD FTA (geo)",
+            "link": "#",
+            "related_to": "Ceuta v Almería",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 - -",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "link": "#",
+            "related_to": "Ceuta v Almería",
+            "sat": "Astra 1M",
+            "freq": "10.758 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "link": "#",
+            "related_to": "Ceuta v Almería",
+            "sat": "Astra 1L",
+            "freq": "11.038 V 22000 - 5/6",
+            "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-11-19 04:28:08",
-    "total_items": 46
+    "last_updated": "2025-11-19 15:25:23",
+    "total_items": 51
 }

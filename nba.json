@@ -311,6 +311,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Cleveland Cavaliers v Houston Rockets",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Setanta Sports 1 Eurasia HD",
             "link": "#",
             "related_to": "Cleveland Cavaliers v Houston Rockets",
@@ -563,6 +571,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Dallas Mavericks v New York Knicks",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "NBA Regular Season",
@@ -995,6 +1011,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "link": "#",
+            "related_to": "Orlando Magic v New York Knicks",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Setanta Sports 1 Eurasia HD",
@@ -1697,12 +1721,12 @@
             "encry": "N/A"
         },
         {
-            "channel": "beIN Sports France 2 HD",
+            "channel": "beIN Sports France 1 HD",
             "link": "#",
             "related_to": "Los Angeles Lakers v Los Angeles Clippers",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
-            "encry": "HD Viaccess"
+            "encry": "HD NagraVision"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -10767,6 +10791,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-11-19 04:26:06",
-    "total_items": 1208
+    "last_updated": "2025-11-19 15:23:21",
+    "total_items": 1211
 }

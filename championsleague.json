@@ -11,12 +11,36 @@
             "date": "2025-11-25"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Ajax v Benfica",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Ajax v Benfica",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Blue Sport 2 Live HD",
             "link": "#",
             "related_to": "Ajax v Benfica",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "link": "#",
+            "related_to": "Ajax v Benfica",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -77,6 +101,14 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Galatasaray v Union St Gilloise",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "beIN Sports MENA English 2 HD",
             "link": "#",
             "related_to": "Galatasaray v Union St Gilloise",
@@ -99,6 +131,14 @@
             "sat": "Hotbird 13E",
             "freq": "11.096 H 30000 - 3/4",
             "encry": "HD Panaccess"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "link": "#",
+            "related_to": "Galatasaray v Union St Gilloise",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "DAZN 1 Bar Deutsch HD",
@@ -175,6 +215,22 @@
             "date": "2025-11-25"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Manchester City v Bayer Leverkusen",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Manchester City v Bayer Leverkusen",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Blue Sport 3 Live HDR",
             "link": "#",
             "related_to": "Manchester City v Bayer Leverkusen",
@@ -197,6 +253,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "link": "#",
+            "related_to": "Manchester City v Bayer Leverkusen",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "DAZN 1 Bar Deutsch HD",
@@ -265,12 +329,36 @@
             "date": "2025-11-25"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Marseille v Newcastle United",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Marseille v Newcastle United",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Blue Sport 7 Live HD",
             "link": "#",
             "related_to": "Marseille v Newcastle United",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Cosmote Sport 8 HD",
+            "link": "#",
+            "related_to": "Marseille v Newcastle United",
+            "sat": "Eutelsat 9B",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -347,6 +435,14 @@
             "encry": ""
         },
         {
+            "channel": "Cosmote Sport 7 HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v Villarreal",
+            "sat": "Eutelsat 9B",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Borussia Dortmund v Villarreal",
@@ -374,6 +470,80 @@
             "channel": "TNT Sports 4 HD",
             "link": "#",
             "related_to": "Borussia Dortmund v Villarreal",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 5",
+            "flags": {
+                "team1": "norway",
+                "team2": "italy"
+            },
+            "match": "Bodø/Glimt v Juventus",
+            "time": "20:00",
+            "date": "2025-11-25"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Bodø/Glimt v Juventus",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Juventus",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 6 Live HD",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cosmote Sport 6 HD",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Juventus",
+            "sat": "Eutelsat 9B",
+            "freq": "12.418 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Bodø/Glimt v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Bodø/Glimt v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 6 Austria HD",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Juventus",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Bodø/Glimt v Juventus",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
@@ -445,6 +615,14 @@
             "encry": ""
         },
         {
+            "channel": "Cosmote Sport 2 HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
             "link": "https://www.mtv.fi/urheilu",
             "related_to": "Chelsea v Barcelona",
@@ -493,6 +671,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Cosmote Sport 5 HD",
+            "link": "#",
+            "related_to": "Napoli v Qarabagh",
+            "sat": "Eutelsat 9B",
+            "freq": "12.418 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -545,6 +731,14 @@
             "encry": ""
         },
         {
+            "channel": "Cosmote Sport 9 HD",
+            "link": "#",
+            "related_to": "Slavia Prague v Athletic Bilbao",
+            "sat": "Eutelsat 9B",
+            "freq": "12.169 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Slavia Prague v Athletic Bilbao",
@@ -579,56 +773,6 @@
         {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
-                "team1": "norway",
-                "team2": "italy"
-            },
-            "match": "Bodø/Glimt v Juventus",
-            "time": "20:00",
-            "date": "2025-11-25"
-        },
-        {
-            "channel": "Blue Sport 6 Live HD",
-            "link": "#",
-            "related_to": "Bodø/Glimt v Juventus",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Bodø/Glimt v Juventus",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Bodø/Glimt v Juventus",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport 6 Austria HD",
-            "link": "#",
-            "related_to": "Bodø/Glimt v Juventus",
-            "sat": "Astra 1M",
-            "freq": "11.798 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TNT Sports 5 HD",
-            "link": "#",
-            "related_to": "Bodø/Glimt v Juventus",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 5",
-            "flags": {
                 "team1": "cyprus",
                 "team2": "france"
             },
@@ -643,6 +787,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Pafos FC v Monaco",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "beIN Sports MENA English 2 HD",
@@ -703,6 +855,22 @@
             "date": "2025-11-26"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "FC Copenhagen v Kairat Almaty",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "FC Copenhagen v Kairat Almaty",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Blue Sport 10 Live HD",
             "link": "#",
             "related_to": "FC Copenhagen v Kairat Almaty",
@@ -759,6 +927,14 @@
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Arsenal v Bayern Munich",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "beIN Sports MENA English 1 HD",
@@ -925,6 +1101,22 @@
             "date": "2025-11-26"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Liverpool v PSV Eindhoven",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Liverpool v PSV Eindhoven",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Blue Sport 4 Live HD",
             "link": "#",
             "related_to": "Liverpool v PSV Eindhoven",
@@ -1034,6 +1226,72 @@
             "channel": "TNT Sports 3 HD",
             "link": "#",
             "related_to": "Paris St Germain v Tottenham Hotspur",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 5",
+            "flags": {
+                "team1": "greece",
+                "team2": "spain"
+            },
+            "match": "Olympiacos v Real Madrid",
+            "time": "20:00",
+            "date": "2025-11-26"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Olympiacos v Real Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Olympiacos v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 5 Live HD",
+            "link": "#",
+            "related_to": "Olympiacos v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Olympiacos v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Olympiacos v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 6 Austria HD",
+            "link": "#",
+            "related_to": "Olympiacos v Real Madrid",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Olympiacos v Real Madrid",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
@@ -1217,56 +1475,6 @@
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 5",
-            "flags": {
-                "team1": "greece",
-                "team2": "spain"
-            },
-            "match": "Olympiacos v Real Madrid",
-            "time": "20:00",
-            "date": "2025-11-26"
-        },
-        {
-            "channel": "Blue Sport 5 Live HD",
-            "link": "#",
-            "related_to": "Olympiacos v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Olympiacos v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Olympiacos v Real Madrid",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport 6 Austria HD",
-            "link": "#",
-            "related_to": "Olympiacos v Real Madrid",
-            "sat": "Astra 1M",
-            "freq": "11.798 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TNT Sports 5 HD",
-            "link": "#",
-            "related_to": "Olympiacos v Real Madrid",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
@@ -1507,6 +1715,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-19 04:22:52",
-    "total_items": 181
+    "last_updated": "2025-11-19 15:20:06",
+    "total_items": 207
 }
