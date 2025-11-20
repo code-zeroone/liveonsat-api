@@ -93,6 +93,90 @@
             "encry": "HD VideoGuard"
         },
         {
+            "compet": "Romanian Liga 2 - Week 14",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania15"
+            },
+            "match": "Concordia Chiajna v Bihor Oradea",
+            "time": "17:30",
+            "date": "2025-11-20"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "link": "#",
+            "related_to": "Concordia Chiajna v Bihor Oradea",
+            "sat": "Thor 5",
+            "freq": "11.862 H 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "link": "#",
+            "related_to": "Concordia Chiajna v Bihor Oradea",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Concordia Chiajna v Bihor Oradea",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "compet": "Danish 1. Division - Week 17",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "match": "Hobro v Hvidovre",
+            "time": "17:30",
+            "date": "2025-11-20"
+        },
+        {
+            "channel": "TV3 Sport Dansk HD",
+            "link": "#",
+            "related_to": "Hobro v Hvidovre",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Hobro v Hvidovre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Hobro v Hvidovre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Hobro v Hvidovre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Hobro v Hvidovre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "compet": "UEFA Womens Champions League - League Stage: Round 4",
             "flags": {
                 "team1": "holland",
@@ -127,11 +211,85 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Disney+ Danmark ($/geo/R)",
+            "link": "#",
+            "related_to": "Twente v Atlético Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Disney+ UK ($/geo/R)",
             "link": "#",
             "related_to": "Twente v Atlético Madrid",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Swedish Damallsvenskan - Relegation Play-Off (1st Leg)",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "match": "Orebro v Brommapojkarna",
+            "time": "18:00",
+            "date": "2025-11-20"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Orebro v Brommapojkarna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Orebro v Brommapojkarna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Orebro v Brommapojkarna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "link": "#",
+            "related_to": "Orebro v Brommapojkarna",
+            "sat": "Thor 6",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Orebro v Brommapojkarna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Orebro v Brommapojkarna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Orebro v Brommapojkarna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
             "encry": ""
         },
         {
@@ -243,6 +401,22 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "link": "#",
+            "related_to": "Peterborough United v Stockport County",
+            "sat": "Hellas Sat 3",
+            "freq": "12.137 V 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Peterborough United v Stockport County",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "link": "#",
             "related_to": "Peterborough United v Stockport County",
@@ -281,6 +455,54 @@
             "sat": "Astra 2F",
             "freq": "12.246 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Peterborough United v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Peterborough United v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Peterborough United v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Peterborough United v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Peterborough United v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Peterborough United v Stockport County",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Womens Champions League - League Stage: Round 4",
@@ -357,12 +579,28 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Disney+ Danmark ($/geo/R)",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Disney+ UK ($/geo/R)",
             "link": "#",
             "related_to": "Chelsea v Barcelona",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
         },
         {
             "compet": "UEFA Womens Champions League - League Stage: Round 4",
@@ -407,6 +645,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Disney+ Danmark ($/geo/R)",
+            "link": "#",
+            "related_to": "Paris St Germain v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Disney+ UK ($/geo/R)",
             "link": "#",
             "related_to": "Paris St Germain v Bayern Munich",
@@ -431,6 +677,14 @@
             "sat": "Measat 3b",
             "freq": "10.732 V 30000 - 5/6",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Disney+ Danmark ($/geo/R)",
+            "link": "#",
+            "related_to": "Leuven v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Disney+ UK ($/geo/R)",
@@ -533,6 +787,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-11-20 04:20:37",
-    "total_items": 64
+    "last_updated": "2025-11-20 15:19:28",
+    "total_items": 95
 }

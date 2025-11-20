@@ -91,6 +91,14 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO PPV 1",
+            "link": "#",
+            "related_to": "Las Palmas v Albacete",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 15",
             "flags": {
                 "team1": "spain",
@@ -183,6 +191,14 @@
             "sat": "Astra 3C",
             "freq": "12.285 V 30000 - 2/3",
             "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Prima Sport RO PPV 2",
+            "link": "#",
+            "related_to": "Eibar v Real Zaragoza",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "Spanish La Liga 2 - Week 15",
@@ -343,6 +359,22 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "Prima Sport RO PPV 1",
+            "link": "#",
+            "related_to": "Málaga v Mirandés",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TV2 Play Danmark ($/geo/R) 📺",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": "Málaga v Mirandés",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 15",
             "flags": {
                 "team1": "spain",
@@ -393,6 +425,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Prima Sport RO PPV 1",
+            "link": "#",
+            "related_to": "Real Sociedad II v Real Valladolid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 13",
             "flags": {
                 "team1": "spain",
@@ -435,6 +475,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-11-20 04:26:33",
-    "total_items": 51
+    "last_updated": "2025-11-20 15:25:29",
+    "total_items": 56
 }

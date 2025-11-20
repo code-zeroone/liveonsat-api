@@ -67,86 +67,12 @@
             "encry": "Free To Air HD"
         },
         {
-            "compet": "UEFA Europa League - Matchday 5",
-            "flags": {
-                "team1": "england3",
-                "team2": "switzerland"
-            },
-            "match": "Aston Villa v Young Boys",
-            "time": "17:45",
-            "date": "2025-11-27"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Aston Villa v Young Boys",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
+            "channel": "Ziggo Sport 6",
             "link": "#",
-            "related_to": "Aston Villa v Young Boys",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Blue Sport 1 Live HD",
-            "link": "#",
-            "related_to": "Aston Villa v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Blue Sport 2 Live HDR",
-            "link": "#",
-            "related_to": "Aston Villa v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Blue Sport D 2 HD",
-            "link": "#",
-            "related_to": "Aston Villa v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Aston Villa v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Aston Villa v Young Boys",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport 7 Austria HD",
-            "link": "#",
-            "related_to": "Aston Villa v Young Boys",
-            "sat": "Astra 1KR",
-            "freq": "11.171 H 22000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "link": "#",
-            "related_to": "Aston Villa v Young Boys",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
+            "related_to": "Fenerbahçe v Ferencváros",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Seca"
         },
         {
             "compet": "UEFA Europa League - Matchday 5",
@@ -234,6 +160,96 @@
             "channel": "TNT Sports 3 HD",
             "link": "#",
             "related_to": "Feyenoord v Celtic",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Feyenoord v Celtic",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 5",
+            "flags": {
+                "team1": "england3",
+                "team2": "switzerland"
+            },
+            "match": "Aston Villa v Young Boys",
+            "time": "17:45",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 1 Live HD",
+            "link": "#",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 2 Live HDR",
+            "link": "#",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport D 2 HD",
+            "link": "#",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 7 Austria HD",
+            "link": "#",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "Astra 1KR",
+            "freq": "11.171 H 22000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Aston Villa v Young Boys",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
@@ -703,6 +719,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Go Ahead Eagles v Stuttgart",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 5",
             "flags": {
                 "team1": "belgium",
@@ -883,6 +907,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Ziggo Sport 5",
+            "link": "#",
+            "related_to": "Rangers v Sporting Braga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Europa League - Matchday 5",
             "flags": {
                 "team1": "spain",
@@ -926,6 +958,14 @@
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
+            "link": "#",
+            "related_to": "Real Betis v Utrecht",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 3",
             "link": "#",
             "related_to": "Real Betis v Utrecht",
             "sat": "* IPTV/Stream",
@@ -1171,6 +1211,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-20 04:21:39",
-    "total_items": 141
+    "last_updated": "2025-11-20 15:20:32",
+    "total_items": 146
 }

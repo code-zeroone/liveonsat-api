@@ -67,6 +67,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Digi Sport 4 Romania",
+            "link": "#",
+            "related_to": "Mainz 05 v Hoffenheim",
+            "sat": "Intelsat 10-02",
+            "freq": "12.687 H 27500 - 3/4",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "ESPN+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Mainz 05 v Hoffenheim",
@@ -97,6 +105,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Hoffenheim",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Mainz 05 v Hoffenheim",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "Setanta Sports Ukraine HD",
@@ -136,6 +160,14 @@
             "related_to": "Mainz 05 v Hoffenheim",
             "sat": "Astra 1N",
             "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Hoffenheim",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -253,6 +285,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Digi Sport 2 Romania HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Freiburg",
+            "sat": "Thor 6",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "ESPN+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Bayern Munich v Freiburg",
@@ -283,6 +323,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Freiburg",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Bayern Munich v Freiburg",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "Setanta Sports Qazaqstan HD",
@@ -391,6 +447,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Digi Sport 3 Romania",
+            "link": "#",
+            "related_to": "Borussia Dortmund v Stuttgart",
+            "sat": "Thor 6",
+            "freq": "11.900 H 28000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
             "channel": "ESPN+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Borussia Dortmund v Stuttgart",
@@ -409,6 +473,14 @@
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "Borussia Dortmund v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 5 HD",
+            "link": "#",
             "related_to": "Borussia Dortmund v Stuttgart",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -561,11 +633,27 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO PPV 2",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sky Sport Bundesliga 3 HD",
             "link": "#",
             "related_to": "Wolfsburg v Bayer Leverkusen",
             "sat": "Astra 1N",
             "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV3 Sport Dansk HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Bayer Leverkusen",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -669,6 +757,14 @@
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "Heidenheim v Mönchengladbach",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO PPV 3",
+            "link": "#",
             "related_to": "Heidenheim v Mönchengladbach",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -903,6 +999,14 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO PPV 1",
+            "link": "#",
+            "related_to": "FC Cologne v Eintracht Frankfurt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Setanta Sports Premium HD 📺",
             "link": "https://tv.kyivstar.ua/en/setantasports",
             "related_to": "FC Cologne v Eintracht Frankfurt",
@@ -956,6 +1060,14 @@
             "related_to": "FC Cologne v Eintracht Frankfurt",
             "sat": "Astra 2E",
             "freq": "12.012 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV3 Sport Dansk HD",
+            "link": "#",
+            "related_to": "FC Cologne v Eintracht Frankfurt",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -1111,6 +1223,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Prima Sport RO 4 HD",
+            "link": "#",
+            "related_to": "RB Leipzig v Werder Bremen",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "RB Leipzig v Werder Bremen",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "Prime Video UK PPV [$] 📺",
@@ -1291,6 +1419,14 @@
             "encry": ""
         },
         {
+            "channel": "Prima Sport RO PPV 2",
+            "link": "#",
+            "related_to": "St Pauli v Union Berlin",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Prime Video UK PPV [$] 📺",
             "link": "https://www.primevideo.com/",
             "related_to": "St Pauli v Union Berlin",
@@ -1305,6 +1441,14 @@
             "sat": "Astra 4A",
             "freq": "12.207 V 30000 - 2/3",
             "encry": "HD Verimatrix"
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "link": "#",
+            "related_to": "St Pauli v Union Berlin",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1429,6 +1573,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "TV3 MAX Dansk HD",
+            "link": "#",
+            "related_to": "Mönchengladbach v RB Leipzig",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Mönchengladbach v RB Leipzig",
@@ -1517,6 +1669,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "See Dansk HD",
+            "link": "#",
+            "related_to": "Bayern Munich v St Pauli",
+            "sat": "Thor 6",
+            "freq": "11.265 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sport Bundesliga 1 HD",
@@ -1901,6 +2061,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "See Dansk HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Borussia Dortmund",
+            "sat": "Thor 6",
+            "freq": "11.265 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -2639,6 +2807,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-11-20 04:23:22",
-    "total_items": 323
+    "last_updated": "2025-11-20 15:22:16",
+    "total_items": 344
 }

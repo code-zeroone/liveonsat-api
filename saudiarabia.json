@@ -63,6 +63,22 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Prima Sport RO 2 HD",
+            "link": "#",
+            "related_to": "Al Ahli v Al Qadisiyah",
+            "sat": "Hellas Sat 3",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Al Ahli v Al Qadisiyah",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "link": "#",
             "related_to": "Al Ahli v Al Qadisiyah",
@@ -139,6 +155,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Prima Sport RO PPV 4",
+            "link": "#",
+            "related_to": "Al Hilal v Al Fateh",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "link": "#",
             "related_to": "Al Hilal v Al Fateh",
@@ -187,6 +211,22 @@
             "sat": "Eutelsat 9B",
             "freq": "11.843 V 27500 - 3/5",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "Setanta Sports Premium HD 📺",
@@ -257,6 +297,6 @@
             "encry": "HD NagraVision"
         }
     ],
-    "last_updated": "2025-11-20 04:26:54",
-    "total_items": 30
+    "last_updated": "2025-11-20 15:25:49",
+    "total_items": 35
 }
