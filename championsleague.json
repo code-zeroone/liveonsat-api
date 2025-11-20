@@ -83,6 +83,46 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Ajax v Benfica",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "Ajax v Benfica",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "Ajax v Benfica",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "link": "#",
+            "related_to": "Ajax v Benfica",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Cielo Italia HD",
+            "link": "#",
+            "related_to": "Ajax v Benfica",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
                 "team1": "turkey",
@@ -197,12 +237,28 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "TNT Sports 9",
+            "link": "#",
+            "related_to": "Galatasaray v Union St Gilloise",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "TRT 1 Türkiye HD 📺",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
             "related_to": "Galatasaray v Union St Gilloise",
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Galatasaray v Union St Gilloise",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
@@ -316,6 +372,30 @@
             "related_to": "Manchester City v Bayer Leverkusen",
             "sat": "Astra 2F",
             "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "Manchester City v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "Manchester City v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "link": "#",
+            "related_to": "Manchester City v Bayer Leverkusen",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -845,6 +925,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Pafos FC v Monaco",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
                 "team1": "denmark",
@@ -908,6 +996,30 @@
             "related_to": "FC Copenhagen v Kairat Almaty",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "FC Copenhagen v Kairat Almaty",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "FC Copenhagen v Kairat Almaty",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "link": "#",
+            "related_to": "FC Copenhagen v Kairat Almaty",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -1022,6 +1134,30 @@
             "related_to": "Arsenal v Bayern Munich",
             "sat": "Astra 2F",
             "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Virgin Media PLAY (geo/R)",
+            "link": "#",
+            "related_to": "Arsenal v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media TV [app] (geo/R)",
+            "link": "#",
+            "related_to": "Arsenal v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "link": "#",
+            "related_to": "Arsenal v Bayern Munich",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
             "encry": "HD VideoGuard"
         },
         {
@@ -1147,6 +1283,22 @@
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "RTÉ 2 Ireland HD",
+            "link": "#",
+            "related_to": "Liverpool v PSV Eindhoven",
+            "sat": "Astra 2E",
+            "freq": "11.914 H 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "RTÉ Player (geo/R) 📺",
+            "link": "https://www.rte.ie/player/onnow",
+            "related_to": "Liverpool v PSV Eindhoven",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Sky Sport 4 Austria HD",
@@ -1715,6 +1867,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-19 15:20:06",
-    "total_items": 207
+    "last_updated": "2025-11-20 04:21:19",
+    "total_items": 226
 }
