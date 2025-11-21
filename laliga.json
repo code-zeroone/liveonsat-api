@@ -35,6 +35,14 @@
             "encry": "HD Conax"
         },
         {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Valencia v Levante",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect FRANCE 📺",
             "link": "https://connect.beinsports.com/france/se-connecter",
             "related_to": "Valencia v Levante",
@@ -259,12 +267,36 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Spíler 2 TV Hungary HD",
+            "link": "#",
+            "related_to": "Valencia v Levante",
+            "sat": "Thor 6",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "link": "#",
+            "related_to": "Valencia v Levante",
+            "sat": "Belintersat 1",
+            "freq": "11.098 H 16665 - 1/2",
+            "encry": "Conax"
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
             "link": "https://play.tv2.dk/sport",
             "related_to": "Valencia v Levante",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TV2 Play Premium (geo/R) 📺",
+            "link": "https://tv2play.hu/musorok?mufajok=sport&rendezes=nepszeruseg",
+            "related_to": "Valencia v Levante",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "TV2 Sport X Dansk HD",
@@ -2309,6 +2341,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Espanyol v Sevilla",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Blue Sport D 1 HD",
             "link": "#",
             "related_to": "Espanyol v Sevilla",
@@ -3881,7 +3921,7 @@
                 "team2": "spain"
             },
             "match": "Villarreal v Barcelona",
-            "time": "17:00",
+            "time": "15:15",
             "date": "2025-12-21"
         },
         {
@@ -4031,6 +4071,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-21 04:23:44",
-    "total_items": 494
+    "last_updated": "2025-11-21 15:19:28",
+    "total_items": 499
 }

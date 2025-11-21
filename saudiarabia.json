@@ -29,6 +29,14 @@
             "date": "2025-11-21"
         },
         {
+            "channel": "Band Sports Brazil HD",
+            "link": "#",
+            "related_to": "Al Ittihad v Al Riyadh",
+            "sat": "SES 6",
+            "freq": "11.680 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Thmanyah 2 HD",
             "link": "#",
             "related_to": "Al Ittihad v Al Riyadh",
@@ -93,6 +101,14 @@
             "sat": "Astra 1L",
             "freq": "11.186 V 22000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sportitalia HD 📺",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "Al Ahli v Al Qadisiyah",
+            "sat": "Eutelsat 9B",
+            "freq": "12.341 V 31400 - 5/6",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "SPOTV Malaysia HD",
@@ -297,6 +313,6 @@
             "encry": "HD NagraVision"
         }
     ],
-    "last_updated": "2025-11-21 04:27:46",
-    "total_items": 35
+    "last_updated": "2025-11-21 15:23:30",
+    "total_items": 37
 }

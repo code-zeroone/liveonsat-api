@@ -99,12 +99,28 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Okko Futbol HD ($/geo/R)",
+            "link": "#",
+            "related_to": "Mainz 05 v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
             "related_to": "Mainz 05 v Hoffenheim",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Hoffenheim",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
         },
         {
             "channel": "Prima Sport RO 3 HD",
@@ -161,6 +177,22 @@
             "sat": "Astra 1N",
             "freq": "11.914 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Hoffenheim",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "ST World Football HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Hoffenheim",
+            "sat": "Eutelsat 10B",
+            "freq": "3.736 R 07307 - 5/6",
+            "encry": "HD Conax"
         },
         {
             "channel": "TV3 MAX Dansk HD",
@@ -357,6 +389,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Freiburg",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Bayern Munich v Freiburg",
@@ -525,6 +565,14 @@
             "sat": "Astra 1N",
             "freq": "11.914 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v Stuttgart",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -1265,6 +1313,14 @@
             "encry": "HD Verimatrix"
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "RB Leipzig v Werder Bremen",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "RB Leipzig v Werder Bremen",
@@ -1441,6 +1497,14 @@
             "sat": "Astra 4A",
             "freq": "12.207 V 30000 - 2/3",
             "encry": "HD Verimatrix"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "St Pauli v Union Berlin",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "TV3 MAX Dansk HD",
@@ -2823,6 +2887,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-11-21 04:24:06",
-    "total_items": 346
+    "last_updated": "2025-11-21 15:19:49",
+    "total_items": 354
 }

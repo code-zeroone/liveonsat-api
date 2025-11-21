@@ -481,6 +481,160 @@
         {
             "compet": "UEFA Champions League - Matchday 5",
             "flags": {
+                "team1": "england7",
+                "team2": "spain"
+            },
+            "match": "Chelsea v Barcelona",
+            "time": "20:00",
+            "date": "2025-11-25"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 1 Live UHD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 2 Live HDR",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport 3 Live HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Blue Sport D 2 HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Thor 5",
+            "freq": "11.862 H 28000 - 7/8",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "MTV Katsomon+ ($/geo/R) 📺",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Prime Video UK [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Sport 2 Austria HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Astra 1M",
+            "freq": "11.992 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV3+ Dansk HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Astra 4A",
+            "freq": "11.823 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "link": "#",
+            "related_to": "Chelsea v Barcelona",
+            "sat": "Astra 3C",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 5",
+            "flags": {
                 "team1": "france",
                 "team2": "england"
             },
@@ -502,6 +656,14 @@
             "related_to": "Marseille v Newcastle United",
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Marseille v Newcastle United",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
             "encry": "HD Irdeto"
         },
         {
@@ -747,144 +909,6 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 5",
-            "flags": {
-                "team1": "england7",
-                "team2": "spain"
-            },
-            "match": "Chelsea v Barcelona",
-            "time": "20:00",
-            "date": "2025-11-25"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "Eshail 2",
-            "freq": "10.850 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Blue Sport 1 Live UHD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Blue Sport 2 Live HDR",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Blue Sport 3 Live HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Blue Sport D 2 HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "Thor 5",
-            "freq": "11.862 H 28000 - 7/8",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "MTV Katsomon+ ($/geo/R) 📺",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Prime Video UK [$] 📺",
-            "link": "https://www.primevideo.com/",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport 2 Austria HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "Astra 1M",
-            "freq": "11.992 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TV3+ Dansk HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "Astra 4A",
-            "freq": "11.823 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Ziggo Sport HD",
-            "link": "#",
-            "related_to": "Chelsea v Barcelona",
-            "sat": "Astra 3C",
-            "freq": "12.129 V 29900 - 3/4",
-            "encry": "HD NagraVision"
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
@@ -1241,6 +1265,14 @@
             "date": "2025-11-26"
         },
         {
+            "channel": "5 SPORT Israel HD",
+            "link": "#",
+            "related_to": "Arsenal v Bayern Munich",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Arsenal v Bayern Munich",
@@ -1262,6 +1294,14 @@
             "related_to": "Arsenal v Bayern Munich",
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Arsenal v Bayern Munich",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
             "encry": "HD Irdeto"
         },
         {
@@ -1612,6 +1652,14 @@
             "related_to": "Paris St Germain v Tottenham Hotspur",
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Tottenham Hotspur",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
             "encry": "HD Irdeto"
         },
         {
@@ -1983,6 +2031,22 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Kairat Almaty v Olympiacos",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Virgin Media MORE HD",
+            "link": "#",
+            "related_to": "Kairat Almaty v Olympiacos",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Champions League - Matchday 6",
             "flags": {
                 "team1": "germany",
@@ -1999,6 +2063,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Sporting Lisbon",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Virgin Media PLAY (geo/R)",
@@ -2027,6 +2099,40 @@
         {
             "compet": "UEFA Champions League - Matchday 6",
             "flags": {
+                "team1": "england",
+                "team2": "czechia"
+            },
+            "match": "Tottenham Hotspur v Slavia Prague",
+            "time": "20:00",
+            "date": "2025-12-09"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Tottenham Hotspur v Slavia Prague",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Slavia Prague",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Tottenham Hotspur v Slavia Prague",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
+            "flags": {
                 "team1": "italy",
                 "team2": "england7"
             },
@@ -2038,6 +2144,64 @@
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Atalanta v Chelsea",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Atalanta v Chelsea",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
+            "flags": {
+                "team1": "italy",
+                "team2": "england"
+            },
+            "match": "Inter Milan v Liverpool",
+            "time": "20:00",
+            "date": "2025-12-09"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Inter Milan v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Inter Milan v Liverpool",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Prime Video UK [$] 📺",
+            "link": "https://www.primevideo.com/",
+            "related_to": "Inter Milan v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Inter Milan v Liverpool",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "UEFA.TV [online] (geo/R) 📺",
+            "link": "https://www.uefa.tv/",
+            "related_to": "Inter Milan v Liverpool",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -2061,30 +2225,12 @@
             "encry": ""
         },
         {
-            "compet": "UEFA Champions League - Matchday 6",
-            "flags": {
-                "team1": "italy",
-                "team2": "england"
-            },
-            "match": "Inter Milan v Liverpool",
-            "time": "20:00",
-            "date": "2025-12-09"
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
+            "channel": "TNT Sports 4 HD",
             "link": "#",
-            "related_to": "Inter Milan v Liverpool",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
+            "related_to": "Barcelona v Eintracht Frankfurt",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Prime Video UK [$] 📺",
-            "link": "https://www.primevideo.com/",
-            "related_to": "Inter Milan v Liverpool",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
@@ -2103,6 +2249,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Monaco v Galatasaray",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "channel": "TRT 1 Türkiye HD 📺",
@@ -2131,6 +2285,14 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "PSV Eindhoven v Atlético Madrid",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 6",
             "flags": {
                 "team1": "belgium",
@@ -2149,22 +2311,246 @@
             "encry": ""
         },
         {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Union St Gilloise v Marseille",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 6",
             "flags": {
-                "team1": "england",
-                "team2": "czechia"
+                "team1": "spain",
+                "team2": "denmark"
             },
-            "match": "Tottenham Hotspur v Slavia Prague",
-            "time": "20:00",
-            "date": "2025-12-09"
+            "match": "Villarreal v FC Copenhagen",
+            "time": "17:45",
+            "date": "2025-12-10"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Tottenham Hotspur v Slavia Prague",
+            "related_to": "Villarreal v FC Copenhagen",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Villarreal v FC Copenhagen",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
+            "flags": {
+                "team1": "azerbaijan",
+                "team2": "holland"
+            },
+            "match": "Qarabagh v Ajax",
+            "time": "17:45",
+            "date": "2025-12-10"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Qarabagh v Ajax",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 9",
+            "link": "#",
+            "related_to": "Qarabagh v Ajax",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
+            "flags": {
+                "team1": "spain",
+                "team2": "england"
+            },
+            "match": "Real Madrid v Manchester City",
+            "time": "20:00",
+            "date": "2025-12-10"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Real Madrid v Manchester City",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Real Madrid v Manchester City",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
+            "flags": {
+                "team1": "germany",
+                "team2": "england"
+            },
+            "match": "Bayer Leverkusen v Newcastle United",
+            "time": "20:00",
+            "date": "2025-12-10"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Bayer Leverkusen v Newcastle United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Newcastle United",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
+            "flags": {
+                "team1": "belgium",
+                "team2": "england"
+            },
+            "match": "Club Brugge v Arsenal",
+            "time": "20:00",
+            "date": "2025-12-10"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Club Brugge v Arsenal",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Club Brugge v Arsenal",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
+            "flags": {
+                "team1": "spain",
+                "team2": "france"
+            },
+            "match": "Athletic Bilbao v Paris St Germain",
+            "time": "20:00",
+            "date": "2025-12-10"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Athletic Bilbao v Paris St Germain",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Paris St Germain",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
+            "flags": {
+                "team1": "portugal",
+                "team2": "italy"
+            },
+            "match": "Benfica v Napoli",
+            "time": "20:00",
+            "date": "2025-12-10"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Benfica v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Benfica v Napoli",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
+            "flags": {
+                "team1": "italy",
+                "team2": "cyprus"
+            },
+            "match": "Juventus v Pafos FC",
+            "time": "20:00",
+            "date": "2025-12-10"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Juventus v Pafos FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Juventus v Pafos FC",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Champions League - Matchday 6",
+            "flags": {
+                "team1": "germany",
+                "team2": "norway"
+            },
+            "match": "Borussia Dortmund v Bodø/Glimt",
+            "time": "20:00",
+            "date": "2025-12-10"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Borussia Dortmund v Bodø/Glimt",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Borussia Dortmund v Bodø/Glimt",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Champions League - Matchday 7",
@@ -2203,6 +2589,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-21 04:21:56",
-    "total_items": 268
+    "last_updated": "2025-11-21 15:17:40",
+    "total_items": 314
 }

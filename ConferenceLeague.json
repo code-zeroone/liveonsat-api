@@ -3,6 +3,40 @@
         {
             "compet": "UEFA Conference League - Matchday 4",
             "flags": {
+                "team1": "slovakia",
+                "team2": "spain"
+            },
+            "match": "Slovan Bratislava v Rayo Vallecano",
+            "time": "17:45",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Slovan Bratislava v Rayo Vallecano",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "link": "#",
+            "related_to": "Slovan Bratislava v Rayo Vallecano",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Slovan Bratislava v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
                 "team1": "holland",
                 "team2": "ireland"
             },
@@ -54,40 +88,6 @@
             "channel": "Ziggo Sport 3",
             "link": "#",
             "related_to": "AZ Alkmaar v Shelbourne",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Conference League - Matchday 4",
-            "flags": {
-                "team1": "slovakia",
-                "team2": "spain"
-            },
-            "match": "Slovan Bratislava v Rayo Vallecano",
-            "time": "17:45",
-            "date": "2025-11-27"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Slovan Bratislava v Rayo Vallecano",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 9 HD",
-            "link": "#",
-            "related_to": "Slovan Bratislava v Rayo Vallecano",
-            "sat": "Eshail 2",
-            "freq": "10.850 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Slovan Bratislava v Rayo Vallecano",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -583,6 +583,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Breidablik v Shamrock Rovers",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 5",
             "flags": {
                 "team1": "turkey",
@@ -627,6 +635,40 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Shelbourne v Crystal Palace",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "scotland",
+                "team2": "france"
+            },
+            "match": "Aberdeen v Strasbourg",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Aberdeen v Strasbourg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Aberdeen v Strasbourg",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 6",
             "flags": {
                 "team1": "germany",
@@ -645,6 +687,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-21 04:22:39",
-    "total_items": 75
+    "last_updated": "2025-11-21 15:18:23",
+    "total_items": 80
 }
