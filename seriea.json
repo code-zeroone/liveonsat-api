@@ -2399,6 +2399,14 @@
             "encry": ""
         },
         {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "AC Milan v Lazio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "AC Milan v Lazio",
@@ -2413,6 +2421,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "AC Milan v Lazio",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -2687,6 +2703,14 @@
             "encry": ""
         },
         {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Roma v Napoli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Roma v Napoli",
@@ -2701,6 +2725,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Roma v Napoli",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -2793,6 +2825,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Inter Milan v Como",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Inter Milan v Como",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
         },
         {
             "compet": "Italian Serie A - Week 14",
@@ -2899,6 +2947,22 @@
             "encry": ""
         },
         {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Lazio v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Lazio v Bologna",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
             "compet": "Italian Serie A - Week 14",
             "flags": {
                 "team1": "italy",
@@ -2923,6 +2987,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Napoli v Juventus",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Napoli v Juventus",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "Italian Serie A - Week 14",
@@ -3003,6 +3083,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-20 15:21:14",
-    "total_items": 368
+    "last_updated": "2025-11-21 04:23:01",
+    "total_items": 378
 }

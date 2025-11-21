@@ -321,6 +321,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "FC Porto v Nice",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 5",
             "flags": {
                 "team1": "france",
@@ -427,6 +435,14 @@
             "sat": "Astra 1M",
             "freq": "11.798 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Roma v Midtjylland",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 5",
@@ -537,6 +553,14 @@
             "sat": "Astra 1M",
             "freq": "11.720 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Viktoria Plzen v Freiburg",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 5",
@@ -907,6 +931,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "TV8 Italia HD 📺",
+            "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
+            "related_to": "Rangers v Sporting Braga",
+            "sat": "*DTT",
+            "freq": "0.000 - -",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Ziggo Sport 5",
             "link": "#",
             "related_to": "Rangers v Sporting Braga",
@@ -963,6 +995,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Real Betis v Utrecht",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Ziggo Sport 3",
@@ -1029,6 +1069,14 @@
             "sat": "Astra 1M",
             "freq": "11.992 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Bologna v Salzburg",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 5",
@@ -1211,6 +1259,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-20 15:20:32",
-    "total_items": 146
+    "last_updated": "2025-11-21 04:22:18",
+    "total_items": 152
 }

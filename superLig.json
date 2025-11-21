@@ -111,6 +111,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "DigiTurk 4K UHD",
+            "link": "#",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "Turksat 5B",
+            "freq": "11.305 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "link": "#",
             "related_to": "Galatasaray v Gençlerbirligi",
@@ -209,6 +217,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DigiTurk 4K UHD",
+            "link": "#",
+            "related_to": "Besiktas v Samsunspor",
+            "sat": "Turksat 5B",
+            "freq": "11.305 V 30000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "MATCH! Futbol 3 HD",
@@ -325,6 +341,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "DigiTurk 4K UHD",
+            "link": "#",
+            "related_to": "Caykur Rizespor v Fenerbahçe",
+            "sat": "Turksat 5B",
+            "freq": "11.305 V 30000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "ESPN Mexico",
@@ -457,6 +481,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "DigiTurk 4K UHD",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Trabzonspor",
+            "sat": "Turksat 5B",
+            "freq": "11.305 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 13",
             "flags": {
                 "team1": "turkey",
@@ -493,12 +525,28 @@
             "date": "2025-11-28"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Kocaelispor v Gençlerbirligi",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Kocaelispor v Gençlerbirligi",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Kocaelispor v Gençlerbirligi",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -1525,6 +1573,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-20 15:24:27",
-    "total_items": 177
+    "last_updated": "2025-11-21 04:26:22",
+    "total_items": 183
 }

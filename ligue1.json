@@ -67,6 +67,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Nice v Marseille",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "link": "#",
             "related_to": "Nice v Marseille",
@@ -367,6 +375,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Rennes v Monaco",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN 2 Bar Deutsch HD",
             "link": "#",
             "related_to": "Rennes v Monaco",
@@ -497,6 +513,14 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Le Havre",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN 2 Bar Deutsch HD",
             "link": "#",
             "related_to": "Paris St Germain v Le Havre",
@@ -543,6 +567,46 @@
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "TV5 Monde Afrique HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Le Havre",
+            "sat": "Eutelsat 36C",
+            "freq": "11.977 H 27500 - 3/4",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "TV5 Monde Amérique Latine",
+            "link": "#",
+            "related_to": "Paris St Germain v Le Havre",
+            "sat": "Intelsat 21",
+            "freq": "3.840 V 27690 - 7/8",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "TV5 Monde Asie",
+            "link": "#",
+            "related_to": "Paris St Germain v Le Havre",
+            "sat": "Telstar 18",
+            "freq": "12.598 H 45000 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "TV5 Monde Europe HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Le Havre",
+            "sat": "Hellas Sat 3",
+            "freq": "12.688 V 30000 - 7/8",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "TV5 Monde Maghreb-Orient HD",
+            "link": "#",
+            "related_to": "Paris St Germain v Le Havre",
+            "sat": "Eutelsat 33E",
+            "freq": "10.758 V 27500 - 5/6",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -651,6 +715,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Auxerre v Lyon",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "link": "#",
             "related_to": "Auxerre v Lyon",
@@ -742,6 +814,160 @@
             "compet": "French Ligue 1 - Week 13",
             "flags": {
                 "team1": "france",
+                "team2": "france"
+            },
+            "match": "Nantes v Lorient",
+            "time": "16:15",
+            "date": "2025-11-23"
+        },
+        {
+            "channel": "Arena Sport 1x2 Srbija",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Arena Sport 5 BiH HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "Astra 3B",
+            "freq": "0.000 0",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Nantes v Lorient",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Nantes v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect USA 📺",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "Nantes v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "Eshail 2",
+            "freq": "10.850 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN Deutsch ($/geo/R)",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Ligue 1+ 4 ($/geo/R) 📺",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "Nantes v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Megogo Futbol 5 ($/geo/R)",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Nantes v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "French Ligue 1 - Week 13",
+            "flags": {
+                "team1": "france",
                 "team2": "france26"
             },
             "match": "Toulouse v Angers",
@@ -786,6 +1012,14 @@
             "related_to": "Toulouse v Angers",
             "sat": "Eshail 2",
             "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye Max 2 HD",
+            "link": "#",
+            "related_to": "Toulouse v Angers",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
             "encry": "HD Irdeto"
         },
         {
@@ -978,152 +1212,6 @@
             "compet": "French Ligue 1 - Week 13",
             "flags": {
                 "team1": "france",
-                "team2": "france"
-            },
-            "match": "Nantes v Lorient",
-            "time": "16:15",
-            "date": "2025-11-23"
-        },
-        {
-            "channel": "Arena Sport 1x2 Srbija",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "Astra 3C",
-            "freq": "12.402 V 30000 - 3/4",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "Arena Sport 5 BiH HD",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "Astra 3B",
-            "freq": "0.000 0",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "Arena Sport 7 Hrvatska HD",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 H 30000 - 3/4",
-            "encry": "HD Conax"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Nantes v Lorient",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Nantes v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "Nantes v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 2 HD",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "Eshail 2",
-            "freq": "10.850 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Ligue 1+ 4 ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Nantes v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Megogo Futbol 5 ($/geo/R)",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Nantes v Lorient",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "French Ligue 1 - Week 13",
-            "flags": {
-                "team1": "france",
                 "team2": "france50"
             },
             "match": "Lille v Paris FC",
@@ -1184,6 +1272,14 @@
             "related_to": "Lille v Paris FC",
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Lille v Paris FC",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
         },
         {
@@ -1277,6 +1373,14 @@
             "date": "2025-11-28"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Metz v Rennes",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Metz v Rennes",
@@ -1291,6 +1395,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "link": "#",
+            "related_to": "Metz v Rennes",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN 1 Bar Deutsch HD",
@@ -3467,6 +3579,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-20 15:21:34",
-    "total_items": 422
+    "last_updated": "2025-11-21 04:23:23",
+    "total_items": 436
 }

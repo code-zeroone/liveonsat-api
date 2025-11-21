@@ -377,6 +377,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Drita v Shkëndija",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Conference League - Matchday 4",
             "flags": {
                 "team1": "italy",
@@ -403,6 +411,22 @@
             "encry": ""
         },
         {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Fiorentina v AEK Athens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Fiorentina v AEK Athens",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 4",
             "flags": {
                 "team1": "iceland",
@@ -421,12 +445,38 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Breidablik v Samsunspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TRT 1 Türkiye HD 📺",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
             "related_to": "Breidablik v Samsunspor",
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
+                "team1": "poland",
+                "team2": "finland"
+            },
+            "match": "Jagiellonia v KuPS Kuopio",
+            "time": "20:00",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Jagiellonia v KuPS Kuopio",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Conference League - Matchday 4",
@@ -441,6 +491,14 @@
         {
             "channel": "Blue Sport 22 Live HD",
             "link": "#",
+            "related_to": "Legia Warsaw v Sparta Prague",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Legia Warsaw v Sparta Prague",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -471,6 +529,32 @@
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Shamrock Rovers v Shakhtar Donetsk",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 4",
+            "flags": {
+                "team1": "croatia",
+                "team2": "cyprus"
+            },
+            "match": "Rijeka v AEK Larnaca",
+            "time": "20:00",
+            "date": "2025-11-27"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Rijeka v AEK Larnaca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Conference League - Matchday 5",
@@ -561,6 +645,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-20 15:20:53",
-    "total_items": 65
+    "last_updated": "2025-11-21 04:22:39",
+    "total_items": 75
 }
