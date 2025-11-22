@@ -45,6 +45,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Fox Sports 2 USA HD",
+            "link": "#",
+            "related_to": "Al Hilal v Al Fateh",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "M+ #Vamos Bar",
             "link": "#",
             "related_to": "Al Hilal v Al Fateh",
@@ -157,6 +165,14 @@
             "match": "Al Nassr v Al Khaleej",
             "time": "17:30",
             "date": "2025-11-23"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "SES 6",
+            "freq": "11.680 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Cosmote Sport 3 HD",
@@ -323,6 +339,6 @@
             "encry": "HD NagraVision"
         }
     ],
-    "last_updated": "2025-11-22 04:27:21",
-    "total_items": 39
+    "last_updated": "2025-11-22 15:26:09",
+    "total_items": 41
 }
