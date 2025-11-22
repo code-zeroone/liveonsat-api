@@ -6,134 +6,6 @@
                 "team1": "assocnba",
                 "team2": "assocnba"
             },
-            "match": "Orlando Magic v Los Angeles Clippers",
-            "time": "00:00",
-            "date": "2025-11-21"
-        },
-        {
-            "channel": "beIN Connect FRANCE 📺",
-            "link": "https://connect.beinsports.com/france/se-connecter",
-            "related_to": "Orlando Magic v Los Angeles Clippers",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "link": "#",
-            "related_to": "Orlando Magic v Los Angeles Clippers",
-            "sat": "Astra 1M",
-            "freq": "11.856 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Orlando Magic v Los Angeles Clippers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "link": "#",
-            "related_to": "Orlando Magic v Los Angeles Clippers",
-            "sat": "KazSat 3",
-            "freq": "12.657 V 45000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "link": "#",
-            "related_to": "Orlando Magic v Los Angeles Clippers",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "link": "#",
-            "related_to": "Orlando Magic v Los Angeles Clippers",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H 30000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "link": "#",
-            "related_to": "Orlando Magic v Los Angeles Clippers",
-            "sat": "Eutelsat 16A",
-            "freq": "11.387 H 32000 - 3/4",
-            "encry": "MPEG-4 NDS"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Memphis Grizzlies v Sacramento Kings",
-            "time": "01:00",
-            "date": "2025-11-21"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Memphis Grizzlies v Sacramento Kings",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Milwaukee Bucks v Philadelphia 76ers",
-            "time": "01:00",
-            "date": "2025-11-21"
-        },
-        {
-            "channel": "Cosmote Sport 4 HD",
-            "link": "#",
-            "related_to": "Milwaukee Bucks v Philadelphia 76ers",
-            "sat": "Eutelsat 9B",
-            "freq": "12.149 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Milwaukee Bucks v Philadelphia 76ers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "San Antonio Spurs v Atlanta Hawks",
-            "time": "01:00",
-            "date": "2025-11-21"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "San Antonio Spurs v Atlanta Hawks",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
             "match": "Cleveland Cavaliers v Indiana Pacers",
             "time": "00:00",
             "date": "2025-11-22"
@@ -333,6 +205,22 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "link": "#",
+            "related_to": "Charlotte Hornets v Los Angeles Clippers",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Go3 Sport 1 Baltic HD 📺",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": "Charlotte Hornets v Los Angeles Clippers",
+            "sat": "Astra 4A",
+            "freq": "11.938 V 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Charlotte Hornets v Los Angeles Clippers",
@@ -341,12 +229,28 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Charlotte Hornets v Los Angeles Clippers",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "Setanta Sports 2 Eurasia HD",
             "link": "#",
             "related_to": "Charlotte Hornets v Los Angeles Clippers",
             "sat": "KazSat 3",
             "freq": "12.657 V 45000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "Charlotte Hornets v Los Angeles Clippers",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -371,6 +275,22 @@
             "sat": "Astra 2E",
             "freq": "11.934 V 27500 - 5/6",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Charlotte Hornets v Los Angeles Clippers",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "link": "#",
+            "related_to": "Charlotte Hornets v Los Angeles Clippers",
+            "sat": "Eutelsat 16A",
+            "freq": "11.387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS"
         },
         {
             "compet": "NBA Regular Season",
@@ -423,12 +343,28 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Diema Sport HD",
+            "link": "#",
+            "related_to": "Orlando Magic v New York Knicks",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Orlando Magic v New York Knicks",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Orlando Magic v New York Knicks",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "S Sport 1 Türkiye HD",
@@ -445,6 +381,22 @@
             "sat": "KazSat 3",
             "freq": "12.657 V 45000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "link": "#",
+            "related_to": "Orlando Magic v New York Knicks",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Silk Sport 2 HD",
+            "link": "#",
+            "related_to": "Orlando Magic v New York Knicks",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
         },
         {
             "channel": "Sky Sport 1 Deutsch HD",
@@ -469,6 +421,14 @@
             "sat": "Hispasat 30W-5",
             "freq": "12.360 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Orlando Magic v New York Knicks",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "NBA Regular Season",
@@ -603,12 +563,36 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Diema Sport HD",
+            "link": "#",
+            "related_to": "Philadelphia 76ers v Miami Heat",
+            "sat": "AzerSpace 2",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Philadelphia 76ers v Miami Heat",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Philadelphia 76ers v Miami Heat",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "Philadelphia 76ers v Miami Heat",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "channel": "Setanta Sports Qazaqstan HD",
@@ -783,6 +767,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Utah Jazz v Los Angeles Lakers",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "NBA Regular Season",
@@ -1613,6 +1605,22 @@
             "date": "2025-11-29"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Minnesota Timberwolves v Boston Celtics",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Minnesota Timberwolves v Boston Celtics",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "NBA League Pass ($/geo/R)",
             "link": "#",
             "related_to": "Minnesota Timberwolves v Boston Celtics",
@@ -1717,6 +1725,22 @@
             "match": "Golden State Warriors v New Orleans Pelicans",
             "time": "01:30",
             "date": "2025-11-30"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Golden State Warriors v New Orleans Pelicans",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Golden State Warriors v New Orleans Pelicans",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "NBA League Pass ($/geo/R)",
@@ -10225,6 +10249,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-11-21 15:21:03",
-    "total_items": 1144
+    "last_updated": "2025-11-22 04:24:53",
+    "total_items": 1148
 }

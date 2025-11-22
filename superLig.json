@@ -135,6 +135,38 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "link": "#",
+            "related_to": "Galatasaray v Gençlerbirligi",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 13",
             "flags": {
                 "team1": "turkey",
@@ -159,6 +191,22 @@
             "sat": "Turksat 3A",
             "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "link": "#",
+            "related_to": "Göztepe v Kocaelispor",
+            "sat": "Eutelsat 16A",
+            "freq": "11.387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "link": "#",
+            "related_to": "Göztepe v Kocaelispor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "Türkiye Süper Lig - Week 13",
@@ -241,6 +289,30 @@
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Besiktas v Samsunspor",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "link": "#",
+            "related_to": "Besiktas v Samsunspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 9 Hrvatska",
+            "link": "#",
+            "related_to": "Besiktas v Samsunspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "Türkiye Süper Lig - Week 13",
@@ -487,6 +559,22 @@
             "encry": "MPEG-4 NDS"
         },
         {
+            "channel": "SportKlub 3 Hrvatska",
+            "link": "#",
+            "related_to": "Caykur Rizespor v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Caykur Rizespor v Fenerbahçe",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
             "channel": "ZhiBo8 TV (China)",
             "link": "#",
             "related_to": "Caykur Rizespor v Fenerbahçe",
@@ -691,12 +779,28 @@
             "date": "2025-11-29"
         },
         {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Trabzonspor v Konyaspor",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Trabzonspor v Konyaspor",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "link": "#",
+            "related_to": "Trabzonspor v Konyaspor",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports Türkiye 1 HD",
@@ -1645,6 +1749,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-21 15:22:06",
-    "total_items": 192
+    "last_updated": "2025-11-22 04:25:56",
+    "total_items": 205
 }

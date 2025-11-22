@@ -1207,6 +1207,58 @@
         {
             "compet": "UEFA Europa League - Matchday 6",
             "flags": {
+                "team1": "holland",
+                "team2": "england"
+            },
+            "match": "Utrecht v Nottingham Forest",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Utrecht v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Utrecht v Nottingham Forest",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "hungary",
+                "team2": "scotland"
+            },
+            "match": "Ferencváros v Rangers",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Ferencváros v Rangers",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Ferencváros v Rangers",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
                 "team1": "croatia",
                 "team2": "spain"
             },
@@ -1233,6 +1285,136 @@
         {
             "compet": "UEFA Europa League - Matchday 6",
             "flags": {
+                "team1": "france",
+                "team2": "portugal"
+            },
+            "match": "Nice v Sporting Braga",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Nice v Sporting Braga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Nice v Sporting Braga",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "germany",
+                "team2": "israel"
+            },
+            "match": "Stuttgart v Maccabi Tel Aviv",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Stuttgart v Maccabi Tel Aviv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Stuttgart v Maccabi Tel Aviv",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "france"
+            },
+            "match": "Young Boys v Lille",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Young Boys v Lille",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "england3"
+            },
+            "match": "Basel v Aston Villa",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Basel v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Basel v Aston Villa",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "scotland",
+                "team2": "italy"
+            },
+            "match": "Celtic v Roma",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
                 "team1": "norway",
                 "team2": "turkey"
             },
@@ -1247,6 +1429,110 @@
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "spain",
+                "team2": "italy"
+            },
+            "match": "Celta Vigo v Bologna",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Celta Vigo v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Celta Vigo v Bologna",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "portugal",
+                "team2": "sweden"
+            },
+            "match": "FC Porto v Malmö",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "FC Porto v Malmö",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "FC Porto v Malmö",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "germany",
+                "team2": "austria"
+            },
+            "match": "Freiburg v Salzburg",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "france",
+                "team2": "holland"
+            },
+            "match": "Lyon v Go Ahead Eagles",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Lyon v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Lyon v Go Ahead Eagles",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "compet": "UEFA Europa League - Matchday 7",
@@ -1285,6 +1571,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-21 15:18:01",
-    "total_items": 155
+    "last_updated": "2025-11-22 04:21:51",
+    "total_items": 188
 }
