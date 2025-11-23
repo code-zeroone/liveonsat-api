@@ -6,134 +6,6 @@
                 "team1": "spain",
                 "team2": "spain"
             },
-            "match": "Andorra v Castellón",
-            "time": "15:15",
-            "date": "2025-11-22"
-        },
-        {
-            "channel": "DAZN España HD FTA (geo)",
-            "link": "#",
-            "related_to": "Andorra v Castellón",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 - -",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 15",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Leganés v Almería",
-            "time": "17:30",
-            "date": "2025-11-22"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Leganés v Almería",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "link": "#",
-            "related_to": "Leganés v Almería",
-            "sat": "Eshail 2",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "DAZN España HD FTA (geo)",
-            "link": "#",
-            "related_to": "Leganés v Almería",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 - -",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 15",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Eibar v Real Zaragoza",
-            "time": "17:30",
-            "date": "2025-11-22"
-        },
-        {
-            "channel": "Arena Sport 1x2 Srbija",
-            "link": "#",
-            "related_to": "Eibar v Real Zaragoza",
-            "sat": "Astra 3C",
-            "freq": "12.402 V 30000 - 3/4",
-            "encry": "MPEG-4 Conax"
-        },
-        {
-            "channel": "DAZN España HD FTA (geo)",
-            "link": "#",
-            "related_to": "Eibar v Real Zaragoza",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 - -",
-            "encry": "Free To Air"
-        },
-        {
-            "channel": "Megogo Futbol 4 ($/geo/R)",
-            "link": "#",
-            "related_to": "Eibar v Real Zaragoza",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": "Eibar v Real Zaragoza",
-            "sat": "Astra 3C",
-            "freq": "12.285 V 30000 - 2/3",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "ONE2 Sport Israel HD",
-            "link": "#",
-            "related_to": "Eibar v Real Zaragoza",
-            "sat": "Amos 7",
-            "freq": "11.058 V 13750 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Prima Sport RO PPV 2",
-            "link": "#",
-            "related_to": "Eibar v Real Zaragoza",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 15",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Granada v Córdoba",
-            "time": "20:00",
-            "date": "2025-11-22"
-        },
-        {
-            "channel": "DAZN España HD FTA (geo)",
-            "link": "#",
-            "related_to": "Granada v Córdoba",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 - -",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 15",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
             "match": "Deportivo La Coruña v Ceuta",
             "time": "13:00",
             "date": "2025-11-23"
@@ -283,6 +155,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "link": "#",
+            "related_to": "Málaga v Mirandés",
+            "sat": "Thor 6",
+            "freq": "10.778 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "Spanish La Liga 2 - Week 15",
@@ -445,6 +325,6 @@
             "encry": "HD Irdeto"
         }
     ],
-    "last_updated": "2025-11-22 15:25:48",
-    "total_items": 52
+    "last_updated": "2025-11-23 04:37:24",
+    "total_items": 38
 }
