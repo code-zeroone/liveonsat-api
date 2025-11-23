@@ -685,6 +685,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Cremonese v Roma",
+            "sat": "MonacoSat",
+            "freq": "10.762 V 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Polsat Sport Premium 2 HD",
             "link": "#",
             "related_to": "Cremonese v Roma",
@@ -1455,6 +1463,14 @@
             "sat": "Astra 4A",
             "freq": "11.958 H 27500 - 5/6",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Inter Milan v AC Milan",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "Match 4 Hungary HD",
@@ -5025,6 +5041,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-23 04:33:01",
-    "total_items": 604
+    "last_updated": "2025-11-23 15:17:50",
+    "total_items": 606
 }

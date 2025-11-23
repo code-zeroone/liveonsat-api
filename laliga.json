@@ -1625,6 +1625,14 @@
             "encry": ""
         },
         {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Elche v Real Madrid",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
             "link": "https://www.mtv.fi/urheilu",
             "related_to": "Elche v Real Madrid",
@@ -2735,12 +2743,28 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Real Sociedad v Villarreal",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports France 2 HD",
             "link": "#",
             "related_to": "Real Sociedad v Villarreal",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD Viaccess"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Real Sociedad v Villarreal",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Belgium ($/geo/R) 📺",
@@ -2831,6 +2855,22 @@
             "match": "Sevilla v Real Betis",
             "time": "15:15",
             "date": "2025-11-30"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Sevilla v Real Betis",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Sevilla v Real Betis",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Belgium ($/geo/R) 📺",
@@ -2931,12 +2971,28 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Celta Vigo v Espanyol",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports France 7 HD max",
             "link": "#",
             "related_to": "Celta Vigo v Espanyol",
             "sat": "Astra 1M",
             "freq": "11.895 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "link": "#",
+            "related_to": "Celta Vigo v Espanyol",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Belgium ($/geo/R) 📺",
@@ -3045,12 +3101,36 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Girona v Real Madrid",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "link": "#",
             "related_to": "Girona v Real Madrid",
             "sat": "Astra 1M",
             "freq": "11.856 V 29700 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Girona v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Girona v Real Madrid",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN Belgium ($/geo/R) 📺",
@@ -4377,6 +4457,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-23 04:33:45",
-    "total_items": 534
+    "last_updated": "2025-11-23 15:18:34",
+    "total_items": 544
 }

@@ -1499,14 +1499,6 @@
             "encry": "LiveOnSat.com"
         },
         {
-            "channel": "Persiana Sport HD",
-            "link": "#",
-            "related_to": "Como v Roma",
-            "sat": "MonacoSat",
-            "freq": "10.804 H 27500 - 2/3",
-            "encry": "Free To Air"
-        },
-        {
             "channel": "TV4 Fotboll HD",
             "link": "#",
             "related_to": "Como v Roma",
@@ -1763,6 +1755,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Sheffield Wednesday v Sheffield United",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Setanta Sports+ Ukraine HD",
@@ -4659,6 +4659,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Cremonese v Roma",
+            "sat": "MonacoSat",
+            "freq": "10.762 V 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Polsat Sport Premium 2 HD",
             "link": "#",
             "related_to": "Cremonese v Roma",
@@ -4891,6 +4899,14 @@
             "sat": "Horizons 2",
             "freq": "11.840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Besiktas v Samsunspor",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Sport TV1 Portugal HD",
@@ -6075,6 +6091,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sharjah Sports HD 📺",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": "Aberdeen v Hearts",
+            "sat": "Eutelsat 8 West B",
+            "freq": "11.013 V 27500 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "link": "#",
             "related_to": "Aberdeen v Hearts",
@@ -6333,6 +6357,32 @@
             "sat": "Eutelsat 16A",
             "freq": "11.595 V 30000 - 3/5",
             "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Saudi Professional League - Week 9",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Akhdoud v Al Shabab",
+            "time": "15:05",
+            "date": "2025-11-23"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Akhdoud v Al Shabab",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "link": "#",
+            "related_to": "Al Akhdoud v Al Shabab",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 13",
@@ -7953,6 +8003,14 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Arsenal v Tottenham Hotspur",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
             "link": "https://go3.tv/extra_sports",
             "related_to": "Arsenal v Tottenham Hotspur",
@@ -7991,6 +8049,14 @@
             "sat": "Astra 1KR",
             "freq": "11.259 V 22000 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Arsenal v Tottenham Hotspur",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Movistar Plus+ HD",
@@ -10275,6 +10341,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Polsat Sport Extra 1 HD",
             "link": "#",
             "related_to": "Al Nassr v Al Khaleej",
@@ -10315,6 +10389,14 @@
             "encry": ""
         },
         {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "link": "#",
             "related_to": "Al Nassr v Al Khaleej",
@@ -10329,6 +10411,14 @@
             "sat": "Astra 1L",
             "freq": "11.186 V 22000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD 📺",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "Hotbird 13F",
+            "freq": "11.179 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "SportKlub HD",
@@ -10369,6 +10459,22 @@
             "sat": "Eutelsat 16A",
             "freq": "10.804 H 29950 - 2/3",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Thamanya 1 KSA HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "link": "#",
+            "related_to": "Al Nassr v Al Khaleej",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Z Sports 1 Angola",
@@ -10419,6 +10525,24 @@
             "sat": "Eutelsat 36C",
             "freq": "11.785 R 27500 - 3/4",
             "encry": "MPEG-4 Viaccess"
+        },
+        {
+            "compet": "Saudi Professional League - Week 9",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "match": "Al Taawoun v NEOM SC",
+            "time": "17:30",
+            "date": "2025-11-23"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "link": "#",
+            "related_to": "Al Taawoun v NEOM SC",
+            "sat": "Badr 8",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "compet": "Norwegian Eliteserien - Week 29",
@@ -10913,6 +11037,14 @@
             "sat": "Astra 4A",
             "freq": "11.958 H 27500 - 5/6",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Inter Milan v AC Milan",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "Match 4 Hungary HD",
@@ -11751,6 +11883,14 @@
             "encry": ""
         },
         {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Elche v Real Madrid",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
             "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
             "related_to": "Elche v Real Madrid",
@@ -12099,6 +12239,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Sportitalia SoloCalcio HD 📺",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": "Rosario Central v Estudiantes LP",
+            "sat": "Hotbird 13F",
+            "freq": "11.179 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "Major League Soccer (MLS) - Quarter-finals",
             "flags": {
                 "team1": "usa",
@@ -12185,6 +12333,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Sportitalia HD 📺",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": "Boca Juniors v Talleres Córdoba",
+            "sat": "Eutelsat 9B",
+            "freq": "12.341 V 31400 - 5/6",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "Brazilian Série A - Week 35",
             "flags": {
                 "team1": "brazil",
@@ -12259,6 +12415,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-11-23 04:31:13",
-    "total_items": 1490
+    "last_updated": "2025-11-23 15:16:00",
+    "total_items": 1509
 }

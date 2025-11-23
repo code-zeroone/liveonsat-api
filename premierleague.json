@@ -725,6 +725,14 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Arsenal v Tottenham Hotspur",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
             "link": "https://go3.tv/extra_sports",
             "related_to": "Arsenal v Tottenham Hotspur",
@@ -763,6 +771,14 @@
             "sat": "Astra 1KR",
             "freq": "11.259 V 22000 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Arsenal v Tottenham Hotspur",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Movistar Plus+ HD",
@@ -1417,6 +1433,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports MENA 6 HD",
+            "link": "#",
+            "related_to": "Brentford v Burnley",
+            "sat": "Eshail 2",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Brentford v Burnley",
@@ -1476,6 +1500,136 @@
             "channel": "VOYO Pro TV Romania [$] 📺",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "Brentford v Burnley",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English Premier League - Week 13",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Manchester City v Leeds United",
+            "time": "15:00",
+            "date": "2025-11-29"
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "link": "https://connect.bein.com/",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R) 📺",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "Thor 6",
+            "freq": "11.345 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$] 📺",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "Manchester City v Leeds United",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -1590,128 +1744,6 @@
             "channel": "VOYO Pro TV Romania [$] 📺",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "Sunderland v Bournemouth",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English Premier League - Week 13",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Manchester City v Leeds United",
-            "time": "15:00",
-            "date": "2025-11-29"
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "link": "https://connect.bein.com/",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "link": "#",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "Eshail 2",
-            "freq": "10.850 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "link": "#",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "link": "#",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R) 📺",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV3 MAX Dansk HD",
-            "link": "#",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "Thor 6",
-            "freq": "11.345 V 30000 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Manchester City v Leeds United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$] 📺",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "Manchester City v Leeds United",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -2075,12 +2107,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Crystal Palace v Manchester United",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Crystal Palace v Manchester United",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Manchester United",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Manchester United",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -2205,12 +2261,28 @@
             "encry": ""
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Aston Villa v Wolves",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Aston Villa v Wolves",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "link": "#",
+            "related_to": "Aston Villa v Wolves",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -2327,12 +2399,28 @@
             "encry": ""
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Nottingham Forest v Brighton H.A.",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Nottingham Forest v Brighton H.A.",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Brighton H.A.",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -2457,12 +2545,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "West Ham United v Liverpool",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "West Ham United v Liverpool",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "West Ham United v Liverpool",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "West Ham United v Liverpool",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -2603,12 +2715,36 @@
             "encry": ""
         },
         {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Chelsea v Arsenal",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": "Chelsea v Arsenal",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "link": "#",
+            "related_to": "Chelsea v Arsenal",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "link": "#",
+            "related_to": "Chelsea v Arsenal",
+            "sat": "Eshail 2",
+            "freq": "10.850 V 27500 - 2/3",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -8787,6 +8923,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-11-23 04:31:35",
-    "total_items": 1074
+    "last_updated": "2025-11-23 15:16:23",
+    "total_items": 1091
 }
