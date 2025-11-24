@@ -27,12 +27,28 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "Cosmote Sport 3 HD",
             "link": "#",
             "related_to": "Torino v Como",
             "sat": "Eutelsat 9B",
             "freq": "11.843 V 27500 - 3/5",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "DAZN 2 Bar Deutsch HD",
@@ -113,6 +129,14 @@
             "sat": "Horizons 2",
             "freq": "11.840 H 28800 - 2/3",
             "encry": "MPEG-4 Conax"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
@@ -163,12 +187,68 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "Hotbird 13F",
+            "freq": "12.054 H 29900 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "Hotbird 13F",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "link": "#",
             "related_to": "Torino v Como",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "Intelsat 20",
+            "freq": "11.514 H 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport MáXimo 360",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "Express AMU1",
+            "freq": "12.130 H 27500 - 2/3",
+            "encry": "Irdeto"
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -185,6 +265,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "link": "#",
+            "related_to": "Torino v Como",
+            "sat": "Thor 6",
+            "freq": "10.778 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "VG+ Sport Norge ($/geo/R) 📺",
@@ -221,6 +309,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Sassuolo v Pisa",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "link": "#",
             "related_to": "Sassuolo v Pisa",
@@ -234,6 +330,22 @@
             "related_to": "Sassuolo v Pisa",
             "sat": "Eutelsat 9B",
             "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
+            "link": "#",
+            "related_to": "Sassuolo v Pisa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "link": "#",
+            "related_to": "Sassuolo v Pisa",
+            "sat": "Hotbird 13F",
+            "freq": "11.843 V 29900 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
@@ -317,6 +429,14 @@
             "encry": "MPEG-4 Conax"
         },
         {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "link": "#",
+            "related_to": "Sassuolo v Pisa",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "MTV Katsomon+ ($/geo/R) 📺",
             "link": "https://www.mtv.fi/urheilu",
             "related_to": "Sassuolo v Pisa",
@@ -357,12 +477,44 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports Qazaqstan HD",
+            "link": "#",
+            "related_to": "Sassuolo v Pisa",
+            "sat": "KazSat 3",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Sassuolo v Pisa",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "link": "#",
             "related_to": "Sassuolo v Pisa",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "link": "#",
+            "related_to": "Sassuolo v Pisa",
+            "sat": "Intelsat 20",
+            "freq": "11.514 H 30000 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "SuperSport MáXimo 360",
+            "link": "#",
+            "related_to": "Sassuolo v Pisa",
+            "sat": "Express AMU1",
+            "freq": "12.130 H 27500 - 2/3",
+            "encry": "Irdeto"
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -379,6 +531,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "TV4 Sport Live 1 HD",
+            "link": "#",
+            "related_to": "Sassuolo v Pisa",
+            "sat": "Thor 6",
+            "freq": "10.934 H 25000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "VG+ Sport Norge ($/geo/R) 📺",
@@ -3503,6 +3663,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-24 04:34:07",
-    "total_items": 413
+    "last_updated": "2025-11-24 15:22:57",
+    "total_items": 433
 }

@@ -11,6 +11,14 @@
             "date": "2025-11-24"
         },
         {
+            "channel": "Al Kass 7 HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Nasaf Qarshi v Tractor Sazi",
@@ -27,12 +35,100 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Idman TV HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 30000 - 5/6",
+            "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "HD BISS"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "SportKlub 2 Hrvatska",
             "link": "#",
             "related_to": "Nasaf Qarshi v Tractor Sazi",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "Eutelsat 16A",
+            "freq": "11.387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "link": "#",
+            "related_to": "Nasaf Qarshi v Tractor Sazi",
+            "sat": "ABS 2A",
+            "freq": "11.605 V 43200 - 7/8",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -51,6 +147,22 @@
             "match": "Shabab Al Ahli v Al Gharafa",
             "time": "16:00",
             "date": "2025-11-24"
+        },
+        {
+            "channel": "Al Kass 6 HD",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "HD Free To Air"
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Connect MENA HD 📺",
@@ -77,12 +189,68 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Spor Smart 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "Turksat 4A",
+            "freq": "12.245 H 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sport 3 Israel HD",
             "link": "#",
             "related_to": "Shabab Al Ahli v Al Gharafa",
             "sat": "Amos 3",
             "freq": "10.806 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport 3 Ukraine",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub HD",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "Eutelsat 16A",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "link": "#",
+            "related_to": "Shabab Al Ahli v Al Gharafa",
+            "sat": "Eutelsat 36C",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
         },
         {
             "channel": "YouTube: AFC Asian Cup 📺",
@@ -103,6 +271,174 @@
             "date": "2025-11-24"
         },
         {
+            "channel": "Al Kass 5 HD 📺",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 1 Live HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "Hellas Sat 3",
+            "freq": "12.137 V 30000 - 5/6",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "SES 6",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Play Diema XTRA ($/geo/R) 📺",
+            "link": "https://gong.bg/streaming",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "link": "#",
+            "related_to": "Al Duhail v Al Ittihad",
+            "sat": "ABS 2A",
+            "freq": "11.605 V 43200 - 7/8",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Al Duhail v Al Ittihad",
@@ -121,6 +457,22 @@
             "date": "2025-11-24"
         },
         {
+            "channel": "Al Kass 5 HD 📺",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "Eshail 2",
+            "freq": "10.770 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "beIN Connect MENA HD 📺",
             "link": "https://connect.bein.net/",
             "related_to": "Al Ahli v Sharjah",
@@ -135,6 +487,126 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "Eshail 2",
+            "freq": "11.390 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Blue Sport 1 Live HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "SES 6",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "AzerSpace 2",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Spor Smart 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "Turksat 4A",
+            "freq": "12.245 H 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "Eutelsat 16A",
+            "freq": "11.231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "ABS 2A",
+            "freq": "11.605 V 43200 - 7/8",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
+            "channel": "Varzish TV Sport HD (tjk)",
+            "link": "#",
+            "related_to": "Al Ahli v Sharjah",
+            "sat": "NSS 12",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -171,6 +643,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sport 1 Baltic",
+            "link": "#",
+            "related_to": "Melbourne City v Johor Darul Ta'zim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "link": "#",
+            "related_to": "Melbourne City v Johor Darul Ta'zim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Melbourne City v Johor Darul Ta'zim",
@@ -203,6 +691,22 @@
             "sat": "Eshail 2",
             "freq": "10.810 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "link": "#",
+            "related_to": "Gangwon v Machida Zelvia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "link": "#",
+            "related_to": "Gangwon v Machida Zelvia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Sport 3 Israel HD",
@@ -247,6 +751,30 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sport 2 Baltic",
+            "link": "#",
+            "related_to": "Shanghai Port v FC Seoul",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "link": "#",
+            "related_to": "Shanghai Port v FC Seoul",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 3 Ukraine",
+            "link": "#",
+            "related_to": "Shanghai Port v FC Seoul",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Shanghai Port v FC Seoul",
@@ -279,6 +807,14 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "link": "#",
+            "related_to": "Chengdu Rongcheng v Sanfrecce Hiroshima",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Sport 3 Israel HD",
@@ -341,6 +877,30 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sport 2 Baltic",
+            "link": "#",
+            "related_to": "Sepahan v Al Hussein",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "link": "#",
+            "related_to": "Sepahan v Al Hussein",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 3 Ukraine",
+            "link": "#",
+            "related_to": "Sepahan v Al Hussein",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Sepahan v Al Hussein",
@@ -373,6 +933,22 @@
             "sat": "Eshail 2",
             "freq": "10.850 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "link": "#",
+            "related_to": "Al Wahda v Al Sadd",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "link": "#",
+            "related_to": "Al Wahda v Al Sadd",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -409,6 +985,22 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sport 1 Baltic",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shorta",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 3 Ukraine",
+            "link": "#",
+            "related_to": "Al Hilal v Al Shorta",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Al Hilal v Al Shorta",
@@ -441,6 +1033,22 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "link": "#",
+            "related_to": "Ulsan Horang-i v Buriram United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "link": "#",
+            "related_to": "Ulsan Horang-i v Buriram United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -509,6 +1117,30 @@
             "sat": "Eshail 2",
             "freq": "10.810 V 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Vissel Kobe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Vissel Kobe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "link": "#",
+            "related_to": "Shanghai Shenhua v Vissel Kobe",
+            "sat": "Astra 1L",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -581,12 +1213,44 @@
             "date": "2025-11-26"
         },
         {
+            "channel": "Sport 2 Baltic",
+            "link": "#",
+            "related_to": "Istiqlol v Al Nassr",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "link": "#",
+            "related_to": "Istiqlol v Al Nassr",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 3 Ukraine",
+            "link": "#",
+            "related_to": "Istiqlol v Al Nassr",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "Sport 4 Israel HD",
             "link": "#",
             "related_to": "Istiqlol v Al Nassr",
             "sat": "Amos 7",
             "freq": "11.030 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "link": "#",
+            "related_to": "Istiqlol v Al Nassr",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -607,6 +1271,30 @@
             "date": "2025-11-26"
         },
         {
+            "channel": "Sport 2 Baltic",
+            "link": "#",
+            "related_to": "Al Zawra'a v FC Goa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "link": "#",
+            "related_to": "Al Zawra'a v FC Goa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "link": "#",
+            "related_to": "Al Zawra'a v FC Goa",
+            "sat": "Download APP",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Al Zawra'a v FC Goa",
@@ -623,6 +1311,22 @@
             "match": "Esteghlal Tehran v Al Wasl",
             "time": "16:00",
             "date": "2025-11-26"
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "link": "#",
+            "related_to": "Esteghlal Tehran v Al Wasl",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "link": "#",
+            "related_to": "Esteghlal Tehran v Al Wasl",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -727,6 +1431,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Sport 3 Ukraine",
+            "link": "#",
+            "related_to": "Eastern v Gamba Osaka",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "Eastern v Gamba Osaka",
@@ -743,6 +1455,22 @@
             "match": "Ratchaburi v Nam Dinh",
             "time": "10:00",
             "date": "2025-11-27"
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "link": "#",
+            "related_to": "Ratchaburi v Nam Dinh",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "link": "#",
+            "related_to": "Ratchaburi v Nam Dinh",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -777,6 +1505,30 @@
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "link": "#",
+            "related_to": "Tampines Rovers v Kaya FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "link": "#",
+            "related_to": "Tampines Rovers v Kaya FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 3 Ukraine",
+            "link": "#",
+            "related_to": "Tampines Rovers v Kaya FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -1057,6 +1809,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-24 04:35:33",
-    "total_items": 122
+    "last_updated": "2025-11-24 15:24:23",
+    "total_items": 216
 }
