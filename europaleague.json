@@ -141,6 +141,22 @@
             "encry": ""
         },
         {
+            "channel": "Q Sport League HD",
+            "link": "#",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "link": "#",
+            "related_to": "Aston Villa v Young Boys",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
             "channel": "Sky Sport 7 Austria HD",
             "link": "#",
             "related_to": "Aston Villa v Young Boys",
@@ -212,6 +228,14 @@
             "related_to": "Feyenoord v Celtic",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Play Sports 5 Belgium",
+            "link": "#",
+            "related_to": "Feyenoord v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -429,6 +453,30 @@
             "encry": ""
         },
         {
+            "channel": "Play Sports 4 Belgium",
+            "link": "#",
+            "related_to": "Roma v Midtjylland",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Q Sport Arena HD",
+            "link": "#",
+            "related_to": "Roma v Midtjylland",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Roma v Midtjylland",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
             "channel": "Sky Sport 6 Austria HD",
             "link": "#",
             "related_to": "Roma v Midtjylland",
@@ -469,6 +517,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "link": "#",
+            "related_to": "Ludogorets v Celta Vigo",
+            "sat": "Astra 1L",
+            "freq": "11.097 V 22000 - 5/6",
+            "encry": "Seca"
         },
         {
             "channel": "Paramount+ USA ($/geo/R)",
@@ -613,12 +669,36 @@
             "encry": ""
         },
         {
+            "channel": "Play Sports 4 Belgium",
+            "link": "#",
+            "related_to": "Nottingham Forest v Malmö",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Premier Sports 2 Ireland HD",
             "link": "#",
             "related_to": "Nottingham Forest v Malmö",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 3/4",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Q Sport League HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Malmö",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "Nottingham Forest v Malmö",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "channel": "Sky Sport 7 Austria HD",
@@ -708,6 +788,14 @@
             "related_to": "Go Ahead Eagles v Stuttgart",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Play Sports 6 Belgium",
+            "link": "#",
+            "related_to": "Go Ahead Eagles v Stuttgart",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -823,6 +911,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Play Sports 5 Belgium",
+            "link": "#",
+            "related_to": "Racing Genk v Basel",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "RSI La 2 Svizzera HD 📺",
@@ -997,6 +1093,14 @@
             "encry": ""
         },
         {
+            "channel": "Q Sport Arena HD",
+            "link": "#",
+            "related_to": "Real Betis v Utrecht",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "TNT Sports 7",
             "link": "#",
             "related_to": "Real Betis v Utrecht",
@@ -1127,6 +1231,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "link": "#",
+            "related_to": "Panathinaikos v Sturm Graz",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "compet": "UEFA Europa League - Matchday 5",
@@ -1579,6 +1691,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-25 04:25:50",
-    "total_items": 189
+    "last_updated": "2025-11-25 15:21:30",
+    "total_items": 203
 }

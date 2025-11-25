@@ -35,6 +35,14 @@
             "encry": ""
         },
         {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "link": "#",
+            "related_to": "Slovan Bratislava v Rayo Vallecano",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 4",
             "flags": {
                 "team1": "holland",
@@ -315,6 +323,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Play Sports 7 Belgium",
+            "link": "#",
+            "related_to": "Strasbourg v Crystal Palace",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "link": "#",
+            "related_to": "Strasbourg v Crystal Palace",
+            "sat": "Eutelsat 36C",
+            "freq": "11.650 V 10000 - 3/4",
+            "encry": "HD TrophyAccess"
         },
         {
             "channel": "Sky Sport 8 Austria HD",
@@ -687,6 +711,6 @@
             "encry": "Free To Air HD"
         }
     ],
-    "last_updated": "2025-11-25 04:26:11",
-    "total_items": 80
+    "last_updated": "2025-11-25 15:21:51",
+    "total_items": 83
 }

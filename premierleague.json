@@ -165,6 +165,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "CRTV Sports Cameroon",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "AzerSpace 2",
+            "freq": "12.610 H 12500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Manchester City v Leeds United",
@@ -187,6 +195,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ORTB Benin",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "Eutelsat 16A",
+            "freq": "10.804 H 30000 - 2/3",
+            "encry": "FTA (MPEG-S2)"
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -243,6 +259,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "YTV Botswana",
+            "link": "#",
+            "related_to": "Manchester City v Leeds United",
+            "sat": "Intelsat 20",
+            "freq": "12.634 V 16166 - 5/6",
+            "encry": "FTA (MPEG-S2)"
         },
         {
             "compet": "English Premier League - Week 13",
@@ -8491,6 +8515,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-11-25 04:25:09",
-    "total_items": 1034
+    "last_updated": "2025-11-25 15:20:49",
+    "total_items": 1037
 }
