@@ -1657,6 +1657,24 @@
         {
             "compet": "UEFA Europa League - Matchday 7",
             "flags": {
+                "team1": "italy",
+                "team2": "scotland"
+            },
+            "match": "Bologna v Celtic",
+            "time": "17:45",
+            "date": "2026-01-22"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Bologna v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 7",
+            "flags": {
                 "team1": "turkey",
                 "team2": "england3"
             },
@@ -1665,12 +1683,110 @@
             "date": "2026-01-22"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Fenerbahçe v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TRT 1 Türkiye HD 📺",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
             "related_to": "Fenerbahçe v Aston Villa",
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 7",
+            "flags": {
+                "team1": "scotland",
+                "team2": "bulgaria"
+            },
+            "match": "Rangers v Ludogorets",
+            "time": "20:00",
+            "date": "2026-01-22"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Rangers v Ludogorets",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 7",
+            "flags": {
+                "team1": "portugal",
+                "team2": "england"
+            },
+            "match": "Sporting Braga v Nottingham Forest",
+            "time": "20:00",
+            "date": "2026-01-22"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Sporting Braga v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 8",
+            "flags": {
+                "team1": "england3",
+                "team2": "austria"
+            },
+            "match": "Aston Villa v Salzburg",
+            "time": "20:00",
+            "date": "2026-01-29"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Aston Villa v Salzburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 8",
+            "flags": {
+                "team1": "scotland",
+                "team2": "holland"
+            },
+            "match": "Celtic v Utrecht",
+            "time": "20:00",
+            "date": "2026-01-29"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Celtic v Utrecht",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 8",
+            "flags": {
+                "team1": "portugal",
+                "team2": "scotland"
+            },
+            "match": "FC Porto v Rangers",
+            "time": "20:00",
+            "date": "2026-01-29"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "FC Porto v Rangers",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Europa League - Matchday 8",
@@ -1689,8 +1805,26 @@
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 8",
+            "flags": {
+                "team1": "england",
+                "team2": "hungary"
+            },
+            "match": "Nottingham Forest v Ferencváros",
+            "time": "20:00",
+            "date": "2026-01-29"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Nottingham Forest v Ferencváros",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         }
     ],
-    "last_updated": "2025-11-25 15:21:30",
-    "total_items": 203
+    "last_updated": "2025-11-26 04:25:25",
+    "total_items": 218
 }

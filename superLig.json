@@ -297,6 +297,46 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "ESPN 2 Norte Latin",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fanatiz USA ($/geo/R) 📺",
+            "link": "https://fanatiz.com/",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R) 📺",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 14",
             "flags": {
                 "team1": "turkey",
@@ -1123,6 +1163,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-25 15:25:24",
-    "total_items": 129
+    "last_updated": "2025-11-26 04:29:18",
+    "total_items": 134
 }
