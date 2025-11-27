@@ -46,9 +46,9 @@
             "channel": "Setanta Sports 3 Georgia HD",
             "link": "#",
             "related_to": "Slovan Bratislava v Rayo Vallecano",
-            "sat": "Eutelsat 36C",
-            "freq": "11.650 V 10000 - 3/4",
-            "encry": "HD TrophyAccess"
+            "sat": "",
+            "freq": "",
+            "encry": ""
         },
         {
             "compet": "UEFA Conference League - Matchday 4",
@@ -360,9 +360,9 @@
             "channel": "Setanta Sports 2 Georgia HD",
             "link": "#",
             "related_to": "Strasbourg v Crystal Palace",
-            "sat": "Eutelsat 36C",
-            "freq": "11.650 V 10000 - 3/4",
-            "encry": "HD TrophyAccess"
+            "sat": "",
+            "freq": "",
+            "encry": ""
         },
         {
             "channel": "Sky Sport 8 Austria HD",
@@ -473,6 +473,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "link": "#",
+            "related_to": "Fiorentina v AEK Athens",
+            "sat": "MonacoSat",
+            "freq": "11.420 V 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "TNT Sports 6",
@@ -957,6 +965,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-11-27 04:23:49",
-    "total_items": 112
+    "last_updated": "2025-11-27 15:20:29",
+    "total_items": 113
 }
