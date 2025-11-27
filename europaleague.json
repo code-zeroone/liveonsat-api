@@ -75,6 +75,14 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "Fenerbahçe v Ferencváros",
+            "sat": "Turksat 3A",
+            "freq": "11.096 H 30000 - 5/6",
+            "encry": "FTA (BISS)"
+        },
+        {
             "channel": "Ziggo Sport 6",
             "link": "#",
             "related_to": "Fenerbahçe v Ferencváros",
@@ -277,6 +285,14 @@
             "sat": "Astra 1M",
             "freq": "11.758 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
+            "link": "https://www.tabii.com/tr",
+            "related_to": "Feyenoord v Celtic",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "TNT Sports 3 HD",
@@ -1089,6 +1105,14 @@
             "sat": "Astra 1M",
             "freq": "11.720 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
+            "link": "https://www.tabii.com/tr",
+            "related_to": "Rangers v Sporting Braga",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "TNT Sports 3 HD",
@@ -1929,6 +1953,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-26 15:18:46",
-    "total_items": 231
+    "last_updated": "2025-11-27 04:23:29",
+    "total_items": 234
 }
