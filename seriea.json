@@ -59,6 +59,22 @@
             "encry": ""
         },
         {
+            "channel": "Eleven Sports 2 Polska HD",
+            "link": "#",
+            "related_to": "Como v Sassuolo",
+            "sat": "Hotbird 13G",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "link": "#",
+            "related_to": "Como v Sassuolo",
+            "sat": "AzerSpace 2",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Como v Sassuolo",
@@ -67,12 +83,28 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Como v Sassuolo",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "S Sport+ Streaming",
             "link": "#",
             "related_to": "Como v Sassuolo",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Como v Sassuolo",
+            "sat": "Amos 7",
+            "freq": "10.972 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -255,6 +287,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Juventus v Cagliari",
+            "sat": "Amos 3",
+            "freq": "10.972 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -569,6 +609,14 @@
             "encry": ""
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "Atalanta v Fiorentina",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Atalanta v Fiorentina",
@@ -651,6 +699,14 @@
             "encry": ""
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "link": "#",
+            "related_to": "Roma v Napoli",
+            "sat": "ABS 2A",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Paramount+ USA ($/geo/R)",
             "link": "#",
             "related_to": "Roma v Napoli",
@@ -665,6 +721,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Roma v Napoli",
+            "sat": "Amos 3",
+            "freq": "10.842 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "link": "#",
+            "related_to": "Roma v Napoli",
+            "sat": "Astra 2F",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
         },
         {
             "channel": "TNT Sports 1 HD",
@@ -3375,6 +3447,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-28 04:23:58",
-    "total_items": 395
+    "last_updated": "2025-11-28 15:20:38",
+    "total_items": 404
 }

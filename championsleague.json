@@ -411,6 +411,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Bayer Leverkusen v Newcastle United",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 6",
             "flags": {
                 "team1": "belgium",
@@ -427,6 +435,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Club Brugge v Arsenal",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "TNT Sports 3 HD",
@@ -1053,6 +1069,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-28 04:22:56",
-    "total_items": 120
+    "last_updated": "2025-11-28 15:19:36",
+    "total_items": 122
 }

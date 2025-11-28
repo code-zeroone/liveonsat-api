@@ -43,6 +43,22 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "link": "#",
+            "related_to": "Kocaelispor v Gençlerbirligi",
+            "sat": "KazSat 3",
+            "freq": "10.720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "link": "#",
+            "related_to": "Kocaelispor v Gençlerbirligi",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 14",
             "flags": {
                 "team1": "turkey",
@@ -263,6 +279,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "link": "#",
+            "related_to": "Fatih Karagümrük v Besiktas",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 14",
             "flags": {
                 "team1": "turkey",
@@ -271,6 +295,14 @@
             "match": "Fenerbahçe v Galatasaray",
             "time": "17:00",
             "date": "2025-12-01"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "Astra 3C",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Connect FRANCE 📺",
@@ -297,6 +329,14 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Canada HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "beIN Sports France 2 HD",
             "link": "#",
             "related_to": "Fenerbahçe v Galatasaray",
@@ -313,6 +353,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Thailand 3 HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "beIN Sports Türkiye 1 HD",
             "link": "#",
             "related_to": "Fenerbahçe v Galatasaray",
@@ -321,12 +369,84 @@
             "encry": "Irdeto"
         },
         {
+            "channel": "beIN Sports US HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Claro Sports En Vivo 📺",
+            "link": "https://www.clarosports.com/en-vivo/",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "DigiTurk 4K UHD",
             "link": "#",
             "related_to": "Fenerbahçe v Galatasaray",
             "sat": "Turksat 5B",
             "freq": "11.305 V 30000 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Disney+ Argentina ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Brazil ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Caribbean ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Chile ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Mexico ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Norte ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Sur ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "ESPN 2 Norte Latin",
@@ -1235,6 +1355,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-28 04:27:10",
-    "total_items": 143
+    "last_updated": "2025-11-28 15:23:50",
+    "total_items": 158
 }
