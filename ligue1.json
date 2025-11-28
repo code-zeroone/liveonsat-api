@@ -43,6 +43,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Metz v Rennes",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "link": "#",
             "related_to": "Metz v Rennes",
@@ -157,6 +165,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 5 HD",
+            "link": "#",
+            "related_to": "Monaco v Paris St Germain",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
             "related_to": "Monaco v Paris St Germain",
@@ -247,6 +263,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 5 HD",
+            "link": "#",
+            "related_to": "Paris FC v Auxerre",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Paris FC v Auxerre",
@@ -334,6 +358,14 @@
             "related_to": "Marseille v Toulouse",
             "sat": "Eshail 2",
             "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 5 HD",
+            "link": "#",
+            "related_to": "Marseille v Toulouse",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
             "encry": "HD Irdeto"
         },
         {
@@ -443,6 +475,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye Max 2 HD",
+            "link": "#",
+            "related_to": "Strasbourg v Brest",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Ligue 1+ 3 ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Strasbourg v Brest",
@@ -533,6 +573,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "link": "#",
+            "related_to": "Le Havre v Lille",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Ligue 1+ 6 ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Le Havre v Lille",
@@ -576,6 +624,104 @@
             "channel": "ViaPlay Sverige HD",
             "link": "#",
             "related_to": "Le Havre v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "compet": "French Ligue 1 - Week 14",
+            "flags": {
+                "team1": "france26",
+                "team2": "france"
+            },
+            "match": "Angers v Lens",
+            "time": "16:15",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "beIN Connect MENA HD 📺",
+            "link": "https://connect.bein.net/",
+            "related_to": "Angers v Lens",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Angers v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect USA 📺",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "Angers v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "link": "#",
+            "related_to": "Angers v Lens",
+            "sat": "Eshail 2",
+            "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 5 HD",
+            "link": "#",
+            "related_to": "Angers v Lens",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Ligue 1+ 4 ($/geo/R) 📺",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": "Angers v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "link": "#",
+            "related_to": "Angers v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Angers v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Angers v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Angers v Lens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "link": "#",
+            "related_to": "Angers v Lens",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -673,96 +819,6 @@
         {
             "compet": "French Ligue 1 - Week 14",
             "flags": {
-                "team1": "france26",
-                "team2": "france"
-            },
-            "match": "Angers v Lens",
-            "time": "16:15",
-            "date": "2025-11-30"
-        },
-        {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Angers v Lens",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Angers v Lens",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "Angers v Lens",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "link": "#",
-            "related_to": "Angers v Lens",
-            "sat": "Eshail 2",
-            "freq": "10.810 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Ligue 1+ 4 ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Angers v Lens",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Angers v Lens",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Angers v Lens",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Angers v Lens",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Angers v Lens",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Angers v Lens",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "French Ligue 1 - Week 14",
-            "flags": {
                 "team1": "france",
                 "team2": "france"
             },
@@ -800,6 +856,14 @@
             "related_to": "Lyon v Nantes",
             "sat": "Eshail 2",
             "freq": "10.810 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "beIN Sports Türkiye 5 HD",
+            "link": "#",
+            "related_to": "Lyon v Nantes",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
             "encry": "HD Irdeto"
         },
         {
@@ -2689,6 +2753,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-27 15:21:10",
-    "total_items": 323
+    "last_updated": "2025-11-28 04:24:18",
+    "total_items": 331
 }
