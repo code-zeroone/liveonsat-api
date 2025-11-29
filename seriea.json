@@ -6,123 +6,17 @@
                 "team1": "italy",
                 "team2": "italy"
             },
-            "match": "Como v Sassuolo",
-            "time": "19:45",
-            "date": "2025-11-28"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "link": "#",
-            "related_to": "Como v Sassuolo",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "link": "#",
-            "related_to": "Como v Sassuolo",
-            "sat": "Astra 1M",
-            "freq": "11.798 H 27500 - 9/0",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN Belgium ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": "Como v Sassuolo",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Como v Sassuolo",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Como v Sassuolo",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN USA en Español ($/geo/R)",
-            "link": "#",
-            "related_to": "Como v Sassuolo",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Eleven Sports 2 Polska HD",
-            "link": "#",
-            "related_to": "Como v Sassuolo",
-            "sat": "Hotbird 13G",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Viaccess"
-        },
-        {
-            "channel": "MAX Sport 3 Bulgaria HD",
-            "link": "#",
-            "related_to": "Como v Sassuolo",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V 30000 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Como v Sassuolo",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Persiana Sports 2 HD 📺",
-            "link": "https://pokertvfa.live/",
-            "related_to": "Como v Sassuolo",
-            "sat": "MonacoSat",
-            "freq": "10.804 H 27500 - 2/3",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Como v Sassuolo",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "link": "#",
-            "related_to": "Como v Sassuolo",
-            "sat": "Amos 7",
-            "freq": "10.972 V 30000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TV2 Play Danmark ($/geo/R) 📺",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": "Como v Sassuolo",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Italian Serie A - Week 13",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
             "match": "Genoa v Hellas Verona",
             "time": "14:00",
             "date": "2025-11-29"
+        },
+        {
+            "channel": "Astro Arena 2 HD",
+            "link": "#",
+            "related_to": "Genoa v Hellas Verona",
+            "sat": "Measat 3b",
+            "freq": "10.852 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "DAZN Belgium ($/geo/R) 📺",
@@ -173,6 +67,14 @@
             "match": "Parma v Udinese",
             "time": "14:00",
             "date": "2025-11-29"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "link": "#",
+            "related_to": "Parma v Udinese",
+            "sat": "Measat 3b",
+            "freq": "10.892 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "beIN Sports Australia 3 HD",
@@ -231,6 +133,22 @@
             "match": "Juventus v Cagliari",
             "time": "17:00",
             "date": "2025-11-29"
+        },
+        {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Juventus v Cagliari",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Juventus v Cagliari",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports Australia 3 HD",
@@ -313,6 +231,22 @@
             "match": "AC Milan v Lazio",
             "time": "19:45",
             "date": "2025-11-29"
+        },
+        {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "AC Milan v Lazio",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "AC Milan v Lazio",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports Australia 3 HD",
@@ -413,6 +347,14 @@
             "date": "2025-11-30"
         },
         {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Lecce v Torino",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "link": "#",
             "related_to": "Lecce v Torino",
@@ -495,6 +437,22 @@
             "date": "2025-11-30"
         },
         {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Pisa v Inter Milan",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Pisa v Inter Milan",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "link": "#",
             "related_to": "Pisa v Inter Milan",
@@ -569,6 +527,14 @@
             "date": "2025-11-30"
         },
         {
+            "channel": "Astro Arena Bola HD",
+            "link": "#",
+            "related_to": "Atalanta v Fiorentina",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "link": "#",
             "related_to": "Atalanta v Fiorentina",
@@ -641,6 +607,14 @@
             "encry": ""
         },
         {
+            "channel": "ZBC Channel 2",
+            "link": "#",
+            "related_to": "Atalanta v Fiorentina",
+            "sat": "Eutelsat 7C",
+            "freq": "11.043 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra"
+        },
+        {
             "compet": "Italian Serie A - Week 13",
             "flags": {
                 "team1": "italy",
@@ -649,6 +623,22 @@
             "match": "Roma v Napoli",
             "time": "19:45",
             "date": "2025-11-30"
+        },
+        {
+            "channel": "Astro Football HD",
+            "link": "#",
+            "related_to": "Roma v Napoli",
+            "sat": "Measat 3b",
+            "freq": "10.932 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "link": "#",
+            "related_to": "Roma v Napoli",
+            "sat": "Eutelsat 7C",
+            "freq": "10.981 V 45000 - 5/6",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports Australia 3 HD",
@@ -763,6 +753,14 @@
             "match": "Bologna v Cremonese",
             "time": "19:45",
             "date": "2025-12-01"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "link": "#",
+            "related_to": "Bologna v Cremonese",
+            "sat": "Measat 3b",
+            "freq": "10.772 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "DAZN 2 Bar Deutsch HD",
@@ -3447,6 +3445,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-28 15:20:38",
+    "last_updated": "2025-11-29 04:23:14",
     "total_items": 404
 }
