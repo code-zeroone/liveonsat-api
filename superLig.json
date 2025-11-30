@@ -6,126 +6,6 @@
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "match": "Caykur Rizespor v Kayserispor",
-            "time": "11:30",
-            "date": "2025-11-29"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Caykur Rizespor v Kayserispor",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "link": "#",
-            "related_to": "Caykur Rizespor v Kayserispor",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 14",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "match": "Gaziantep v Eyüpspor",
-            "time": "14:00",
-            "date": "2025-11-29"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Gaziantep v Eyüpspor",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "link": "#",
-            "related_to": "Gaziantep v Eyüpspor",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 14",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "match": "Trabzonspor v Konyaspor",
-            "time": "17:00",
-            "date": "2025-11-29"
-        },
-        {
-            "channel": "beIN Connect FRANCE 📺",
-            "link": "https://connect.beinsports.com/france/se-connecter",
-            "related_to": "Trabzonspor v Konyaspor",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Trabzonspor v Konyaspor",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "link": "#",
-            "related_to": "Trabzonspor v Konyaspor",
-            "sat": "Astra 1M",
-            "freq": "11.856 V 29700 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "link": "#",
-            "related_to": "Trabzonspor v Konyaspor",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 14",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "match": "Kasimpasa v Istanbul Basaksehir",
-            "time": "17:00",
-            "date": "2025-11-29"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Kasimpasa v Istanbul Basaksehir",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 2 HD",
-            "link": "#",
-            "related_to": "Kasimpasa v Istanbul Basaksehir",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 14",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
             "match": "Antalyaspor v Göztepe",
             "time": "14:00",
             "date": "2025-11-30"
@@ -245,6 +125,14 @@
             "sat": "Astra 3C",
             "freq": "12.402 V 30000 - 3/4",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "beIN Connect Australia 📺",
@@ -1409,6 +1297,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-29 15:21:43",
-    "total_items": 165
+    "last_updated": "2025-11-30 04:37:29",
+    "total_items": 152
 }
