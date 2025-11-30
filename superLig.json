@@ -391,6 +391,14 @@
             "encry": "HD PowerVu"
         },
         {
+            "channel": "ESPN Africa",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "Eutelsat 36C",
+            "freq": "11.429 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra"
+        },
+        {
             "channel": "Fanatiz USA ($/geo/R) 📺",
             "link": "https://fanatiz.com/",
             "related_to": "Fenerbahçe v Galatasaray",
@@ -413,6 +421,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "Intelsat 39",
+            "freq": "11.555 V 30000 - 2/3",
+            "encry": "FTA (BISS)"
         },
         {
             "channel": "MATCH! Futbol 3 HD",
@@ -447,6 +463,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "Eutelsat 16A",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "SportKlub 2 Slovenija",
             "link": "#",
             "related_to": "Fenerbahçe v Galatasaray",
@@ -461,6 +485,14 @@
             "sat": "Eutelsat 16A",
             "freq": "10.845 H 30000 - 3/5",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Galatasaray",
+            "sat": "Intelsat 20",
+            "freq": "10.970 V 30000 - 5/6",
+            "encry": "Irdeto"
         },
         {
             "channel": "ZhiBo8 TV (China)",
@@ -1297,6 +1329,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-11-30 04:37:29",
-    "total_items": 152
+    "last_updated": "2025-11-30 15:21:53",
+    "total_items": 156
 }

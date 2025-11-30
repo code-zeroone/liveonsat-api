@@ -569,6 +569,14 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Girona v Real Madrid",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Idman TV HD",
             "link": "#",
             "related_to": "Girona v Real Madrid",
@@ -591,6 +599,14 @@
             "sat": "Astra 1M",
             "freq": "10.818 V 22000 - 2/3",
             "encry": "HD NagraVision"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Girona v Real Madrid",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -2947,6 +2963,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-11-30 04:34:59",
-    "total_items": 347
+    "last_updated": "2025-11-30 15:19:21",
+    "total_items": 349
 }

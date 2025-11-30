@@ -107,6 +107,14 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Manchester United",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
             "link": "https://go3.tv/extra_sports",
             "related_to": "Crystal Palace v Manchester United",
@@ -979,6 +987,14 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Chelsea v Arsenal",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
             "link": "https://go3.tv/extra_sports",
             "related_to": "Chelsea v Arsenal",
@@ -1009,6 +1025,14 @@
             "sat": "Astra 1KR",
             "freq": "11.156 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Chelsea v Arsenal",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Nova Sports Premier League HD",
@@ -1081,6 +1105,14 @@
             "sat": "Astra 2F",
             "freq": "12.246 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Chelsea v Arsenal",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Sport 1 Israel HD",
@@ -1250,6 +1282,22 @@
             "related_to": "Fulham v Manchester City",
             "sat": "Astra 2E",
             "freq": "12.012 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Fulham v Manchester City",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Fulham v Manchester City",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -1715,6 +1763,22 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Arsenal v Brentford",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Arsenal v Brentford",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sport 24 At Sea HD",
             "link": "#",
             "related_to": "Arsenal v Brentford",
@@ -1853,6 +1917,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sky Sports Cricket HD",
+            "link": "#",
+            "related_to": "Brighton H.A. v Aston Villa",
+            "sat": "Astra 2E",
+            "freq": "12.090 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sky Sports+ [via APP]",
             "link": "#",
             "related_to": "Brighton H.A. v Aston Villa",
@@ -1988,6 +2060,22 @@
             "related_to": "Wolves v Nottingham Forest",
             "sat": "Astra 2E",
             "freq": "12.090 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports F1 UK HD",
+            "link": "#",
+            "related_to": "Wolves v Nottingham Forest",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sports F1 UK UHD",
+            "link": "#",
+            "related_to": "Wolves v Nottingham Forest",
+            "sat": "Astra 2F",
+            "freq": "12.324 V 27500 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -2225,6 +2313,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "link": "#",
+            "related_to": "Liverpool v Sunderland",
+            "sat": "Astra 2E",
+            "freq": "12.012 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sports Main Event HD",
@@ -8177,6 +8273,32 @@
         {
             "compet": "English Premier League - Week 24",
             "flags": {
+                "team1": "england3",
+                "team2": "england"
+            },
+            "match": "Aston Villa v Brentford",
+            "time": "14:00",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Aston Villa v Brentford",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "link": "#",
+            "related_to": "Aston Villa v Brentford",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 24",
+            "flags": {
                 "team1": "england",
                 "team2": "england9"
             },
@@ -8215,32 +8337,6 @@
             "sat": "Astra 2F",
             "freq": "12.246 V 27500 - 2/3",
             "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 24",
-            "flags": {
-                "team1": "england3",
-                "team2": "england"
-            },
-            "match": "Aston Villa v Brentford",
-            "time": "14:00",
-            "date": "2026-02-01"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Aston Villa v Brentford",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "link": "#",
-            "related_to": "Aston Villa v Brentford",
-            "sat": "Astra 2E",
-            "freq": "11.934 V 27500 - 5/6",
-            "encry": "VideoGuard"
         },
         {
             "compet": "English Premier League - Week 24",
@@ -8369,6 +8465,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-11-30 04:32:55",
-    "total_items": 1020
+    "last_updated": "2025-11-30 15:17:17",
+    "total_items": 1032
 }
