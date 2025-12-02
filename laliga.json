@@ -27,6 +27,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Esteqlal TV",
+            "link": "#",
+            "related_to": "Barcelona v Atlético Madrid",
+            "sat": "Al Yah 1",
+            "freq": "12.015 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Fubo Sports USA ($/geo/R) 📺",
             "link": "https://www.fubosportsnetwork.com/",
             "related_to": "Barcelona v Atlético Madrid",
@@ -35,12 +43,36 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Barcelona v Atlético Madrid",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
             "related_to": "Barcelona v Atlético Madrid",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Barcelona v Atlético Madrid",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Barcelona v Atlético Madrid",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -75,6 +107,14 @@
             "encry": ""
         },
         {
+            "channel": "Tolo TV",
+            "link": "#",
+            "related_to": "Barcelona v Atlético Madrid",
+            "sat": "Al Yah 1",
+            "freq": "11.938 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
             "link": "https://play.tv2.dk/sport",
             "related_to": "Barcelona v Atlético Madrid",
@@ -89,6 +129,14 @@
             "sat": "Thor 6",
             "freq": "10.716 H 25000 - 3/4",
             "encry": "HD Conax"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Barcelona v Atlético Madrid",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 19",
@@ -147,6 +195,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Tolo TV",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Real Madrid",
+            "sat": "Al Yah 1",
+            "freq": "11.938 H 27500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "TV2 Play Danmark ($/geo/R) 📺",
@@ -1286,14 +1342,14 @@
                 "team1": "spain",
                 "team2": "spain"
             },
-            "match": "Alavés v Real Oviedo",
-            "time": "17:00",
-            "date": "2026-01-04"
+            "match": "Rayo Vallecano v Getafe",
+            "time": "20:00",
+            "date": "2026-01-02"
         },
         {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
-            "related_to": "Alavés v Real Oviedo",
+            "related_to": "Rayo Vallecano v Getafe",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
@@ -1305,8 +1361,8 @@
                 "team2": "spain"
             },
             "match": "Celta Vigo v Valencia",
-            "time": "17:00",
-            "date": "2026-01-04"
+            "time": "13:00",
+            "date": "2026-01-03"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -1322,9 +1378,27 @@
                 "team1": "spain",
                 "team2": "spain"
             },
+            "match": "Osasuna v Athletic Bilbao",
+            "time": "15:15",
+            "date": "2026-01-03"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Osasuna v Athletic Bilbao",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 18",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
             "match": "Elche v Villarreal",
-            "time": "17:00",
-            "date": "2026-01-04"
+            "time": "17:30",
+            "date": "2026-01-03"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -1341,8 +1415,8 @@
                 "team2": "spain"
             },
             "match": "Espanyol v Barcelona",
-            "time": "17:00",
-            "date": "2026-01-04"
+            "time": "20:00",
+            "date": "2026-01-03"
         },
         {
             "channel": "LaLiga TV Bar HD",
@@ -1364,10 +1438,72 @@
             "compet": "Spanish La Liga (Primera) - Week 18",
             "flags": {
                 "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Sevilla v Levante",
+            "time": "13:00",
+            "date": "2026-01-04"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Sevilla v Levante",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 18",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Real Madrid v Real Betis",
+            "time": "15:15",
+            "date": "2026-01-04"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Real Madrid v Real Betis",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Real Madrid v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 18",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Alavés v Real Oviedo",
+            "time": "17:30",
+            "date": "2026-01-04"
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "link": "#",
+            "related_to": "Alavés v Real Oviedo",
+            "sat": "Astra 1M",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 18",
+            "flags": {
+                "team1": "spain",
                 "team2": "spain17"
             },
             "match": "Mallorca v Girona",
-            "time": "17:00",
+            "time": "17:30",
             "date": "2026-01-04"
         },
         {
@@ -1384,70 +1520,8 @@
                 "team1": "spain",
                 "team2": "spain"
             },
-            "match": "Osasuna v Athletic Bilbao",
-            "time": "17:00",
-            "date": "2026-01-04"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Osasuna v Athletic Bilbao",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 18",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Rayo Vallecano v Getafe",
-            "time": "17:00",
-            "date": "2026-01-04"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Rayo Vallecano v Getafe",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 18",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Real Madrid v Real Betis",
-            "time": "17:00",
-            "date": "2026-01-04"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Real Madrid v Real Betis",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Real Madrid v Real Betis",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 18",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
             "match": "Real Sociedad v Atlético Madrid",
-            "time": "17:00",
+            "time": "20:00",
             "date": "2026-01-04"
         },
         {
@@ -1465,24 +1539,6 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 18",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Sevilla v Levante",
-            "time": "17:00",
-            "date": "2026-01-04"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Sevilla v Levante",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 19",
@@ -2225,6 +2281,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-12-02 04:31:10",
-    "total_items": 258
+    "last_updated": "2025-12-02 15:23:40",
+    "total_items": 265
 }

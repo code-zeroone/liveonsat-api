@@ -67,6 +67,14 @@
             "encry": "HD Irdeto"
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Fulham v Manchester City",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Sky Go UK [online]",
             "link": "#",
             "related_to": "Fulham v Manchester City",
@@ -105,6 +113,14 @@
             "sat": "Astra 2F",
             "freq": "12.207 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Fulham v Manchester City",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Sport 2 Israel HD",
@@ -349,6 +365,14 @@
             "match": "Newcastle United v Tottenham Hotspur",
             "time": "20:15",
             "date": "2025-12-02"
+        },
+        {
+            "channel": "AzTV (azerbaijan)",
+            "link": "#",
+            "related_to": "Newcastle United v Tottenham Hotspur",
+            "sat": "AzerSpace 1",
+            "freq": "11.175 H 27500 - 5/6",
+            "encry": "FTA (BISS)"
         },
         {
             "channel": "beIN Connect MENA 📺",
@@ -7431,6 +7455,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-12-02 04:29:06",
-    "total_items": 904
+    "last_updated": "2025-12-02 15:21:35",
+    "total_items": 907
 }
