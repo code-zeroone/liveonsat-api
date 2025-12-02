@@ -6,60 +6,6 @@
                 "team1": "assocnba",
                 "team2": "assocnba"
             },
-            "match": "Minnesota Timberwolves v San Antonio Spurs",
-            "time": "00:00",
-            "date": "2025-12-01"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Minnesota Timberwolves v San Antonio Spurs",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Sacramento Kings v Memphis Grizzlies",
-            "time": "02:00",
-            "date": "2025-12-01"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Sacramento Kings v Memphis Grizzlies",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "match": "Los Angeles Lakers v New Orleans Pelicans",
-            "time": "02:30",
-            "date": "2025-12-01"
-        },
-        {
-            "channel": "NBA League Pass ($/geo/R)",
-            "link": "#",
-            "related_to": "Los Angeles Lakers v New Orleans Pelicans",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "NBA Regular Season",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
             "match": "Detroit Pistons v Atlanta Hawks",
             "time": "00:00",
             "date": "2025-12-02"
@@ -335,6 +281,38 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Boston Celtics v New York Knicks",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Boston Celtics v New York Knicks",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Boston Celtics v New York Knicks",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "link": "#",
+            "related_to": "Boston Celtics v New York Knicks",
+            "sat": "Astra 2F",
+            "freq": "12.226 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "NBA Regular Season",
             "flags": {
                 "team1": "assocnba",
@@ -387,6 +365,38 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Golden State Warriors v Oklahoma Thunder",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Golden State Warriors v Oklahoma Thunder",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Golden State Warriors v Oklahoma Thunder",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "link": "#",
+            "related_to": "Golden State Warriors v Oklahoma Thunder",
+            "sat": "Astra 2F",
+            "freq": "12.226 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "NBA Regular Season",
@@ -8381,6 +8391,6 @@
             "encry": "LiveOnSat.com"
         }
     ],
-    "last_updated": "2025-12-01 15:24:00",
-    "total_items": 932
+    "last_updated": "2025-12-02 04:32:38",
+    "total_items": 934
 }

@@ -1,72 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Italian Serie A - Week 13",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "match": "Bologna v Cremonese",
-            "time": "19:45",
-            "date": "2025-12-01"
-        },
-        {
-            "channel": "Astro Arena Bola HD",
-            "link": "#",
-            "related_to": "Bologna v Cremonese",
-            "sat": "Measat 3b",
-            "freq": "10.772 V 30000 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "link": "#",
-            "related_to": "Bologna v Cremonese",
-            "sat": "Astra 1M",
-            "freq": "11.798 H 27500 - 9/0",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN Belgium ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": "Bologna v Cremonese",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Bologna v Cremonese",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Bologna v Cremonese",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Bologna v Cremonese",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TV2 Play Danmark ($/geo/R) 📺",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": "Bologna v Cremonese",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
             "compet": "Italian Serie A - Week 14",
             "flags": {
                 "team1": "italy",
@@ -2446,6 +2380,48 @@
                 "team1": "italy",
                 "team2": "italy"
             },
+            "match": "Napoli v Fiorentina",
+            "time": "14:00",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Napoli v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Napoli v Fiorentina",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Napoli v Fiorentina",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Napoli v Fiorentina",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "Italian Serie A - Week 23",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
             "match": "Bologna v AC Milan",
             "time": "14:00",
             "date": "2026-02-01"
@@ -2576,32 +2552,6 @@
                 "team1": "italy",
                 "team2": "italy"
             },
-            "match": "Napoli v Fiorentina",
-            "time": "14:00",
-            "date": "2026-02-01"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Napoli v Fiorentina",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Napoli v Fiorentina",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Italian Serie A - Week 23",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
             "match": "Parma v Juventus",
             "time": "14:00",
             "date": "2026-02-01"
@@ -2701,6 +2651,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-01 15:21:51",
-    "total_items": 313
+    "last_updated": "2025-12-02 04:30:28",
+    "total_items": 307
 }

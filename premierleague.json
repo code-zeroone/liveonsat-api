@@ -27,6 +27,14 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Fulham v Manchester City",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Fulham v Manchester City",
@@ -213,6 +221,14 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Bournemouth v Everton",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Bournemouth v Everton",
@@ -349,6 +365,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "link": "#",
+            "related_to": "Newcastle United v Tottenham Hotspur",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -513,6 +537,14 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Arsenal v Brentford",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Arsenal v Brentford",
@@ -675,6 +707,14 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Türkiye 5 HD",
+            "link": "#",
+            "related_to": "Brighton H.A. v Aston Villa",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Brighton H.A. v Aston Villa",
@@ -813,6 +853,14 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Türkiye Max 2 HD",
+            "link": "#",
+            "related_to": "Wolves v Nottingham Forest",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 29750 - 5/6",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Wolves v Nottingham Forest",
@@ -943,6 +991,14 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Türkiye Max 1 HD",
+            "link": "#",
+            "related_to": "Burnley v Crystal Palace",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Burnley v Crystal Palace",
@@ -1063,6 +1119,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "link": "#",
+            "related_to": "Liverpool v Sunderland",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -1219,6 +1283,14 @@
             "encry": ""
         },
         {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "link": "#",
+            "related_to": "Leeds United v Chelsea",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "DAZN España ($/geo/R)",
             "link": "#",
             "related_to": "Leeds United v Chelsea",
@@ -1339,6 +1411,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Manchester United v West Ham United",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "DAZN España ($/geo/R)",
@@ -2739,6 +2819,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Liverpool v Brighton H.A.",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
@@ -5901,6 +5989,48 @@
         {
             "compet": "English Premier League - Week 20",
             "flags": {
+                "team1": "england8",
+                "team2": "england"
+            },
+            "match": "Everton v Brentford",
+            "time": "15:00",
+            "date": "2026-01-04"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Everton v Brentford",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Everton v Brentford",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Golf HD",
+            "link": "#",
+            "related_to": "Everton v Brentford",
+            "sat": "Astra 2E",
+            "freq": "12.012 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "link": "#",
+            "related_to": "Everton v Brentford",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 20",
+            "flags": {
                 "team1": "england9",
                 "team2": "england"
             },
@@ -5954,48 +6084,6 @@
             "related_to": "Fulham v Liverpool",
             "sat": "Astra 2F",
             "freq": "12.246 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 20",
-            "flags": {
-                "team1": "england8",
-                "team2": "england"
-            },
-            "match": "Everton v Brentford",
-            "time": "15:00",
-            "date": "2026-01-04"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Everton v Brentford",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Everton v Brentford",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Golf HD",
-            "link": "#",
-            "related_to": "Everton v Brentford",
-            "sat": "Astra 2E",
-            "freq": "12.012 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "link": "#",
-            "related_to": "Everton v Brentford",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -6196,22 +6284,80 @@
                 "team1": "england",
                 "team2": "england"
             },
-            "match": "Bournemouth v Tottenham Hotspur",
+            "match": "Manchester City v Brighton H.A.",
             "time": "19:30",
             "date": "2026-01-07"
         },
         {
             "channel": "Sky Go UK [online]",
             "link": "#",
-            "related_to": "Bournemouth v Tottenham Hotspur",
+            "related_to": "Manchester City v Brighton H.A.",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Manchester City v Brighton H.A.",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Manchester City v Brighton H.A.",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sky Sports UK HD",
             "link": "#",
-            "related_to": "Bournemouth v Tottenham Hotspur",
+            "related_to": "Manchester City v Brighton H.A.",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky UK Ultra HD 1",
+            "link": "#",
+            "related_to": "Manchester City v Brighton H.A.",
+            "sat": "Astra 2F",
+            "freq": "12.246 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 21",
+            "flags": {
+                "team1": "england9",
+                "team2": "england7"
+            },
+            "match": "Fulham v Chelsea",
+            "time": "19:30",
+            "date": "2026-01-07"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Fulham v Chelsea",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "link": "#",
+            "related_to": "Fulham v Chelsea",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "link": "#",
+            "related_to": "Fulham v Chelsea",
             "sat": "Astra 2E",
             "freq": "11.856 V 27500 - 2/3",
             "encry": "HD VideoGuard"
@@ -6233,6 +6379,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports NFL HD",
+            "link": "#",
+            "related_to": "Brentford v Sunderland",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sky Sports UK HD",
@@ -6261,9 +6415,59 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Sky Sports F1 UK HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Aston Villa",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sports F1 UK UHD",
+            "link": "#",
+            "related_to": "Crystal Palace v Aston Villa",
+            "sat": "Astra 2F",
+            "freq": "12.324 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Sky Sports UK HD",
             "link": "#",
             "related_to": "Crystal Palace v Aston Villa",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 21",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Bournemouth v Tottenham Hotspur",
+            "time": "19:30",
+            "date": "2026-01-07"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Bournemouth v Tottenham Hotspur",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Golf HD",
+            "link": "#",
+            "related_to": "Bournemouth v Tottenham Hotspur",
+            "sat": "Astra 2E",
+            "freq": "12.012 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "link": "#",
+            "related_to": "Bournemouth v Tottenham Hotspur",
             "sat": "Astra 2E",
             "freq": "11.856 V 27500 - 2/3",
             "encry": "HD VideoGuard"
@@ -6297,58 +6501,6 @@
         {
             "compet": "English Premier League - Week 21",
             "flags": {
-                "team1": "england9",
-                "team2": "england7"
-            },
-            "match": "Fulham v Chelsea",
-            "time": "19:30",
-            "date": "2026-01-07"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Fulham v Chelsea",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "link": "#",
-            "related_to": "Fulham v Chelsea",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 21",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Manchester City v Brighton H.A.",
-            "time": "19:30",
-            "date": "2026-01-07"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Manchester City v Brighton H.A.",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "link": "#",
-            "related_to": "Manchester City v Brighton H.A.",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 21",
-            "flags": {
                 "team1": "england",
                 "team2": "england"
             },
@@ -6363,6 +6515,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "link": "#",
+            "related_to": "Burnley v Manchester United",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sky Sports UK HD",
@@ -6389,6 +6549,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Cricket HD",
+            "link": "#",
+            "related_to": "Newcastle United v Leeds United",
+            "sat": "Astra 2E",
+            "freq": "12.090 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "Sky Sports UK HD",
@@ -7263,6 +7431,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-12-01 15:20:29",
-    "total_items": 883
+    "last_updated": "2025-12-02 04:29:06",
+    "total_items": 904
 }
