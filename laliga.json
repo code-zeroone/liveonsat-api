@@ -19,12 +19,28 @@
             "encry": "NagraVision"
         },
         {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Real Madrid",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "Nova Sports Prime Hellas HD",
             "link": "#",
             "related_to": "Athletic Bilbao v Real Madrid",
             "sat": "Hotbird 13F",
             "freq": "12.130 H 27500 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Athletic Bilbao v Real Madrid",
+            "sat": "MonacoSat",
+            "freq": "10.762 V 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Premier Sports 2 Ireland HD",
@@ -2143,6 +2159,6 @@
             "encry": "NagraVision"
         }
     ],
-    "last_updated": "2025-12-03 04:29:54",
-    "total_items": 248
+    "last_updated": "2025-12-03 15:23:46",
+    "total_items": 250
 }

@@ -11,6 +11,14 @@
             "date": "2025-12-03"
         },
         {
+            "channel": "Arezo TV HD",
+            "link": "#",
+            "related_to": "Arsenal v Brentford",
+            "sat": "Al Yah 1",
+            "freq": "12.054 H 27500 - 3/5",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "beIN Connect MENA 📺",
             "link": "https://connect.bein.com/",
             "related_to": "Arsenal v Brentford",
@@ -635,6 +643,14 @@
             "encry": ""
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Liverpool v Sunderland",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
             "link": "https://go3.tv/extra_sports",
             "related_to": "Liverpool v Sunderland",
@@ -657,6 +673,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "link": "#",
+            "related_to": "Liverpool v Sunderland",
+            "sat": "MonacoSat",
+            "freq": "11.420 V 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -811,6 +835,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Leeds United v Chelsea",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -6921,6 +6953,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-12-03 04:27:51",
-    "total_items": 841
+    "last_updated": "2025-12-03 15:21:42",
+    "total_items": 845
 }
