@@ -37,6 +37,78 @@
         {
             "compet": "UEFA Conference League - Matchday 5",
             "flags": {
+                "team1": "kosova1",
+                "team2": "holland"
+            },
+            "match": "Drita v AZ Alkmaar",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Drita v AZ Alkmaar",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "italy",
+                "team2": "ukraine"
+            },
+            "match": "Fiorentina v Dynamo Kyiv",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Fiorentina v Dynamo Kyiv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "poland",
+                "team2": "spain"
+            },
+            "match": "Jagiellonia v Rayo Vallecano",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Jagiellonia v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "armenia",
+                "team2": "poland"
+            },
+            "match": "Noah v Legia Warsaw",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Noah v Legia Warsaw",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
                 "team1": "turkey",
                 "team2": "greece"
             },
@@ -45,12 +117,74 @@
             "date": "2025-12-11"
         },
         {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Samsunspor v AEK Athens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TRT 1 Türkiye HD 📺",
             "link": "https://www.trtizle.com/canli/tv/trt-1",
             "related_to": "Samsunspor v AEK Athens",
             "sat": "Turksat 3A",
             "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "northmacedonia",
+                "team2": "slovakia"
+            },
+            "match": "Shkëndija v Slovan Bratislava",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shkëndija v Slovan Bratislava",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "romania",
+                "team2": "czechia"
+            },
+            "match": "Universitatea Craiova v Sparta Prague",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Universitatea Craiova v Sparta Prague",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "sweden",
+                "team2": "cyprus"
+            },
+            "match": "BK Häcken v AEK Larnaca",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "BK Häcken v AEK Larnaca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Conference League - Matchday 5",
@@ -337,6 +471,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-12-02 15:22:37",
-    "total_items": 39
+    "last_updated": "2025-12-03 04:28:52",
+    "total_items": 54
 }
