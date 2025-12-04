@@ -377,6 +377,14 @@
             "encry": "MPEG-4 NDS"
         },
         {
+            "channel": "ESPN 3 Sur Latin",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "ESPN Mexico",
             "link": "#",
             "related_to": "Istanbul Basaksehir v Fenerbahçe",
@@ -439,6 +447,22 @@
             "sat": "KazSat 3",
             "freq": "10.720 H 30000 - 3/4",
             "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Fenerbahçe",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "SuperSport ESPN 2 HD",
@@ -2057,6 +2081,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-04 04:33:58",
-    "total_items": 239
+    "last_updated": "2025-12-04 15:26:39",
+    "total_items": 242
 }
