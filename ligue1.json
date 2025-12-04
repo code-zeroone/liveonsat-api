@@ -1617,6 +1617,14 @@
             "date": "2026-01-16"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Monaco v Lorient",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Monaco v Lorient",
@@ -1635,6 +1643,14 @@
             "date": "2026-01-16"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Paris St Germain v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Paris St Germain v Lille",
@@ -1648,9 +1664,35 @@
                 "team1": "france",
                 "team2": "france"
             },
+            "match": "Lens v Auxerre",
+            "time": "16:00",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Lens v Auxerre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "French Ligue 1 - Week 18",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
             "match": "Toulouse v Nice",
             "time": "18:00",
             "date": "2026-01-17"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Toulouse v Nice",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -1671,6 +1713,14 @@
             "date": "2026-01-17"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Angers v Marseille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Angers v Marseille",
@@ -1689,6 +1739,14 @@
             "date": "2026-01-18"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Strasbourg v Metz",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Ligue 1+ ($/geo/R) 📺",
             "link": "https://plus.ligue1.com/home",
             "related_to": "Strasbourg v Metz",
@@ -1700,11 +1758,55 @@
             "compet": "French Ligue 1 - Week 18",
             "flags": {
                 "team1": "france",
+                "team2": "france50"
+            },
+            "match": "Nantes v Paris FC",
+            "time": "16:15",
+            "date": "2026-01-18"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Nantes v Paris FC",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "French Ligue 1 - Week 18",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "match": "Rennes v Le Havre",
+            "time": "16:15",
+            "date": "2026-01-18"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Rennes v Le Havre",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "French Ligue 1 - Week 18",
+            "flags": {
+                "team1": "france",
                 "team2": "france"
             },
             "match": "Lyon v Brest",
             "time": "19:45",
             "date": "2026-01-18"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Lyon v Brest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "Ligue 1+ ($/geo/R) 📺",
@@ -1895,6 +1997,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-03 15:23:25",
-    "total_items": 226
+    "last_updated": "2025-12-04 04:31:09",
+    "total_items": 238
 }
