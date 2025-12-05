@@ -167,6 +167,30 @@
             "encry": ""
         },
         {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "Basel v Aston Villa",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": "Basel v Aston Villa",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "Basel v Aston Villa",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Basel v Aston Villa",
@@ -303,6 +327,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "RTL Deutschland HD 📺",
+            "link": "https://plus.rtl.de/video-tv/live-tv/rtl-1",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "Intelsat 20",
+            "freq": "12.522 V 30000 - 3/5",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "RTL Schweiz HD",
+            "link": "#",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "Hotbird 13E",
+            "freq": "11.096 H 30000 - 3/4",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTL Österreich HD",
+            "link": "#",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "Astra 1L",
+            "freq": "12.226 H 27500 - 3/4",
+            "encry": "Free To Air"
         },
         {
             "channel": "TNT Sports 7",
@@ -743,6 +791,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-04 15:22:46",
-    "total_items": 84
+    "last_updated": "2025-12-05 04:29:13",
+    "total_items": 90
 }

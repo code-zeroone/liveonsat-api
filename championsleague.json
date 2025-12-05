@@ -331,6 +331,14 @@
             "encry": ""
         },
         {
+            "channel": "RTL Club Belgique",
+            "link": "#",
+            "related_to": "Union St Gilloise v Marseille",
+            "sat": "Hotbird 13G",
+            "freq": "11.411 H 27500 - 3/4",
+            "encry": "MPEG-4 Seca"
+        },
+        {
             "channel": "TNT Sports 7",
             "link": "#",
             "related_to": "Union St Gilloise v Marseille",
@@ -441,6 +449,14 @@
             "encry": "Irdeto [c]"
         },
         {
+            "channel": "TV8 Italia HD 📺",
+            "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
+            "related_to": "Real Madrid v Manchester City",
+            "sat": "*DTT",
+            "freq": "0.000 - -",
+            "encry": "Free To Air HD"
+        },
+        {
             "compet": "UEFA Champions League - Matchday 6",
             "flags": {
                 "team1": "germany",
@@ -491,6 +507,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "RTL Club Belgique",
+            "link": "#",
+            "related_to": "Club Brugge v Arsenal",
+            "sat": "Hotbird 13G",
+            "freq": "11.411 H 27500 - 3/4",
+            "encry": "MPEG-4 Seca"
         },
         {
             "channel": "TNT Sports 2 HD",
@@ -549,6 +573,30 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "Athletic Bilbao v Paris St Germain",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": "Athletic Bilbao v Paris St Germain",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "Athletic Bilbao v Paris St Germain",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Viaccess"
         },
         {
             "channel": "TNT Sports 5 HD",
@@ -1149,6 +1197,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-04 15:22:26",
-    "total_items": 132
+    "last_updated": "2025-12-05 04:28:53",
+    "total_items": 138
 }

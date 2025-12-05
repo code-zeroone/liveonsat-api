@@ -75,6 +75,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Tivibu Spor 1 HD",
+            "link": "#",
+            "related_to": "Mainz 05 v Mönchengladbach",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "YouTube: German Football (geo/R) 📺",
             "link": "https://www.youtube.com/@GermanFootball/streams",
             "related_to": "Mainz 05 v Mönchengladbach",
@@ -93,12 +101,28 @@
             "date": "2025-12-06"
         },
         {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Augsburg v Bayer Leverkusen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sky Sport Bundesliga 2 HD",
             "link": "#",
             "related_to": "Augsburg v Bayer Leverkusen",
             "sat": "Astra 1M",
             "freq": "11.758 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Tivibu Spor 3 HD",
+            "link": "#",
+            "related_to": "Augsburg v Bayer Leverkusen",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "German 1. Bundesliga - Week 13",
@@ -119,12 +143,28 @@
             "encry": ""
         },
         {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "FC Cologne v St Pauli",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "Sky Sport Bundesliga 3 HD",
             "link": "#",
             "related_to": "FC Cologne v St Pauli",
             "sat": "Astra 1N",
             "freq": "12.304 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Tivibu Spor 4 HD",
+            "link": "#",
+            "related_to": "FC Cologne v St Pauli",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "German 1. Bundesliga - Week 13",
@@ -142,6 +182,14 @@
             "related_to": "Heidenheim v Freiburg",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Heidenheim v Freiburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
             "encry": ""
         },
         {
@@ -168,6 +216,14 @@
             "related_to": "Stuttgart v Bayern Munich",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Stuttgart v Bayern Munich",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
             "encry": ""
         },
         {
@@ -203,6 +259,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Tivibu Spor 2 HD",
+            "link": "#",
+            "related_to": "Stuttgart v Bayern Munich",
+            "sat": "Turksat 4A",
+            "freq": "11.853 H 25000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 13",
             "flags": {
                 "team1": "germany",
@@ -218,6 +282,14 @@
             "related_to": "Wolfsburg v Union Berlin",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Wolfsburg v Union Berlin",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
             "encry": ""
         },
         {
@@ -295,6 +367,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Tivibu Spor 2 HD",
+            "link": "#",
+            "related_to": "RB Leipzig v Eintracht Frankfurt",
+            "sat": "Turksat 4A",
+            "freq": "11.853 H 25000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 13",
             "flags": {
                 "team1": "germany",
@@ -327,6 +407,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Hamburg v Werder Bremen",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "link": "#",
+            "related_to": "Hamburg v Werder Bremen",
+            "sat": "Turksat 4A",
+            "freq": "11.853 H 25000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "German 1. Bundesliga - Week 13",
@@ -369,6 +465,22 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Borussia Dortmund v Hoffenheim",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tivibu Spor 3 HD",
+            "link": "#",
+            "related_to": "Borussia Dortmund v Hoffenheim",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "German 1. Bundesliga - Week 14",
@@ -2259,6 +2371,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-04 15:24:30",
-    "total_items": 262
+    "last_updated": "2025-12-05 04:30:57",
+    "total_items": 276
 }
