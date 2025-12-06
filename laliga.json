@@ -6,56 +6,6 @@
                 "team1": "spain",
                 "team2": "spain"
             },
-            "match": "Real Oviedo v Mallorca",
-            "time": "20:00",
-            "date": "2025-12-05"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Real Oviedo v Mallorca",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "M+ LaLiga HD",
-            "link": "#",
-            "related_to": "Real Oviedo v Mallorca",
-            "sat": "Astra 1M",
-            "freq": "10.818 V 22000 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Real Oviedo v Mallorca",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Real Oviedo v Mallorca",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Tivibu Spor 3 HD",
-            "link": "#",
-            "related_to": "Real Oviedo v Mallorca",
-            "sat": "Turksat 4A",
-            "freq": "11.880 H 20000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 15",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
             "match": "Villarreal v Getafe",
             "time": "13:00",
             "date": "2025-12-06"
@@ -2227,8 +2177,26 @@
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 30",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Mallorca v Real Madrid",
+            "time": "16:00",
+            "date": "2026-04-05"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Mallorca v Real Madrid",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         }
     ],
-    "last_updated": "2025-12-05 15:22:25",
-    "total_items": 259
+    "last_updated": "2025-12-06 04:23:03",
+    "total_items": 255
 }
