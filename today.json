@@ -1193,6 +1193,14 @@
             "date": "2025-12-06"
         },
         {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "link": "#",
+            "related_to": "Energie Cottbus v Duisburg",
+            "sat": "Belintersat 1",
+            "freq": "11.230 H 45000 - 8/9",
+            "encry": "HD Panaccess"
+        },
+        {
             "channel": "Magenta Sport ($/geo/R) 📺",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
             "related_to": "Energie Cottbus v Duisburg",
@@ -2043,6 +2051,14 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "Nova Sports 2 Hellas HD",
+            "link": "#",
+            "related_to": "Bournemouth v Chelsea",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
             "link": "https://www.stan.com.au/sport",
             "related_to": "Bournemouth v Chelsea",
@@ -2229,6 +2245,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Nova Sports Premier League HD",
+            "link": "#",
+            "related_to": "Manchester City v Sunderland",
+            "sat": "Hotbird 13F",
+            "freq": "11.804 V 29700 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Sport 2 Israel HD",
@@ -2875,6 +2899,24 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "compet": "Greek Super League 1 - Week 13",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "match": "Olympiacos v OFI Crete",
+            "time": "15:00",
+            "date": "2025-12-06"
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "link": "#",
+            "related_to": "Olympiacos v OFI Crete",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 15",
@@ -3647,6 +3689,14 @@
             "encry": ""
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Fenerbahçe",
+            "sat": "Eutelsat 16A",
+            "freq": "10.845 H 30000 - 3/5",
+            "encry": "HD Conax"
+        },
+        {
             "channel": "SuperSport ESPN 2 HD",
             "link": "#",
             "related_to": "Istanbul Basaksehir v Fenerbahçe",
@@ -3805,6 +3855,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Nova Sports Premier League HD",
+            "link": "#",
+            "related_to": "Leeds United v Liverpool",
+            "sat": "Hotbird 13F",
+            "freq": "11.804 V 29700 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -4247,6 +4305,24 @@
             "encry": "HD NagraVision"
         },
         {
+            "compet": "Greek Super League 1 - Week 13",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "match": "Volos NFC v Kifisia",
+            "time": "18:30",
+            "date": "2025-12-06"
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "link": "#",
+            "related_to": "Volos NFC v Kifisia",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "French Ligue 2 - Week 16",
             "flags": {
                 "team1": "france",
@@ -4549,6 +4625,14 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "Cosmote Sport 1 HD",
+            "link": "#",
+            "related_to": "Kilmarnock v Rangers",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "Kilmarnock TV ($/geo/R) 📺",
             "link": "https://tv.kilmarnockfc.co.uk/",
             "related_to": "Kilmarnock v Rangers",
@@ -4679,6 +4763,14 @@
             "sat": "Badr 8",
             "freq": "12.130 V 30000 - 3/4",
             "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "link": "#",
+            "related_to": "Feyenoord v PEC Zwolle",
+            "sat": "Hotbird 13F",
+            "freq": "12.130 H 27500 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "channel": "Premier Sports GB Player HD 📺",
@@ -4903,6 +4995,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-12-06 04:20:38",
-    "total_items": 581
+    "last_updated": "2025-12-06 15:16:32",
+    "total_items": 592
 }
