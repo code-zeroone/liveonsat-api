@@ -139,6 +139,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Pisa v Parma",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "S Sport 2 Türkiye HD",
             "link": "#",
             "related_to": "Pisa v Parma",
@@ -489,6 +497,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Sport 3 Israel HD",
             "link": "#",
             "related_to": "Besiktas v Gaziantep",
@@ -623,6 +639,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "link": "#",
+            "related_to": "Udinese v Genoa",
+            "sat": "MonacoSat",
+            "freq": "11.420 V 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "S Sport 2 Türkiye HD",
             "link": "#",
             "related_to": "Udinese v Genoa",
@@ -738,6 +762,24 @@
             "channel": "5 STARS Israel HD",
             "link": "#",
             "related_to": "Ironi Modi'in v Hapoel Ra'anana",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "Israeli Ligat ha'Al (Premier) - Week 13",
+            "flags": {
+                "team1": "israel",
+                "team2": "israel5"
+            },
+            "match": "Maccabi Bnei Raina v Bnei Sakhnin",
+            "time": "17:45",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "5 LIVE Israel HD",
+            "link": "#",
+            "related_to": "Maccabi Bnei Raina v Bnei Sakhnin",
             "sat": "Amos 7",
             "freq": "11.030 V 27500 - 3/4",
             "encry": "VideoGuard"
@@ -975,6 +1017,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Torino v AC Milan",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "S Sport 2 Türkiye HD",
             "link": "#",
             "related_to": "Torino v AC Milan",
@@ -1063,6 +1113,14 @@
             "sat": "Hotbird 13F",
             "freq": "11.804 V 29700 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
         },
         {
             "channel": "Sky Go UK [online]",
@@ -1237,6 +1295,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "link": "#",
+            "related_to": "Osasuna v Levante",
+            "sat": "MonacoSat",
+            "freq": "11.420 V 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "link": "#",
             "related_to": "Osasuna v Levante",
@@ -1295,6 +1361,6 @@
             "encry": "HD NagraVision"
         }
     ],
-    "last_updated": "2025-12-08 04:32:13",
-    "total_items": 154
+    "last_updated": "2025-12-08 15:20:51",
+    "total_items": 162
 }
