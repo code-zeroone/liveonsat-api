@@ -1,45 +1,19 @@
 {
     "footonsat": [
         {
-            "compet": "Australian A League - Week 7",
-            "flags": {
-                "team1": "australia10",
-                "team2": "australia1"
-            },
-            "match": "Adelaide United v Brisbane Roar",
-            "time": "08:35",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Adelaide United v Brisbane Roar",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "link": "#",
-            "related_to": "Adelaide United v Brisbane Roar",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
             "compet": "Türkiye 1. Lig - Week 16",
             "flags": {
-                "team1": "turkey8",
+                "team1": "turkey",
                 "team2": "turkey"
             },
-            "match": "Boluspor v Erzurumspor",
-            "time": "10:30",
-            "date": "2025-12-07"
+            "match": "Bandirmaspor v Bodrumspor",
+            "time": "11:30",
+            "date": "2025-12-08"
         },
         {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Boluspor v Erzurumspor",
+            "related_to": "Bandirmaspor v Bodrumspor",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -47,7 +21,7 @@
         {
             "channel": "beIN Sports Türkiye 2 HD",
             "link": "#",
-            "related_to": "Boluspor v Erzurumspor",
+            "related_to": "Bandirmaspor v Bodrumspor",
             "sat": "Turksat 3A",
             "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
@@ -55,7 +29,7 @@
         {
             "channel": "TRT Spor Türkiye HD 📺",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "Boluspor v Erzurumspor",
+            "related_to": "Bandirmaspor v Bodrumspor",
             "sat": "Turksat 3A",
             "freq": "11.096 H 30000 - 5/6",
             "encry": "FTA (BISS)"
@@ -64,16 +38,16 @@
             "compet": "Türkiye 1. Lig - Week 16",
             "flags": {
                 "team1": "turkey",
-                "team2": "turkey"
+                "team2": "turkey12"
             },
-            "match": "Igdirspor v Adana Demirspor",
-            "time": "10:30",
-            "date": "2025-12-07"
+            "match": "Hatayspor v Sariyer",
+            "time": "11:30",
+            "date": "2025-12-08"
         },
         {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Igdirspor v Adana Demirspor",
+            "related_to": "Hatayspor v Sariyer",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -81,7 +55,7 @@
         {
             "channel": "beIN Sports Türkiye Max 1 HD",
             "link": "#",
-            "related_to": "Igdirspor v Adana Demirspor",
+            "related_to": "Hatayspor v Sariyer",
             "sat": "Turksat 3A",
             "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
@@ -89,1882 +63,10 @@
         {
             "channel": "Tabii Spor 6 ($/geo/R)",
             "link": "#",
-            "related_to": "Igdirspor v Adana Demirspor",
+            "related_to": "Hatayspor v Sariyer",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
-        },
-        {
-            "compet": "Ukrainian Premier League - Week 15",
-            "flags": {
-                "team1": "ukraine",
-                "team2": "ukraine"
-            },
-            "match": "Kryvbas KR v Oleksandria",
-            "time": "11:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Kryvbas KR v Oleksandria",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 15",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "match": "Gençlerbirligi v Fatih Karagümrük",
-            "time": "11:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Gençlerbirligi v Fatih Karagümrük",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "link": "#",
-            "related_to": "Gençlerbirligi v Fatih Karagümrük",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "compet": "Italian Serie A - Week 14",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "match": "Cremonese v Lecce",
-            "time": "11:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Cremonese v Lecce",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Cremonese v Lecce",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport 2 Türkiye HD",
-            "link": "#",
-            "related_to": "Cremonese v Lecce",
-            "sat": "Turksat 4A",
-            "freq": "11.880 H 20000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Cremonese v Lecce",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "link": "#",
-            "related_to": "Cremonese v Lecce",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Tivibu Spor 1 HD",
-            "link": "#",
-            "related_to": "Cremonese v Lecce",
-            "sat": "Turksat 4A",
-            "freq": "11.880 H 20000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "compet": "English Womens Super League - Week 10",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Leicester City v Manchester City",
-            "time": "12:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Dubai Sports 2 HD 📺",
-            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
-            "related_to": "Leicester City v Manchester City",
-            "sat": "Badr 8",
-            "freq": "12.130 V 30000 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Leicester City v Manchester City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Showcase UK HD",
-            "link": "#",
-            "related_to": "Leicester City v Manchester City",
-            "sat": "Astra 2E",
-            "freq": "12.090 V 29500 - 8/9",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "link": "#",
-            "related_to": "Leicester City v Manchester City",
-            "sat": "Astra 2E",
-            "freq": "12.012 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "link": "#",
-            "related_to": "Leicester City v Manchester City",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "W-Sport HD",
-            "link": "#",
-            "related_to": "Leicester City v Manchester City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English Womens Super League - Week 10",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "London City v Brighton H.A.",
-            "time": "12:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "London City v Brighton H.A.",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "London City v Brighton H.A.",
-            "sat": "Astra 2F",
-            "freq": "12.226 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "YouTube: W/Super League 📺",
-            "link": "https://www.youtube.com/@BarclaysWSL/streams",
-            "related_to": "London City v Brighton H.A.",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English Womens Super League - Week 10",
-            "flags": {
-                "team1": "england",
-                "team2": "england3"
-            },
-            "match": "Tottenham Hotspur v Aston Villa",
-            "time": "12:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Tottenham Hotspur v Aston Villa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Tottenham Hotspur v Aston Villa",
-            "sat": "Astra 2F",
-            "freq": "12.226 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "YouTube: W/Super League 📺",
-            "link": "https://www.youtube.com/@BarclaysWSL/streams",
-            "related_to": "Tottenham Hotspur v Aston Villa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English Womens Super League - Week 10",
-            "flags": {
-                "team1": "england",
-                "team2": "england21"
-            },
-            "match": "Manchester United v West Ham United",
-            "time": "12:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Manchester United v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports MIX UK HD",
-            "link": "#",
-            "related_to": "Manchester United v West Ham United",
-            "sat": "Astra 2E",
-            "freq": "11.934 V 27500 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "English WSL 2 - Week 10",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Durham v Ipswich Town",
-            "time": "12:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "YouTube: W/Super League 2 📺",
-            "link": "https://www.youtube.com/@BarclaysWSL2/streams",
-            "related_to": "Durham v Ipswich Town",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English FA Cup - 2nd Round Proper",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Slough Town v Macclesfield Town",
-            "time": "12:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "BBC Sport Website (geo/R) 📺",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": "Slough Town v Macclesfield Town",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Slough Town v Macclesfield Town",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "link": "#",
-            "related_to": "Slough Town v Macclesfield Town",
-            "sat": "NSS 12",
-            "freq": "3.798 R 19167 - 3/5",
-            "encry": "Irdeto [c]"
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "link": "#",
-            "related_to": "Slough Town v Macclesfield Town",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Slough Town v Macclesfield Town",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Slough Town v Macclesfield Town",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Slough Town v Macclesfield Town",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Slough Town v Macclesfield Town",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Slough Town v Macclesfield Town",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "link": "#",
-            "related_to": "Slough Town v Macclesfield Town",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "German 3. Liga - Week 17",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Waldhof Mannheim v Saarbrücken",
-            "time": "12:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R) 📺",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "Waldhof Mannheim v Saarbrücken",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Waldhof Mannheim v Saarbrücken",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 15",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Braunschweig v Holstein Kiel",
-            "time": "12:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Braunschweig v Holstein Kiel",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport Bundesliga 4 HD",
-            "link": "#",
-            "related_to": "Braunschweig v Holstein Kiel",
-            "sat": "Astra 1N",
-            "freq": "12.032 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Tivibu Spor 4 HD",
-            "link": "#",
-            "related_to": "Braunschweig v Holstein Kiel",
-            "sat": "Turksat 4A",
-            "freq": "11.880 H 20000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "YouTube: German Football (geo/R) 📺",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": "Braunschweig v Holstein Kiel",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 15",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Nuremberg v Greuther Fürth",
-            "time": "12:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Nuremberg v Greuther Fürth",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport Bundesliga 3 HD",
-            "link": "#",
-            "related_to": "Nuremberg v Greuther Fürth",
-            "sat": "Astra 1N",
-            "freq": "12.304 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Tivibu Spor 3 HD",
-            "link": "#",
-            "related_to": "Nuremberg v Greuther Fürth",
-            "sat": "Turksat 4A",
-            "freq": "11.880 H 20000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "YouTube: German Football (geo/R) 📺",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": "Nuremberg v Greuther Fürth",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 15",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Hertha Berlin v Magdeburg",
-            "time": "12:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Hertha Berlin v Magdeburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Hertha Berlin v Magdeburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport Bundesliga 2 HD",
-            "link": "#",
-            "related_to": "Hertha Berlin v Magdeburg",
-            "sat": "Astra 1M",
-            "freq": "11.758 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "link": "#",
-            "related_to": "Hertha Berlin v Magdeburg",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Tivibu Spor 2 HD",
-            "link": "#",
-            "related_to": "Hertha Berlin v Magdeburg",
-            "sat": "Turksat 4A",
-            "freq": "11.853 H 25000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "YouTube: German Football (geo/R) 📺",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": "Hertha Berlin v Magdeburg",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Türkiye 1. Lig - Week 16",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "match": "Manisa FK v Van BB",
-            "time": "13:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Manisa FK v Van BB",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 2 HD",
-            "link": "#",
-            "related_to": "Manisa FK v Van BB",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "TRT Spor Türkiye HD 📺",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "Manisa FK v Van BB",
-            "sat": "Turksat 3A",
-            "freq": "11.096 H 30000 - 5/6",
-            "encry": "FTA (BISS)"
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 15",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain17"
-            },
-            "match": "Elche v Girona",
-            "time": "13:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Elche v Girona",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "M+ LaLiga HD",
-            "link": "#",
-            "related_to": "Elche v Girona",
-            "sat": "Astra 1M",
-            "freq": "10.818 V 22000 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Elche v Girona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport 1 Türkiye HD",
-            "link": "#",
-            "related_to": "Elche v Girona",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V 27500 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Elche v Girona",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "German Frauen Bundesliga - Week 12",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Hoffenheim v Union Berlin",
-            "time": "13:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Hoffenheim v Union Berlin",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R) 📺",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "Hoffenheim v Union Berlin",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Dutch Eredivisie - Week 15",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "match": "AZ Alkmaar v Go Ahead Eagles",
-            "time": "13:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "AZ Alkmaar v Go Ahead Eagles",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Thriller TV+ [online] ($/geo/R) 📺",
-            "link": "https://www.trillertv.com/join/trillertv-subscription/",
-            "related_to": "AZ Alkmaar v Go Ahead Eagles",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Tivibu Spor HD",
-            "link": "#",
-            "related_to": "AZ Alkmaar v Go Ahead Eagles",
-            "sat": "Turksat 4A",
-            "freq": "11.853 H 25000 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "compet": "Austrian Bundesliga - Week 16",
-            "flags": {
-                "team1": "austria",
-                "team2": "austria"
-            },
-            "match": "WSG Tirol v Rheindorf Altach",
-            "time": "13:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "WSG Tirol v Rheindorf Altach",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Austrian Bundesliga - Week 16",
-            "flags": {
-                "team1": "austria",
-                "team2": "austria"
-            },
-            "match": "Wolfsberger AC v Austria Vienna",
-            "time": "13:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Wolfsberger AC v Austria Vienna",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Ukrainian Premier League - Week 15",
-            "flags": {
-                "team1": "ukraine",
-                "team2": "ukraine"
-            },
-            "match": "Metalist 1925 v Veres Rivne",
-            "time": "13:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Metalist 1925 v Veres Rivne",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English Premier League - Week 15",
-            "flags": {
-                "team1": "england",
-                "team2": "england21"
-            },
-            "match": "Brighton H.A. v West Ham United",
-            "time": "14:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "link": "https://connect.bein.com/",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 3 HD",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Nova Sports Premier League HD",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "Hotbird 13F",
-            "freq": "11.804 V 29700 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "Astra 2F",
-            "freq": "12.207 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "Astra 2E",
-            "freq": "11.934 V 27500 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Sky UK Ultra HD 1",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "Astra 2F",
-            "freq": "12.246 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sport 1 Israel HD",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "Amos 7",
-            "freq": "11.474 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R) 📺",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$] 📺",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "Brighton H.A. v West Ham United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 15",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "match": "Kocaelispor v Kasimpasa",
-            "time": "14:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Kocaelispor v Kasimpasa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "link": "#",
-            "related_to": "Kocaelispor v Kasimpasa",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "compet": "French Ligue 1 - Week 15",
-            "flags": {
-                "team1": "france",
-                "team2": "france26"
-            },
-            "match": "Nice v Angers",
-            "time": "14:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "link": "#",
-            "related_to": "Nice v Angers",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Nice v Angers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "Nice v Angers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye Max 1 HD",
-            "link": "#",
-            "related_to": "Nice v Angers",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Nice v Angers",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Nice v Angers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Nice v Angers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Nice v Angers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Nice v Angers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Nice v Angers",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "Italian Serie A - Week 14",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "match": "Cagliari v Roma",
-            "time": "14:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "link": "#",
-            "related_to": "Cagliari v Roma",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Cagliari v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Cagliari v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport 2 Türkiye HD",
-            "link": "#",
-            "related_to": "Cagliari v Roma",
-            "sat": "Turksat 4A",
-            "freq": "11.880 H 20000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Cagliari v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "link": "#",
-            "related_to": "Cagliari v Roma",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Tivibu Spor 1 HD",
-            "link": "#",
-            "related_to": "Cagliari v Roma",
-            "sat": "Turksat 4A",
-            "freq": "11.880 H 20000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "compet": "English WSL 2 - Week 10",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Bristol City v Sheffield United",
-            "time": "14:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "YouTube: W/Super League 2 📺",
-            "link": "https://www.youtube.com/@BarclaysWSL2/streams",
-            "related_to": "Bristol City v Sheffield United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English WSL 2 - Week 10",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Crystal Palace v Birmingham City",
-            "time": "14:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "YouTube: W/Super League 2 📺",
-            "link": "https://www.youtube.com/@BarclaysWSL2/streams",
-            "related_to": "Crystal Palace v Birmingham City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English WSL 2 - Week 10",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Nottingham Forest v Sunderland",
-            "time": "14:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "YouTube: W/Super League 2 📺",
-            "link": "https://www.youtube.com/@BarclaysWSL2/streams",
-            "related_to": "Nottingham Forest v Sunderland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English WSL 2 - Week 10",
-            "flags": {
-                "team1": "england",
-                "team2": "england6"
-            },
-            "match": "Portsmouth v Charlton Athletic",
-            "time": "14:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "YouTube: W/Super League 2 📺",
-            "link": "https://www.youtube.com/@BarclaysWSL2/streams",
-            "related_to": "Portsmouth v Charlton Athletic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Italian W/Serie A - Week 8",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "match": "Fiorentina v Ternana",
-            "time": "14:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Fiorentina v Ternana",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Fiorentina v Ternana",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "English FA Cup - 2nd Round Proper",
-            "flags": {
-                "team1": "england",
-                "team2": "england70"
-            },
-            "match": "Boreham Wood v Newport County",
-            "time": "14:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "BBC iPlayer (geo/R) 📺",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "Boreham Wood v Newport County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "BBC Sport Website (geo/R) 📺",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": "Boreham Wood v Newport County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "BBC Two HD",
-            "link": "#",
-            "related_to": "Boreham Wood v Newport County",
-            "sat": "Astra 2E",
-            "freq": "10.803 H 23000 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Boreham Wood v Newport County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "link": "#",
-            "related_to": "Boreham Wood v Newport County",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 13",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Hamburg v Werder Bremen",
-            "time": "14:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Hamburg v Werder Bremen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Hamburg v Werder Bremen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Prime Video UK PPV [$] 📺",
-            "link": "https://www.primevideo.com/",
-            "related_to": "Hamburg v Werder Bremen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Hamburg v Werder Bremen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "link": "#",
-            "related_to": "Hamburg v Werder Bremen",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Tivibu Spor 2 HD",
-            "link": "#",
-            "related_to": "Hamburg v Werder Bremen",
-            "sat": "Turksat 4A",
-            "freq": "11.853 H 25000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "compet": "English Womens Super League - Week 10",
-            "flags": {
-                "team1": "england7",
-                "team2": "england8"
-            },
-            "match": "Chelsea v Everton",
-            "time": "14:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "BBC *RED Button HD",
-            "link": "#",
-            "related_to": "Chelsea v Everton",
-            "sat": "Astra 2E",
-            "freq": "10.788 V 23000 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "BBC iPlayer (geo/R) 📺",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "Chelsea v Everton",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "BBC iPlayer 4K (geo/R) 📺",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "Chelsea v Everton",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "BBC Sport Website (geo/R) 📺",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": "Chelsea v Everton",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Dubai Sports 2 HD 📺",
-            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
-            "related_to": "Chelsea v Everton",
-            "sat": "Badr 8",
-            "freq": "12.130 V 30000 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "W-Sport HD",
-            "link": "#",
-            "related_to": "Chelsea v Everton",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Slovak Super Liga - Week 17",
-            "flags": {
-                "team1": "slovakia",
-                "team2": "slovakia"
-            },
-            "match": "Trencin v Tatran Presov",
-            "time": "14:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Trencin v Tatran Presov",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Scottish Premiership - Week 16",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "match": "Celtic v Hearts",
-            "time": "15:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "5 STARS Israel HD",
-            "link": "#",
-            "related_to": "Celtic v Hearts",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Celtic TV ($/geo/R) 📺",
-            "link": "https://www.celticfc.tv/",
-            "related_to": "Celtic v Hearts",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Hearts TV ($/geo/R) 📺",
-            "link": "https://heartstv.heartsfc.co.uk/",
-            "related_to": "Celtic v Hearts",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Celtic v Hearts",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Celtic v Hearts",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "link": "#",
-            "related_to": "Celtic v Hearts",
-            "sat": "Astra 2E",
-            "freq": "12.012 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "Belgian Pro League - Week 17",
-            "flags": {
-                "team1": "belgium",
-                "team2": "belgium"
-            },
-            "match": "Westerlo v Anderlecht",
-            "time": "15:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Westerlo v Anderlecht",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Westerlo v Anderlecht",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Brazilian Série A - Week 38",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "match": "Santos v Cruzeiro",
-            "time": "15:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Sport 1 Israel HD",
-            "link": "#",
-            "related_to": "Santos v Cruzeiro",
-            "sat": "Amos 7",
-            "freq": "11.474 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "Greek Super League 1 - Week 13",
-            "flags": {
-                "team1": "greece",
-                "team2": "greece"
-            },
-            "match": "Asteras Tripolis v Levadiakos",
-            "time": "15:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Nova Sports 2 Hellas HD",
-            "link": "#",
-            "related_to": "Asteras Tripolis v Levadiakos",
-            "sat": "Hotbird 13F",
-            "freq": "12.130 H 27500 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 15",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Valencia v Sevilla",
-            "time": "15:15",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Valencia v Sevilla",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "M+ LaLiga HD",
-            "link": "#",
-            "related_to": "Valencia v Sevilla",
-            "sat": "Astra 1M",
-            "freq": "10.818 V 22000 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Valencia v Sevilla",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport 1 Türkiye HD",
-            "link": "#",
-            "related_to": "Valencia v Sevilla",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V 27500 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Valencia v Sevilla",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "English FA Cup - 2nd Round Proper",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Gateshead v Walsall",
-            "time": "15:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Gateshead v Walsall",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "link": "#",
-            "related_to": "Gateshead v Walsall",
-            "sat": "NSS 12",
-            "freq": "3.798 R 19167 - 3/5",
-            "encry": "Irdeto [c]"
-        },
-        {
-            "compet": "German 3. Liga - Week 17",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Hansa Rostock v Alemannia Aachen",
-            "time": "15:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R) 📺",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "Hansa Rostock v Alemannia Aachen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Hansa Rostock v Alemannia Aachen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 13",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal23"
-            },
-            "match": "Estoril v Moreirense",
-            "time": "15:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "link": "#",
-            "related_to": "Estoril v Moreirense",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-        },
-        {
-            "compet": "Greek Super League 1 - Week 13",
-            "flags": {
-                "team1": "greece",
-                "team2": "greece"
-            },
-            "match": "AEL Larissa v Panathinaikos",
-            "time": "15:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Cosmote Sport 1 HD",
-            "link": "#",
-            "related_to": "AEL Larissa v Panathinaikos",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "Türkiye 1. Lig - Week 16",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "match": "Istanbulspor v Sivasspor",
-            "time": "16:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Istanbulspor v Sivasspor",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 2 HD",
-            "link": "#",
-            "related_to": "Istanbulspor v Sivasspor",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "TRT Spor Türkiye HD 📺",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": "Istanbulspor v Sivasspor",
-            "sat": "Turksat 3A",
-            "freq": "11.096 H 30000 - 5/6",
-            "encry": "FTA (BISS)"
-        },
-        {
-            "compet": "German Frauen Bundesliga - Week 12",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Eintracht Frankfurt v Bayern Munich",
-            "time": "16:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Eintracht Frankfurt v Bayern Munich",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Magenta Sport ($/geo/R) 📺",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "Eintracht Frankfurt v Bayern Munich",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ZDF Deutschland HD 📺",
-            "link": "https://www.zdf.de/live-tv",
-            "related_to": "Eintracht Frankfurt v Bayern Munich",
-            "sat": "Astra 1P",
-            "freq": "11.954 H 27500 - 3/4",
-            "encry": "Free To Air"
-        },
-        {
-            "compet": "Austrian Bundesliga - Week 16",
-            "flags": {
-                "team1": "austria",
-                "team2": "austria"
-            },
-            "match": "Sturm Graz v Grazer AK",
-            "time": "16:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Sturm Graz v Grazer AK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Ukrainian Premier League - Week 15",
-            "flags": {
-                "team1": "ukraine",
-                "team2": "ukraine"
-            },
-            "match": "Rukh Vynnyky v Polissya Zhytomyr",
-            "time": "16:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Rukh Vynnyky v Polissya Zhytomyr",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "French Ligue 1 - Week 15",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "match": "Auxerre v Metz",
-            "time": "16:15",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Auxerre v Metz",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "Auxerre v Metz",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye Max 2 HD",
-            "link": "#",
-            "related_to": "Auxerre v Metz",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 29750 - 5/6",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Ligue 1+ 4 ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Auxerre v Metz",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Auxerre v Metz",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Auxerre v Metz",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Auxerre v Metz",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Auxerre v Metz",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Auxerre v Metz",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "French Ligue 1 - Week 15",
-            "flags": {
-                "team1": "france",
-                "team2": "france50"
-            },
-            "match": "Le Havre v Paris FC",
-            "time": "16:15",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Le Havre v Paris FC",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "Le Havre v Paris FC",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye Max 1 HD",
-            "link": "#",
-            "related_to": "Le Havre v Paris FC",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Ligue 1+ 5 ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Le Havre v Paris FC",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Le Havre v Paris FC",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Le Havre v Paris FC",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Le Havre v Paris FC",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Le Havre v Paris FC",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Le Havre v Paris FC",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
         },
         {
             "compet": "Italian Serie BKT - Week 15",
@@ -1972,237 +74,35 @@
                 "team1": "italy",
                 "team2": "italy"
             },
-            "match": "Empoli v Palermo",
-            "time": "16:15",
-            "date": "2025-12-07"
+            "match": "Modena v Catanzaro",
+            "time": "11:30",
+            "date": "2025-12-08"
         },
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
-            "related_to": "Empoli v Palermo",
+            "related_to": "Modena v Catanzaro",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
         },
         {
-            "compet": "English Premier League - Week 15",
+            "compet": "Ukrainian Premier League - Week 15",
             "flags": {
-                "team1": "england9",
-                "team2": "england"
+                "team1": "ukraine",
+                "team2": "ukraine"
             },
-            "match": "Fulham v Crystal Palace",
-            "time": "16:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "link": "https://connect.bein.com/",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 3 HD",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "DAZN España ($/geo/R)",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "FuboTV Canada ($/geo/R)",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Nova Sports Premier League HD",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "Hotbird 13F",
-            "freq": "11.804 V 29700 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "Astra 2F",
-            "freq": "12.207 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "Astra 2E",
-            "freq": "11.934 V 27500 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Sky UK Ultra HD 1",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "Astra 2F",
-            "freq": "12.246 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sport 1 Israel HD",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "Amos 7",
-            "freq": "11.474 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Stan Sport Australia ($/geo/R) 📺",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "VOYO Pro TV Romania [$] 📺",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "Fulham v Crystal Palace",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 13",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "match": "Borussia Dortmund v Hoffenheim",
-            "time": "16:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "CRTV Sports Cameroon",
-            "link": "#",
-            "related_to": "Borussia Dortmund v Hoffenheim",
-            "sat": "AzerSpace 2",
-            "freq": "12.610 H 12500 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Borussia Dortmund v Hoffenheim",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "match": "Poltava v Epitsentr",
+            "time": "13:30",
+            "date": "2025-12-08"
         },
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
-            "related_to": "Borussia Dortmund v Hoffenheim",
+            "related_to": "Poltava v Epitsentr",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
-        },
-        {
-            "channel": "Prime Video UK PPV [$] 📺",
-            "link": "https://www.primevideo.com/",
-            "related_to": "Borussia Dortmund v Hoffenheim",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Borussia Dortmund v Hoffenheim",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 2 Israel HD",
-            "link": "#",
-            "related_to": "Borussia Dortmund v Hoffenheim",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Tivibu Spor 3 HD",
-            "link": "#",
-            "related_to": "Borussia Dortmund v Hoffenheim",
-            "sat": "Turksat 4A",
-            "freq": "11.880 H 20000 - 3/4",
-            "encry": "HD Irdeto"
         },
         {
             "compet": "Italian Serie A - Week 14",
@@ -2210,14 +110,14 @@
                 "team1": "italy",
                 "team2": "italy"
             },
-            "match": "Lazio v Bologna",
-            "time": "17:00",
-            "date": "2025-12-07"
+            "match": "Pisa v Parma",
+            "time": "14:00",
+            "date": "2025-12-08"
         },
         {
-            "channel": "Cosmote Sport 2 HD",
+            "channel": "Cosmote Sport 1 HD",
             "link": "#",
-            "related_to": "Lazio v Bologna",
+            "related_to": "Pisa v Parma",
             "sat": "Eutelsat 9B",
             "freq": "11.843 V 27500 - 3/5",
             "encry": "HD VideoGuard"
@@ -2225,7 +125,7 @@
         {
             "channel": "DAZN Great Britain (geo/R) 📺",
             "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Lazio v Bologna",
+            "related_to": "Pisa v Parma",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -2233,15 +133,7 @@
         {
             "channel": "DAZN Ireland ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Lazio v Bologna",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Lazio v Bologna",
+            "related_to": "Pisa v Parma",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -2249,7 +141,7 @@
         {
             "channel": "S Sport 2 Türkiye HD",
             "link": "#",
-            "related_to": "Lazio v Bologna",
+            "related_to": "Pisa v Parma",
             "sat": "Turksat 4A",
             "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
@@ -2257,26 +149,134 @@
         {
             "channel": "S Sport+ Streaming",
             "link": "#",
-            "related_to": "Lazio v Bologna",
+            "related_to": "Pisa v Parma",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Pisa v Parma",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Tivibu Spor 1 HD",
             "link": "#",
-            "related_to": "Lazio v Bologna",
+            "related_to": "Pisa v Parma",
             "sat": "Turksat 4A",
             "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
         },
         {
-            "channel": "TNT Sports 1 HD",
-            "link": "#",
-            "related_to": "Lazio v Bologna",
-            "sat": "NSS 12",
-            "freq": "3.798 R 19167 - 3/5",
-            "encry": "Irdeto [c]"
+            "compet": "Italian Serie BKT - Week 15",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Avellino v Venezia",
+            "time": "14:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R) 📺",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "Avellino v Venezia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie BKT - Week 15",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Padova v Cesena",
+            "time": "14:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R) 📺",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "Padova v Cesena",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie BKT - Week 15",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Frosinone v Juve Stabia",
+            "time": "14:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R) 📺",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "Frosinone v Juve Stabia",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie BKT - Week 15",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Mantova v Reggiana",
+            "time": "14:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R) 📺",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "Mantova v Reggiana",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie BKT - Week 15",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Monza v SüdTirol",
+            "time": "14:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R) 📺",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "Monza v SüdTirol",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Italian Serie BKT - Week 15",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Bari v Pescara",
+            "time": "16:15",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "OneFootball [app] ($/geo/R) 📺",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "Bari v Pescara",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "Türkiye Süper Lig - Week 15",
@@ -2284,38 +284,102 @@
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "match": "Göztepe v Trabzonspor",
+            "match": "Besiktas v Gaziantep",
             "time": "17:00",
-            "date": "2025-12-07"
+            "date": "2025-12-08"
         },
         {
-            "channel": "beIN Connect MENA HD 📺",
-            "link": "https://connect.bein.net/",
-            "related_to": "Göztepe v Trabzonspor",
+            "channel": "Arena Sport 1 Srbija HD",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "Astra 3C",
+            "freq": "12.460 H 30000 - 3/4",
+            "encry": "HD Conax"
+        },
+        {
+            "channel": "beIN Connect Canada 📺",
+            "link": "https://connect-ca.beinsports.com/",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Besiktas v Gaziantep",
             "sat": "N/A",
             "freq": "N/A",
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect Hong Kong 📺",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect Indonesia 📺",
+            "link": "https://connect-id.beinsports.com/id",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect Malaysia 📺",
+            "link": "https://connect-my.beinsports.com/en",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect New Zealand 📺",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect Philippines 📺",
+            "link": "https://connect-ph.beinsports.com/en",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Göztepe v Trabzonspor",
+            "related_to": "Besiktas v Gaziantep",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "beIN Sports MENA 6 HD",
+            "channel": "beIN Connect USA 📺",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
             "link": "#",
-            "related_to": "Göztepe v Trabzonspor",
-            "sat": "Eshail 2",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD Irdeto"
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
         },
         {
             "channel": "beIN Sports Thailand 1 HD",
             "link": "#",
-            "related_to": "Göztepe v Trabzonspor",
+            "related_to": "Besiktas v Gaziantep",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -2323,57 +387,229 @@
         {
             "channel": "beIN Sports Türkiye 1 HD",
             "link": "#",
-            "related_to": "Göztepe v Trabzonspor",
+            "related_to": "Besiktas v Gaziantep",
             "sat": "Turksat 3A",
             "freq": "11.180 H 30000 - 3/4",
             "encry": "Irdeto"
         },
         {
-            "channel": "ESPN 2 Africa",
+            "channel": "beIN Sports US Español",
             "link": "#",
-            "related_to": "Göztepe v Trabzonspor",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Disney+ Argentina ($/geo/R)",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Brazil ($/geo/R)",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Caribbean ($/geo/R)",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Chile ($/geo/R)",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Mexico ($/geo/R)",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Norte ($/geo/R)",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Sur ($/geo/R)",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN Africa",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "Eutelsat 36C",
+            "freq": "11.429 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R) 📺",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "Hispasat 30W-5",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "link": "#",
+            "related_to": "Besiktas v Gaziantep",
             "sat": "Eutelsat 16A",
-            "freq": "10.977 H 24114 - 1/2",
+            "freq": "11.387 H 32000 - 3/4",
             "encry": "MPEG-4 NDS"
         },
         {
-            "channel": "MATCH! Futbol 3 HD",
+            "channel": "SportKlub 3 Hrvatska",
             "link": "#",
-            "related_to": "Göztepe v Trabzonspor",
-            "sat": "Horizons 2",
-            "freq": "11.840 H 28800 - 2/3",
-            "encry": "MPEG-4 Conax"
+            "related_to": "Besiktas v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
-            "channel": "Sport+ Qazaqstan",
+            "channel": "SuperSport ESPN HD",
             "link": "#",
-            "related_to": "Göztepe v Trabzonspor",
-            "sat": "KazSat 3",
-            "freq": "10.720 H 30000 - 3/4",
-            "encry": "MPEG-4 NDS"
-        },
-        {
-            "channel": "SuperSport ESPN 2 HD",
-            "link": "#",
-            "related_to": "Göztepe v Trabzonspor",
+            "related_to": "Besiktas v Gaziantep",
             "sat": "Intelsat 20",
             "freq": "10.970 V 30000 - 5/6",
             "encry": "Irdeto"
         },
         {
-            "compet": "Italian W/Serie A - Week 8",
+            "compet": "Türkiye Süper Lig - Week 15",
+            "flags": {
+                "team1": "turkey14",
+                "team2": "turkey"
+            },
+            "match": "Alanyaspor v Antalyaspor",
+            "time": "17:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Alanyaspor v Antalyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "link": "#",
+            "related_to": "Alanyaspor v Antalyaspor",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "compet": "Türkiye 1. Lig - Week 16",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "match": "Corum FK v Pendikspor",
+            "time": "17:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Corum FK v Pendikspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye Max 1 HD",
+            "link": "#",
+            "related_to": "Corum FK v Pendikspor",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": "Corum FK v Pendikspor",
+            "sat": "Turksat 3A",
+            "freq": "11.096 H 30000 - 5/6",
+            "encry": "FTA (BISS)"
+        },
+        {
+            "compet": "Italian Serie A - Week 14",
             "flags": {
                 "team1": "italy",
                 "team2": "italy"
             },
-            "match": "Parma v Como",
+            "match": "Udinese v Genoa",
             "time": "17:00",
-            "date": "2025-12-07"
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "link": "#",
+            "related_to": "Udinese v Genoa",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
         },
         {
             "channel": "DAZN Great Britain (geo/R) 📺",
             "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Parma v Como",
+            "related_to": "Udinese v Genoa",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -2381,120 +617,34 @@
         {
             "channel": "DAZN Ireland ($/geo/R) 📺",
             "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Parma v Como",
+            "related_to": "Udinese v Genoa",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "W-Sport HD",
+            "channel": "S Sport 2 Türkiye HD",
             "link": "#",
-            "related_to": "Parma v Como",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "Slovak Super Liga - Week 17",
-            "flags": {
-                "team1": "slovakia",
-                "team2": "slovakia"
-            },
-            "match": "Dunajská Streda v Spartak Trnava",
-            "time": "17:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Dunajská Streda v Spartak Trnava",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "English FA Cup - 2nd Round Proper",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Blackpool v Carlisle United",
-            "time": "17:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Blackpool v Carlisle United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "link": "#",
-            "related_to": "Blackpool v Carlisle United",
-            "sat": "NSS 12",
-            "freq": "3.798 R 19167 - 3/5",
-            "encry": "Irdeto [c]"
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "link": "#",
-            "related_to": "Blackpool v Carlisle United",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 15",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "match": "Espanyol v Rayo Vallecano",
-            "time": "17:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "LaLiga TV Bar HD",
-            "link": "#",
-            "related_to": "Espanyol v Rayo Vallecano",
-            "sat": "Astra 1M",
-            "freq": "10.876 V 22000 - 5/6",
-            "encry": "NagraVision"
-        },
-        {
-            "channel": "M+ LaLiga HD",
-            "link": "#",
-            "related_to": "Espanyol v Rayo Vallecano",
-            "sat": "Astra 1M",
-            "freq": "10.818 V 22000 - 2/3",
-            "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Espanyol v Rayo Vallecano",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "S Sport 1 Türkiye HD",
-            "link": "#",
-            "related_to": "Espanyol v Rayo Vallecano",
+            "related_to": "Udinese v Genoa",
             "sat": "Turksat 4A",
-            "freq": "12.188 V 27500 - 5/6",
+            "freq": "11.880 H 20000 - 3/4",
             "encry": "HD Irdeto"
         },
         {
             "channel": "S Sport+ Streaming",
             "link": "#",
-            "related_to": "Espanyol v Rayo Vallecano",
+            "related_to": "Udinese v Genoa",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "link": "#",
+            "related_to": "Udinese v Genoa",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
         },
         {
             "compet": "German Frauen Bundesliga - Week 12",
@@ -2502,14 +652,14 @@
                 "team1": "germany",
                 "team2": "germany"
             },
-            "match": "SGS Essen v Nuremberg",
-            "time": "17:30",
-            "date": "2025-12-07"
+            "match": "Hamburg v FC Cologne",
+            "time": "17:00",
+            "date": "2025-12-08"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
             "link": "#",
-            "related_to": "SGS Essen v Nuremberg",
+            "related_to": "Hamburg v FC Cologne",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -2517,72 +667,80 @@
         {
             "channel": "Magenta Sport ($/geo/R) 📺",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "SGS Essen v Nuremberg",
+            "related_to": "Hamburg v FC Cologne",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "compet": "Belgian Pro League - Week 17",
-            "flags": {
-                "team1": "belgium5",
-                "team2": "belgium"
-            },
-            "match": "Antwerp v Racing Genk",
-            "time": "17:30",
-            "date": "2025-12-07"
+            "channel": "Sport 1 Germany HD 📺",
+            "link": "https://tv.sport1.de/sport1/",
+            "related_to": "Hamburg v FC Cologne",
+            "sat": "Astra 1KR",
+            "freq": "10.803 H 22000 - 3/4",
+            "encry": "HD VideoGuard"
         },
         {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Antwerp v Racing Genk",
+            "channel": "W-Sport HD",
+            "link": "#",
+            "related_to": "Hamburg v FC Cologne",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
         },
         {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Antwerp v Racing Genk",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 13",
+            "compet": "Israeli Liga Leumit (2nd) - Week 14",
             "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
+                "team1": "israel",
+                "team2": "israel"
             },
-            "match": "Alverca v Nacional Madeira",
-            "time": "18:00",
-            "date": "2025-12-07"
+            "match": "Maccabi Herzliya v Maccabi Petah Tikva",
+            "time": "17:00",
+            "date": "2025-12-08"
         },
         {
-            "channel": "Sport TV2 Portugal HD",
+            "channel": "5 SPORT Israel HD",
             "link": "#",
-            "related_to": "Alverca v Nacional Madeira",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
+            "related_to": "Maccabi Herzliya v Maccabi Petah Tikva",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
-            "compet": "Portuguese Liga Portugal - Week 13",
+            "compet": "Israeli Liga Leumit (2nd) - Week 14",
             "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
+                "team1": "israel",
+                "team2": "israel"
             },
-            "match": "Estrela Amadora v Arouca",
-            "time": "18:00",
-            "date": "2025-12-07"
+            "match": "Hapoel Kfar Shalem v Hapoel Acco",
+            "time": "17:00",
+            "date": "2025-12-08"
         },
         {
-            "channel": "Sport TV4 Portugal HD",
+            "channel": "5 PLUS Israel HD",
             "link": "#",
-            "related_to": "Estrela Amadora v Arouca",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.360 H 27500 - 3/4",
-            "encry": "HD NagraVision"
+            "related_to": "Hapoel Kfar Shalem v Hapoel Acco",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "Israeli Liga Leumit (2nd) - Week 14",
+            "flags": {
+                "team1": "israel",
+                "team2": "israel7"
+            },
+            "match": "Ironi Modi'in v Hapoel Ra'anana",
+            "time": "17:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "5 STARS Israel HD",
+            "link": "#",
+            "related_to": "Ironi Modi'in v Hapoel Ra'anana",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "Israeli Ligat ha'Al (Premier) - Week 13",
@@ -2590,43 +748,35 @@
                 "team1": "israel",
                 "team2": "israel"
             },
-            "match": "Hapoel Haifa v Maccabi Netanya",
-            "time": "18:00",
-            "date": "2025-12-07"
+            "match": "Ashdod v Ironi Tiberias",
+            "time": "17:45",
+            "date": "2025-12-08"
         },
         {
-            "channel": "Sport 4 Israel HD",
+            "channel": "5 LIVE Israel HD",
             "link": "#",
-            "related_to": "Hapoel Haifa v Maccabi Netanya",
+            "related_to": "Ashdod v Ironi Tiberias",
             "sat": "Amos 7",
             "freq": "11.030 V 27500 - 3/4",
             "encry": "VideoGuard"
         },
         {
-            "compet": "German 3. Liga - Week 17",
+            "compet": "Israeli Ligat ha'Al (Premier) - Week 13",
             "flags": {
-                "team1": "germany",
-                "team2": "germany"
+                "team1": "israel",
+                "team2": "israel6"
             },
-            "match": "Erzgebirge Aue v Ingolstadt",
-            "time": "18:30",
-            "date": "2025-12-07"
+            "match": "Beitar Jerusalem v Hapoel Jerusalem",
+            "time": "18:00",
+            "date": "2025-12-08"
         },
         {
-            "channel": "Magenta Sport ($/geo/R) 📺",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": "Erzgebirge Aue v Ingolstadt",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Erzgebirge Aue v Ingolstadt",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Beitar Jerusalem v Hapoel Jerusalem",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "Italian Serie BKT - Week 15",
@@ -2634,216 +784,48 @@
                 "team1": "italy",
                 "team2": "italy"
             },
-            "match": "Sampdoria v Carrarese",
+            "match": "Virtus Entella v Spezia",
             "time": "18:30",
-            "date": "2025-12-07"
+            "date": "2025-12-08"
         },
         {
             "channel": "OneFootball [app] ($/geo/R) 📺",
             "link": "https://onefootball.com/en/matches",
-            "related_to": "Sampdoria v Carrarese",
+            "related_to": "Virtus Entella v Spezia",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
         },
         {
-            "compet": "Israeli Ligat ha'Al (Premier) - Week 13",
+            "compet": "English FA Cup - 2nd Round Proper",
             "flags": {
-                "team1": "israel14",
-                "team2": "israel"
+                "team1": "england",
+                "team2": "england"
             },
-            "match": "Hapoel Be'er Sheva v Maccabi Tel Aviv",
-            "time": "18:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "link": "#",
-            "related_to": "Hapoel Be'er Sheva v Maccabi Tel Aviv",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "Brazilian Série A - Week 38",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "match": "Ceará v Palmeiras",
-            "time": "19:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Dubai Sports 2 HD 📺",
-            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
-            "related_to": "Ceará v Palmeiras",
-            "sat": "Badr 8",
-            "freq": "12.130 V 30000 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "link": "#",
-            "related_to": "Ceará v Palmeiras",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H 27500 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "Greek Super League 1 - Week 13",
-            "flags": {
-                "team1": "greece",
-                "team2": "greece"
-            },
-            "match": "AEK Athens v Atromitos",
-            "time": "19:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Cosmote Sport 1 HD",
-            "link": "#",
-            "related_to": "AEK Athens v Atromitos",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "Italian Serie A - Week 14",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "match": "Napoli v Juventus",
-            "time": "19:45",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "link": "#",
-            "related_to": "Napoli v Juventus",
-            "sat": "Eutelsat 9B",
-            "freq": "11.843 V 27500 - 3/5",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Napoli v Juventus",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Napoli v Juventus",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
+            "match": "Brackley Town v Burton Albion",
+            "time": "19:30",
+            "date": "2025-12-08"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Napoli v Juventus",
+            "related_to": "Brackley Town v Burton Albion",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "S Sport 2 Türkiye HD",
+            "channel": "TNT Sports 1 HD",
             "link": "#",
-            "related_to": "Napoli v Juventus",
-            "sat": "Turksat 4A",
-            "freq": "11.880 H 20000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Napoli v Juventus",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Tivibu Spor 1 HD",
-            "link": "#",
-            "related_to": "Napoli v Juventus",
-            "sat": "Turksat 4A",
-            "freq": "11.880 H 20000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "link": "#",
-            "related_to": "Napoli v Juventus",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "French Ligue 1 - Week 15",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "match": "Lorient v Lyon",
-            "time": "19:45",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "5 STARS Israel HD",
-            "link": "#",
-            "related_to": "Lorient v Lyon",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Lorient v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "Lorient v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 4 HD",
-            "link": "#",
-            "related_to": "Lorient v Lyon",
-            "sat": "Turksat 3A",
-            "freq": "11.676 V 24444 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Lorient v Lyon",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Prime Video UK PPV [$] 📺",
-            "link": "https://www.primevideo.com/",
-            "related_to": "Lorient v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
+            "related_to": "Brackley Town v Burton Albion",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
         },
         {
             "channel": "ViaPlay Danmark HD",
             "link": "#",
-            "related_to": "Lorient v Lyon",
+            "related_to": "Brackley Town v Burton Albion",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -2851,7 +833,7 @@
         {
             "channel": "ViaPlay Nederland HD",
             "link": "#",
-            "related_to": "Lorient v Lyon",
+            "related_to": "Brackley Town v Burton Albion",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -2859,7 +841,7 @@
         {
             "channel": "ViaPlay Norge HD",
             "link": "#",
-            "related_to": "Lorient v Lyon",
+            "related_to": "Brackley Town v Burton Albion",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -2867,7 +849,7 @@
         {
             "channel": "ViaPlay Suomi HD",
             "link": "#",
-            "related_to": "Lorient v Lyon",
+            "related_to": "Brackley Town v Burton Albion",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
@@ -2875,10 +857,350 @@
         {
             "channel": "ViaPlay Sverige HD",
             "link": "#",
-            "related_to": "Lorient v Lyon",
+            "related_to": "Brackley Town v Burton Albion",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "link": "#",
+            "related_to": "Brackley Town v Burton Albion",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "English WSL 2 - Week 10",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Newcastle United v Southampton",
+            "time": "19:30",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "YouTube: W/Super League 2 📺",
+            "link": "https://www.youtube.com/@BarclaysWSL2/streams",
+            "related_to": "Newcastle United v Southampton",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 17",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "match": "Málaga v Real Zaragoza",
+            "time": "19:30",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Málaga v Real Zaragoza",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Málaga v Real Zaragoza",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "French Ligue 2 - Week 16",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "match": "Reims v Laval",
+            "time": "19:45",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Reims v Laval",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "link": "#",
+            "related_to": "Reims v Laval",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "compet": "Italian Serie A - Week 14",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "match": "Torino v AC Milan",
+            "time": "19:45",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "link": "#",
+            "related_to": "Torino v AC Milan",
+            "sat": "Eutelsat 9B",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Torino v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Torino v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "S Sport 2 Türkiye HD",
+            "link": "#",
+            "related_to": "Torino v AC Milan",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "link": "#",
+            "related_to": "Torino v AC Milan",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tivibu Spor 1 HD",
+            "link": "#",
+            "related_to": "Torino v AC Milan",
+            "sat": "Turksat 4A",
+            "freq": "11.880 H 20000 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "compet": "English Premier League - Week 15",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "match": "Wolves v Manchester United",
+            "time": "20:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "link": "https://connect.bein.com/",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "Turksat 3A",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "DAZN España ($/geo/R)",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Nova Sports Premier League HD",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "Hotbird 13F",
+            "freq": "11.804 V 29700 - 3/4",
+            "encry": "HD Irdeto"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky UK Ultra HD 1",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "Astra 2F",
+            "freq": "12.246 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Stan Sport Australia ($/geo/R) 📺",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "link": "#",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "VOYO Pro TV Romania [$] 📺",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "Wolves v Manchester United",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "Argentinean Primera División - Semi-finals",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "match": "Gimnasia La Plata v Estudiantes LP",
+            "time": "20:00",
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Gimnasia La Plata v Estudiantes LP",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "link": "#",
+            "related_to": "Gimnasia La Plata v Estudiantes LP",
+            "sat": "Astra 2G",
+            "freq": "11.671 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "Gimnasia La Plata v Estudiantes LP",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "link": "#",
+            "related_to": "Gimnasia La Plata v Estudiantes LP",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Gimnasia La Plata v Estudiantes LP",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 15",
@@ -2886,14 +1208,22 @@
                 "team1": "spain",
                 "team2": "spain"
             },
-            "match": "Real Madrid v Celta Vigo",
+            "match": "Osasuna v Levante",
             "time": "20:00",
-            "date": "2025-12-07"
+            "date": "2025-12-08"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Osasuna v Levante",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "LaLiga TV Bar HD",
             "link": "#",
-            "related_to": "Real Madrid v Celta Vigo",
+            "related_to": "Osasuna v Levante",
             "sat": "Astra 1M",
             "freq": "10.876 V 22000 - 5/6",
             "encry": "NagraVision"
@@ -2901,7 +1231,7 @@
         {
             "channel": "M+ LaLiga HD",
             "link": "#",
-            "related_to": "Real Madrid v Celta Vigo",
+            "related_to": "Osasuna v Levante",
             "sat": "Astra 1M",
             "freq": "10.818 V 22000 - 2/3",
             "encry": "HD NagraVision"
@@ -2909,7 +1239,7 @@
         {
             "channel": "Premier Sports 1 Ireland HD",
             "link": "#",
-            "related_to": "Real Madrid v Celta Vigo",
+            "related_to": "Osasuna v Levante",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
             "encry": "HD VideoGuard"
@@ -2917,7 +1247,7 @@
         {
             "channel": "Premier Sports 1 UK HD",
             "link": "#",
-            "related_to": "Real Madrid v Celta Vigo",
+            "related_to": "Osasuna v Levante",
             "sat": "Astra 2G",
             "freq": "11.686 V 23000 - 2/3",
             "encry": "HD VideoGuard"
@@ -2925,15 +1255,15 @@
         {
             "channel": "Premier Sports GB Player HD 📺",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Real Madrid v Celta Vigo",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
+            "related_to": "Osasuna v Levante",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
         },
         {
             "channel": "S Sport 1 Türkiye HD",
             "link": "#",
-            "related_to": "Real Madrid v Celta Vigo",
+            "related_to": "Osasuna v Levante",
             "sat": "Turksat 4A",
             "freq": "12.188 V 27500 - 5/6",
             "encry": "HD Irdeto"
@@ -2941,7 +1271,7 @@
         {
             "channel": "S Sport+ Streaming",
             "link": "#",
-            "related_to": "Real Madrid v Celta Vigo",
+            "related_to": "Osasuna v Levante",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -2950,103 +1280,21 @@
             "compet": "Portuguese Liga Portugal - Week 13",
             "flags": {
                 "team1": "portugal",
-                "team2": "portugal"
+                "team2": "portugal4"
             },
-            "match": "Tondela v FC Porto",
+            "match": "Vitória Guimarães v Gil Vicente",
             "time": "20:30",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "link": "#",
-            "related_to": "Tondela v FC Porto",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 4 Israel HD",
-            "link": "#",
-            "related_to": "Tondela v FC Porto",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Sport TV+ Portugal",
-            "link": "#",
-            "related_to": "Tondela v FC Porto",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.476 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra"
+            "date": "2025-12-08"
         },
         {
             "channel": "Sport TV1 Portugal HD",
             "link": "#",
-            "related_to": "Tondela v FC Porto",
+            "related_to": "Vitória Guimarães v Gil Vicente",
             "sat": "Hispasat 30W-5",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
-        },
-        {
-            "channel": "Tivibu Spor 2 HD",
-            "link": "#",
-            "related_to": "Tondela v FC Porto",
-            "sat": "Turksat 4A",
-            "freq": "11.853 H 25000 - 3/4",
-            "encry": "HD Irdeto"
-        },
-        {
-            "compet": "Argentinean Primera División - Semi-finals",
-            "flags": {
-                "team1": "argentina",
-                "team2": "argentina"
-            },
-            "match": "Boca Juniors v Racing Club",
-            "time": "22:00",
-            "date": "2025-12-07"
-        },
-        {
-            "channel": "Dubai Sports 1 HD 📺",
-            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
-            "related_to": "Boca Juniors v Racing Club",
-            "sat": "Badr 8",
-            "freq": "12.130 V 30000 - 3/4",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "Premier Sports 2 Ireland HD",
-            "link": "#",
-            "related_to": "Boca Juniors v Racing Club",
-            "sat": "Astra 2F",
-            "freq": "12.188 H 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Premier Sports 2 UK HD",
-            "link": "#",
-            "related_to": "Boca Juniors v Racing Club",
-            "sat": "Astra 2G",
-            "freq": "11.671 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": "Boca Juniors v Racing Club",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sport 3 Israel HD",
-            "link": "#",
-            "related_to": "Boca Juniors v Racing Club",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-12-07 15:16:06",
-    "total_items": 362
+    "last_updated": "2025-12-08 04:32:13",
+    "total_items": 154
 }
