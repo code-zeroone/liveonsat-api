@@ -267,6 +267,14 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "GEM Sport HD",
+            "link": "#",
+            "related_to": "Kairat Almaty v Olympiacos",
+            "sat": "Al Yah 1",
+            "freq": "12.034 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "MAX Sport 4 Bulgaria HD",
             "link": "#",
             "related_to": "Kairat Almaty v Olympiacos",
@@ -313,6 +321,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "link": "#",
+            "related_to": "Kairat Almaty v Olympiacos",
+            "sat": "MonacoSat",
+            "freq": "11.420 V 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Pickx+ Sports 1 HD",
@@ -443,6 +459,14 @@
             "encry": ""
         },
         {
+            "channel": "Turkmenistan Sport HD 📺",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": "Kairat Almaty v Olympiacos",
+            "sat": "MonacoSat",
+            "freq": "12.303 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "TV2 Play Norge ($/geo/R) 📺",
             "link": "https://play.tv2.no/sport",
             "related_to": "Kairat Almaty v Olympiacos",
@@ -533,6 +557,14 @@
             "encry": "MPEG-4 Biss"
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Sporting Lisbon",
+            "sat": "MonacoSat",
+            "freq": "10.762 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Sky Sport 1 Austria HD",
             "link": "#",
             "related_to": "Bayern Munich v Sporting Lisbon",
@@ -547,6 +579,14 @@
             "sat": "Astra 1M",
             "freq": "11.992 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Bayern Munich v Sporting Lisbon",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
@@ -673,6 +713,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "link": "#",
+            "related_to": "Atalanta v Chelsea",
+            "sat": "MonacoSat",
+            "freq": "11.420 V 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Sky Sport 4 Austria HD",
             "link": "#",
             "related_to": "Atalanta v Chelsea",
@@ -755,6 +803,14 @@
             "encry": "MPEG-4 Biss"
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Inter Milan v Liverpool",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "link": "#",
             "related_to": "Inter Milan v Liverpool",
@@ -829,12 +885,36 @@
             "encry": ""
         },
         {
+            "channel": "Meraj TV",
+            "link": "#",
+            "related_to": "Barcelona v Eintracht Frankfurt",
+            "sat": "MonacoSat",
+            "freq": "11.221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Barcelona v Eintracht Frankfurt",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Sky Sport 3 Austria HD",
             "link": "#",
             "related_to": "Barcelona v Eintracht Frankfurt",
             "sat": "Astra 1M",
             "freq": "11.758 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Barcelona v Eintracht Frankfurt",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
         },
         {
             "channel": "Tabii Spor 1 ($/geo/R)",
@@ -1119,6 +1199,14 @@
             "sat": "Amos 3",
             "freq": "10.806 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "Arezo TV HD",
+            "link": "#",
+            "related_to": "Real Madrid v Manchester City",
+            "sat": "Al Yah 1",
+            "freq": "12.054 H 27500 - 3/5",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
@@ -1957,6 +2045,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-09 04:28:00",
-    "total_items": 233
+    "last_updated": "2025-12-09 15:22:53",
+    "total_items": 244
 }
