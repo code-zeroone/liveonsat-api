@@ -19,6 +19,14 @@
             "encry": ""
         },
         {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Utrecht v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Utrecht v Nottingham Forest",
@@ -45,6 +53,14 @@
             "encry": ""
         },
         {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Ferencváros v Rangers",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 2 HD",
             "link": "#",
             "related_to": "Ferencváros v Rangers",
@@ -65,6 +81,14 @@
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Dinamo Zagreb v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "Dinamo Zagreb v Real Betis",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
@@ -123,6 +147,14 @@
             "encry": ""
         },
         {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Stuttgart v Maccabi Tel Aviv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 8",
             "link": "#",
             "related_to": "Stuttgart v Maccabi Tel Aviv",
@@ -173,6 +205,14 @@
             "sat": "Hotbird 13F",
             "freq": "10.971 H 29700 - 2/3",
             "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Basel v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "channel": "RTS 2 Suisse HD 📺",
@@ -233,6 +273,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Celtic v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 2 HD",
             "link": "#",
             "related_to": "Celtic v Roma",
@@ -257,6 +305,14 @@
             "match": "Brann v Fenerbahçe",
             "time": "20:00",
             "date": "2025-12-11"
+        },
+        {
+            "channel": "RTL 2 Hrvatska",
+            "link": "#",
+            "related_to": "Brann v Fenerbahçe",
+            "sat": "Eutelsat 16A",
+            "freq": "11.387 H 30000 - 3/5",
+            "encry": "MPEG-4 NDS"
         },
         {
             "channel": "TRT 1 Türkiye HD 📺",
@@ -361,6 +417,14 @@
             "encry": "Free To Air"
         },
         {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 7",
             "link": "#",
             "related_to": "Freiburg v Salzburg",
@@ -408,24 +472,6 @@
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
             "related_to": "Bologna v Celtic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 7",
-            "flags": {
-                "team1": "norway",
-                "team2": "denmark"
-            },
-            "match": "Brann v Midtjylland",
-            "time": "17:45",
-            "date": "2026-01-22"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Brann v Midtjylland",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -799,6 +845,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-09 15:23:14",
-    "total_items": 91
+    "last_updated": "2025-12-10 04:32:36",
+    "total_items": 97
 }

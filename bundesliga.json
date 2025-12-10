@@ -479,6 +479,14 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport Bundesliga 4 HD",
+            "link": "#",
+            "related_to": "Augsburg v Werder Bremen",
+            "sat": "Astra 1N",
+            "freq": "12.032 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 15",
             "flags": {
                 "team1": "germany",
@@ -495,6 +503,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport Bundesliga 3 HD",
+            "link": "#",
+            "related_to": "FC Cologne v Union Berlin",
+            "sat": "Astra 1N",
+            "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "German 1. Bundesliga - Week 15",
@@ -515,6 +531,38 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "link": "#",
+            "related_to": "Hamburg v Eintracht Frankfurt",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "link": "#",
+            "related_to": "Hamburg v Eintracht Frankfurt",
+            "sat": "Astra 1N",
+            "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Bundesliga UHD",
+            "link": "#",
+            "related_to": "Hamburg v Eintracht Frankfurt",
+            "sat": "Astra 1M",
+            "freq": "11.798 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "link": "#",
+            "related_to": "Hamburg v Eintracht Frankfurt",
+            "sat": "Astra 1N",
+            "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 15",
             "flags": {
                 "team1": "germany",
@@ -533,6 +581,14 @@
             "encry": ""
         },
         {
+            "channel": "Sky Sport Bundesliga 2 HD",
+            "link": "#",
+            "related_to": "Stuttgart v Hoffenheim",
+            "sat": "Astra 1M",
+            "freq": "11.758 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 15",
             "flags": {
                 "team1": "germany",
@@ -549,6 +605,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sky Sport Bundesliga 5 HD",
+            "link": "#",
+            "related_to": "Wolfsburg v Freiburg",
+            "sat": "Astra 1N",
+            "freq": "12.032 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
         },
         {
             "compet": "German 1. Bundesliga - Week 15",
@@ -1889,6 +1953,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-09 15:24:57",
-    "total_items": 218
+    "last_updated": "2025-12-10 04:34:19",
+    "total_items": 226
 }

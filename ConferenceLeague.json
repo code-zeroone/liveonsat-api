@@ -71,6 +71,14 @@
             "encry": ""
         },
         {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Fiorentina v Dynamo Kyiv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Conference League - Matchday 5",
             "flags": {
                 "team1": "poland",
@@ -245,6 +253,24 @@
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "poland",
+                "team2": "germany"
+            },
+            "match": "Lech Poznan v Mainz 05",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Lech Poznan v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
             "compet": "UEFA Conference League - Matchday 6",
@@ -471,6 +497,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-12-09 15:23:34",
-    "total_items": 54
+    "last_updated": "2025-12-10 04:32:56",
+    "total_items": 57
 }
