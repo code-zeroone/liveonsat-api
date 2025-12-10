@@ -167,6 +167,14 @@
             "encry": ""
         },
         {
+            "channel": "Solh TV",
+            "link": "#",
+            "related_to": "Real Madrid v Manchester City",
+            "sat": "MonacoSat",
+            "freq": "10.845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)"
+        },
+        {
             "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
             "link": "https://www.tabii.com/tr",
             "related_to": "Real Madrid v Manchester City",
@@ -189,6 +197,14 @@
             "sat": "*DTT",
             "freq": "0.000 - -",
             "encry": "Free To Air HD"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Real Madrid v Manchester City",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
@@ -257,6 +273,14 @@
             "sat": "Amos 7",
             "freq": "11.030 V 27500 - 3/4",
             "encry": "VideoGuard"
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "link": "#",
+            "related_to": "Club Brugge v Arsenal",
+            "sat": "AzerSpace 2",
+            "freq": "12.610 H 12500 - 3/4",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "DAZN Deutsch ($/geo/R)",
@@ -1207,6 +1231,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-10 04:32:16",
-    "total_items": 141
+    "last_updated": "2025-12-10 15:23:36",
+    "total_items": 144
 }
