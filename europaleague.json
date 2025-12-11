@@ -19,11 +19,27 @@
             "encry": ""
         },
         {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Utrecht v Nottingham Forest",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "channel": "RTL+ Deutschland (geo/R) 📺",
             "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "Utrecht v Nottingham Forest",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tabii Spor 1 ($/geo/R)",
+            "link": "#",
+            "related_to": "Utrecht v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -69,6 +85,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Ferencváros v Rangers",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 6",
             "flags": {
                 "team1": "croatia",
@@ -95,12 +119,62 @@
             "encry": ""
         },
         {
+            "channel": "Tabii Spor 2 ($/geo/R)",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Real Betis",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 5 HD",
             "link": "#",
             "related_to": "Dinamo Zagreb v Real Betis",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Real Betis",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "denmark",
+                "team2": "belgium"
+            },
+            "match": "Midtjylland v Racing Genk",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Disney+ Danmark ($/geo/R)",
+            "link": "#",
+            "related_to": "Midtjylland v Racing Genk",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Play Sports 5 Belgium",
+            "link": "#",
+            "related_to": "Midtjylland v Racing Genk",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Tabii Spor 3 ($/geo/R)",
+            "link": "#",
+            "related_to": "Midtjylland v Racing Genk",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "UEFA Europa League - Matchday 6",
@@ -122,6 +196,14 @@
         },
         {
             "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Nice v Sporting Braga",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 8",
             "link": "#",
             "related_to": "Nice v Sporting Braga",
             "sat": "Astra 2G",
@@ -163,6 +245,14 @@
             "encry": "VideoGuard"
         },
         {
+            "channel": "TNT Sports 9",
+            "link": "#",
+            "related_to": "Stuttgart v Maccabi Tel Aviv",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 6",
             "flags": {
                 "team1": "switzerland",
@@ -173,7 +263,23 @@
             "date": "2025-12-11"
         },
         {
+            "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
+            "link": "https://www.tabii.com/tr",
+            "related_to": "Young Boys v Lille",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Young Boys v Lille",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 7",
             "link": "#",
             "related_to": "Young Boys v Lille",
             "sat": "Astra 2G",
@@ -231,6 +337,14 @@
             "encry": "HD Viaccess"
         },
         {
+            "channel": "Tabii Spor 1 ($/geo/R)",
+            "link": "#",
+            "related_to": "Basel v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "link": "#",
             "related_to": "Basel v Aston Villa",
@@ -281,7 +395,23 @@
             "encry": ""
         },
         {
+            "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
+            "link": "https://www.tabii.com/tr",
+            "related_to": "Celtic v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
             "link": "#",
             "related_to": "Celtic v Roma",
             "sat": "Astra 2G",
@@ -295,6 +425,56 @@
             "sat": "Astra 2F",
             "freq": "12.207 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "romania",
+                "team2": "holland"
+            },
+            "match": "FCSB v Feyenoord",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "link": "#",
+            "related_to": "FCSB v Feyenoord",
+            "sat": "Intelsat 10-02",
+            "freq": "12.687 H 27500 - 3/4",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "link": "#",
+            "related_to": "FCSB v Feyenoord",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "FCSB v Feyenoord",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Tabii Spor 2 ($/geo/R)",
+            "link": "#",
+            "related_to": "FCSB v Feyenoord",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 5",
+            "link": "#",
+            "related_to": "FCSB v Feyenoord",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "UEFA Europa League - Matchday 6",
@@ -323,6 +503,14 @@
             "encry": "Free To Air HD"
         },
         {
+            "channel": "V Sport 1 Norge HD",
+            "link": "#",
+            "related_to": "Brann v Fenerbahçe",
+            "sat": "Thor 6",
+            "freq": "11.305 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 6",
             "flags": {
                 "team1": "spain",
@@ -338,6 +526,14 @@
             "related_to": "Celta Vigo v Bologna",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tabii Spor 3 ($/geo/R)",
+            "link": "#",
+            "related_to": "Celta Vigo v Bologna",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -845,6 +1041,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-10 15:23:57",
-    "total_items": 97
+    "last_updated": "2025-12-11 04:34:50",
+    "total_items": 121
 }

@@ -1,271 +1,19 @@
 {
     "footonsat": [
         {
-            "compet": "UEFA Youth League (U-19) - Matchday 6",
-            "flags": {
-                "team1": "azerbaijan",
-                "team2": "holland"
-            },
-            "match": "Qarabagh U-19 v Ajax U-19",
-            "time": "10:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Qarabagh U-19 v Ajax U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Qarabagh U-19 v Ajax U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Qarabagh U-19 v Ajax U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Qarabagh U-19 v Ajax U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Qarabagh U-19 v Ajax U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "AFC Champions League Elite - Round 6",
-            "flags": {
-                "team1": "koreasouth7",
-                "team2": "australia"
-            },
-            "match": "FC Seoul v Melbourne City",
-            "time": "10:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Spor Smart Türkiye HD",
-            "link": "#",
-            "related_to": "FC Seoul v Melbourne City",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V 27500 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "FC Seoul v Melbourne City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "AFC Champions League Elite - Round 6",
+            "compet": "AFC Champions League 2 - Round 6",
             "flags": {
                 "team1": "japan",
-                "team2": "china"
-            },
-            "match": "Sanfrecce Hiroshima v Shanghai Shenhua",
-            "time": "10:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "link": "#",
-            "related_to": "Sanfrecce Hiroshima v Shanghai Shenhua",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H 27500 - 5/6",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Sanfrecce Hiroshima v Shanghai Shenhua",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Youth League (U-19) - Matchday 6",
-            "flags": {
-                "team1": "portugal",
-                "team2": "italy"
-            },
-            "match": "Benfica U-19 v Napoli U-19",
-            "time": "11:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Benfica U-19 v Napoli U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Benfica U-19 v Napoli U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Benfica U-19 v Napoli U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Benfica U-19 v Napoli U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Benfica U-19 v Napoli U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "UEFA Youth League (U-19) - Matchday 6",
-            "flags": {
-                "team1": "spain",
-                "team2": "holland"
-            },
-            "match": "Villarreal U-19 v FC Copenhagen U-19",
-            "time": "11:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Villarreal U-19 v FC Copenhagen U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Villarreal U-19 v FC Copenhagen U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Villarreal U-19 v FC Copenhagen U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Villarreal U-19 v FC Copenhagen U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Villarreal U-19 v FC Copenhagen U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "UEFA Youth League (U-19) - Matchday 6",
-            "flags": {
-                "team1": "spain",
-                "team2": "france"
-            },
-            "match": "Athletic Bilbao U-19 v Paris St Germain U-19",
-            "time": "12:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Athletic Bilbao U-19 v Paris St Germain U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Athletic Bilbao U-19 v Paris St Germain U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Athletic Bilbao U-19 v Paris St Germain U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Athletic Bilbao U-19 v Paris St Germain U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Athletic Bilbao U-19 v Paris St Germain U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "AFC Champions League 2 - Round 6",
-            "flags": {
-                "team1": "indonesia",
                 "team2": "thailand"
             },
-            "match": "Persib Bandung v Bangkok United",
-            "time": "12:15",
-            "date": "2025-12-10"
+            "match": "Gamba Osaka v Ratchaburi",
+            "time": "10:00",
+            "date": "2025-12-11"
         },
         {
             "channel": "Spor Smart Türkiye HD",
             "link": "#",
-            "related_to": "Persib Bandung v Bangkok United",
+            "related_to": "Gamba Osaka v Ratchaburi",
             "sat": "Turksat 4A",
             "freq": "12.188 V 27500 - 5/6",
             "encry": "HD VideoGuard"
@@ -273,7 +21,7 @@
         {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Persib Bandung v Bangkok United",
+            "related_to": "Gamba Osaka v Ratchaburi",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -281,17 +29,17 @@
         {
             "compet": "AFC Champions League 2 - Round 6",
             "flags": {
-                "team1": "malaysia",
-                "team2": "singapore"
+                "team1": "vietnam3",
+                "team2": "hongkong"
             },
-            "match": "Selangor v Lion City Sailors",
-            "time": "12:15",
-            "date": "2025-12-10"
+            "match": "Nam Dinh v Eastern",
+            "time": "10:00",
+            "date": "2025-12-11"
         },
         {
             "channel": "Spor Smart 2 Türkiye HD",
             "link": "#",
-            "related_to": "Selangor v Lion City Sailors",
+            "related_to": "Nam Dinh v Eastern",
             "sat": "Turksat 4A",
             "freq": "12.245 H 27500 - 5/6",
             "encry": "HD VideoGuard"
@@ -299,373 +47,129 @@
         {
             "channel": "YouTube: The AFC Hub 📺",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "Selangor v Lion City Sailors",
+            "related_to": "Nam Dinh v Eastern",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "compet": "UEFA Youth League (U-19) - Matchday 6",
+            "compet": "AFC Champions League 2 - Round 6",
             "flags": {
-                "team1": "belgium",
-                "team2": "england"
+                "team1": "thailand",
+                "team2": "singapore"
             },
-            "match": "Club Brugge U-19 v Arsenal U-19",
-            "time": "13:00",
-            "date": "2025-12-10"
+            "match": "Pathum United v Tampines Rovers",
+            "time": "12:15",
+            "date": "2025-12-11"
         },
         {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Club Brugge U-19 v Arsenal U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 2 HD",
+            "channel": "Spor Smart Türkiye HD",
             "link": "#",
-            "related_to": "Club Brugge U-19 v Arsenal U-19",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
+            "related_to": "Pathum United v Tampines Rovers",
+            "sat": "Turksat 4A",
+            "freq": "12.188 V 27500 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
-            "channel": "UEFA.TV [online] (geo/R) 📺",
-            "link": "https://www.uefa.tv/",
-            "related_to": "Club Brugge U-19 v Arsenal U-19",
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Pathum United v Tampines Rovers",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Club Brugge U-19 v Arsenal U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Club Brugge U-19 v Arsenal U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Club Brugge U-19 v Arsenal U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Club Brugge U-19 v Arsenal U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Club Brugge U-19 v Arsenal U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "UEFA Youth League (U-19) - Matchday 6",
+            "compet": "AFC Champions League 2 - Round 6",
             "flags": {
-                "team1": "germany",
-                "team2": "england"
+                "team1": "china5",
+                "team2": "australia1"
             },
-            "match": "Leverkusen U-19 v Newcastle Utd U-19",
-            "time": "13:00",
-            "date": "2025-12-10"
+            "match": "Beijing Guoan v Macarthur FC",
+            "time": "12:15",
+            "date": "2025-12-11"
         },
         {
-            "channel": "ViaPlay Danmark HD",
+            "channel": "Spor Smart 2 Türkiye HD",
             "link": "#",
-            "related_to": "Leverkusen U-19 v Newcastle Utd U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Leverkusen U-19 v Newcastle Utd U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Leverkusen U-19 v Newcastle Utd U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Leverkusen U-19 v Newcastle Utd U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Leverkusen U-19 v Newcastle Utd U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "UEFA Youth League (U-19) - Matchday 6",
-            "flags": {
-                "team1": "italy",
-                "team2": "cyprus"
-            },
-            "match": "Juventus U-19 v Pafos U-19",
-            "time": "14:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Juventus U-19 v Pafos U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Juventus U-19 v Pafos U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Juventus U-19 v Pafos U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Juventus U-19 v Pafos U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Juventus U-19 v Pafos U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "UEFA Youth League (U-19) - Matchday 6",
-            "flags": {
-                "team1": "spain",
-                "team2": "england"
-            },
-            "match": "Real Madrid U-19 v Manchester City U-19",
-            "time": "15:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "5 LIVE Israel HD",
-            "link": "#",
-            "related_to": "Real Madrid U-19 v Manchester City U-19",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "City+ ($/geo/R) 📺",
-            "link": "https://www.mancity.com/citytv/city-plus/live",
-            "related_to": "Real Madrid U-19 v Manchester City U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Real Madrid U-19 v Manchester City U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "link": "#",
-            "related_to": "Real Madrid U-19 v Manchester City U-19",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
+            "related_to": "Beijing Guoan v Macarthur FC",
+            "sat": "Turksat 4A",
+            "freq": "12.245 H 27500 - 5/6",
             "encry": "HD VideoGuard"
         },
         {
-            "channel": "UEFA.TV [online] (geo/R) 📺",
-            "link": "https://www.uefa.tv/",
-            "related_to": "Real Madrid U-19 v Manchester City U-19",
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Beijing Guoan v Macarthur FC",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Real Madrid U-19 v Manchester City U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Real Madrid U-19 v Manchester City U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Real Madrid U-19 v Manchester City U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Real Madrid U-19 v Manchester City U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Real Madrid U-19 v Manchester City U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "UEFA Youth League (U-19) - Matchday 6",
+            "compet": "AFC Champions League 2 - Round 6",
             "flags": {
-                "team1": "germany",
-                "team2": "norway"
+                "team1": "philippines",
+                "team2": "koreas1"
             },
-            "match": "Dortmund U-19 v Bodø/Glimt U-19",
-            "time": "15:00",
-            "date": "2025-12-10"
+            "match": "Kaya FC v Pohang Steelers",
+            "time": "12:15",
+            "date": "2025-12-11"
         },
         {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Dortmund U-19 v Bodø/Glimt U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Dortmund U-19 v Bodø/Glimt U-19",
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Kaya FC v Pohang Steelers",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Dortmund U-19 v Bodø/Glimt U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Dortmund U-19 v Bodø/Glimt U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Dortmund U-19 v Bodø/Glimt U-19",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "Swiss Challenge League - Week 14",
+            "compet": "AFC Champions League 2 - Round 6",
             "flags": {
-                "team1": "switzerland",
-                "team2": "switzerland"
+                "team1": "hongkong",
+                "team2": "vietnam"
             },
-            "match": "Lausanne Ouchy v Neuchâtel Xamax",
-            "time": "17:00",
-            "date": "2025-12-10"
+            "match": "Tai Po v Công An Hà Nôi",
+            "time": "12:15",
+            "date": "2025-12-11"
         },
         {
-            "channel": "Blue Sport 5 Live HD",
-            "link": "#",
-            "related_to": "Lausanne Ouchy v Neuchâtel Xamax",
+            "channel": "YouTube: The AFC Hub 📺",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "Tai Po v Công An Hà Nôi",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "compet": "UEFA Champions League - Matchday 6",
+            "compet": "UEFA Europa League - Matchday 6",
             "flags": {
-                "team1": "spain",
-                "team2": "denmark"
+                "team1": "holland",
+                "team2": "england"
             },
-            "match": "Villarreal v FC Copenhagen",
+            "match": "Utrecht v Nottingham Forest",
             "time": "17:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "5 LIVE Israel HD",
-            "link": "#",
-            "related_to": "Villarreal v FC Copenhagen",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Villarreal v FC Copenhagen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "date": "2025-12-11"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Villarreal v FC Copenhagen",
+            "related_to": "Utrecht v Nottingham Forest",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Utrecht v Nottingham Forest",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Utrecht v Nottingham Forest",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -673,463 +177,7 @@
         {
             "channel": "Tabii Spor 1 ($/geo/R)",
             "link": "#",
-            "related_to": "Villarreal v FC Copenhagen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 4 HD",
-            "link": "#",
-            "related_to": "Villarreal v FC Copenhagen",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Virgin Media PLAY (geo/R)",
-            "link": "#",
-            "related_to": "Villarreal v FC Copenhagen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Virgin Media TV [app] (geo/R)",
-            "link": "#",
-            "related_to": "Villarreal v FC Copenhagen",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Virgin Media Two HD",
-            "link": "#",
-            "related_to": "Villarreal v FC Copenhagen",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "UEFA Womens Champions League - League Stage: Round 5",
-            "flags": {
-                "team1": "spain",
-                "team2": "portugal"
-            },
-            "match": "Barcelona v Benfica",
-            "time": "17:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Disney+ Danmark ($/geo/R)",
-            "link": "#",
-            "related_to": "Barcelona v Benfica",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Disney+ UK ($/geo/R)",
-            "link": "#",
-            "related_to": "Barcelona v Benfica",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Womens Champions League - League Stage: Round 5",
-            "flags": {
-                "team1": "norway",
-                "team2": "france50"
-            },
-            "match": "Vålerenga v Paris FC",
-            "time": "17:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Disney+ Danmark ($/geo/R)",
-            "link": "#",
-            "related_to": "Vålerenga v Paris FC",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Disney+ UK ($/geo/R)",
-            "link": "#",
-            "related_to": "Vålerenga v Paris FC",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 6",
-            "flags": {
-                "team1": "azerbaijan",
-                "team2": "holland"
-            },
-            "match": "Qarabagh v Ajax",
-            "time": "17:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "link": "#",
-            "related_to": "Qarabagh v Ajax",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Qarabagh v Ajax",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Qarabagh v Ajax",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
-            "link": "https://www.tabii.com/tr",
-            "related_to": "Qarabagh v Ajax",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 9",
-            "link": "#",
-            "related_to": "Qarabagh v Ajax",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 23000 - 2/3",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "English League One - Week 19",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Rotherham United v Blackpool",
-            "time": "19:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Rotherham United v Blackpool",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Rotherham United v Blackpool",
-            "sat": "Astra 2F",
-            "freq": "12.226 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Championship - Week 20",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Bristol City v Leicester City",
-            "time": "19:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Bristol City v Leicester City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Bristol City v Leicester City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Bristol City v Leicester City",
-            "sat": "Astra 2F",
-            "freq": "12.226 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Championship - Week 20",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Derby County v Millwall",
-            "time": "19:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Derby County v Millwall",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Derby County v Millwall",
-            "sat": "Astra 2F",
-            "freq": "12.226 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Championship - Week 20",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Ipswich Town v Stoke City",
-            "time": "19:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Ipswich Town v Stoke City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Ipswich Town v Stoke City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Ipswich Town v Stoke City",
-            "sat": "Astra 2F",
-            "freq": "12.226 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League Two - Week 19",
-            "flags": {
-                "team1": "england",
-                "team2": "england70"
-            },
-            "match": "Crewe Alexandra v Newport County",
-            "time": "19:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Crewe Alexandra v Newport County",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Crewe Alexandra v Newport County",
-            "sat": "Astra 2F",
-            "freq": "12.226 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English League Two - Week 19",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Oldham Athletic v Walsall",
-            "time": "19:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Sky Sports+ [via APP]",
-            "link": "#",
-            "related_to": "Oldham Athletic v Walsall",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "link": "#",
-            "related_to": "Oldham Athletic v Walsall",
-            "sat": "Astra 2F",
-            "freq": "12.226 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English National League 1 - Week 22",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Carlisle United v Woking",
-            "time": "19:45",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Carlisle United v Woking",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Carlisle United v Woking",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "English Championship - Week 20",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "match": "Hull City v Wrexham",
-            "time": "20:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "EXXEN Digital Türkiye [$] 📺",
-            "link": "https://www.exxen.com/en",
-            "related_to": "Hull City v Wrexham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Paramount+ USA ($/geo/R)",
-            "link": "#",
-            "related_to": "Hull City v Wrexham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Hull City v Wrexham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "link": "#",
-            "related_to": "Hull City v Wrexham",
-            "sat": "Astra 2E",
-            "freq": "12.090 V 29500 - 8/9",
-            "encry": "MPEG-4 NDS"
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "link": "#",
-            "related_to": "Hull City v Wrexham",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "link": "#",
-            "related_to": "Hull City v Wrexham",
-            "sat": "Astra 2F",
-            "freq": "12.207 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky UK Ultra HD 1",
-            "link": "#",
-            "related_to": "Hull City v Wrexham",
-            "sat": "Astra 2F",
-            "freq": "12.246 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 6",
-            "flags": {
-                "team1": "spain",
-                "team2": "england"
-            },
-            "match": "Real Madrid v Manchester City",
-            "time": "20:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "5 SPORT Israel HD",
-            "link": "#",
-            "related_to": "Real Madrid v Manchester City",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Arezo TV HD",
-            "link": "#",
-            "related_to": "Real Madrid v Manchester City",
-            "sat": "Al Yah 1",
-            "freq": "12.054 H 27500 - 3/5",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Real Madrid v Manchester City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Real Madrid v Manchester City",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Solh TV",
-            "link": "#",
-            "related_to": "Real Madrid v Manchester City",
-            "sat": "MonacoSat",
-            "freq": "10.845 V 27500 - 2/3",
-            "encry": "FTA (MPEG-4)"
-        },
-        {
-            "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
-            "link": "https://www.tabii.com/tr",
-            "related_to": "Real Madrid v Manchester City",
+            "related_to": "Utrecht v Nottingham Forest",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -1137,315 +185,151 @@
         {
             "channel": "TNT Sports 1 HD",
             "link": "#",
-            "related_to": "Real Madrid v Manchester City",
+            "related_to": "Utrecht v Nottingham Forest",
             "sat": "NSS 12",
             "freq": "3.798 R 19167 - 3/5",
             "encry": "Irdeto [c]"
         },
         {
-            "channel": "TV8 Italia HD 📺",
-            "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
-            "related_to": "Real Madrid v Manchester City",
-            "sat": "*DTT",
-            "freq": "0.000 - -",
-            "encry": "Free To Air HD"
-        },
-        {
-            "channel": "Zor TV Uzbekistan",
-            "link": "#",
-            "related_to": "Real Madrid v Manchester City",
-            "sat": "NSS 12",
-            "freq": "11.610 H 20200 - 3/4",
-            "encry": "MPEG-4 Verimatrix"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 6",
+            "compet": "UEFA Europa League - Matchday 6",
             "flags": {
-                "team1": "germany",
-                "team2": "england"
+                "team1": "hungary",
+                "team2": "scotland"
             },
-            "match": "Bayer Leverkusen v Newcastle United",
-            "time": "20:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Bayer Leverkusen v Newcastle United",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "match": "Ferencváros v Rangers",
+            "time": "17:45",
+            "date": "2025-12-11"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Bayer Leverkusen v Newcastle United",
+            "related_to": "Ferencváros v Rangers",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "Tabii Spor 4 ($/geo/R)",
-            "link": "#",
-            "related_to": "Bayer Leverkusen v Newcastle United",
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Ferencváros v Rangers",
             "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
+            "freq": "0.000",
             "encry": ""
         },
         {
             "channel": "TNT Sports 2 HD",
             "link": "#",
-            "related_to": "Bayer Leverkusen v Newcastle United",
+            "related_to": "Ferencváros v Rangers",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
-            "channel": "TNT Sports 3 HD",
+            "channel": "TNT Sports 4 HD",
             "link": "#",
-            "related_to": "Bayer Leverkusen v Newcastle United",
+            "related_to": "Ferencváros v Rangers",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
-            "compet": "UEFA Champions League - Matchday 6",
+            "compet": "UEFA Conference League - Matchday 5",
             "flags": {
-                "team1": "belgium",
-                "team2": "england"
+                "team1": "iceland",
+                "team2": "ireland"
             },
-            "match": "Club Brugge v Arsenal",
-            "time": "20:00",
-            "date": "2025-12-10"
+            "match": "Breidablik v Shamrock Rovers",
+            "time": "17:45",
+            "date": "2025-12-11"
         },
         {
-            "channel": "5 STARS Israel HD",
-            "link": "#",
-            "related_to": "Club Brugge v Arsenal",
-            "sat": "Amos 7",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Breidablik v Shamrock Rovers",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         },
         {
-            "channel": "CRTV Sports Cameroon",
+            "channel": "Premier Sports 1 Ireland HD",
             "link": "#",
-            "related_to": "Club Brugge v Arsenal",
-            "sat": "AzerSpace 2",
-            "freq": "12.610 H 12500 - 3/4",
+            "related_to": "Breidablik v Shamrock Rovers",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Breidablik v Shamrock Rovers",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Breidablik v Shamrock Rovers",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "turkey",
+                "team2": "greece"
+            },
+            "match": "Samsunspor v AEK Athens",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Samsunspor v AEK Athens",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "Samsunspor v AEK Athens",
+            "sat": "Turksat 3A",
+            "freq": "11.054 V 30000 - 3/4",
             "encry": "Free To Air HD"
         },
         {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Club Brugge v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "croatia",
+                "team2": "spain"
+            },
+            "match": "Dinamo Zagreb v Real Betis",
+            "time": "17:45",
+            "date": "2025-12-11"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Club Brugge v Arsenal",
+            "related_to": "Dinamo Zagreb v Real Betis",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "RTL Club Belgique",
-            "link": "#",
-            "related_to": "Club Brugge v Arsenal",
-            "sat": "Hotbird 13G",
-            "freq": "11.411 H 27500 - 3/4",
-            "encry": "MPEG-4 Seca"
-        },
-        {
-            "channel": "Tabii Spor 1 ($/geo/R)",
-            "link": "#",
-            "related_to": "Club Brugge v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "link": "#",
-            "related_to": "Club Brugge v Arsenal",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "TNT Sports 3 HD",
-            "link": "#",
-            "related_to": "Club Brugge v Arsenal",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Virgin Media PLAY (geo/R)",
-            "link": "#",
-            "related_to": "Club Brugge v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Virgin Media TV [app] (geo/R)",
-            "link": "#",
-            "related_to": "Club Brugge v Arsenal",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Virgin Media Two HD",
-            "link": "#",
-            "related_to": "Club Brugge v Arsenal",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 3/4",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "UEFA Womens Champions League - League Stage: Round 5",
-            "flags": {
-                "team1": "spain",
-                "team2": "germany"
-            },
-            "match": "Atlético Madrid v Bayern Munich",
-            "time": "20:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Disney+ Danmark ($/geo/R)",
-            "link": "#",
-            "related_to": "Atlético Madrid v Bayern Munich",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Disney+ UK ($/geo/R)",
-            "link": "#",
-            "related_to": "Atlético Madrid v Bayern Munich",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Womens Champions League - League Stage: Round 5",
-            "flags": {
-                "team1": "england7",
-                "team2": "italy"
-            },
-            "match": "Chelsea v Roma",
-            "time": "20:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Disney+ Danmark ($/geo/R)",
-            "link": "#",
-            "related_to": "Chelsea v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Disney+ UK ($/geo/R)",
-            "link": "#",
-            "related_to": "Chelsea v Roma",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Womens Champions League - League Stage: Round 5",
-            "flags": {
-                "team1": "england",
-                "team2": "france"
-            },
-            "match": "Manchester United v Lyon",
-            "time": "20:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "Disney+ Danmark ($/geo/R)",
-            "link": "#",
-            "related_to": "Manchester United v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Disney+ UK ($/geo/R)",
-            "link": "#",
-            "related_to": "Manchester United v Lyon",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 6",
-            "flags": {
-                "team1": "spain",
-                "team2": "france"
-            },
-            "match": "Athletic Bilbao v Paris St Germain",
-            "time": "20:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "5 PLUS Israel HD",
-            "link": "#",
-            "related_to": "Athletic Bilbao v Paris St Germain",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Athletic Bilbao v Paris St Germain",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Discovery+ UK ($/geo/R) 📺",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Athletic Bilbao v Paris St Germain",
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Dinamo Zagreb v Real Betis",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
-        },
-        {
-            "channel": "RSI La 2 Svizzera HD 📺",
-            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
-            "related_to": "Athletic Bilbao v Paris St Germain",
-            "sat": "Hotbird 13F",
-            "freq": "10.971 H 29700 - 2/3",
-            "encry": "HD Panaccess"
-        },
-        {
-            "channel": "RTS 2 Suisse HD 📺",
-            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
-            "related_to": "Athletic Bilbao v Paris St Germain",
-            "sat": "Hotbird 13F",
-            "freq": "10.971 H 29700 - 2/3",
-            "encry": "HD Panaccess"
-        },
-        {
-            "channel": "SRF Zwei Schweiz HD 📺",
-            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
-            "related_to": "Athletic Bilbao v Paris St Germain",
-            "sat": "Hotbird 13F",
-            "freq": "10.971 H 29700 - 2/3",
-            "encry": "HD Viaccess"
         },
         {
             "channel": "Tabii Spor 2 ($/geo/R)",
             "link": "#",
-            "related_to": "Athletic Bilbao v Paris St Germain",
+            "related_to": "Dinamo Zagreb v Real Betis",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -1453,41 +337,109 @@
         {
             "channel": "TNT Sports 5 HD",
             "link": "#",
-            "related_to": "Athletic Bilbao v Paris St Germain",
+            "related_to": "Dinamo Zagreb v Real Betis",
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
-            "compet": "UEFA Champions League - Matchday 6",
-            "flags": {
-                "team1": "portugal",
-                "team2": "italy"
-            },
-            "match": "Benfica v Napoli",
-            "time": "20:00",
-            "date": "2025-12-10"
+            "channel": "TNT Sports 6",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Real Betis",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Benfica v Napoli",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "france",
+                "team2": "portugal"
+            },
+            "match": "Nice v Sporting Braga",
+            "time": "17:45",
+            "date": "2025-12-11"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Benfica v Napoli",
+            "related_to": "Nice v Sporting Braga",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "Tabii Spor 5 ($/geo/R)",
+            "channel": "TNT Sports 7",
             "link": "#",
-            "related_to": "Benfica v Napoli",
+            "related_to": "Nice v Sporting Braga",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Nice v Sporting Braga",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "germany",
+                "team2": "israel"
+            },
+            "match": "Stuttgart v Maccabi Tel Aviv",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Stuttgart v Maccabi Tel Aviv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Stuttgart v Maccabi Tel Aviv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Stuttgart v Maccabi Tel Aviv",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 9",
+            "link": "#",
+            "related_to": "Stuttgart v Maccabi Tel Aviv",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "france"
+            },
+            "match": "Young Boys v Lille",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
+            "link": "https://www.tabii.com/tr",
+            "related_to": "Young Boys v Lille",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
@@ -1495,75 +447,519 @@
         {
             "channel": "TNT Sports 6",
             "link": "#",
-            "related_to": "Benfica v Napoli",
+            "related_to": "Young Boys v Lille",
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
         },
         {
-            "compet": "UEFA Champions League - Matchday 6",
-            "flags": {
-                "team1": "germany",
-                "team2": "norway"
-            },
-            "match": "Borussia Dortmund v Bodø/Glimt",
-            "time": "20:00",
-            "date": "2025-12-10"
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Young Boys v Lille",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
         },
         {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Borussia Dortmund v Bodø/Glimt",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "kosova1",
+                "team2": "holland"
+            },
+            "match": "Drita v AZ Alkmaar",
+            "time": "17:45",
+            "date": "2025-12-11"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Borussia Dortmund v Bodø/Glimt",
+            "related_to": "Drita v AZ Alkmaar",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
         },
         {
-            "channel": "Tabii Spor 6 ($/geo/R)",
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "armenia",
+                "team2": "poland"
+            },
+            "match": "Noah v Legia Warsaw",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Noah v Legia Warsaw",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "italy",
+                "team2": "ukraine"
+            },
+            "match": "Fiorentina v Dynamo Kyiv",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Fiorentina v Dynamo Kyiv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Fiorentina v Dynamo Kyiv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "sweden",
+                "team2": "cyprus"
+            },
+            "match": "BK Häcken v AEK Larnaca",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "BK Häcken v AEK Larnaca",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "poland",
+                "team2": "spain"
+            },
+            "match": "Jagiellonia v Rayo Vallecano",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Jagiellonia v Rayo Vallecano",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "northmacedonia",
+                "team2": "slovakia"
+            },
+            "match": "Shkëndija v Slovan Bratislava",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shkëndija v Slovan Bratislava",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "romania",
+                "team2": "czechia"
+            },
+            "match": "Universitatea Craiova v Sparta Prague",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Universitatea Craiova v Sparta Prague",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "denmark",
+                "team2": "belgium"
+            },
+            "match": "Midtjylland v Racing Genk",
+            "time": "17:45",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Disney+ Danmark ($/geo/R)",
             "link": "#",
-            "related_to": "Borussia Dortmund v Bodø/Glimt",
+            "related_to": "Midtjylland v Racing Genk",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
         },
         {
-            "channel": "TNT Sports 7",
+            "channel": "Play Sports 5 Belgium",
             "link": "#",
-            "related_to": "Borussia Dortmund v Bodø/Glimt",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "compet": "UEFA Champions League - Matchday 6",
-            "flags": {
-                "team1": "italy",
-                "team2": "cyprus"
-            },
-            "match": "Juventus v Pafos FC",
-            "time": "20:00",
-            "date": "2025-12-10"
-        },
-        {
-            "channel": "DAZN Deutsch ($/geo/R)",
-            "link": "#",
-            "related_to": "Juventus v Pafos FC",
+            "related_to": "Midtjylland v Racing Genk",
             "sat": "* IPTV/Stream",
-            "freq": "0.000",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Tabii Spor 3 ($/geo/R)",
+            "link": "#",
+            "related_to": "Midtjylland v Racing Genk",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "English Womens Super League - Week 3",
+            "flags": {
+                "team1": "england3",
+                "team2": "england"
+            },
+            "match": "Aston Villa v Liverpool",
+            "time": "19:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Aston Villa v Liverpool",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "link": "#",
+            "related_to": "Aston Villa v Liverpool",
+            "sat": "Astra 2E",
+            "freq": "12.012 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "england3"
+            },
+            "match": "Basel v Aston Villa",
+            "time": "20:00",
+            "date": "2025-12-11"
         },
         {
             "channel": "Discovery+ UK ($/geo/R) 📺",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": "Juventus v Pafos FC",
+            "related_to": "Basel v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": "Basel v Aston Villa",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Basel v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": "Basel v Aston Villa",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "Basel v Aston Villa",
+            "sat": "Hotbird 13F",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Viaccess"
+        },
+        {
+            "channel": "Tabii Spor 1 ($/geo/R)",
+            "link": "#",
+            "related_to": "Basel v Aston Villa",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "link": "#",
+            "related_to": "Basel v Aston Villa",
+            "sat": "NSS 12",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+        },
+        {
+            "channel": "TV8 Italia HD 📺",
+            "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
+            "related_to": "Basel v Aston Villa",
+            "sat": "*DTT",
+            "freq": "0.000 - -",
+            "encry": "Free To Air HD"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "scotland",
+                "team2": "italy"
+            },
+            "match": "Celtic v Roma",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Celtic TV (audio only) 📺",
+            "link": "https://www.celticfc.tv/",
+            "related_to": "Celtic v Roma",
+            "sat": "* RADIO",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Celtic v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
+            "link": "https://www.tabii.com/tr",
+            "related_to": "Celtic v Roma",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "Astra 2F",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "ireland",
+                "team2": "england"
+            },
+            "match": "Shelbourne v Crystal Palace",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Shelbourne v Crystal Palace",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "link": "#",
+            "related_to": "Shelbourne v Crystal Palace",
+            "sat": "Astra 2F",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Shelbourne v Crystal Palace",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "link": "#",
+            "related_to": "Shelbourne v Crystal Palace",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "scotland",
+                "team2": "france"
+            },
+            "match": "Aberdeen v Strasbourg",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Aberdeen v Strasbourg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "link": "#",
+            "related_to": "Aberdeen v Strasbourg",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "romania",
+                "team2": "holland"
+            },
+            "match": "FCSB v Feyenoord",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "link": "#",
+            "related_to": "FCSB v Feyenoord",
+            "sat": "Intelsat 10-02",
+            "freq": "12.687 H 27500 - 3/4",
+            "encry": "NagraVision"
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "link": "#",
+            "related_to": "FCSB v Feyenoord",
+            "sat": "Hellas Sat 3",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "PrimaPlay [app] 📺",
+            "link": "https://www.primaplay.ro/",
+            "related_to": "FCSB v Feyenoord",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "Tabii Spor 2 ($/geo/R)",
+            "link": "#",
+            "related_to": "FCSB v Feyenoord",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Ziggo Sport 5",
+            "link": "#",
+            "related_to": "FCSB v Feyenoord",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "norway",
+                "team2": "turkey"
+            },
+            "match": "Brann v Fenerbahçe",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "RTL 2 Hrvatska",
+            "link": "#",
+            "related_to": "Brann v Fenerbahçe",
+            "sat": "Eutelsat 16A",
+            "freq": "11.387 H 30000 - 3/5",
+            "encry": "MPEG-4 NDS"
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": "Brann v Fenerbahçe",
+            "sat": "Turksat 3A",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "link": "#",
+            "related_to": "Brann v Fenerbahçe",
+            "sat": "Thor 6",
+            "freq": "11.305 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "spain",
+                "team2": "italy"
+            },
+            "match": "Celta Vigo v Bologna",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Celta Vigo v Bologna",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
@@ -1571,20 +967,148 @@
         {
             "channel": "Tabii Spor 3 ($/geo/R)",
             "link": "#",
-            "related_to": "Juventus v Pafos FC",
+            "related_to": "Celta Vigo v Bologna",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
         },
         {
-            "channel": "TNT Sports 8",
+            "channel": "TNT Sports 6",
             "link": "#",
-            "related_to": "Juventus v Pafos FC",
+            "related_to": "Celta Vigo v Bologna",
             "sat": "Astra 2G",
             "freq": "11.597 V 22000 - 5/6",
             "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "portugal",
+                "team2": "sweden"
+            },
+            "match": "FC Porto v Malmö",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "FC Porto v Malmö",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "FC Porto v Malmö",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "france",
+                "team2": "holland"
+            },
+            "match": "Lyon v Go Ahead Eagles",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Lyon v Go Ahead Eagles",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 8",
+            "link": "#",
+            "related_to": "Lyon v Go Ahead Eagles",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 6",
+            "flags": {
+                "team1": "germany",
+                "team2": "austria"
+            },
+            "match": "Freiburg v Salzburg",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Discovery+ UK ($/geo/R) 📺",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "RTL Deutschland HD 📺",
+            "link": "https://plus.rtl.de/video-tv/live-tv/rtl-1",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "Intelsat 20",
+            "freq": "12.522 V 30000 - 3/5",
+            "encry": "Irdeto"
+        },
+        {
+            "channel": "RTL Schweiz HD",
+            "link": "#",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "Hotbird 13E",
+            "freq": "11.096 H 30000 - 3/4",
+            "encry": "HD Panaccess"
+        },
+        {
+            "channel": "RTL Österreich HD",
+            "link": "#",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "Astra 1L",
+            "freq": "12.226 H 27500 - 3/4",
+            "encry": "Free To Air"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "TNT Sports 7",
+            "link": "#",
+            "related_to": "Freiburg v Salzburg",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "poland",
+                "team2": "germany"
+            },
+            "match": "Lech Poznan v Mainz 05",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "RTL+ Deutschland (geo/R) 📺",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": "Lech Poznan v Mainz 05",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
         }
     ],
-    "last_updated": "2025-12-10 15:22:55",
-    "total_items": 189
+    "last_updated": "2025-12-11 04:33:47",
+    "total_items": 130
 }

@@ -35,6 +35,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "TNT Sports 5 HD",
+            "link": "#",
+            "related_to": "Breidablik v Shamrock Rovers",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 5",
             "flags": {
                 "team1": "kosova1",
@@ -218,6 +226,14 @@
             "related_to": "Shelbourne v Crystal Palace",
             "sat": "Astra 2F",
             "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "link": "#",
+            "related_to": "Shelbourne v Crystal Palace",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -497,6 +513,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-12-10 15:24:17",
-    "total_items": 57
+    "last_updated": "2025-12-11 04:35:10",
+    "total_items": 59
 }
