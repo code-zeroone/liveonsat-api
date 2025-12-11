@@ -87,6 +87,14 @@
             "encry": ""
         },
         {
+            "channel": "Tabii Spor 4 ($/geo/R)",
+            "link": "#",
+            "related_to": "Fiorentina v Dynamo Kyiv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "compet": "UEFA Conference League - Matchday 5",
             "flags": {
                 "team1": "poland",
@@ -221,6 +229,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Shelbourne v Crystal Palace",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "link": "#",
             "related_to": "Shelbourne v Crystal Palace",
@@ -269,6 +285,24 @@
             "sat": "Astra 2G",
             "freq": "11.582 H 23000 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "malta",
+                "team2": "ukraine"
+            },
+            "match": "Hamrun Spartans v Shakhtar Donetsk",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Tabii Spor 4 ($/geo/R)",
+            "link": "#",
+            "related_to": "Hamrun Spartans v Shakhtar Donetsk",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "UEFA Conference League - Matchday 5",
@@ -513,6 +547,6 @@
             "encry": "VideoGuard"
         }
     ],
-    "last_updated": "2025-12-11 04:35:10",
-    "total_items": 59
+    "last_updated": "2025-12-11 15:23:55",
+    "total_items": 63
 }

@@ -319,6 +319,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Real Betis",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "RTL+ Deutschland (geo/R) 📺",
             "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "Dinamo Zagreb v Real Betis",
@@ -520,6 +528,14 @@
             "related_to": "Fiorentina v Dynamo Kyiv",
             "sat": "* IPTV/Stream",
             "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Tabii Spor 4 ($/geo/R)",
+            "link": "#",
+            "related_to": "Fiorentina v Dynamo Kyiv",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
             "encry": ""
         },
         {
@@ -747,6 +763,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Premier Sports 2 Ireland HD",
             "link": "#",
             "related_to": "Celtic v Roma",
@@ -761,6 +785,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 2 Czechia HD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "Astra 3C",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
@@ -795,6 +827,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
+        },
+        {
             "compet": "UEFA Conference League - Matchday 5",
             "flags": {
                 "team1": "ireland",
@@ -811,6 +851,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "link": "https://pokertvfa.live/",
+            "related_to": "Shelbourne v Crystal Palace",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -1107,8 +1155,26 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "compet": "UEFA Conference League - Matchday 5",
+            "flags": {
+                "team1": "malta",
+                "team2": "ukraine"
+            },
+            "match": "Hamrun Spartans v Shakhtar Donetsk",
+            "time": "20:00",
+            "date": "2025-12-11"
+        },
+        {
+            "channel": "Tabii Spor 4 ($/geo/R)",
+            "link": "#",
+            "related_to": "Hamrun Spartans v Shakhtar Donetsk",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         }
     ],
-    "last_updated": "2025-12-11 04:33:47",
-    "total_items": 130
+    "last_updated": "2025-12-11 15:22:32",
+    "total_items": 138
 }

@@ -387,6 +387,14 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "beIN Connect Malaysia 📺",
+            "link": "https://connect-my.beinsports.com/en",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "link": "https://www.beinconnect.com.tr/spor",
             "related_to": "Fenerbahçe v Konyaspor",
@@ -395,12 +403,36 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "beIN Sports Philippines 1 HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "beIN Sports Türkiye 1 HD",
             "link": "#",
             "related_to": "Fenerbahçe v Konyaspor",
             "sat": "Turksat 3A",
             "freq": "11.180 H 30000 - 3/4",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Sport TV1 Portugal HD",
@@ -554,32 +586,6 @@
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "match": "Istanbul Basaksehir v Gaziantep",
-            "time": "14:00",
-            "date": "2025-12-21"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Istanbul Basaksehir v Gaziantep",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "link": "#",
-            "related_to": "Istanbul Basaksehir v Gaziantep",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 17",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
             "match": "Galatasaray v Kasimpasa",
             "time": "17:00",
             "date": "2025-12-21"
@@ -625,6 +631,32 @@
             "sat": "Turksat 3A",
             "freq": "11.676 V 24444 - 3/4",
             "encry": "HD Irdeto"
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 17",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "match": "Istanbul Basaksehir v Gaziantep",
+            "time": "14:00",
+            "date": "2025-12-22"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Istanbul Basaksehir v Gaziantep",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Türkiye 1 HD",
+            "link": "#",
+            "related_to": "Istanbul Basaksehir v Gaziantep",
+            "sat": "Turksat 3A",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
         },
         {
             "compet": "Türkiye Süper Lig - Week 17",
@@ -1787,6 +1819,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-11 04:38:42",
-    "total_items": 203
+    "last_updated": "2025-12-11 15:27:25",
+    "total_items": 207
 }

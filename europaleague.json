@@ -111,6 +111,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Dinamo Zagreb v Real Betis",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "RTL+ Deutschland (geo/R) 📺",
             "link": "https://plus.rtl.de/video-tv/live",
             "related_to": "Dinamo Zagreb v Real Betis",
@@ -379,6 +387,14 @@
             "encry": ""
         },
         {
+            "channel": "Persiana Sport HD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "MonacoSat",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+        },
+        {
             "channel": "Premier Sports 2 Ireland HD",
             "link": "#",
             "related_to": "Celtic v Roma",
@@ -393,6 +409,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 2 Czechia HD",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "Astra 3C",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Conax"
         },
         {
             "channel": "Tabii Spor Türkiye ($/geo/R) 📺",
@@ -425,6 +449,14 @@
             "sat": "Astra 2F",
             "freq": "12.207 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "link": "#",
+            "related_to": "Celtic v Roma",
+            "sat": "NSS 12",
+            "freq": "11.610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix"
         },
         {
             "compet": "UEFA Europa League - Matchday 6",
@@ -1041,6 +1073,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-11 04:34:50",
-    "total_items": 121
+    "last_updated": "2025-12-11 15:23:34",
+    "total_items": 125
 }
