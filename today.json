@@ -287,6 +287,14 @@
             "date": "2025-12-12"
         },
         {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "link": "#",
+            "related_to": "SSV Ulm v Osnabrück",
+            "sat": "Belintersat 1",
+            "freq": "11.230 H 45000 - 8/9",
+            "encry": "HD Panaccess"
+        },
+        {
             "channel": "Magenta Sport ($/geo/R) 📺",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
             "related_to": "SSV Ulm v Osnabrück",
@@ -1463,6 +1471,22 @@
             "date": "2025-12-12"
         },
         {
+            "channel": "DAZN Great Britain (geo/R) 📺",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": "Paris St Germain v Montpellier",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "DAZN Ireland ($/geo/R) 📺",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": "Paris St Germain v Montpellier",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "YouTube: Première Ligue 📺",
             "link": "https://www.youtube.com/@Arkema_Premiere_Ligue/streams",
             "related_to": "Paris St Germain v Montpellier",
@@ -1471,6 +1495,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-12 04:32:24",
-    "total_items": 175
+    "last_updated": "2025-12-12 15:20:31",
+    "total_items": 178
 }
