@@ -6,32 +6,6 @@
                 "team1": "italy",
                 "team2": "italy"
             },
-            "match": "Lecce v Pisa",
-            "time": "19:45",
-            "date": "2025-12-12"
-        },
-        {
-            "channel": "DAZN Great Britain (geo/R) 📺",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": "Lecce v Pisa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "DAZN Ireland ($/geo/R) 📺",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "Lecce v Pisa",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "compet": "Italian Serie A - Week 15",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
             "match": "Parma v Lazio",
             "time": "17:00",
             "date": "2025-12-13"
@@ -51,6 +25,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Parma v Lazio",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "Italian Serie A - Week 15",
@@ -173,6 +155,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport 3 Israel HD",
+            "link": "#",
+            "related_to": "Udinese v Napoli",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "Italian Serie A - Week 15",
             "flags": {
                 "team1": "italy",
@@ -197,6 +187,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Genoa v Inter Milan",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "Italian Serie A - Week 15",
@@ -231,6 +229,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000",
             "encry": ""
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Bologna v Juventus",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "TNT Sports 1 HD",
@@ -2369,6 +2375,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-12 15:22:14",
-    "total_items": 274
+    "last_updated": "2025-12-13 04:26:15",
+    "total_items": 275
 }

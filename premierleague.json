@@ -67,6 +67,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Liverpool v Brighton H.A.",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
             "link": "https://www.stan.com.au/sport",
             "related_to": "Liverpool v Brighton H.A.",
@@ -179,6 +187,14 @@
             "sat": "Eutelsat 16A",
             "freq": "10.804 H 30000 - 2/3",
             "encry": "FTA (MPEG-S2)"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Chelsea v Everton",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
@@ -327,6 +343,14 @@
             "encry": "HD VideoGuard"
         },
         {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Burnley v Fulham",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
             "link": "https://www.stan.com.au/sport",
             "related_to": "Burnley v Fulham",
@@ -431,6 +455,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sport 1 Israel HD",
+            "link": "#",
+            "related_to": "Arsenal v Wolves",
+            "sat": "Amos 7",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
@@ -706,6 +738,14 @@
             "related_to": "Crystal Palace v Manchester City",
             "sat": "Astra 2E",
             "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Manchester City",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
             "encry": "VideoGuard"
         },
         {
@@ -1219,6 +1259,14 @@
             "sat": "Astra 2F",
             "freq": "12.246 V 27500 - 2/3",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 2 Israel HD",
+            "link": "#",
+            "related_to": "Manchester United v Bournemouth",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "Stan Sport Australia ($/geo/R) 📺",
@@ -3028,6 +3076,48 @@
             "compet": "English Premier League - Week 19",
             "flags": {
                 "team1": "england",
+                "team2": "england9"
+            },
+            "match": "Crystal Palace v Fulham",
+            "time": "17:30",
+            "date": "2026-01-01"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "Crystal Palace v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "Sky Go UK [online]",
+            "link": "#",
+            "related_to": "Crystal Palace v Fulham",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Fulham",
+            "sat": "Astra 2E",
+            "freq": "11.934 V 27500 - 5/6",
+            "encry": "VideoGuard"
+        },
+        {
+            "channel": "Sky Sports UK HD",
+            "link": "#",
+            "related_to": "Crystal Palace v Fulham",
+            "sat": "Astra 2E",
+            "freq": "11.856 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+        },
+        {
+            "compet": "English Premier League - Week 19",
+            "flags": {
+                "team1": "england",
                 "team2": "england"
             },
             "match": "Liverpool v Leeds United",
@@ -3080,48 +3170,6 @@
             "related_to": "Liverpool v Leeds United",
             "sat": "Astra 2F",
             "freq": "12.246 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "English Premier League - Week 19",
-            "flags": {
-                "team1": "england",
-                "team2": "england9"
-            },
-            "match": "Crystal Palace v Fulham",
-            "time": "17:30",
-            "date": "2026-01-01"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Crystal Palace v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Go UK [online]",
-            "link": "#",
-            "related_to": "Crystal Palace v Fulham",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "link": "#",
-            "related_to": "Crystal Palace v Fulham",
-            "sat": "Astra 2E",
-            "freq": "11.934 V 27500 - 5/6",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "Sky Sports UK HD",
-            "link": "#",
-            "related_to": "Crystal Palace v Fulham",
-            "sat": "Astra 2E",
-            "freq": "11.856 V 27500 - 2/3",
             "encry": "HD VideoGuard"
         },
         {
@@ -5055,6 +5103,6 @@
             "encry": "HD VideoGuard"
         }
     ],
-    "last_updated": "2025-12-12 15:20:52",
-    "total_items": 611
+    "last_updated": "2025-12-13 04:24:53",
+    "total_items": 617
 }

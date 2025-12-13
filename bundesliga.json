@@ -6,80 +6,6 @@
                 "team1": "germany",
                 "team2": "germany"
             },
-            "match": "Union Berlin v RB Leipzig",
-            "time": "19:30",
-            "date": "2025-12-12"
-        },
-        {
-            "channel": "BBC iPlayer (geo/R) 📺",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "Union Berlin v RB Leipzig",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "BBC iPlayer 4K (geo/R) 📺",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "Union Berlin v RB Leipzig",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "BBC Sport Website (geo/R) 📺",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": "Union Berlin v RB Leipzig",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "OneFootball [app] ($/geo/R) 📺",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "Union Berlin v RB Leipzig",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "link": "#",
-            "related_to": "Union Berlin v RB Leipzig",
-            "sat": "Astra 1N",
-            "freq": "11.914 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "link": "#",
-            "related_to": "Union Berlin v RB Leipzig",
-            "sat": "Astra 1N",
-            "freq": "12.304 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "link": "#",
-            "related_to": "Union Berlin v RB Leipzig",
-            "sat": "Astra 1M",
-            "freq": "11.798 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "link": "#",
-            "related_to": "Union Berlin v RB Leipzig",
-            "sat": "Astra 1N",
-            "freq": "11.914 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 14",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
             "match": "Mönchengladbach v Wolfsburg",
             "time": "14:30",
             "date": "2025-12-13"
@@ -175,6 +101,14 @@
             "sat": "Astra 1M",
             "freq": "11.798 H 27500 - 9/10",
             "encry": "HD VideoGuard"
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Hoffenheim v Hamburg",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "German 1. Bundesliga - Week 14",
@@ -345,6 +279,14 @@
             "encry": ""
         },
         {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Bayern Munich v Mainz 05",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+        },
+        {
             "compet": "German 1. Bundesliga - Week 14",
             "flags": {
                 "team1": "germany",
@@ -377,6 +319,14 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
+        },
+        {
+            "channel": "Sport 4 Israel HD",
+            "link": "#",
+            "related_to": "Werder Bremen v Stuttgart",
+            "sat": "Amos 7",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "compet": "German 1. Bundesliga - Week 15",
@@ -1961,6 +1911,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-12 15:23:16",
-    "total_items": 227
+    "last_updated": "2025-12-13 04:27:18",
+    "total_items": 221
 }

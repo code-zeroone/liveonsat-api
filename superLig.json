@@ -6,32 +6,6 @@
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "match": "Kasimpasa v Gençlerbirligi",
-            "time": "17:00",
-            "date": "2025-12-12"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor",
-            "related_to": "Kasimpasa v Gençlerbirligi",
-            "sat": "N/A",
-            "freq": "N/A",
-            "encry": "N/A"
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "link": "#",
-            "related_to": "Kasimpasa v Gençlerbirligi",
-            "sat": "Turksat 3A",
-            "freq": "11.180 H 30000 - 3/4",
-            "encry": "Irdeto"
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 16",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
             "match": "Caykur Rizespor v Eyüpspor",
             "time": "11:30",
             "date": "2025-12-13"
@@ -387,8 +361,80 @@
             "encry": "HD NagraVision"
         },
         {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "link": "https://artmotion.net/tv/",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect Australia 📺",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "beIN Connect Canada 📺",
+            "link": "https://connect-ca.beinsports.com/",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect FRANCE 📺",
+            "link": "https://connect.beinsports.com/france/se-connecter",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "N/A",
+            "freq": "N/A",
+            "encry": "N/A"
+        },
+        {
+            "channel": "beIN Connect Hong Kong 📺",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect Indonesia 📺",
+            "link": "https://connect-id.beinsports.com/id",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
             "channel": "beIN Connect Malaysia 📺",
             "link": "https://connect-my.beinsports.com/en",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect New Zealand 📺",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect Philippines 📺",
+            "link": "https://connect-ph.beinsports.com/en",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Connect Thailand 📺",
+            "link": "https://connect-th.beinsports.com/en",
             "related_to": "Fenerbahçe v Konyaspor",
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
@@ -403,7 +449,39 @@
             "encry": "N/A"
         },
         {
+            "channel": "beIN Connect USA 📺",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "Astra 1M",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+        },
+        {
+            "channel": "beIN Sports HK 3 HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "beIN Sports Indonesia 1 HD",
             "link": "#",
             "related_to": "Fenerbahçe v Konyaspor",
             "sat": "* IPTV/Stream",
@@ -419,12 +497,172 @@
             "encry": "LiveOnSat.com"
         },
         {
+            "channel": "beIN Sports Singapore HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "beIN Sports Thailand 1 HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
             "channel": "beIN Sports Türkiye 1 HD",
             "link": "#",
             "related_to": "Fenerbahçe v Konyaspor",
             "sat": "Turksat 3A",
             "freq": "11.180 H 30000 - 3/4",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "Disney+ Argentina ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Brazil ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Caribbean ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Chile ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Mexico ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Norte ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Disney+ Sur ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "ESPN 2 Norte Latin",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ESPN 3 Sur Latin",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "SES 6",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "ESPN Africa",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "Eutelsat 36C",
+            "freq": "11.429 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra"
+        },
+        {
+            "channel": "ESPN Mexico",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+        },
+        {
+            "channel": "Fanatiz USA ($/geo/R) 📺",
+            "link": "https://fanatiz.com/",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
+        },
+        {
+            "channel": "Fox Sports 1 Chile",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "Telstar 12",
+            "freq": "11.919 H 45000 - 3/4",
+            "encry": "MPEG-4 BetaC"
+        },
+        {
+            "channel": "Fox Sports 2 Argentina HD",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "SES 6",
+            "freq": "4.135 L 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Fox Sports HD Colombia",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "SES 6",
+            "freq": "3.803 R 30000 - 5/6",
+            "encry": "HD PowerVu"
+        },
+        {
+            "channel": "Fubo Sports USA ($/geo/R) 📺",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
+            "channel": "FuboTV Canada ($/geo/R)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "channel": "Sport 2 Israel HD",
@@ -449,6 +687,14 @@
             "sat": "Intelsat 20",
             "freq": "10.970 V 30000 - 5/6",
             "encry": "Irdeto"
+        },
+        {
+            "channel": "ZhiBo8 TV (China)",
+            "link": "#",
+            "related_to": "Fenerbahçe v Konyaspor",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": ""
         },
         {
             "compet": "Türkiye Süper Lig - Week 17",
@@ -1819,6 +2065,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-12 15:25:23",
-    "total_items": 207
+    "last_updated": "2025-12-13 04:29:24",
+    "total_items": 238
 }

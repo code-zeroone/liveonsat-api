@@ -3,88 +3,6 @@
         {
             "compet": "French Ligue 1 - Week 16",
             "flags": {
-                "team1": "france26",
-                "team2": "france"
-            },
-            "match": "Angers v Nantes",
-            "time": "19:45",
-            "date": "2025-12-12"
-        },
-        {
-            "channel": "5 PLUS Israel HD",
-            "link": "#",
-            "related_to": "Angers v Nantes",
-            "sat": "Amos 3",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "Angers v Nantes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": "Angers v Nantes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "Ligue 1+ ($/geo/R) 📺",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": "Angers v Nantes",
-            "sat": "Download APP",
-            "freq": "0.000 0",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "link": "#",
-            "related_to": "Angers v Nantes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "link": "#",
-            "related_to": "Angers v Nantes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": ""
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "link": "#",
-            "related_to": "Angers v Nantes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "link": "#",
-            "related_to": "Angers v Nantes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "link": "#",
-            "related_to": "Angers v Nantes",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-        },
-        {
-            "compet": "French Ligue 1 - Week 16",
-            "flags": {
                 "team1": "france",
                 "team2": "france"
             },
@@ -377,6 +295,14 @@
             "match": "Lyon v Le Havre",
             "time": "14:00",
             "date": "2025-12-14"
+        },
+        {
+            "channel": "5 SPORT Israel HD",
+            "link": "#",
+            "related_to": "Lyon v Le Havre",
+            "sat": "Amos 3",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
         },
         {
             "channel": "beIN Connect Türkiye 📺",
@@ -1355,6 +1281,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-12 15:22:35",
-    "total_items": 160
+    "last_updated": "2025-12-13 04:26:37",
+    "total_items": 151
 }
