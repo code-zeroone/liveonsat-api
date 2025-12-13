@@ -1623,6 +1623,14 @@
             "encry": ""
         },
         {
+            "channel": "WASP TV [$] 📺",
+            "link": "https://www.alloaathletic.co.uk/product-category/wasp-tv/",
+            "related_to": "Alloa Athletic v Queen of the South",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Scottish League 1 - Week 17",
             "flags": {
                 "team1": "scotland",
@@ -1793,6 +1801,14 @@
             "encry": ""
         },
         {
+            "channel": "Greenock Morton TV [$] 📺",
+            "link": "https://www.gmfc.net/sponsors/",
+            "related_to": "Greenock Morton v Airdrieonians",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": ""
+        },
+        {
             "compet": "Israeli Ligat ha'Al (Premier) - Week 14",
             "flags": {
                 "team1": "israel",
@@ -1903,24 +1919,6 @@
             "sat": "* IPTV/Stream",
             "freq": "0.000 0",
             "encry": ""
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 14",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "match": "Nacional Madeira v Tondela",
-            "time": "15:30",
-            "date": "2025-12-13"
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "link": "#",
-            "related_to": "Nacional Madeira v Tondela",
-            "sat": "Hispasat 30W-5",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
         },
         {
             "compet": "Albanian Superliga - Week 16",
@@ -3415,6 +3413,6 @@
             "encry": ""
         }
     ],
-    "last_updated": "2025-12-13 04:24:32",
+    "last_updated": "2025-12-13 15:17:16",
     "total_items": 401
 }
